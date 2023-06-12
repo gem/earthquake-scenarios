@@ -1,0 +1,25 @@
+job_id: 51
+job_description: {20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/New_Zealand/20100904_M7.0_Canterbury/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 2669647399 (total size 551.57 KB)
+Extracting the hazard sites from the site model
+Read N=9891 hazard sites and L=1 hazard levels
+Reading station data from /Users/martina.caruso/Documents/wip/ecd/New_Zealand/20100904_M7.0_Canterbury/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+4 stations filtered away
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 0.234, Nominal bias stddev: 0.058
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.174, Nominal bias stddev: 0.062
+GMM: Bradley2013, IMT: PGA, Nominal bias mean: 0.513, Nominal bias stddev: 0.052
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.209, Nominal bias stddev: 0.055
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.101, Nominal bias stddev: 0.056
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.13 MB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 432 seconds from event_based
+Stored 579.44 KB of GMFs
+Exposing the outputs to the database
+Stored 1.51 MB on /Users/martina.caruso/oqdata/calc_51.hdf5 in 433 seconds

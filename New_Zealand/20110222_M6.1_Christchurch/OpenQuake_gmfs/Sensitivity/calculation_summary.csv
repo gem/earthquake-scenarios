@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+69,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",73, Seismic, GEM, GFZ,McVerry2006Asc,PGA,1.6306,-0.026,0.055,0.026
+66,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",368, Seismic, USGS, GFZ,CampbellBozorgnia2014,PGA,1.6306,0.03,0.057,0.03
+66,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",368, Seismic, USGS, GFZ,BooreEtAl2014,PGA,1.6306,-0.036,0.065,0.036
+64,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",368, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,1.6306,0.052,0.056,0.052
+68,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",73, Seismic, GEM, GCMT,McVerry2006Asc,PGA,1.6306,0.064,0.058,0.064
+65,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",368, Seismic, USGS, GCMT,BooreEtAl2014,PGA,1.6306,0.068,0.065,0.068
+65,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",368, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,1.6306,0.078,0.056,0.078
+66,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",368, Seismic, USGS, GFZ,ChiouYoungs2014,PGA,1.6306,0.079,0.061,0.079
+64,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",368, Seismic, USGS, USGS,BooreEtAl2014,PGA,1.6306,-0.098,0.065,0.098
+67,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",73, Seismic, GEM, USGS,McVerry2006Asc,PGA,1.6306,-0.101,0.055,0.101
+66,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",368, Seismic, USGS, GFZ,AbrahamsonEtAl2014,PGA,1.6306,0.156,0.06,0.156
+64,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",368, Seismic, USGS, USGS,ChiouYoungs2014,PGA,1.6306,0.182,0.06,0.182
+66,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",368, Seismic, USGS, GFZ,Bradley2013,PGA,1.6306,0.227,0.059,0.227
+65,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",368, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,1.6306,0.245,0.063,0.245
+65,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",368, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,1.6306,0.247,0.06,0.247
+65,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",368, Seismic, USGS, GCMT,Bradley2013,PGA,1.6306,0.309,0.061,0.309
+64,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",368, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,1.6306,0.364,0.06,0.364
+64,"{20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",368, Seismic, USGS, USGS,Bradley2013,PGA,1.6306,0.417,0.059,0.417
+59,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.33249682,,,
+59,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,BooreEtAl2014,PGA,0.47612527,,,
+59,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,Bradley2013,PGA,0.37313622,,,
+59,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.3137774,,,
+59,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,ChiouYoungs2014,PGA,0.32506794,,,
+58,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.55177444,,,
+58,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,BooreEtAl2014,PGA,0.48747364,,,
+58,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,Bradley2013,PGA,0.70881075,,,
+58,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.6160753,,,
+58,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,ChiouYoungs2014,PGA,0.63448024,,,
+63,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",0, None, GEM, GFZ,McVerry2006Asc,PGA,0.36676434,,,
+62,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,McVerry2006Asc,PGA,0.29970765,,,
+60,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",1, None, USGS, GFZ,AbrahamsonEtAl2014,PGA,0.4250895,,,
+60,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",1, None, USGS, GFZ,BooreEtAl2014,PGA,0.45714185,,,
+60,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",1, None, USGS, GFZ,Bradley2013,PGA,0.4442583,,,
+60,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",1, None, USGS, GFZ,CampbellBozorgnia2014,PGA,0.4272437,,,
+60,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",1, None, USGS, GFZ,ChiouYoungs2014,PGA,0.3815718,,,
+61,"{20110222_M6.1_Christchurch} median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,McVerry2006Asc,PGA,0.56378204,,,

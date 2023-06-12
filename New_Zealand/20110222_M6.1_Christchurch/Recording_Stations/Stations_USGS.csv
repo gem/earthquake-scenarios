@@ -1,0 +1,132 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+OXZ,Oxford,172.0381,-43.3275,seismic,315.75,4.7,0.63,0.0,0.056,0.0,4.18,0.0,0.0977,0.0,0.0546,0.0,0.0066,inferred,Stations_USGS
+DORC,Dorie,172.0936,-43.8983,seismic,259.59,4.3,0.63,0.0,0.0463,0.0,3.07,0.0,0.0877,0.0,0.0482,0.0,0.011,inferred,Stations_USGS
+DKHS,Dunedin Kings High School,170.4928,-45.9039,seismic,760.0,3.6,0.63,0.0,0.0134,0.0,0.97,0.0,0.0381,0.0,0.0092,0.0,0.0022,inferred,Stations_USGS
+PEEC,Peel Forest,171.2367,-43.9236,seismic,545.55,4.1,0.63,0.0,0.0371,0.0,2.11,0.0,0.0669,0.0,0.0249,0.0,0.0041,inferred,Stations_USGS
+DSLC,Dunsandel School,172.1978,-43.6692,seismic,255.14,4.9,0.63,0.0,0.0676,0.0,4.97,0.0,0.1676,0.0,0.0486,0.0,0.0129,inferred,Stations_USGS
+CSHS,Castle Hill Station,171.7233,-43.2283,seismic,573.46,4.2,0.63,0.0,0.048,0.0,2.48,0.0,0.1181,0.0,0.0467,0.0,0.0067,inferred,Stations_USGS
+EAZ,Earnscleugh,169.3081,-45.2328,seismic,760.0,2.4,0.63,0.0,0.002,0.0,0.16,0.0,0.0042,0.0,0.0023,0.0,0.0008,inferred,Stations_USGS
+PPHS,Christchurch Papanui High School,172.6067,-43.4944,seismic,242.18,7.9,0.63,0.0,0.2161,0.0,33.14,0.0,0.5407,0.0,0.3642,0.0,0.0916,inferred,Stations_USGS
+KARS,Karamea School,172.1164,-41.2511,seismic,760.0,3.8,0.63,0.0,0.0054,0.0,1.44,0.0,0.0068,0.0,0.0092,0.0,0.0049,inferred,Stations_USGS
+URZ,"Urewera, North Island, New Zealand",177.11069,-38.26102,seismic,760.0,1.0,0.63,0.0,3e-05,0.0,0.0158,0.0,7e-05,0.0,7.8e-05,0.0,0.000104,inferred,Stations_USGS
+DCZ,Deep Cove,167.15349,-45.46634,seismic,760.0,2.1,0.63,0.0,0.000391,0.0,0.0702,0.0,0.000535,0.0,0.001047,0.0,0.000299,inferred,Stations_USGS
+CHHC,Christchurch Hospital,172.6272,-43.5375,seismic,213.39,8.4,0.63,0.0,0.3607,0.0,66.07,0.0,1.1101,0.0,0.7661,0.0,0.3432,inferred,Stations_USGS
+OAMS,Oamaru North Otago Museum,170.9692,-45.1014,seismic,760.0,3.4,0.63,0.0,0.0077,0.0,0.72,0.0,0.0169,0.0,0.0094,0.0,0.0026,inferred,Stations_USGS
+APPS,Arthurs Pass Police Station,171.5675,-42.9506,seismic,601.88,3.9,0.63,0.0,0.0181,0.0,1.74,0.0,0.0587,0.0,0.0201,0.0,0.0018,inferred,Stations_USGS
+DFHS,Darfield High School,172.1019,-43.4914,seismic,282.75,4.9,0.63,0.0,0.0643,0.0,5.08,0.0,0.2427,0.0,0.0477,0.0,0.0117,inferred,Stations_USGS
+LPLS,Lake Paringa Heritage Lodge,169.4231,-43.7164,seismic,760.0,3.0,0.63,0.0,0.0032,0.0,0.28,0.0,0.0041,0.0,0.0067,0.0,0.0009,inferred,Stations_USGS
+IFPS,Inchbonnie Fitzsimmons Farm,171.4728,-42.7283,seismic,455.36,3.7,0.63,0.0,0.0103,0.0,1.25,0.0,0.0166,0.0,0.0278,0.0,0.0033,inferred,Stations_USGS
+BDCS,Balclutha District Council,169.7192,-46.2506,seismic,760.0,2.5,0.63,0.0,0.0028,0.0,0.18,0.0,0.0026,0.0,0.0019,0.0,0.0007,inferred,Stations_USGS
+REHS,Christchurch Resthaven,172.635,-43.5236,seismic,228.52,8.8,0.63,0.0,0.7134,0.0,86.56,0.0,0.9337,0.0,1.6646,0.0,0.4541,inferred,Stations_USGS
+KOWC,Kowai,171.8547,-43.3231,seismic,390.39,5.4,0.63,0.0,0.0882,0.0,7.43,0.0,0.2427,0.0,0.1228,0.0,0.0055,inferred,Stations_USGS
+PGMS,Petone Municipal Building,174.8792,-41.2261,seismic,760.0,2.5,0.63,0.0,0.0014,0.0,0.18,0.0,0.0037,0.0,0.0021,0.0,0.0005,inferred,Stations_USGS
+LHES,Lower Hutt Emergency Management Office,174.9031,-41.2133,seismic,760.0,2.2,0.63,0.0,0.0013,0.0,0.11,0.0,0.0032,0.0,0.0018,0.0,0.0002,inferred,Stations_USGS
+CACS,Christchurch Canterbury Aero Club,172.53,-43.4847,seismic,259.29,6.7,0.63,0.0,0.2176,0.0,18.12,0.0,0.5814,0.0,0.1403,0.0,0.0919,inferred,Stations_USGS
+TEPS,Wellington Te Papa Museum,174.7811,-41.2939,seismic,760.0,2.3,0.63,0.0,0.0007,0.0,0.11,0.0,0.0013,0.0,0.0022,0.0,0.0001,inferred,Stations_USGS
+HPSC,Hulverstone Drive Pumping Station,172.7019,-43.5033,seismic,203.7,7.6,0.63,0.0,0.2372,0.0,35.51,0.0,0.3228,0.0,0.5065,0.0,0.1444,inferred,Stations_USGS
+GMTS,Greymouth Telecom,171.2103,-42.4508,seismic,481.47,3.3,0.63,0.0,0.0078,0.0,0.62,0.0,0.035,0.0,0.0045,0.0,0.0027,inferred,Stations_USGS
+ASHS,Ashley School,172.5958,-43.2761,seismic,297.0,5.3,0.63,0.0,0.0887,0.0,6.87,0.0,0.268,0.0,0.0405,0.0,0.0268,inferred,Stations_USGS
+GORS,Gore District Council,168.9417,-46.1042,seismic,760.0,3.2,0.63,0.0,0.0054,0.0,0.58,0.0,0.009,0.0,0.0098,0.0,0.0008,inferred,Stations_USGS
+SWNC,Swannanoa School,172.4953,-43.3711,seismic,269.62,6.3,0.63,0.0,0.2008,0.0,13.29,0.0,0.722,0.0,0.0685,0.0,0.031,inferred,Stations_USGS
+MOLS,Molesworth Station,173.2572,-42.0897,seismic,458.94,2.7,0.63,0.0,0.0028,0.0,0.15,0.0,0.01,0.0,0.0017,0.0,0.0004,inferred,Stations_USGS
+MLZ,Mavora Lakes,168.11835,-45.36817,seismic,760.0,2.3,0.63,0.0,0.000675,0.0,0.1396,0.0,0.001188,0.0,0.002575,0.0,0.00092,inferred,Stations_USGS
+FDCS,Fairlie District Council Garage,170.8286,-44.1019,seismic,336.11,4.1,0.63,0.0,0.0196,0.0,2.27,0.0,0.0368,0.0,0.0269,0.0,0.0085,inferred,Stations_USGS
+TPLC,Templeton School,172.4719,-43.5517,seismic,253.22,5.9,0.63,0.0,0.1203,0.0,10.64,0.0,0.3876,0.0,0.1163,0.0,0.037,inferred,Stations_USGS
+ODZ,Otahua Downs,170.6444,-45.0456,seismic,760.0,3.0,0.63,0.0,0.005,0.0,0.39,0.0,0.015,0.0,0.0046,0.0,0.0007,inferred,Stations_USGS
+DUNS,Dunedin Corstorphine Substation,170.4706,-45.9067,seismic,760.0,2.9,0.63,0.0,0.0056,0.0,0.32,0.0,0.0126,0.0,0.0056,0.0,0.0012,inferred,Stations_USGS
+RHSC,Riccarton High School,172.5642,-43.5378,seismic,233.43,7.4,0.63,0.0,0.2933,0.0,30.01,0.0,0.784,0.0,0.273,0.0,0.1285,inferred,Stations_USGS
+WAKC,Waikari,172.705,-42.9647,seismic,402.66,4.9,0.63,0.0,0.0834,0.0,4.82,0.0,0.2186,0.0,0.0684,0.0,0.0085,inferred,Stations_USGS
+WIGC,Waiau Gorge,172.8003,-42.7028,seismic,361.88,3.9,0.63,0.0,0.0142,0.0,1.6,0.0,0.0341,0.0,0.0225,0.0,0.0028,inferred,Stations_USGS
+TWAS,Twizel Area School,170.0983,-44.2561,seismic,760.0,3.4,0.63,0.0,0.0057,0.0,0.78,0.0,0.0102,0.0,0.0098,0.0,0.002,inferred,Stations_USGS
+SMTC,Styx Mill Transfer Station,172.6136,-43.4692,seismic,227.38,7.3,0.63,0.0,0.1802,0.0,28.67,0.0,0.5762,0.0,0.4402,0.0,0.087,inferred,Stations_USGS
+FJDS,Franz Josef DOC,170.1842,-43.3908,seismic,760.0,3.4,0.63,0.0,0.0041,0.0,0.79,0.0,0.0107,0.0,0.0087,0.0,0.0023,inferred,Stations_USGS
+NELS,Nelson Hospital,173.2742,-41.2894,seismic,760.0,3.0,0.63,0.0,0.0021,0.0,0.39,0.0,0.0051,0.0,0.005,0.0,0.0014,inferred,Stations_USGS
+WEMS,Wellington Emergency Management Office,174.7794,-41.2764,seismic,760.0,2.2,0.63,0.0,0.0008,0.0,0.1,0.0,0.002,0.0,0.0018,0.0,0.0004,inferred,Stations_USGS
+KHZ,Kahutara,173.5408,-42.4161,seismic,487.3,2.8,0.63,0.0,0.0018,0.0,0.3,0.0,0.0026,0.0,0.0032,0.0,0.0009,inferred,Stations_USGS
+SOCS,Lower Hutt St Orans College,174.9158,-41.2061,seismic,760.0,2.2,0.63,0.0,0.0013,0.0,0.11,0.0,0.0043,0.0,0.0012,0.0,0.0003,inferred,Stations_USGS
+SNZO,"South Karori, New Zealand",174.7043,-41.3087,seismic,760.0,1.9,0.63,0.0,0.000427,0.0,0.0623,0.0,0.000712,0.0,0.000691,0.0,0.000328,inferred,Stations_USGS
+SHLC,Shirley Library,172.6633,-43.5069,seismic,215.69,8.5,0.63,0.0,0.3416,0.0,69.58,0.0,0.8891,0.0,0.7756,0.0,0.3985,inferred,Stations_USGS
+QTPS,Queenstown Police Station,168.6628,-45.0339,seismic,760.0,3.4,0.63,0.0,0.0068,0.0,0.79,0.0,0.0167,0.0,0.0149,0.0,0.0018,inferred,Stations_USGS
+BFZ,Stasrv: unknown station,176.24606,-40.68137,seismic,760.0,1.5,0.63,0.0,0.000141,0.0,0.0367,0.0,0.000421,0.0,0.000193,0.0,0.000174,inferred,Stations_USGS
+AMBC,Amberley HDC,172.7308,-43.1564,seismic,277.72,4.2,0.63,0.0,0.0322,0.0,2.71,0.0,0.0632,0.0,0.0248,0.0,0.0116,inferred,Stations_USGS
+SKFS,Dunedin St Kilda Fire Station,170.5097,-45.9003,seismic,760.0,3.9,0.63,0.0,0.0165,0.0,1.58,0.0,0.0332,0.0,0.0334,0.0,0.0032,inferred,Stations_USGS
+HIZ,Stasrv: unknown station,174.85551,-38.5147,seismic,760.0,1.4,0.63,0.0,0.000143,0.0,0.041,0.0,0.000424,0.0,0.000282,0.0,0.000219,inferred,Stations_USGS
+INGS,Inangahua Fire Station,171.9525,-41.8589,seismic,760.0,3.2,0.63,0.0,0.0052,0.0,0.53,0.0,0.0121,0.0,0.0067,0.0,0.0027,inferred,Stations_USGS
+KIKS,Kaikoura,173.6819,-42.4275,seismic,464.03,3.2,0.63,0.0,0.0028,0.0,0.34,0.0,0.0092,0.0,0.0066,0.0,0.001,inferred,Stations_USGS
+MAYC,Mayfield School,171.4217,-43.8247,seismic,303.93,3.9,0.63,0.0,0.0214,0.0,1.73,0.0,0.0403,0.0,0.0148,0.0,0.0064,inferred,Stations_USGS
+SLRC,Selwyn Lake Road,172.3175,-43.6767,seismic,248.79,5.5,0.63,0.0,0.102,0.0,7.97,0.0,0.3695,0.0,0.1189,0.0,0.0204,inferred,Stations_USGS
+WEL,Wellington,174.7681,-41.2858,seismic,760.0,2.0,0.63,0.0,0.0009,0.0,0.07,0.0,0.0024,0.0,0.001,0.0,0.0003,inferred,Stations_USGS
+WTMC,Te Mara Farm Waiau,173.0533,-42.6211,seismic,320.67,3.9,0.63,0.0,0.0114,0.0,1.16,0.0,0.0252,0.0,0.0145,0.0,0.0041,inferred,Stations_USGS
+SYZ,Scrubby Hill,169.1389,-46.5386,seismic,760.0,2.6,0.63,0.0,0.0011,0.0,0.21,0.0,0.0018,0.0,0.0024,0.0,0.0005,inferred,Stations_USGS
+FOZ,Fox Glacier,169.8153,-43.5339,seismic,760.0,2.9,0.63,0.0,0.0015,0.0,0.28,0.0,0.0034,0.0,0.0034,0.0,0.002,inferred,Stations_USGS
+RPZ,"Rata Peaks, South Island, New Zealand",171.05376,-43.71627,seismic,900.0,3.0,0.63,0.0,0.005006,0.0,0.349,0.0,0.010337,0.0,0.004434,0.0,0.001902,inferred,Stations_USGS
+WNPS,Wanaka National Park Headquarters,169.1428,-44.6961,seismic,760.0,3.9,0.63,0.0,0.0058,0.0,1.42,0.0,0.0078,0.0,0.0222,0.0,0.0058,inferred,Stations_USGS
+TMBS,Taieri Mouth Beach School,170.1956,-46.0733,seismic,760.0,2.9,0.63,0.0,0.0051,0.0,0.31,0.0,0.0183,0.0,0.0018,0.0,0.0004,inferred,Stations_USGS
+SBRC,Southbridge School,172.2522,-43.8103,seismic,236.27,4.7,0.63,0.0,0.0701,0.0,4.29,0.0,0.1969,0.0,0.0503,0.0,0.0131,inferred,Stations_USGS
+WSFC,Westerfield,171.6108,-43.8389,seismic,283.71,4.2,0.63,0.0,0.0203,0.0,2.61,0.0,0.0765,0.0,0.0342,0.0,0.0083,inferred,Stations_USGS
+QRZ,Quartz Range,172.5289,-40.8272,seismic,760.0,2.2,0.63,0.0,0.0006,0.0,0.11,0.0,0.0015,0.0,0.0013,0.0,0.0007,inferred,Stations_USGS
+SJFS,Springs Junction Fire Station,172.1803,-42.3364,seismic,340.19,3.2,0.63,0.0,0.0057,0.0,0.58,0.0,0.018,0.0,0.0104,0.0,0.0021,inferred,Stations_USGS
+HDWS,Haast DOC Workshop,169.0442,-43.8847,seismic,760.0,3.2,0.63,0.0,0.0029,0.0,0.29,0.0,0.0056,0.0,0.0035,0.0,0.0012,inferred,Stations_USGS
+CCCC,Christchurch Cathedral College,172.6472,-43.5397,seismic,223.04,8.5,0.63,0.0,0.4831,0.0,71.38,0.0,0.7889,0.0,0.7717,0.0,0.3687,inferred,Stations_USGS
+HORC,Hororata School,171.9597,-43.5414,seismic,269.38,4.4,0.63,0.0,0.0635,0.0,3.45,0.0,0.1666,0.0,0.0251,0.0,0.0051,inferred,Stations_USGS
+LSRC,Lake Sumner Road,172.5431,-42.8711,seismic,415.8,4.6,0.63,0.0,0.0367,0.0,3.3,0.0,0.1141,0.0,0.0278,0.0,0.0074,inferred,Stations_USGS
+WHZ,Wether Hill Road,167.94698,-45.89404,seismic,760.0,2.3,0.63,0.0,0.00067,0.0,0.1175,0.0,0.001176,0.0,0.001267,0.0,0.000927,inferred,Stations_USGS
+DCDS,Dunedin Civil Defence,170.5019,-45.8758,seismic,760.0,3.0,0.63,0.0,0.0035,0.0,0.41,0.0,0.0068,0.0,0.0069,0.0,0.0006,inferred,Stations_USGS
+TAFS,Te Anau Fire Station,167.7192,-45.4183,seismic,760.0,null,null,0.0,0.0031,0.0,1.2,0.0,0.0036,0.0,0.006,0.0,0.0079,inferred,Stations_USGS
+HMCS,Hokitika Medical Centre,170.9639,-42.7186,seismic,323.07,3.5,0.63,0.0,0.01,0.0,0.88,0.0,0.0085,0.0,0.0079,0.0,0.0058,inferred,Stations_USGS
+TUZ,Tuapeka,169.6311,-45.9556,seismic,760.0,2.8,0.63,0.0,0.0021,0.0,0.28,0.0,0.0081,0.0,0.0039,0.0,0.0008,inferred,Stations_USGS
+HAFS,Harihari Fire Station,170.5558,-43.1506,seismic,760.0,3.5,0.63,0.0,0.0067,0.0,0.92,0.0,0.0124,0.0,0.0177,0.0,0.0035,inferred,Stations_USGS
+PYZ,Puysegur Point,166.68066,-46.16786,seismic,760.0,2.0,0.63,0.0,0.000443,0.0,0.0772,0.0,0.001015,0.0,0.001073,0.0,0.000446,inferred,Stations_USGS
+ARKS,Wainuiomata Arakura School,174.9439,-41.2439,seismic,760.0,2.0,0.63,0.0,0.0012,0.0,0.07,0.0,0.0042,0.0,0.0009,0.0,0.0001,inferred,Stations_USGS
+CSTC,Cust School,172.3811,-43.3139,seismic,228.58,5.3,0.63,0.0,0.0788,0.0,6.75,0.0,0.1969,0.0,0.0856,0.0,0.0271,inferred,Stations_USGS
+WVAS,Waitaha Valley,170.7369,-43.0733,seismic,383.42,3.2,0.63,0.0,0.0062,0.0,0.55,0.0,0.012,0.0,0.0062,0.0,0.0015,inferred,Stations_USGS
+MSZ,Milford Sound,167.9264,-44.675,seismic,760.0,2.2,0.63,0.0,0.0007,0.0,0.08,0.0,0.0017,0.0,0.0019,0.0,0.0004,inferred,Stations_USGS
+HVSC,Heathcote Valley Primary School,172.7092,-43.5811,seismic,773.13,9.0,0.63,0.0,1.4544,0.0,97.26,0.0,3.5994,0.0,0.9805,0.0,0.1174,inferred,Stations_USGS
+CECS,Cheviot Emergency Centre,173.2747,-42.8153,seismic,310.61,4.1,0.63,0.0,0.0216,0.0,2.35,0.0,0.059,0.0,0.0354,0.0,0.0044,inferred,Stations_USGS
+LTZ,Lake Taylor Station,172.2708,-42.7833,seismic,875.92,4.1,0.63,0.0,0.0247,0.0,2.31,0.0,0.0418,0.0,0.0242,0.0,0.0031,inferred,Stations_USGS
+KOKS,Kokatahi,171.1356,-42.8933,seismic,345.49,3.7,0.63,0.0,0.0088,0.0,1.16,0.0,0.0187,0.0,0.0197,0.0,0.0032,inferred,Stations_USGS
+RKAC,Rakaia School,172.0231,-43.7531,seismic,268.35,4.1,0.63,0.0,0.0356,0.0,2.11,0.0,0.089,0.0,0.0256,0.0,0.0106,inferred,Stations_USGS
+WKZ,Wanaka,169.0175,-44.8286,seismic,760.0,2.8,0.63,0.0,0.0016,0.0,0.23,0.0,0.003,0.0,0.0029,0.0,0.0016,inferred,Stations_USGS
+WVFS,Wairau Valley Farm,173.3508,-41.6219,seismic,760.0,2.8,0.63,0.0,0.0021,0.0,0.31,0.0,0.0061,0.0,0.0021,0.0,0.0005,inferred,Stations_USGS
+ADCS,Ashburton District Council,171.7475,-43.9042,seismic,277.24,4.7,0.63,0.0,0.0706,0.0,4.24,0.0,0.1852,0.0,0.0258,0.0,0.006,inferred,Stations_USGS
+KPOC,Kaiapoi North School,172.6636,-43.3781,seismic,223.98,6.8,0.63,0.0,0.2123,0.0,14.69,0.0,0.5549,0.0,0.1805,0.0,0.0332,inferred,Stations_USGS
+CBGS,Christchurch Botanic Gardens,172.6197,-43.5311,seismic,199.51,8.4,0.63,0.0,0.5291,0.0,63.23,0.0,1.2232,0.0,0.7881,0.0,0.3739,inferred,Stations_USGS
+BKZ,Stasrv: unknown station,176.49235,-39.16742,seismic,760.0,1.1,0.63,0.0,8.6e-05,0.0,0.0293,0.0,0.000174,0.0,0.000153,0.0,0.000139,inferred,Stations_USGS
+GLWS,Glyn Wye,172.5108,-42.5958,seismic,573.57,4.0,0.63,0.0,0.0232,0.0,1.79,0.0,0.0603,0.0,0.0369,0.0,0.0048,inferred,Stations_USGS
+MQZ,McQueen's Valley,172.6536,-43.7078,seismic,463.16,5.4,0.63,0.0,0.1473,0.0,7.0,0.0,0.2844,0.0,0.0883,0.0,0.0124,inferred,Stations_USGS
+PRPC,Pages Road Pumping Station,172.6828,-43.5275,seismic,226.31,8.7,0.63,0.0,0.6644,0.0,82.23,0.0,1.0214,0.0,0.5304,0.0,0.1848,inferred,Stations_USGS
+SCAC,Scargill,172.9214,-42.9403,seismic,411.97,4.6,0.63,0.0,0.0533,0.0,3.9,0.0,0.1878,0.0,0.0503,0.0,0.0057,inferred,Stations_USGS
+SHFC,Sheffield School,172.0256,-43.3928,seismic,287.53,5.0,0.63,0.0,0.068,0.0,3.36,0.0,0.1393,0.0,0.0553,0.0,0.013,inferred,Stations_USGS
+THZ,Top House,172.90508,-41.76418,seismic,760.0,2.6,0.63,0.0,0.001454,0.0,0.23,0.0,0.003592,0.0,0.003578,0.0,0.000874,inferred,Stations_USGS
+MCAS,Murchison Area School,172.3278,-41.8017,seismic,760.0,3.7,0.63,0.0,0.009,0.0,0.87,0.0,0.0231,0.0,0.0124,0.0,0.0047,inferred,Stations_USGS
+LPCC,Lyttelton Port Company,172.7247,-43.6094,seismic,600.0,7.8,0.63,0.0,0.8789,0.0,41.52,0.0,1.1437,0.0,0.4009,0.0,0.0899,inferred,Stations_USGS
+TSFS,Takaka Scott's Farm,172.8208,-40.8511,seismic,760.0,2.9,0.63,0.0,0.0022,0.0,0.33,0.0,0.0107,0.0,0.0022,0.0,0.0007,inferred,Stations_USGS
+FGPS,Fox Glacier Park Board Headquarters,170.0197,-43.465,seismic,760.0,3.5,0.63,0.0,0.005,0.0,0.85,0.0,0.0093,0.0,0.0067,0.0,0.0042,inferred,Stations_USGS
+NNZ,Nelson,173.3794,-41.2189,seismic,760.0,2.3,0.63,0.0,0.0006,0.0,0.13,0.0,0.0009,0.0,0.0011,0.0,0.0008,inferred,Stations_USGS
+ROLC,Rolleston School,172.3808,-43.5944,seismic,265.52,5.6,0.63,0.0,0.1914,0.0,8.31,0.0,0.3311,0.0,0.0745,0.0,0.021,inferred,Stations_USGS
+MISS,Wellington Miramar School,174.8183,-41.3167,seismic,760.0,2.3,0.63,0.0,0.001,0.0,0.14,0.0,0.0019,0.0,0.003,0.0,0.0003,inferred,Stations_USGS
+SPFS,Springfield Fire Station,171.9289,-43.3397,seismic,409.26,5.2,0.63,0.0,0.0817,0.0,6.41,0.0,0.1555,0.0,0.0909,0.0,0.005,inferred,Stations_USGS
+RDCS,Reefton DOC Centre,171.8642,-42.1217,seismic,671.92,3.0,0.63,0.0,0.0058,0.0,0.4,0.0,0.0147,0.0,0.0051,0.0,0.0023,inferred,Stations_USGS
+DSZ,Denniston North,171.8044,-41.7467,seismic,760.0,2.9,0.63,0.0,0.0027,0.0,0.3,0.0,0.0066,0.0,0.0052,0.0,0.001,inferred,Stations_USGS
+HSES,Hanmer Springs Emergency Centre,172.8303,-42.525,seismic,438.13,3.9,0.63,0.0,0.0157,0.0,1.71,0.0,0.0316,0.0,0.0237,0.0,0.0018,inferred,Stations_USGS
+CMHS,Christchurch Cashmere High School,172.6242,-43.5672,seismic,387.57,7.9,0.63,0.0,0.3965,0.0,46.04,0.0,0.7938,0.0,0.9363,0.0,0.1291,inferred,Stations_USGS
+LINC,Lincoln Crop and Food Research,172.4678,-43.6247,seismic,246.48,6.5,0.63,0.0,0.1597,0.0,15.68,0.0,0.2405,0.0,0.2374,0.0,0.0601,inferred,Stations_USGS
+LTZ2,Lake Taylor Station,172.27091,-42.78335,seismic,784.21,3.8,0.63,0.0,0.075771,0.0,1.3682,0.0,0.030617,0.0,0.013338,0.0,0.003688,inferred,Stations_USGS
+TRCS,Timaru Roncalli College,171.2444,-44.4044,seismic,322.02,3.9,0.63,0.0,0.0284,0.0,1.67,0.0,0.0417,0.0,0.019,0.0,0.0038,inferred,Stations_USGS
+TFSS,Wellington Thorndon Fire Station,174.7828,-41.2772,seismic,760.0,2.3,0.63,0.0,0.0011,0.0,0.09,0.0,0.003,0.0,0.0012,0.0,0.0004,inferred,Stations_USGS
+WBCS,Westport Buller District Council,171.5997,-41.7575,seismic,760.0,3.7,0.63,0.0,0.0056,0.0,0.84,0.0,0.0116,0.0,0.0143,0.0,0.0038,inferred,Stations_USGS
+DGNS,Dunedin GNS,170.5139,-45.8642,seismic,760.0,3.0,0.63,0.0,0.0027,0.0,0.22,0.0,0.0064,0.0,0.0038,0.0,0.0009,inferred,Stations_USGS
+LBZ,Lake Benmore,170.1844,-44.3872,seismic,760.0,3.0,0.63,0.0,0.0025,0.0,0.31,0.0,0.0051,0.0,0.0045,0.0,0.0011,inferred,Stations_USGS
+OBS_4,Lyttelton::Canterbury::New Zealand 4 responses 5 km (Intensity VII),172.72,-43.6,macroseismic,787.88,7.2,0.3,0.8059,0.43376,0.875,26.7044,1.0131,0.722059,1.0822,0.262018,1.4737,0.052436,inferred,Stations_USGS
+OBS_5,Queenstown::Otago::New Zealand 4 responses 362 km (Intensity IV),168.64,-45.04,macroseismic,760.0,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_8,Dunedin::Otago::New Zealand 22 responses 310 km (Intensity III),170.48,-45.88,macroseismic,760.0,2.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_6,Rangiora::Canterbury::New Zealand 5 responses 32 km (Intensity V),172.57,-43.31,macroseismic,270.7,5.3,0.3,0.8059,0.100708,0.875,6.6883,1.0131,0.216869,1.0822,0.068726,1.4737,0.014835,inferred,Stations_USGS
+OBS_7,Wellington::Wellington::New Zealand 14 responses 307 km (Intensity II),174.78,-41.28,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_1,Burnham::Canterbury::New Zealand 3 responses 31 km (Intensity VI),172.32,-43.62,macroseismic,276.14,5.9,0.3,0.8059,0.145033,0.875,10.3559,1.0131,0.301402,1.0822,0.111255,1.4737,0.023616,inferred,Stations_USGS
+OBS_2,Nelson::Nelson::New Zealand 3 responses 258 km (Intensity III),173.24,-41.29,macroseismic,760.0,2.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_9,Christchurch::Canterbury::New Zealand 111 responses 9 km (Intensity VII),172.64,-43.53,macroseismic,239.47,7.4,0.3,0.8059,0.491252,0.875,30.8939,1.0131,0.807015,1.0822,0.307112,1.4737,0.061104,inferred,Stations_USGS
+OBS_3,Wanaka::Otago::New Zealand 3 responses 310 km (Intensity III),169.15,-44.7,macroseismic,760.0,3.3,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 062 520 10000),,172.541,-43.2974,macroseismic,268.34,5.4,0.3,0.8059,0.104688,0.875,7.1939,1.0131,0.22646,1.0822,0.075483,1.4737,0.016275,inferred,Stations_USGS
+UTM:(59G 063 517 10000),,172.6716,-43.5657,macroseismic,634.81,7.7,0.3,0.8059,0.592086,0.875,38.4424,1.0131,0.953554,1.0822,0.389713,1.4737,0.076867,inferred,Stations_USGS
+UTM:(59G 068 542 10000),,173.2099,-41.3053,macroseismic,760.0,2.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 081 542 10000),,174.7602,-41.265,macroseismic,760.0,2.4,0.3,,,,,,,,,,,inferred,Stations_USGS

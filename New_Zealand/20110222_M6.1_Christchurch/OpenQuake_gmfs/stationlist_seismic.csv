@@ -1,0 +1,166 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+HVSC,HVSC,172.709,-43.58,seismic,1.6306,0.0
+LPCC,LPCC,172.725,-43.608,seismic,0.97232,0.0
+NNBS,NNBS,172.718,-43.495,seismic,0.85559,0.0
+REHS,REHS,172.635,-43.522,seismic,0.71889,0.0
+PRPC,PRPC,172.683,-43.526,seismic,0.64828,0.0
+CCCC,CCCC,172.647,-43.538,seismic,0.48806,0.0
+CHHC,CHHC,172.628,-43.536,seismic,0.38521,0.0
+SHLC,SHLC,172.663,-43.505,seismic,0.37491,0.0
+LPOC,LPOC,172.715,-43.608,seismic,0.34615,0.0
+RHSC,RHSC,172.564,-43.536,seismic,0.29759,0.0
+HPSC,HPSC,172.702,-43.502,seismic,0.25809,0.0
+CACS,CACS,172.53,-43.483,seismic,0.23461,0.0
+KPOC,KPOC,172.664,-43.376,seismic,0.22078,0.0
+SWNC,SWNC,172.495,-43.369,seismic,0.20796,0.0
+ROLC,ROLC,172.381,-43.593,seismic,0.19401,0.0
+SMTC,SMTC,172.614,-43.468,seismic,0.18289,0.0
+LINC,LINC,172.468,-43.623,seismic,0.1588,0.0
+MQZ,MQZ,172.654,-43.706,seismic,0.14851,0.0
+TPLC,TPLC,172.472,-43.55,seismic,0.12791,0.0
+SLRC,SLRC,172.318,-43.675,seismic,0.10502,0.0
+KOWC,KOWC,171.855,-43.321,seismic,0.08761,0.0
+CSTC,CSTC,172.381,-43.312,seismic,0.08292,0.0
+WAKC,WAKC,172.705,-42.963,seismic,0.08264,0.0
+SPFS,SPFS,171.929,-43.338,seismic,0.08258,0.0
+ADCS,ADCS,171.748,-43.902,seismic,0.07039,0.0
+SHFC,SHFC,172.026,-43.391,seismic,0.06855,0.0
+DFHS,DFHS,172.102,-43.49,seismic,0.06758,0.0
+SCAC,SCAC,172.922,-42.939,seismic,0.05314,0.0
+CSHS,CSHS,171.724,-43.227,seismic,0.04839,0.0
+LSRC,LSRC,172.543,-42.87,seismic,0.03751,0.0
+AMBC,AMBC,172.731,-43.155,seismic,0.03278,0.0
+TRCS,TRCS,171.244,-44.403,seismic,0.02883,0.0
+LTZ,LTZ,172.271,-42.782,seismic,0.02524,0.0
+GLWS,GLWS,172.511,-42.594,seismic,0.02369,0.0
+CECS,CECS,173.275,-42.813,seismic,0.0226,0.0
+FDCS,FDCS,170.829,-44.099,seismic,0.01856,0.0
+APPS,APPS,171.568,-42.949,seismic,0.01819,0.0
+HSES,HSES,172.83,-42.523,seismic,0.01614,0.0
+WTMC,WTMC,173.054,-42.619,seismic,0.01155,0.0
+IFPS,IFPS,171.473,-42.727,seismic,0.01048,0.0
+RPZ,RPZ,171.054,-43.715,seismic,0.00731,0.0
+FGPS,FGPS,170.02,-43.463,seismic,0.00471,0.0
+LBZ,LBZ,170.184,-44.386,seismic,0.00259,0.0
+KHZ,KHZ,173.539,-42.416,seismic,0.00166,0.0
+BMTS,BMTS,174.926,-41.191,seismic,0.00051,0.0
+PYZ,PYZ,166.681,-46.166,seismic,0.00045,0.0
+TOZ,TOZ,175.502,-37.731,seismic,4e-05,0.0
+HVSC,Heathcote Valley Primary School,172.7092,-43.5811,seismic,1.4544,0.0
+LPCC,Lyttelton Port Company,172.7247,-43.6094,seismic,0.8789,0.0
+REHS,Christchurch Resthaven,172.635,-43.5236,seismic,0.7134,0.0
+PRPC,Pages Road Pumping Station,172.6828,-43.5275,seismic,0.6644,0.0
+CBGS,Christchurch Botanic Gardens,172.6197,-43.5311,seismic,0.5291,0.0
+CCCC,Christchurch Cathedral College,172.6472,-43.5397,seismic,0.4831,0.0
+CMHS,Christchurch Cashmere High School,172.6242,-43.5672,seismic,0.3965,0.0
+CHHC,Christchurch Hospital,172.6272,-43.5375,seismic,0.3607,0.0
+SHLC,Shirley Library,172.6633,-43.5069,seismic,0.3416,0.0
+RHSC,Riccarton High School,172.5642,-43.5378,seismic,0.2933,0.0
+HPSC,Hulverstone Drive Pumping Station,172.7019,-43.5033,seismic,0.2372,0.0
+CACS,Christchurch Canterbury Aero Club,172.53,-43.4847,seismic,0.2176,0.0
+PPHS,Christchurch Papanui High School,172.6067,-43.4944,seismic,0.2161,0.0
+KPOC,Kaiapoi North School,172.6636,-43.3781,seismic,0.2123,0.0
+SWNC,Swannanoa School,172.4953,-43.3711,seismic,0.2008,0.0
+ROLC,Rolleston School,172.3808,-43.5944,seismic,0.1914,0.0
+SMTC,Styx Mill Transfer Station,172.6136,-43.4692,seismic,0.1802,0.0
+LINC,Lincoln Crop and Food Research,172.4678,-43.6247,seismic,0.1597,0.0
+MQZ,McQueen's Valley,172.6536,-43.7078,seismic,0.1473,0.0
+TPLC,Templeton School,172.4719,-43.5517,seismic,0.1203,0.0
+SLRC,Selwyn Lake Road,172.3175,-43.6767,seismic,0.102,0.0
+ASHS,Ashley School,172.5958,-43.2761,seismic,0.0887,0.0
+KOWC,Kowai,171.8547,-43.3231,seismic,0.0882,0.0
+WAKC,Waikari,172.705,-42.9647,seismic,0.0834,0.0
+SPFS,Springfield Fire Station,171.9289,-43.3397,seismic,0.0817,0.0
+CSTC,Cust School,172.3811,-43.3139,seismic,0.0788,0.0
+LTZ2,Lake Taylor Station,172.27091,-42.78335,seismic,0.07577,0.0
+ADCS,Ashburton District Council,171.7475,-43.9042,seismic,0.0706,0.0
+SBRC,Southbridge School,172.2522,-43.8103,seismic,0.0701,0.0
+SHFC,Sheffield School,172.0256,-43.3928,seismic,0.068,0.0
+DSLC,Dunsandel School,172.1978,-43.6692,seismic,0.0676,0.0
+DFHS,Darfield High School,172.1019,-43.4914,seismic,0.0643,0.0
+HORC,Hororata School,171.9597,-43.5414,seismic,0.0635,0.0
+OXZ,Oxford,172.0381,-43.3275,seismic,0.056,0.0
+SCAC,Scargill,172.9214,-42.9403,seismic,0.0533,0.0
+CSHS,Castle Hill Station,171.7233,-43.2283,seismic,0.048,0.0
+DORC,Dorie,172.0936,-43.8983,seismic,0.0463,0.0
+PEEC,Peel Forest,171.2367,-43.9236,seismic,0.0371,0.0
+LSRC,Lake Sumner Road,172.5431,-42.8711,seismic,0.0367,0.0
+RKAC,Rakaia School,172.0231,-43.7531,seismic,0.0356,0.0
+AMBC,Amberley HDC,172.7308,-43.1564,seismic,0.0322,0.0
+TRCS,Timaru Roncalli College,171.2444,-44.4044,seismic,0.0284,0.0
+LTZ,Lake Taylor Station,172.2708,-42.7833,seismic,0.0247,0.0
+GLWS,Glyn Wye,172.5108,-42.5958,seismic,0.0232,0.0
+CECS,Cheviot Emergency Centre,173.2747,-42.8153,seismic,0.0216,0.0
+MAYC,Mayfield School,171.4217,-43.8247,seismic,0.0214,0.0
+WSFC,Westerfield,171.6108,-43.8389,seismic,0.0203,0.0
+FDCS,Fairlie District Council Garage,170.8286,-44.1019,seismic,0.0196,0.0
+APPS,Arthurs Pass Police Station,171.5675,-42.9506,seismic,0.0181,0.0
+SKFS,Dunedin St Kilda Fire Station,170.5097,-45.9003,seismic,0.0165,0.0
+HSES,Hanmer Springs Emergency Centre,172.8303,-42.525,seismic,0.0157,0.0
+WIGC,Waiau Gorge,172.8003,-42.7028,seismic,0.0142,0.0
+DKHS,Dunedin Kings High School,170.4928,-45.9039,seismic,0.0134,0.0
+WTMC,Te Mara Farm Waiau,173.0533,-42.6211,seismic,0.0114,0.0
+IFPS,Inchbonnie Fitzsimmons Farm,171.4728,-42.7283,seismic,0.0103,0.0
+HMCS,Hokitika Medical Centre,170.9639,-42.7186,seismic,0.01,0.0
+MCAS,Murchison Area School,172.3278,-41.8017,seismic,0.009,0.0
+KOKS,Kokatahi,171.1356,-42.8933,seismic,0.0088,0.0
+GMTS,Greymouth Telecom,171.2103,-42.4508,seismic,0.0078,0.0
+OAMS,Oamaru North Otago Museum,170.9692,-45.1014,seismic,0.0077,0.0
+QTPS,Queenstown Police Station,168.6628,-45.0339,seismic,0.0068,0.0
+HAFS,Harihari Fire Station,170.5558,-43.1506,seismic,0.0067,0.0
+WVAS,Waitaha Valley,170.7369,-43.0733,seismic,0.0062,0.0
+WNPS,Wanaka National Park Headquarters,169.1428,-44.6961,seismic,0.0058,0.0
+RDCS,Reefton DOC Centre,171.8642,-42.1217,seismic,0.0058,0.0
+SJFS,Springs Junction Fire Station,172.1803,-42.3364,seismic,0.0057,0.0
+TWAS,Twizel Area School,170.0983,-44.2561,seismic,0.0057,0.0
+DUNS,Dunedin Corstorphine Substation,170.4706,-45.9067,seismic,0.0056,0.0
+WBCS,Westport Buller District Council,171.5997,-41.7575,seismic,0.0056,0.0
+GORS,Gore District Council,168.9417,-46.1042,seismic,0.0054,0.0
+KARS,Karamea School,172.1164,-41.2511,seismic,0.0054,0.0
+INGS,Inangahua Fire Station,171.9525,-41.8589,seismic,0.0052,0.0
+TMBS,Taieri Mouth Beach School,170.1956,-46.0733,seismic,0.0051,0.0
+RPZ,"Rata Peaks, South Island, New Zealand",171.05376,-43.71627,seismic,0.00501,0.0
+ODZ,Otahua Downs,170.6444,-45.0456,seismic,0.005,0.0
+FGPS,Fox Glacier Park Board Headquarters,170.0197,-43.465,seismic,0.005,0.0
+FJDS,Franz Josef DOC,170.1842,-43.3908,seismic,0.0041,0.0
+DCDS,Dunedin Civil Defence,170.5019,-45.8758,seismic,0.0035,0.0
+LPLS,Lake Paringa Heritage Lodge,169.4231,-43.7164,seismic,0.0032,0.0
+TAFS,Te Anau Fire Station,167.7192,-45.4183,seismic,0.0031,0.0
+HDWS,Haast DOC Workshop,169.0442,-43.8847,seismic,0.0029,0.0
+MOLS,Molesworth Station,173.2572,-42.0897,seismic,0.0028,0.0
+KIKS,Kaikoura,173.6819,-42.4275,seismic,0.0028,0.0
+BDCS,Balclutha District Council,169.7192,-46.2506,seismic,0.0028,0.0
+DGNS,Dunedin GNS,170.5139,-45.8642,seismic,0.0027,0.0
+DSZ,Denniston North,171.8044,-41.7467,seismic,0.0027,0.0
+LBZ,Lake Benmore,170.1844,-44.3872,seismic,0.0025,0.0
+TSFS,Takaka Scott's Farm,172.8208,-40.8511,seismic,0.0022,0.0
+NELS,Nelson Hospital,173.2742,-41.2894,seismic,0.0021,0.0
+TUZ,Tuapeka,169.6311,-45.9556,seismic,0.0021,0.0
+WVFS,Wairau Valley Farm,173.3508,-41.6219,seismic,0.0021,0.0
+EAZ,Earnscleugh,169.3081,-45.2328,seismic,0.002,0.0
+KHZ,Kahutara,173.5408,-42.4161,seismic,0.0018,0.0
+WKZ,Wanaka,169.0175,-44.8286,seismic,0.0016,0.0
+FOZ,Fox Glacier,169.8153,-43.5339,seismic,0.0015,0.0
+THZ,Top House,172.90508,-41.76418,seismic,0.00145,0.0
+PGMS,Petone Municipal Building,174.8792,-41.2261,seismic,0.0014,0.0
+LHES,Lower Hutt Emergency Management Office,174.9031,-41.2133,seismic,0.0013,0.0
+SOCS,Lower Hutt St Orans College,174.9158,-41.2061,seismic,0.0013,0.0
+ARKS,Wainuiomata Arakura School,174.9439,-41.2439,seismic,0.0012,0.0
+TFSS,Wellington Thorndon Fire Station,174.7828,-41.2772,seismic,0.0011,0.0
+SYZ,Scrubby Hill,169.1389,-46.5386,seismic,0.0011,0.0
+MISS,Wellington Miramar School,174.8183,-41.3167,seismic,0.001,0.0
+WEL,Wellington,174.7681,-41.2858,seismic,0.0009,0.0
+WEMS,Wellington Emergency Management Office,174.7794,-41.2764,seismic,0.0008,0.0
+MSZ,Milford Sound,167.9264,-44.675,seismic,0.0007,0.0
+TEPS,Wellington Te Papa Museum,174.7811,-41.2939,seismic,0.0007,0.0
+MLZ,Mavora Lakes,168.11835,-45.36817,seismic,0.00068,0.0
+WHZ,Wether Hill Road,167.94698,-45.89404,seismic,0.00067,0.0
+QRZ,Quartz Range,172.5289,-40.8272,seismic,0.0006,0.0
+NNZ,Nelson,173.3794,-41.2189,seismic,0.0006,0.0
+PYZ,Puysegur Point,166.68066,-46.16786,seismic,0.00044,0.0
+SNZO,"South Karori, New Zealand",174.7043,-41.3087,seismic,0.00043,0.0
+DCZ,Deep Cove,167.15349,-45.46634,seismic,0.00039,0.0
+HIZ,Stasrv: unknown station,174.85551,-38.5147,seismic,0.00014,0.0
+BFZ,Stasrv: unknown station,176.24606,-40.68137,seismic,0.00014,0.0
+BKZ,Stasrv: unknown station,176.49235,-39.16742,seismic,9e-05,0.0
+URZ,"Urewera, North Island, New Zealand",177.11069,-38.26102,seismic,3e-05,0.0

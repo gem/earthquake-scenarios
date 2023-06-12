@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2010
+Country,New_Zealand
+Region,Canterbury
+Event_Name,Canterbury_2010
+Local_Date,04/09/2010
+Local_Time,04:35:47
+Longitude,171.83
+Latitude,-43.522
+Depth_(km),12
+Mw,7.0
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Strike slip
+Tectonic_region_type,Active shallow crustal
+Fatalities,0
+Injured,2-2256
+Displaced_Population,
+Affected_Population,
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,6500 M USD
+Insured_Losses,2000-5000 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000hk46/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2010_Canterbury_earthquake

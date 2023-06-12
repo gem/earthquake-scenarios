@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+52,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",433, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.79142,0.028,0.056,0.028
+51,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",433, Seismic, USGS, SCARDEC,ChiouYoungs2014,PGA,0.79142,0.101,0.056,0.101
+52,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",433, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.79142,0.108,0.057,0.108
+52,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",433, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.79142,0.14,0.054,0.14
+53,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",435, Seismic, USGS, JMA,ChiouYoungs2014,PGA,0.79142,0.157,0.056,0.157
+53,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",435, Seismic, USGS, JMA,BooreEtAl2014,PGA,0.79142,0.167,0.061,0.167
+51,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",433, Seismic, USGS, SCARDEC,BooreEtAl2014,PGA,0.79142,0.174,0.062,0.174
+51,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",433, Seismic, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.79142,0.209,0.055,0.209
+56,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",87, Seismic, GEM, JMA,McVerry2006Asc,PGA,0.79142,0.217,0.042,0.217
+52,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",433, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.79142,0.217,0.062,0.217
+54,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",87, Seismic, GEM, SCARDEC,McVerry2006Asc,PGA,0.79142,0.233,0.042,0.233
+51,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",433, Seismic, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.79142,0.234,0.058,0.234
+53,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",435, Seismic, USGS, JMA,CampbellBozorgnia2014,PGA,0.79142,0.245,0.054,0.245
+55,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",87, Seismic, GEM, GCMT,McVerry2006Asc,PGA,0.79142,0.266,0.042,0.266
+53,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",435, Seismic, USGS, JMA,AbrahamsonEtAl2014,PGA,0.79142,0.333,0.058,0.333
+52,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",433, Seismic, USGS, GCMT,Bradley2013,PGA,0.79142,0.399,0.051,0.399
+51,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",433, Seismic, USGS, SCARDEC,Bradley2013,PGA,0.79142,0.513,0.052,0.513
+53,"{20100904_M7.0_Canterbury} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",435, Seismic, USGS, JMA,Bradley2013,PGA,0.79142,0.615,0.052,0.615
+50,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",1, None, GEM, JMA,McVerry2006Asc,PGA,0.6192156,,,
+45,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",1, None, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.6037441,,,
+45,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",1, None, USGS, SCARDEC,BooreEtAl2014,PGA,0.56496495,,,
+45,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",1, None, USGS, SCARDEC,Bradley2013,PGA,0.6147538,,,
+45,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",1, None, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.57027453,,,
+45,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",1, None, USGS, SCARDEC,ChiouYoungs2014,PGA,0.5825572,,,
+47,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,AbrahamsonEtAl2014,PGA,0.55370885,,,
+47,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,BooreEtAl2014,PGA,0.56496495,,,
+47,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,Bradley2013,PGA,0.67488265,,,
+47,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,CampbellBozorgnia2014,PGA,0.531591,,,
+47,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,ChiouYoungs2014,PGA,0.6636724,,,
+46,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.4725766,,,
+46,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,BooreEtAl2014,PGA,0.5348379,,,
+46,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,Bradley2013,PGA,0.5290957,,,
+46,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.42776448,,,
+46,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,ChiouYoungs2014,PGA,0.5115314,,,
+48,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",1, None, GEM, SCARDEC,McVerry2006Asc,PGA,0.5687326,,,
+49,"{20100904_M7.0_Canterbury} median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,McVerry2006Asc,PGA,0.4593207,,,

@@ -1,0 +1,25 @@
+job_id: 639
+job_description: 19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Australia\19891227_M5.4_Newcastle\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 755039832 (total size 189.64 KB)
+Extracting the hazard sites from the site model
+Read N=3230 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Australia\19891227_M5.4_Newcastle\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.790, Nominal bias stddev: 0.191
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.919, Nominal bias stddev: 0.199
+GMM: Allen2012, IMT: PGA, Nominal bias mean: 0.852, Nominal bias stddev: 0.217
+GMM: AtkinsonBoore2006Modified2011, IMT: PGA, Nominal bias mean: 0.438, Nominal bias stddev: 0.192
+GMM: SomervilleEtAl2009YilgarnCraton, IMT: PGA, Nominal bias mean: 0.178, Nominal bias stddev: 0.167
+GMM: ZhaoEtAl2006Asc, IMT: PGA, Nominal bias mean: 0.617, Nominal bias stddev: 0.185
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '455.12 KB', 'sig_eps': '393 B', 'times': '332 B', 'hcurves': '5 B'} in 40 seconds from event_based
+Stored 227.28 KB of GMFs
+Exposing the outputs to the database
+Stored 620.21 KB on C:\Users\zkarimzadeh\oqdata/calc_639.hdf5 in 44 seconds

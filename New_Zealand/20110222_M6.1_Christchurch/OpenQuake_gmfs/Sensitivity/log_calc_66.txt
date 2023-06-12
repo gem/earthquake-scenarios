@@ -1,0 +1,24 @@
+job_id: 66
+job_description: {20110222_M6.1_Christchurch} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+
+martina.caruso@Gems-MacBook-Pro.local running /Users/martina.caruso/Documents/wip/ecd/New_Zealand/DRAFT_20110222_M6.1_Christchurch/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MacBook-Pro.local
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 2918452377 (total size 522.01 KB)
+Extracting the hazard sites from the site model
+Read N=9336 hazard sites and L=1 hazard levels
+Reading station data from /Users/martina.caruso/Documents/wip/ecd/New_Zealand/DRAFT_20110222_M6.1_Christchurch/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 0.156, Nominal bias stddev: 0.060
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: -0.036, Nominal bias stddev: 0.065
+GMM: Bradley2013, IMT: PGA, Nominal bias mean: 0.227, Nominal bias stddev: 0.059
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.030, Nominal bias stddev: 0.057
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.079, Nominal bias stddev: 0.061
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.07 MB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 367 seconds from event_based
+Stored 547.22 KB of GMFs
+Exposing the outputs to the database
+Stored 1.43 MB on /Users/martina.caruso/oqdata/calc_66.hdf5 in 368 seconds

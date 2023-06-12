@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,SomervilleEtAl2009YilgarnCraton,PGA,0.349343,0.019,0.167,0.019
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,SomervilleEtAl2009YilgarnCraton,PGA,0.34683684,0.062,0.167,0.062
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,SomervilleEtAl2009YilgarnCraton,PGA,0.3787695,0.178,0.167,0.178
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,AtkinsonBoore2006Modified2011,PGA,0.31196952,0.265,0.192,0.265
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.30076075,0.274,0.192,0.274
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,BooreEtAl2014,PGA,0.36939552,0.377,0.184,0.377
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,AtkinsonBoore2006Modified2011,PGA,0.32063577,0.438,0.192,0.438
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,BooreEtAl2014,PGA,0.38659406,0.461,0.185,0.461
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.2946204,0.471,0.185,0.471
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,Allen2012,PGA,0.29167393,0.571,0.217,0.571
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,Allen2012,PGA,0.28192598,0.6,0.217,0.6
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,ZhaoEtAl2006Asc,PGA,0.29059365,0.606,0.185,0.606
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,ZhaoEtAl2006Asc,PGA,0.2958619,0.617,0.185,0.617
+638,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:AUS
+",43, All, GEM, AUS,ChiouYoungs2014,PGA,0.31454882,0.665,0.193,0.665
+637,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",46, All, GEM, USGS,ChiouYoungs2014,PGA,0.3073785,0.734,0.193,0.734
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,BooreEtAl2014,PGA,0.43943352,0.79,0.191,0.79
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,Allen2012,PGA,0.28627363,0.852,0.217,0.852
+639,"19891227_M5.9_Newcastle median gmf, Stations:All, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",44, All, GEM, Jackson_And_McKenzie_2022,ChiouYoungs2014,PGA,0.31870806,0.919,0.199,0.919
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,Allen2012,PGA,0.2800507,,,
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.34253326,,,
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,BooreEtAl2014,PGA,0.37873492,,,
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,ChiouYoungs2014,PGA,0.18832743,,,
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,SomervilleEtAl2009YilgarnCraton,PGA,0.7519844,,,
+634,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",6, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.17288426,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,Allen2012,PGA,0.2297623,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,AtkinsonBoore2006Modified2011,PGA,0.26636073,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,BooreEtAl2014,PGA,0.3738685,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,ChiouYoungs2014,PGA,0.18927042,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,SomervilleEtAl2009YilgarnCraton,PGA,0.767057,,,
+635,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:AUS
+",5, None, GEM, AUS,ZhaoEtAl2006Asc,PGA,0.11732836,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,Allen2012,PGA,0.1813442,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,AtkinsonBoore2006Modified2011,PGA,0.2516296,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,BooreEtAl2014,PGA,0.23042026,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,ChiouYoungs2014,PGA,0.16957909,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,SomervilleEtAl2009YilgarnCraton,PGA,0.6838822,,,
+636,"19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_And_McKenzie_2022
+",6, None, GEM, Jackson_And_McKenzie_2022,ZhaoEtAl2006Asc,PGA,0.12264404,,,

@@ -1,0 +1,18 @@
+job_id: 634
+job_description: 19891227_M5.9_Newcastle median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Australia\19891227_M5.4_Newcastle\OpenQuake_gmfs\job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 319408111 (total size 175.33 KB)
+Extracting the hazard sites from the site model
+Read N=3123 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '440.07 KB', 'sig_eps': '393 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 219.76 KB of GMFs
+Exposing the outputs to the database
+Stored 551.66 KB on C:\Users\zkarimzadeh\oqdata/calc_634.hdf5 in 6 seconds

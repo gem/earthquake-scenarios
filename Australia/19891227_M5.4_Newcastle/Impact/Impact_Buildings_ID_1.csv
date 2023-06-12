@@ -1,0 +1,14 @@
+ID_1,NAME_1,LATITUDE,LONGITUDE,TAXONOMY,D0_UNDAMAGED,D1_SLIGHT_DAMAGE,D2_MODERATE_DAMAGE,D3_HEAVY_DAMAGE,D4_PARTIAL_DESTRUCTION,D5,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+,Newcastle,-32.92,151.78,M pre-1920,18,11,5,3,1,,M,,38,11,5,3,1,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Masonry built pre 1920
+,Newcastle,-32.92,151.78,M 1920-1940,107,33,21,12,4,,"M/YBET:1920,1940",,177,33,21,12,4,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Masonry built between 1920 and 1940
+,Newcastle,-32.92,151.78,M 1940-1960,65,6,8,14,0,,"M/YBET:1940,1960",,93,6,8,14,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Masonry built between 1940 and 1960
+,Newcastle,-32.92,151.78,M post-1960,38,3,5,2,0,,M,,48,3,5,2,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Masonry built after 1960
+,Newcastle,-32.92,151.78,RC pre-1920,0,1,0,1,0,,CR,,2,1,0,1,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Reinforced concrete built before 1920
+,Newcastle,-32.92,151.78,RC 1920-1940,20,5,0,0,0,,"CR/YBET:1920,1940",,25,5,0,0,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Reinforced concrete built between 1920 and 1940
+,Newcastle,-32.92,151.78,RC 1940-1960,36,5,4,1,0,,"CR/YBET:1940,1960",,46,5,4,1,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Reinforced concrete built between 1940 and 1960 
+,Newcastle,-32.92,151.78,RC post-1960,53,1,7,3,0,,CR,,64,1,7,3,0,,Buildings,Ground shaking,EEFIT_Report and CEQID,Taxonomy Description: Reinforced concrete built after 1960
+,Newcastle,,,Unreinforced Masonry Commercial,173,40,24,27,5,0,MUR/COM,,96,40,24,27,5,,Buildings,Ground shaking,Bocchini_et_al_2015 and GEMECD,
+,Newcastle,,,Unreinforced Masonry Residential,45,12,7,3,0,0,MUR/RES,,22,12,7,3,0,,Buildings,Ground shaking,Bocchini_et_al_2015 and GEMECD,
+,Newcastle,,,Reinforced Concrete Commercial,105,11,9,4,0,0,CR/COM,,24,11,9,4,0,,Buildings,Ground shaking,Bocchini_et_al_2015 and GEMECD,
+,Newcastle,,,Timber Commercial,19,1,1,0,0,0,W/COM,,2,1,1,0,0,,Buildings,Ground shaking,Bocchini_et_al_2015 and GEMECD,
+,Newcastle,,,Timber Residential,63,1,12,0,0,0,W/RES,,13,1,12,0,0,,Buildings,Ground shaking,Bocchini_et_al_2015 and GEMECD,
