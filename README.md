@@ -19,8 +19,6 @@
 
 # 🔎 GEM Earthquake Scenario Database
 
-[[_TOC_]]
-
 # ✨ Overview
 
 > The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
@@ -56,18 +54,18 @@ The following events are available in the database.
 |  10 | Colombia                                |   1999 | [Armenia_1999](./Colombia/19990125_M6.1_Armenia)                              | 6.1  |       15     | IX                           |
 |  11 | Colombia                                |   2004 | [Pizarro_2004](./Colombia/20041115_M7.2_Pizarro)                              | 7.2  |       15     | VIII                         |
 |  12 | Colombia                                |   2008 | [Quetame_2008](./Colombia/20080524_M5.9_Quetame)                              | 5.9  |       10     | VII                          |
-|  13 | Costa Rica                              |   1991 | [Limon](./Costa Rica/19910422_M7.6_Limon)                                     | 7.6  |       10     | VIII                         |
-|  14 | Costa Rica                              |   2009 | [Cinchona](./Costa Rica/20090108_M6.1_Cinchona)                               | 6.2  |        4.6   | IX in Cinchona e Isla Bonita |
-|  15 | Costa Rica                              |   2012 | [Nicoya](./Costa Rica/20120905_M7.6_Nicoya)                                   | 7.6  |       15.4   | VII                          |
-|  16 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa Rica/20171113_M6.5_Puntarenas)                      | 6.5  |       22     | VIII                         |
+|  13 | Costa Rica                              |   1991 | [Limon](./Costa_Rica/19910422_M7.6_Limon)                                     | 7.6  |       10     | VIII                         |
+|  14 | Costa Rica                              |   2009 | [Cinchona](./Costa_Rica/20090108_M6.1_Cinchona)                               | 6.2  |        4.6   | IX in Cinchona e Isla Bonita |
+|  15 | Costa Rica                              |   2012 | [Nicoya](./Costa_Rica/20120905_M7.6_Nicoya)                                   | 7.6  |       15.4   | VII                          |
+|  16 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa_Rica/20171113_M6.5_Puntarenas)                      | 6.5  |       22     | VIII                         |
 |  17 | Croatia                                 |   2020 | [Zagreb_2020](./Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |       10     | VIII                         |
 |  18 | Croatia                                 |   2020 | [Petrijna_2020](./Croatia/20201229_M6.3_Petrijna)                             | 6.4  |       10     | IX                           |
 |  19 | Cyprus                                  |   1996 | [Cyprus](./Cyprus/19961009_M6.8_Cyprus)                                       | 6.8  |       33     | VI                           |
 |  20 | Ecuador                                 |   2016 | [Pedernales_2016](./Ecuador/20160416_M7.8_Pedernales)                         | 7.8  |       17     | IX                           |
 |  21 | Ecuador                                 |   2023 | [Guayas](./Ecuador/DRAFT_20230318_M6.8_Guayas)                                | 6.8  |       65.842 | VII                          |
 |  22 | Egypt                                   |   1992 | [Cairo_1992](./Egypt/19921012_M5.9_Cairo)                                     | 5.8  |       21.5   | VIII                         |
-|  23 | El Salvador                             |   2001 | [San Miguel_2001](./El Salvador/20010113_M7.6_SanMiguel)                      | 7.6  |       39     | VIII                         |
-|  24 | El Salvador                             |   2001 | [San Salvador_2001](./El Salvador/20010213_M6.6_SanSalvador)                  | 6.6  |       13     | VIII                         |
+|  23 | El Salvador                             |   2001 | [San Miguel_2001](./El_Salvador/20010113_M7.6_SanMiguel)                      | 7.6  |       39     | VIII                         |
+|  24 | El Salvador                             |   2001 | [San Salvador_2001](./El_Salvador/20010213_M6.6_SanSalvador)                  | 6.6  |       13     | VIII                         |
 |  25 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810224_M6.7_GulfofCorinth)                    | 6.7  |       33     | IX                           |
 |  26 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810225_M6.4_GulfofCorinth)                    | 6.4  |       33     | IX                           |
 |  27 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810000_Sequence_GulfOfCorinth)                | 6.7  |       33     | IX                           |
@@ -132,20 +130,20 @@ The following events are available in the database.
 |  86 | Mexico                                  |   2017 | [Chiapas_2017](./Mexico/20170908_M8.2_Chiapas)                                | 8.2  |       45.9   | VII                          |
 |  87 | Mexico                                  |   2017 | [Puebla_2017](./Mexico/20170919_M7.1_Puebla)                                  | 7.1  |       51.2   | VIII                         |
 |  88 | Mexico                                  |   2021 | [Guerrero_2021](./Mexico/20210907_M7.1_Guerrero)                              | 7.1  |       10     | VIII                         |
-|  89 | Mexico                                  |   2020 | [Oaxaca_2020](./Mexico /20200623_M7.4_Oaxaca)                                 | 7.4  |       22.6   | VIII                         |
+|  89 | Mexico                                  |   2020 | [Oaxaca_2020](./Mexico/20200623_M7.4_Oaxaca)                                  | 7.4  |       22.6   | VIII                         |
 |  90 | Morocco                                 |   2004 | [AlHoceima_2004](./Morocco/20040224_M6.3_AlHoceima)                           | 6.3  |       12.2   | IX                           |
-|  91 | Nepal, India, China, Bangladesh         |   2015 | [Gorkha_2015](./Nepal, India, China, Bangladesh/20150425_M7.8_Gorkha)         | 7.8  |        8.22  | IX                           |
+|  91 | Nepal, India, China, Bangladesh         |   2015 | [Gorkha_2015](./Nepal/20150425_M7.8_Gorkha)                                   | 7.8  |        8.22  | IX                           |
 |  92 | Netherlands                             |   1992 | [Roermond_1992](./Netherlands/19920413_M5.3_Roermond)                         | 5.4  |       21.2   | VIII                         |
 |  93 | New_Zealand                             |   2010 | [Canterbury_2010](./New_Zealand/20100904_M7.0_Canterbury)                     | 7    |       12     | VIII                         |
 |  94 | New_Zealand                             |   2011 | [Christchurch_2011](./New_Zealand/20110222_M6.1_Christchurch)                 | 6.1  |        5.9   | IX                           |
-|  95 | Pakistan, India, Afghanistan            |   2005 | [Kashmir](./Pakistan, India, Afghanistan/20051008_M7.6_Kashmir)               | 7.6  |       26     | IX                           |
+|  95 | Pakistan, India, Afghanistan            |   2005 | [Kashmir](./Pakistan/20051008_M7.6_Kashmir)                                   | 7.6  |       26     | IX                           |
 |  96 | Peru                                    |   2007 | [Pisco_2007](./Peru/20070815_M7.9_Pisco)                                      | 7.9  |       40     | VIII                         |
 |  97 | Romania                                 |   1990 | [Vrancea_1990](./Romania/19900531_M6.31_Vrancea)                              | 6.3  |       88.2   | V                            |
 |  98 | Romania                                 |   1990 | [Vrancea_1990](./Romania/19900530_Sequence_Vrancea)                           | 7    |       89.3   | VIII                         |
 |  99 | Romania                                 |   1990 | [Vrancea_1990](./Romania/19900530_M6.95_Vrancea)                              | 7    |       89.3   | VIII                         |
 | 100 | Serbia                                  |   2010 | [Kraljevo](./Serbia/20101103_M5.52_Kraljevo)                                  | 5.5  |        0.9   | VI                           |
 | 101 | Spain                                   |   2011 | [Lorca_2011](./Spain/20110511_M5.1_Lorca)                                     | 5.1  |        1     | VI                           |
-| 102 | Tanzania, Uganda                        |   2016 | [Bukoba_2016](./Tanzania, Uganda/20160910_M5.9_Bukoba)                        | 5.9  |       40     | VII                          |
+| 102 | Tanzania, Uganda                        |   2016 | [Bukoba_2016](./Tanzania/20160910_M5.9_Bukoba)                                | 5.9  |       40     | VII                          |
 | 103 | Turkey                                  |   1992 | [Erzincan](./Turkey/19920313_M6.68_Erzincan)                                  | 6.7  |       27.2   | VIII                         |
 | 104 | Turkey                                  |   1995 | [Dinar](./Turkey/19951001_M6.42_Dinar)                                        | 6.4  |       33     | VIII                         |
 | 105 | Turkey                                  |   1998 | [AdanaCeyhan_1998](./Turkey/19980627_M6.28_AdanaCeyhan)                       | 6.3  |       33     | IV                           |
@@ -163,7 +161,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 
 | Version   | Release Notes                                                            |
 |-----------|--------------------------------------------------------------------------|
-| [v2023.0.0](https://github.com/gem/ecd/tree/v2023.0.0) | First release with 100 earthquake scenario events.|
+| [v2023.0.0](https://github.com/gem/earthquake-scenarios/tree/v2023.0.0) | First release with 100 earthquake scenario events.|
 
 # 🌟 Contributors
 
