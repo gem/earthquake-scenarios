@@ -1,0 +1,18 @@
+job_id: 143
+job_description: 20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:GCMT
+
+usuario@CYE.local running /Users/cye/Documents/wip/ecd/Turkey/20230206_M7.8_KahramanmarasGaziantep/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git0855b3c6a9
+Using 8 cores on CYE.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 1916556097 (total size 542.83 KB)
+Extracting the hazard sites from the site model
+Read N=10201 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '943.55 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 2 seconds from event_based
+Stored 471.48 KB of GMFs
+Exposing the outputs to the database
+Stored 1.44 MB on /Users/cye/oqdata/calc_143.hdf5 in 9 seconds

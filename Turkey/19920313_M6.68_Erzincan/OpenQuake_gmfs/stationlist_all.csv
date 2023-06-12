@@ -1,0 +1,56 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+2402,,39.48662,39.75151,seismic,0.479543,0.0,B,455.0,B,339.0
+2403,,38.76851,39.89934,seismic,0.081176,0.0,B,433.0,B,532.0
+2405,,40.23465,39.46599,seismic,0.042091,0.0,C,320.0,C,623.0
+OBS_13,Gulluce (Intensity VIII),39.533,39.694,macroseismic,0.760385,0.8059,,197.93,inferred,198.0
+OBS_7,Demirpinar (Intensity VIII),39.793,39.632,macroseismic,0.760385,0.8059,,642.84,inferred,643.0
+OBS_3,Yogurtlu (Intensity VIII),39.538,39.714,macroseismic,0.760385,0.8059,,326.47,inferred,326.0
+OBS_16,Isikpinar (Intensity VIII),39.47,39.79,macroseismic,0.760385,0.8059,,831.27,inferred,831.0
+OBS_5,Altinbasak (Intensity VIII),39.678,39.664,macroseismic,0.760385,0.8059,,303.03,inferred,303.0
+OBS_14,Gumustarla (Intensity VIII),39.425,39.755,macroseismic,0.760385,0.8059,,321.27,inferred,321.0
+OBS_9,Ganiefendiciftligi (Intensity VIII),39.611,39.672,macroseismic,0.760385,0.8059,,210.57,inferred,211.0
+OBS_12,Balibeyi (Intensity VIII),39.568,39.695,macroseismic,0.760385,0.8059,,205.59,inferred,206.0
+OBS_4,Saztepe (Intensity VIII),39.62,39.7,macroseismic,0.760385,0.8059,,210.89,inferred,211.0
+OBS_11,Hanciciftligi (Intensity VIII),39.587,39.699,macroseismic,0.760385,0.8059,,211.15,inferred,211.0
+OBS_6,Mertekli (Intensity VIII),39.724,39.645,macroseismic,0.760385,0.8059,,219.37,inferred,219.0
+OBS_8,Denizdami (Intensity VIII),39.634,39.673,macroseismic,0.760385,0.8059,,211.28,inferred,211.0
+OBS_10,Mahmutlu (Intensity VIII),39.58,39.673,macroseismic,0.760385,0.8059,,210.8,inferred,211.0
+OBS_2,Yalnizbag (Intensity VIII),39.417,39.795,macroseismic,0.760385,0.8059,,533.12,inferred,533.0
+OBS_15,Cukurkuyu (Intensity VIII),39.425,39.774,macroseismic,0.760385,0.8059,,310.77,inferred,311.0
+OBS_1,Erzincan (Intensity VIII),39.499,39.75,macroseismic,0.760385,0.8059,,345.56,inferred,346.0
+OBS_17,Davarli (Intensity VIII),39.344,39.843,macroseismic,0.692175,0.8059,,828.04,inferred,828.0
+OBS_18,Hacialipalangasi (Intensity VIII),39.322,39.822,macroseismic,0.685009,0.8059,,509.37,inferred,509.0
+ERC,Erzincan-Meteorologij Mudurlugu,39.489,39.754,seismic,0.513265,0.0,,351.92,inferred,352.0
+OBS_25,Ulukoy (Intensity VII),39.732,39.623,macroseismic,0.408097,0.8059,,230.34,inferred,230.0
+OBS_24,Kucukkadagan (Intensity VII),39.671,39.635,macroseismic,0.408097,0.8059,,180.55,inferred,181.0
+OBS_23,Sogukoluk (Intensity VII),39.607,39.643,macroseismic,0.408097,0.8059,,348.24,inferred,348.0
+OBS_29,Goller (Intensity VII),39.783,39.669,macroseismic,0.408097,0.8059,,779.16,inferred,779.0
+OBS_26,Uzumlu (Intensity VII),39.701,39.71,macroseismic,0.408097,0.8059,,748.24,inferred,748.0
+OBS_31,Gunebakan (Intensity VII),39.633,39.735,macroseismic,0.408097,0.8059,,889.89,inferred,890.0
+OBS_30,Cardakli (Intensity VII),39.807,39.658,macroseismic,0.408097,0.8059,,630.65,inferred,631.0
+OBS_27,Bayirbag (Intensity VII),39.716,39.692,macroseismic,0.408097,0.8059,,619.43,inferred,619.0
+OBS_28,Karakaya (Intensity VII),39.752,39.677,macroseismic,0.408097,0.8059,,687.77,inferred,688.0
+OBS_22,Bahceyazi (Intensity VII),39.353,39.772,macroseismic,0.398585,0.8059,,718.27,inferred,718.0
+OBS_20,Elmakoy (Intensity VII),39.354,39.788,macroseismic,0.397986,0.8059,,410.16,inferred,410.0
+OBS_21,Yesilcat (Intensity VII),39.334,39.799,macroseismic,0.380849,0.8059,,414.46,inferred,414.0
+OBS_19,Catalarmut (Intensity VII),39.318,39.805,macroseismic,0.369604,0.8059,,482.15,inferred,482.0
+OBS_41,Kilimli (Intensity VI),39.477,39.669,macroseismic,0.219025,0.8059,,900.0,inferred,900.0
+OBS_43,Yalinca (Intensity VI),39.645,39.621,macroseismic,0.219025,0.8059,,347.94,inferred,348.0
+OBS_44,Doganpinar (Intensity VI),39.831,39.595,macroseismic,0.219025,0.8059,,658.52,inferred,659.0
+OBS_42,Mollakoy (Intensity VI),39.576,39.641,macroseismic,0.219025,0.8059,,406.71,inferred,407.0
+OBS_40,Yaylabasi (Intensity VI),39.525,39.64,macroseismic,0.219025,0.8059,,779.88,inferred,780.0
+OBS_45,Salkimozu (Intensity VI),39.804,39.6,macroseismic,0.219025,0.8059,,743.96,inferred,744.0
+OBS_39,Pinaronu (Intensity VI),39.437,39.676,macroseismic,0.213619,0.8059,,900.0,inferred,900.0
+OBS_37,Sogutozu (Intensity VI),39.386,39.702,macroseismic,0.212028,0.8059,,776.29,inferred,776.0
+OBS_34,Bahceli (Intensity VI),39.35,39.756,macroseismic,0.211832,0.8059,,571.0,inferred,571.0
+OBS_49,Pinarlikaya (Intensity VI),39.869,39.647,macroseismic,0.210964,0.8059,,887.93,inferred,888.0
+OBS_35,Cevizli (Intensity VI),39.354,39.729,macroseismic,0.209162,0.8059,,699.57,inferred,700.0
+OBS_36,Yesilcay (Intensity VI),39.358,39.719,macroseismic,0.208215,0.8059,,753.11,inferred,753.0
+OBS_38,Sutpinar (Intensity VI),39.355,39.709,macroseismic,0.204582,0.8059,,823.95,inferred,824.0
+OBS_46,Ocakbasi (Intensity VI),39.909,39.603,macroseismic,0.195577,0.8059,,676.8,inferred,677.0
+OBS_47,Otluk (Intensity VI),39.913,39.638,macroseismic,0.195564,0.8059,,870.55,inferred,871.0
+OBS_32,Ekinci (Intensity VI),39.296,39.788,macroseismic,0.193019,0.8059,,693.49,inferred,693.0
+OBS_33,Ahmetli (Intensity VI),39.331,39.874,macroseismic,0.189078,0.8059,,698.16,inferred,698.0
+OBS_48,Bulanik (Intensity VI),39.94,39.626,macroseismic,0.188062,0.8059,,891.15,inferred,891.0
+REF,Refahiye-Kaymakamlik Binasi,38.77,39.9,seismic,0.07051,0.0,,531.62,inferred,532.0
+TER,Tercan-Meteoroji Mudurlugu,40.385,39.779,seismic,0.030306,0.0,,428.0,inferred,428.0

@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1998
+Country,Turkey
+Region,AdanaCeyhan
+Event_Name,AdanaCeyhan_1998
+Local_Date,27/06/1998
+Local_Time,16:55:52
+Latitude,36.878
+Longitude,35.307
+Depth_(km),33
+Mw,6.3
+Max_Intensity_(MMI),IV
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,145
+Injured,1500-1600
+Displaced_Population,88000
+Affected_Population,1500000
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,1700 Buildings
+Economic_Losses,550-1300 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0008qkc/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1998_Adana%E2%80%93Ceyhan_earthquake

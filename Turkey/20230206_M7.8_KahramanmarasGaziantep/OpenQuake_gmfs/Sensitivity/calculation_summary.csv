@@ -1,0 +1,49 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+149,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GCMT
+",693, Seismic, Adjusted, GCMT,KaleEtAl2015Turkey,PGA,1.347185,-0.038,0.04,0.038
+149,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GCMT
+",693, Seismic, Adjusted, GCMT,ZhaoEtAl2016Asc,PGA,1.347185,-0.1,0.047,0.1
+148,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:AFAD
+",722, Seismic, Adjusted, AFAD,ZhaoEtAl2016Asc,PGA,1.347185,0.101,0.047,0.101
+148,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:AFAD
+",722, Seismic, Adjusted, AFAD,KaleEtAl2015Turkey,PGA,1.347185,0.119,0.04,0.119
+150,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",706, Seismic, Adjusted, USGS,KaleEtAl2015Turkey,PGA,1.347185,-0.126,0.04,0.126
+150,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",706, Seismic, Adjusted, USGS,ZhaoEtAl2016Asc,PGA,1.347185,-0.204,0.047,0.204
+148,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:AFAD
+",722, Seismic, Adjusted, AFAD,AkkarEtAlRjb2014,PGA,1.347185,-0.214,0.052,0.214
+149,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GCMT
+",693, Seismic, Adjusted, GCMT,AkkarEtAlRjb2014,PGA,1.347185,-0.366,0.052,0.366
+150,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",706, Seismic, Adjusted, USGS,AkkarEtAlRjb2014,PGA,1.347185,-0.443,0.052,0.443
+148,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:AFAD
+",722, Seismic, Adjusted, AFAD,CauzziEtAl2014,PGA,1.347185,-0.474,0.05,0.474
+149,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GCMT
+",693, Seismic, Adjusted, GCMT,CauzziEtAl2014,PGA,1.347185,-0.628,0.05,0.628
+150,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",706, Seismic, Adjusted, USGS,CauzziEtAl2014,PGA,1.347185,-0.72,0.05,0.72
+142,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:AFAD
+",7, None, Adjusted, AFAD,AkkarEtAlRjb2014,PGA,0.55406237,,,
+142,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:AFAD
+",7, None, Adjusted, AFAD,CauzziEtAl2014,PGA,0.81419224,,,
+142,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:AFAD
+",7, None, Adjusted, AFAD,KaleEtAl2015Turkey,PGA,0.5016509,,,
+142,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:AFAD
+",7, None, Adjusted, AFAD,ZhaoEtAl2016Asc,PGA,0.97697556,,,
+143,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:GCMT
+",9, None, Adjusted, GCMT,AkkarEtAlRjb2014,PGA,0.55620635,,,
+143,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:GCMT
+",9, None, Adjusted, GCMT,CauzziEtAl2014,PGA,0.59297186,,,
+143,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:GCMT
+",9, None, Adjusted, GCMT,KaleEtAl2015Turkey,PGA,0.50651544,,,
+143,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:GCMT
+",9, None, Adjusted, GCMT,ZhaoEtAl2016Asc,PGA,0.8054274,,,
+144,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",10, None, Adjusted, USGS,AkkarEtAlRjb2014,PGA,0.55560136,,,
+144,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",10, None, Adjusted, USGS,CauzziEtAl2014,PGA,0.7526054,,,
+144,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",10, None, Adjusted, USGS,KaleEtAl2015Turkey,PGA,0.5054634,,,
+144,"20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",10, None, Adjusted, USGS,ZhaoEtAl2016Asc,PGA,0.9829965,,,

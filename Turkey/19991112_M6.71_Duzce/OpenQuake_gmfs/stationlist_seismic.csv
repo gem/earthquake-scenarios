@@ -1,0 +1,74 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+1401,,31.60732,40.74567,seismic,0.803826,0,C,294,C,348
+8101,,31.148112,40.843923,seismic,0.512945,0,C,282,C,257
+1406,,31.20994,40.46843,seismic,0.121963,0,C,355,C,453
+4101,,29.91721,40.7665,seismic,0.050784,0,A,826,A,591
+1404,,30.78307,40.39659,seismic,0.027116,0,C,348,C,415
+5401,,30.38005,40.73707,seismic,0.023946,0,C,412,C,321
+1612,,29.71688,40.44163,seismic,0.023272,0,C,197,C,270
+4302,,29.99716,39.4193,seismic,0.020661,0,C,226,C,449
+301,,30.53395,38.77598,seismic,0.01027,0,C,226,C,243
+1604,,29.1273,40.1831,seismic,0.009284,0,B,459,B,624
+3401,,29.00951,41.0582,seismic,0.008938,0,B,595,B,429
+3701,,34.03671,41.01319,seismic,0.007877,0,C,362,C,567
+5902,,27.51504,40.97928,seismic,0.006101,0,B,409,B,487
+1701,,26.39948,40.14145,seismic,0.003925,0,C,192,C,289
+2002,,29.11113,37.81247,seismic,0.003662,0,C,356,C,362
+6401,,29.40401,38.67128,seismic,0.003084,0,C,285,C,375
+1001,,27.85686,39.65003,seismic,0.00269,0,B,662,B,492
+3502,,27.22673,38.45514,seismic,0.001843,0,C,270,C,354
+4501,,27.38138,38.61259,seismic,0.001821,0,C,340,C,468
+496,IRIGM Station No. 496,30.873,40.742,seismic,1.040816,0,,877.41,inferred,664
+C0375,LDEO Station No. C0375 VO,30.876,40.743,seismic,0.920408,0,,877.41,inferred,664
+BOL,Bolu-Bayindirlik ve Iskan Mudurlugu,31.607,40.746,seismic,0.80102,0,,399.62,inferred,435
+DZC,Duzce-Meteoroloji Mudurlugu,31.151,40.843,seismic,0.514286,0,,239.77,inferred,257
+498,IRIGM Station No. 498,30.879,40.746,seismic,0.389796,0,,877.41,inferred,900
+487,IRIGM Station No. 487,30.889,40.749,seismic,0.295918,0,,877.41,inferred,614
+C1062,LDEO Station No. C1062 FI,30.82,40.723,seismic,0.254082,0,,900,inferred,580
+D0531,LDEO Station No. D0531 WF,30.855,40.703,seismic,0.158163,0,,596.78,inferred,892
+C1059,LDEO Station No. C1059 FP,30.872,40.745,seismic,0.157143,0,,877.41,inferred,664
+C1061,LDEO Station No. C1061,30.792,40.72,seismic,0.126531,0,,768.94,inferred,807
+MDR,Mudurnu-Kaymakamlik Binasi,31.182,40.463,seismic,0.120408,0,,475.5,inferred,618
+C1058,LDEO Station No. C1058 BV,31.015,40.755,seismic,0.111224,0,,900,inferred,771
+C1060,LDEO Station No. C1060 BU,30.613,40.777,seismic,0.052551,0,,451.76,inferred,406
+HIL,Hilal (Yalova),29.265,40.647,seismic,0.05051,0,,408.64,inferred,389
+GLCK,Golcuk,29.815,40.726,seismic,0.042143,0,,462.01,inferred,394
+C0362,LDEO Station No. C0362 CH,30.666,40.67,seismic,0.041122,0,,245.67,inferred,900
+HAS,Hastane (Yalova),29.263,40.653,seismic,0.040816,0,,408.64,inferred,389
+ATS,Ambarli-Termik Santrali,28.693,40.981,seismic,0.038367,0,,527.54,inferred,305
+RUZ,Ruzgar (Yalova),29.277,40.647,seismic,0.034898,0,,363.76,inferred,418
+FAT,Fatih-Tomb,28.95,41.02,seismic,0.034184,0,,350.56,inferred,351
+ZYT,Istanbul-Zeytinburnu,28.908,40.986,seismic,0.02949,0,,600,inferred,354
+TAR,Tar (Yalova),29.248,40.658,seismic,0.029286,0,,408.64,inferred,600
+GYN,Goynuk-Devlet Hastanesi,30.734,40.381,seismic,0.026122,0,,643.06,inferred,314
+KAS,Kasif (Yalova),29.291,40.657,seismic,0.025408,0,,363.76,inferred,335
+BAH,Bahcevan (Yalova),29.282,40.652,seismic,0.025102,0,,363.76,inferred,364
+SKR,Sakarya-Bayindirlik ve Iskan Mudurlugu,30.379,40.737,seismic,0.023163,0,,336.33,inferred,278
+BAG,Baglaralti (Yalova),29.274,40.654,seismic,0.022347,0,,363.76,inferred,418
+IZN,Iznik-Karayollari Sefligi Muracaati,29.691,40.437,seismic,0.022143,0,,247.81,inferred,600
+KUT,Kutahya-Sivil Savunma Mudurlugu,29.997,39.419,seismic,0.021224,0,,578.67,inferred,449
+IZT,Izmit-Meteoroloji Istasyonu,29.907,40.761,seismic,0.02102,0,,600,inferred,600
+BUR,Bursa-Tofa Fabrikasi,29.068,40.261,seismic,0.018367,0,,261.51,inferred,264
+YPT,Yarimca-Petkim,29.765,40.756,seismic,0.018265,0,,600,inferred,384
+DHM,Yesilkoy-Havaalani,28.82,40.982,seismic,0.018061,0,,335.04,inferred,335
+KMP,Istanbul-K.M.Pasa,28.928,41.003,seismic,0.017551,0,,371.78,inferred,369
+CNAK,Cekmece-Kucuk,28.759,41.024,seismic,0.016939,0,,261.06,inferred,360
+ATK,Istanbul-Atakoy,28.849,40.989,seismic,0.016224,0,,290.31,inferred,350
+GIR,Girne (Yalova),29.296,40.656,seismic,0.01602,0,,363.76,inferred,348
+DAR,Aslan Cimento,29.367,40.757,seismic,0.014796,0,,600,inferred,463
+GB,Sirkeci,28.991,41.019,seismic,0.01449,0,,600,inferred,600
+AFY,Afyon-Bayindirlik ve Iskan Mudurlugu,30.561,38.792,seismic,0.011327,0,,213.03,inferred,231
+BRS,Bursa-Sivil Savunma Mudurluga,29.131,40.183,seismic,0.008582,0,,580.14,inferred,657
+IST,Istanbul-Bayindirlik ve Iskan Mudurlugu,29.09,41.08,seismic,0.008225,0,,470.14,inferred,409
+ARC,Gebze-Arcelik,29.361,40.824,seismic,0.007551,0,,399.13,inferred,371
+TOS,Tosya-Meteoroloji Mudurlugu,34.037,41.013,seismic,0.007357,0,,611.26,inferred,567
+TKR,Tekirdag-Bayindirlik Mudurlugu,27.515,40.979,seismic,0.006071,0,,486.92,inferred,600
+YKP,Yapi-Kredi Plaza Levent,29.011,41.081,seismic,0.005378,0,,369.94,inferred,288
+MSK,Istanbul-Maslak,29.019,41.104,seismic,0.004775,0,,413.87,inferred,346
+BTS,Botas-Gas Terminal,27.98,40.992,seismic,0.00401,0,,600,inferred,600
+DNZ,Denizli-Bayindirlik ve Iskan Mudurlugu,29.114,37.813,seismic,0.003714,0,,454.46,inferred,454
+CNK,Canakkale-Meteoroloji Istasyonu,26.402,40.142,seismic,0.003551,0,,341.75,inferred,289
+USK,Usak-Meteorologji Mudurlugu,29.404,38.671,seismic,0.002806,0,,465.21,inferred,375
+BLK,Balikesir-Bayindirlik ve Iskan Mudurlugu,27.883,39.65,seismic,0.001888,0,,382.91,inferred,383
+MNS,Manisa-Bayindirlik Mudurlugu,27.45,38.58,seismic,0.001816,0,,900,inferred,900
+BRN,Bornova-Eylul Universite Ziraat Fakultesi,27.229,38.455,seismic,0.001776,0,,287.83,inferred,354

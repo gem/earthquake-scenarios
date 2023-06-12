@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1999
+Country,Turkey
+Region,Duzce
+Event_Name,Duzce_1999
+Local_Date,12/11/1999
+Local_Time,16:57:19
+Latitude,40.758
+Longitude,31.161
+Depth_(km),10
+Mw,7.2
+Max_Intensity_(MMI),IX
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,845-894
+Injured,4948
+Displaced_Population,55000
+Affected_Population,224948
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,1000 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0009hev/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1999_D%C3%BCzce_earthquake

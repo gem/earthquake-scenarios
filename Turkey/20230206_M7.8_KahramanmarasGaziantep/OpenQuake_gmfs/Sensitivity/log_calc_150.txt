@@ -1,0 +1,23 @@
+job_id: 150
+job_description: 20230206_M7.8_KahramanmarasGaziantep median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+
+usuario@CYE.local running /Users/cye/Documents/wip/ecd/Turkey/20230206_M7.8_KahramanmarasGaziantep/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git0855b3c6a9
+Using 8 cores on CYE.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2457527806 (total size 586.53 KB)
+Extracting the hazard sites from the site model
+Read N=10562 hazard sites and L=1 hazard levels
+Reading station data from /Users/cye/Documents/wip/ecd/Turkey/20230206_M7.8_KahramanmarasGaziantep/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias mean: -0.443, Nominal bias stddev: 0.052
+GMM: CauzziEtAl2014, IMT: PGA, Nominal bias mean: -0.720, Nominal bias stddev: 0.050
+GMM: KaleEtAl2015Turkey, IMT: PGA, Nominal bias mean: -0.126, Nominal bias stddev: 0.040
+GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias mean: -0.204, Nominal bias stddev: 0.047
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '991.08 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 700 seconds from event_based
+Stored 495.25 KB of GMFs
+Exposing the outputs to the database
+Stored 1.61 MB on /Users/cye/oqdata/calc_150.hdf5 in 706 seconds

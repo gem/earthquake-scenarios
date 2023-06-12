@@ -1,0 +1,148 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+5401,,30.38005,40.73707,seismic,0.391351,0,B,412,B,321
+8101,,31.148112,40.843923,seismic,0.365925,0,C,282,C,257
+4106,,29.45003,40.78627,seismic,0.263359,0,B,701,B,509
+4101,,29.91721,40.7665,seismic,0.228298,0,A,826,A,591
+1404,,30.78307,40.39659,seismic,0.137991,0,C,348,C,415
+1612,,29.71688,40.44163,seismic,0.123308,0,C,197,C,270
+3403,,28.7587,41.02646,seismic,0.11736,0,C,283,C,360
+5902,,27.51504,40.97928,seismic,0.115819,0,B,409,B,487
+5903,,27.95033,40.97297,seismic,0.100882,0,B,595,B,322
+3401,,29.00951,41.0582,seismic,0.060037,0,B,595,B,429
+4302,,29.99716,39.4193,seismic,0.059626,0,B,595,B,449
+1604,,29.1273,40.1831,seismic,0.054222,0,B,459,B,624
+1701,,26.39948,40.14145,seismic,0.028641,0,C,192,C,289
+1001,,27.85686,39.65003,seismic,0.018151,0,B,662,B,492
+301,,30.53395,38.77598,seismic,0.015014,0,C,226,C,243
+6401,,29.40401,38.67128,seismic,0.01432,0,C,285,C,375
+4501,,27.38138,38.61259,seismic,0.012164,0,B,340,B,468
+3701,,34.03671,41.01319,seismic,0.011632,0,C,362,C,567
+2002,,29.11113,37.81247,seismic,0.011519,0,C,356,C,362
+3502,,27.22673,38.45514,seismic,0.0108,0,C,270,C,354
+901,,27.83812,37.83657,seismic,0.005959,0,C,311,C,301
+6001,,36.55522,40.32915,seismic,0.001103,0,C,324,C,500
+OBS_11,Golcuk,29.828611,40.716667,macroseismic,2.060662,0.8059,,600,inferred,464
+MUOBS_1,Adapazari (Intensity IX),30.4,40.767,macroseismic,1.509634,0.8059,,249.4,inferred,249
+MUOBS_9,Altinova (Intensity IX),29.5,40.7,macroseismic,1.509634,0.8059,,301.73,inferred,302
+MUOBS_11,Donsel (Intensity IX),29.833,40.717,macroseismic,1.509634,0.8059,,600,inferred,408
+MUOBS_8,Sepetlipinar (Intensity IX),29.792,40.728,macroseismic,1.509634,0.8059,,600,inferred,401
+EROBS_1,Sakarya (Intensity IX),30.384,40.737,macroseismic,1.509634,0.8059,,227.68,inferred,321
+OBS_1,Adapazari,30.403333,40.780556,macroseismic,1.509634,0.8059,,249.4,inferred,212
+MUOBS_13,Bahes (Intensity IX),29.9,40.667,macroseismic,1.509634,0.8059,,508.3,inferred,508
+MUOBS_14,Mithapasa (Intensity IX),30.433,40.758,macroseismic,1.509634,0.8059,,211.4,inferred,218
+MUOBS_3,Golcuk (Intensity IX),29.8,40.733,macroseismic,1.509634,0.8059,,600,inferred,600
+MUOBS_10,Ciftlikkoy (Intensity IX),29.317,40.667,macroseismic,1.509634,0.8059,,396.59,inferred,327
+EROBS_3,Izmit (Intensity IX),29.96,40.79,macroseismic,1.509634,0.8059,,612.17,inferred,607
+MUOBS_5,Halivere (Intensity IX),29.683,40.714,macroseismic,1.509634,0.8059,,636.43,inferred,600
+MUOBS_7,Karamursel (Intensity IX),29.6,40.7,macroseismic,1.509634,0.8059,,600,inferred,600
+MUOBS_12,Yalova (Intensity IX),29.25,40.65,macroseismic,1.509634,0.8059,,386.02,inferred,409
+MUOBS_4,Halidere (Intensity IX),29.65,40.706,macroseismic,1.509634,0.8059,,636.43,inferred,600
+MUOBS_15,Derince (Intensity IX),29.817,40.75,macroseismic,1.509634,0.8059,,600,inferred,401
+MUOBS_2,Degirmende (Intensity IX),29.767,40.717,macroseismic,1.509634,0.8059,,600,inferred,763
+MUOBS_6,Hysarein (Intensity IX),29.783,40.725,macroseismic,1.509634,0.8059,,600,inferred,600
+MUOBS_16,Kaytazdere (Intensity IX),29.517,40.683,macroseismic,1.509634,0.8059,,588.32,inferred,493
+EROBS_2,Duzce (Intensity IX),31.149,40.844,macroseismic,1.468685,0.8059,,247.5,inferred,257
+OBS_2,Akyazi,30.622222,40.685,macroseismic,1.105952,0.8059,,239.18,inferred,246
+OBS_13,Izmit,29.916944,40.766944,macroseismic,1.105952,0.8059,,596.24,inferred,591
+MUOBS_19,Izmit (Intensity IX),29.917,40.767,macroseismic,1.105952,0.8059,,596.24,inferred,591
+OBS_10,Golyaka,29.361667,40.411944,macroseismic,1.084949,0.8059,,900,inferred,900
+MUOBS_18,Iinarcik (Intensity IX),29.1,40.65,macroseismic,0.899522,0.8059,,879.34,inferred,600
+OBS_20,Yalova,29.284722,40.653611,macroseismic,0.810217,0.8059,,600,inferred,364
+OBS_16,Korfez,29.729722,40.776667,macroseismic,0.810217,0.8059,,600,inferred,590
+OBS_15,Karamursel,29.615,40.689167,macroseismic,0.810217,0.8059,,600,inferred,574
+MUOBS_22,Kirazliyali (Intensity VIII),29.75,40.772,macroseismic,0.810217,0.8059,,457.91,inferred,667
+EROBS_4,Gebze (Intensity VIII),29.44,40.82,macroseismic,0.788864,0.8059,,416.92,inferred,272
+MUOBS_21,Kadikoy (Intensity VIII),29.217,40.617,macroseismic,0.731304,0.8059,,463.02,inferred,324
+MUOBS_20,Kucukcekmece (Intensity IX),28.767,40.983,macroseismic,0.684882,0.8059,,600,inferred,337
+MUOBS_17,Buyukcekmece (Intensity IX),28.567,41.017,macroseismic,0.638454,0.8059,,600,inferred,600
+OBS_9,Gebze,29.430556,40.797778,macroseismic,0.593562,0.8059,,294.94,inferred,295
+MUOBS_25,Nehirkent (Intensity VIII),30.383,40.667,macroseismic,0.593562,0.8059,,315.26,inferred,382
+MUOBS_23,Duzce (Intensity VIII),31.167,40.833,macroseismic,0.556462,0.8059,,265.76,inferred,266
+OBS_19,Sapanca,31.55,41.133333,macroseismic,0.506316,0.8059,,517.33,inferred,524
+MUOBS_24,Karcam (Intensity VIII),30.383,40.55,macroseismic,0.505289,0.8059,,805.57,inferred,632
+OBS_17,Kucukcekmece,28.766667,40.983333,macroseismic,0.501637,0.8059,,600,inferred,337
+MUOBS_27,Yenimahalle (Intensity VII),29.2,40.633,macroseismic,0.39304,0.8059,,450.58,inferred,451
+MUOBS_26,Koru (Intensity VII),29.167,40.65,macroseismic,0.382788,0.8059,,469.27,inferred,375
+SKR,Sakarya-Bayindirlik ve Iskan Mudurlugu,30.379,40.737,seismic,0.361224,0,,349.52,inferred,278
+DZC,Duzce-Meteoroloji Mudurlugu,31.151,40.843,seismic,0.361224,0,,265.76,inferred,257
+EROBS_7,Iznik (Intensity VII),29.75,40.44,macroseismic,0.317564,0.8059,,877.21,inferred,869
+OBS_7,Duzce,26.815556,38.241944,macroseismic,0.317245,0.8059,,433,inferred,297
+MUOBS_31,Termal (Intensity VII),29.242,40.65,macroseismic,0.314606,0.8059,,463.02,inferred,412
+EROBS_6,Goynuk (Intensity VII),30.783,40.396,macroseismic,0.310304,0.8059,,551.65,inferred,415
+YPT,Yarimca-Petkim,29.765,40.756,seismic,0.295918,0,,457.91,inferred,384
+OBS_4,Bolu,31.606111,40.735833,macroseismic,0.27736,0.8059,,333.79,inferred,338
+MUOBS_32,Yukarikiraska (Intensity VII),30.35,40.558,macroseismic,0.274884,0.8059,,900,inferred,821
+EROBS_5,Cekmece (Intensity VII),28.7,40.97,macroseismic,0.264093,0.8059,,600,inferred,600
+ATS,Ambarli-Termik Santrali,28.693,40.981,seismic,0.263265,0,,600,inferred,305
+MUOBS_29,Pamukova (Intensity VII),30.15,40.517,macroseismic,0.252758,0.8059,,900,inferred,828
+MUOBS_28,Orhangazi (Intensity VII),29.3,40.5,macroseismic,0.251654,0.8059,,657.57,inferred,658
+GBZ,Gebze-Tubitak Marmara Arastirma Merkezi,29.448,40.788,seismic,0.237755,0,,294.94,inferred,363
+MUOBS_37,Hereke (Intensity VI),29.65,40.8,macroseismic,0.233378,0.8059,,618.92,inferred,586
+MUOBS_41,Sirinyali (Intensity VI),29.7,40.775,macroseismic,0.233378,0.8059,,600,inferred,518
+MUOBS_40,Serefiye (Intensity VI),30.35,40.633,macroseismic,0.233378,0.8059,,709.17,inferred,660
+IZT,Izmit-Meteoroloji Istasyonu,29.907,40.761,seismic,0.223469,0,,587.9,inferred,600
+ARC,Gebze-Arcelik,29.361,40.824,seismic,0.209184,0,,317.9,inferred,371
+MUOBS_33,Alifuatpasa (Intensity VI),30.3,40.517,macroseismic,0.188572,0.8059,,539.85,inferred,362
+OBS_18,Orhangazi,29.308889,40.489167,macroseismic,0.182038,0.8059,,657.57,inferred,572
+FAT,Fatih-Tomb,28.95,41.02,seismic,0.179592,0,,391.99,inferred,351
+MUOBS_38,Kocadere (Intensity VI),29.017,40.633,macroseismic,0.17499,0.8059,,473.7,inferred,455
+CNAK,Cekmece-Kucuk,28.759,41.024,seismic,0.173469,0,,345.49,inferred,360
+MUOBS_39,Senkoy (Intensity VI),29,40.633,macroseismic,0.172727,0.8059,,467.79,inferred,468
+OBS_14,Iznik,29.721111,40.428611,macroseismic,0.169383,0.8059,,386.91,inferred,288
+MUOBS_35,Esenkoy (Intensity VI),28.967,40.617,macroseismic,0.167939,0.8059,,611.68,inferred,900
+MUOBS_36,Gemlik (Intensity VI),29.15,40.433,macroseismic,0.165743,0.8059,,600,inferred,507
+ATK,Istanbul-Atakoy,28.849,40.989,seismic,0.164286,0,,411.18,inferred,350
+MUOBS_42,Yumrukarya (Intensity VI),31.533,40.733,macroseismic,0.153965,0.8059,,557.55,inferred,558
+EROBS_10,Istanbul (Intensity VI),29.09,41.08,macroseismic,0.153148,0.8059,,528.52,inferred,409
+OBS_12,Istanbul,28.964722,41.018611,macroseismic,0.152764,0.8059,,420.12,inferred,600
+OBS_5,Bosphorous,29.075278,41.119444,macroseismic,0.149288,0.8059,,600,inferred,600
+MUOBS_34,Bolu (Intensity VI),31.617,40.75,macroseismic,0.148425,0.8059,,339.63,inferred,400
+EROBS_8,Bursa (Intensity VI),29.131,40.184,macroseismic,0.141786,0.8059,,384.19,inferred,657
+OBS_6,Bursa,29.061111,40.191667,macroseismic,0.141044,0.8059,,430.72,inferred,535
+GYN,Goynuk-Devlet Hastanesi,30.734,40.381,seismic,0.137755,0,,900,inferred,314
+MUOBS_49,Turgutlu (Intensity VI),30.217,40.517,macroseismic,0.136047,0.8059,,766.54,inferred,500
+MUOBS_45,Hayrettin (Intensity VI),30.117,40.517,macroseismic,0.136025,0.8059,,900,inferred,581
+KMP,Istanbul-K.M.Pasa,28.928,41.003,seismic,0.130612,0,,414.99,inferred,369
+IZN,Iznik-Karayollari Sefligi Muracaati,29.691,40.437,seismic,0.129592,0,,600,inferred,600
+MUOBS_48,Kucukkumla (Intensity VI),29.117,40.483,macroseismic,0.124767,0.8059,,511.58,inferred,725
+MUOBS_46,Iznik (Intensity VI),29.717,40.433,macroseismic,0.124685,0.8059,,386.91,inferred,304
+MUOBS_44,Cerkesli (Intensity VI),29.95,40.433,macroseismic,0.123603,0.8059,,500.62,inferred,614
+MUOBS_47,Kaynarca (Intensity VI),29.833,40.417,macroseismic,0.121434,0.8059,,900,inferred,555
+EROBS_9,Marmara Ereglisi (Intensity VI),27.848,40.995,macroseismic,0.11519,0.8059,,321.3,inferred,341
+ZYT,Istanbul-Zeytinburnu,28.908,40.986,seismic,0.114286,0,,376.29,inferred,354
+MUOBS_43,Armutlu (Intensity VI),28.833,40.517,macroseismic,0.111096,0.8059,,492.06,inferred,572
+EROBS_11,Tekirdag (Intensity VI),27.515,40.979,macroseismic,0.109324,0.8059,,460.1,inferred,600
+HAS,Heybeliada-Senatoryum,29.088,40.869,seismic,0.106122,0,,600,inferred,336
+ERG,Eregli-Kaymakamlik Binasi,27.79,40.98,seismic,0.102041,0,,600,inferred,600
+BUR,Bursa-Tofa Fabrikasi,29.068,40.261,seismic,0.101122,0,,348.8,inferred,264
+BTS,Botas-Gas Terminal,27.98,40.992,seismic,0.099388,0,,288.31,inferred,600
+MUOBS_55,Mekece (Intensity V),30.05,40.45,macroseismic,0.092162,0.8059,,200.57,inferred,387
+MUOBS_50,Besevler (Intensity V),29.867,40.417,macroseismic,0.089147,0.8059,,733.32,inferred,782
+MUOBS_53,Golyaka (Intensity V),29.35,40.4,macroseismic,0.089083,0.8059,,900,inferred,900
+DHM,Yesilkoy-Havaalani,28.82,40.982,seismic,0.088878,0,,300.46,inferred,335
+MUOBS_58,Soloz (Intensity V),29.4,40.4,macroseismic,0.088815,0.8059,,598.88,inferred,599
+MUOBS_57,Narlica (Intensity V),29.483,40.4,macroseismic,0.088269,0.8059,,600,inferred,600
+MUOBS_56,Narli (Intensity V),29.017,40.483,macroseismic,0.08731,0.8059,,600,inferred,900
+MUOBS_52,Golluce (Intensity V),29.583,40.367,macroseismic,0.086925,0.8059,,881.06,inferred,900
+MUOBS_54,Kapakli (Intensity V),28.95,40.467,macroseismic,0.084069,0.8059,,802.8,inferred,881
+MUOBS_51,Bursa (Intensity V),29.067,40.183,macroseismic,0.075462,0.8059,,860.34,inferred,608
+MCD,Istanbul-Mecidiyekoy,28.997,41.065,seismic,0.063061,0,,292.53,inferred,293
+KUT,Kutahya-Sivil Savunma Mudurlugu,29.997,39.419,seismic,0.06051,0,,272.85,inferred,449
+BRS,Bursa-Sivil Savunma Mudurluga,29.131,40.183,seismic,0.058061,0,,900,inferred,657
+MUOBS_61,Uluabat (Intensity V),28.433,40.2,macroseismic,0.04928,0.8059,,207.44,inferred,207
+MSK,Istanbul-Maslak,29.019,41.104,seismic,0.048673,0,,356.47,inferred,346
+MUOBS_60,Karacabey (Intensity V),28.35,40.217,macroseismic,0.048631,0.8059,,222.9,inferred,316
+MUOBS_59,Bandirma (Intensity V),27.967,40.333,macroseismic,0.045894,0.8059,,268.47,inferred,268
+YKP,Yapi-Kredi Plaza Levent,29.011,41.081,seismic,0.03551,0,,292.53,inferred,288
+OBS_8,Eskisehir,30.520556,39.776667,macroseismic,0.031881,0.8059,,516.81,inferred,255
+CNK,Canakkale-Meteoroloji Istasyonu,26.402,40.142,seismic,0.029388,0,,266.13,inferred,289
+GRD,Gerede,32.186,40.799,seismic,0.024796,0,,607.94,inferred,599
+BLK,Balikesir-Bayindirlik ve Iskan Mudurlugu,27.883,39.65,seismic,0.01602,0,,413.42,inferred,383
+AFY,Afyon-Bayindirlik ve Iskan Mudurlugu,30.561,38.792,seismic,0.014694,0,,257.95,inferred,231
+USK,Usak-Meteorologji Mudurlugu,29.404,38.671,seismic,0.013776,0,,407.69,inferred,375
+MNS,Manisa-Bayindirlik Mudurlugu,27.45,38.58,seismic,0.012143,0,,900,inferred,900
+BRN,Bornova-Eylul Universite Ziraat Fakultesi,27.229,38.455,seismic,0.010918,0,,444.19,inferred,354
+TOS,Tosya-Meteoroloji Mudurlugu,34.037,41.013,seismic,0.010306,0,,517.19,inferred,567
+DNZ,Denizli-Bayindirlik ve Iskan Mudurlugu,29.114,37.813,seismic,0.00799,0,,281.66,inferred,454
+AYD,Aydin-Hayvan Hastanesi,27.838,37.837,seismic,0.005878,0,,277.29,inferred,301
+TKT,Tokat-DSI Misafirhanesi,36.554,40.328,seismic,0.001133,0,,301.91,inferred,476

@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1995
+Country,Turkey
+Region,Dinar
+Event_Name,Dinar
+Local_Date,01/10/1995
+Local_Time,15:57:16
+Latitude,38.063
+Longitude,30.134
+Depth_(km),33
+Mw,6.4
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Normal
+Tectonic_region_type,Active Shallow Crust
+Fatalities,90-95
+Injured,200-348
+Displaced_Population,40000
+Affected_Population,120000
+Affected_Units,
+Damaged_Units,2473-5100 Buildings
+Collapsed_Units,
+Economic_Losses,205.8 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000749b/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1995_Dinar_earthquake

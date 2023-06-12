@@ -1,0 +1,14 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+302,,30.15373,38.0599,seismic,0.320762,0.0,C,198.0,C,288.0
+2006,,29.668,37.825,seismic,0.091094,0.0,B,395.0,B,480.0
+1501,,30.29399,37.72197,seismic,0.039539,0.0,C,335.0,C,442.0
+2002,,29.11113,37.81247,seismic,0.015521,0.0,C,356.0,C,362.0
+1004,,27.88771,39.62192,seismic,0.00464,0.0,C,311.0,C,296.0
+1602,,29.05087,40.19405,seismic,0.002438,0.0,C,272.0,C,604.0
+3502,,27.22673,38.45514,seismic,0.001931,0.0,C,270.0,C,354.0
+DIN,Dinar-Meteoroloji Mudurlugu,30.155,38.06,seismic,0.319388,0.0,,290.49,inferred,290.0
+BRD,Burdur-Meteoroloji Mudurgulu,30.294,37.723,seismic,0.039184,0.0,,442.02,inferred,442.0
+DNZ,Denizli-Bayindirlik ve Iskan Mudurlugu,29.114,37.813,seismic,0.015714,0.0,,454.46,inferred,454.0
+BLK,Balikesir-Bayindirlik ve Iskan Mudurlugu,27.883,39.65,seismic,0.004622,0.0,,382.91,inferred,383.0
+BUR,Bursa-Bayindirlik ve Iskan Mudurlugu,29.08,40.17,seismic,0.002378,0.0,,760.0,inferred,900.0
+IZM1,Izmir-Meteoroloji Istasyonu,27.167,38.4,seismic,0.001867,0.0,,760.0,inferred,480.0

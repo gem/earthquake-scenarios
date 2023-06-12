@@ -1,0 +1,58 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+5401,,30.38005,40.73707,seismic,0.391351,0,B,412,B,321
+8101,,31.148112,40.843923,seismic,0.365925,0,C,282,C,257
+4106,,29.45003,40.78627,seismic,0.263359,0,B,701,B,509
+4101,,29.91721,40.7665,seismic,0.228298,0,A,826,A,591
+1404,,30.78307,40.39659,seismic,0.137991,0,C,348,C,415
+1612,,29.71688,40.44163,seismic,0.123308,0,C,197,C,270
+3403,,28.7587,41.02646,seismic,0.11736,0,C,283,C,360
+5902,,27.51504,40.97928,seismic,0.115819,0,B,409,B,487
+5903,,27.95033,40.97297,seismic,0.100882,0,B,595,B,322
+3401,,29.00951,41.0582,seismic,0.060037,0,B,595,B,429
+4302,,29.99716,39.4193,seismic,0.059626,0,B,595,B,449
+1604,,29.1273,40.1831,seismic,0.054222,0,B,459,B,624
+1701,,26.39948,40.14145,seismic,0.028641,0,C,192,C,289
+1001,,27.85686,39.65003,seismic,0.018151,0,B,662,B,492
+301,,30.53395,38.77598,seismic,0.015014,0,C,226,C,243
+6401,,29.40401,38.67128,seismic,0.01432,0,C,285,C,375
+4501,,27.38138,38.61259,seismic,0.012164,0,B,340,B,468
+3701,,34.03671,41.01319,seismic,0.011632,0,C,362,C,567
+2002,,29.11113,37.81247,seismic,0.011519,0,C,356,C,362
+3502,,27.22673,38.45514,seismic,0.0108,0,C,270,C,354
+901,,27.83812,37.83657,seismic,0.005959,0,C,311,C,301
+6001,,36.55522,40.32915,seismic,0.001103,0,C,324,C,500
+SKR,Sakarya-Bayindirlik ve Iskan Mudurlugu,30.379,40.737,seismic,0.361224,0,,349.52,inferred,278
+DZC,Duzce-Meteoroloji Mudurlugu,31.151,40.843,seismic,0.361224,0,,265.76,inferred,257
+YPT,Yarimca-Petkim,29.765,40.756,seismic,0.295918,0,,457.91,inferred,384
+ATS,Ambarli-Termik Santrali,28.693,40.981,seismic,0.263265,0,,600,inferred,305
+GBZ,Gebze-Tubitak Marmara Arastirma Merkezi,29.448,40.788,seismic,0.237755,0,,294.94,inferred,363
+IZT,Izmit-Meteoroloji Istasyonu,29.907,40.761,seismic,0.223469,0,,587.9,inferred,600
+ARC,Gebze-Arcelik,29.361,40.824,seismic,0.209184,0,,317.9,inferred,371
+FAT,Fatih-Tomb,28.95,41.02,seismic,0.179592,0,,391.99,inferred,351
+CNAK,Cekmece-Kucuk,28.759,41.024,seismic,0.173469,0,,345.49,inferred,360
+ATK,Istanbul-Atakoy,28.849,40.989,seismic,0.164286,0,,411.18,inferred,350
+GYN,Goynuk-Devlet Hastanesi,30.734,40.381,seismic,0.137755,0,,900,inferred,314
+KMP,Istanbul-K.M.Pasa,28.928,41.003,seismic,0.130612,0,,414.99,inferred,369
+IZN,Iznik-Karayollari Sefligi Muracaati,29.691,40.437,seismic,0.129592,0,,600,inferred,600
+ZYT,Istanbul-Zeytinburnu,28.908,40.986,seismic,0.114286,0,,376.29,inferred,354
+HAS,Heybeliada-Senatoryum,29.088,40.869,seismic,0.106122,0,,600,inferred,336
+ERG,Eregli-Kaymakamlik Binasi,27.79,40.98,seismic,0.102041,0,,600,inferred,600
+BUR,Bursa-Tofa Fabrikasi,29.068,40.261,seismic,0.101122,0,,348.8,inferred,264
+BTS,Botas-Gas Terminal,27.98,40.992,seismic,0.099388,0,,288.31,inferred,600
+DHM,Yesilkoy-Havaalani,28.82,40.982,seismic,0.088878,0,,300.46,inferred,335
+MCD,Istanbul-Mecidiyekoy,28.997,41.065,seismic,0.063061,0,,292.53,inferred,293
+KUT,Kutahya-Sivil Savunma Mudurlugu,29.997,39.419,seismic,0.06051,0,,272.85,inferred,449
+BRS,Bursa-Sivil Savunma Mudurluga,29.131,40.183,seismic,0.058061,0,,900,inferred,657
+MSK,Istanbul-Maslak,29.019,41.104,seismic,0.048673,0,,356.47,inferred,346
+YKP,Yapi-Kredi Plaza Levent,29.011,41.081,seismic,0.03551,0,,292.53,inferred,288
+CNK,Canakkale-Meteoroloji Istasyonu,26.402,40.142,seismic,0.029388,0,,266.13,inferred,289
+GRD,Gerede,32.186,40.799,seismic,0.024796,0,,607.94,inferred,599
+BLK,Balikesir-Bayindirlik ve Iskan Mudurlugu,27.883,39.65,seismic,0.01602,0,,413.42,inferred,383
+AFY,Afyon-Bayindirlik ve Iskan Mudurlugu,30.561,38.792,seismic,0.014694,0,,257.95,inferred,231
+USK,Usak-Meteorologji Mudurlugu,29.404,38.671,seismic,0.013776,0,,407.69,inferred,375
+MNS,Manisa-Bayindirlik Mudurlugu,27.45,38.58,seismic,0.012143,0,,900,inferred,900
+BRN,Bornova-Eylul Universite Ziraat Fakultesi,27.229,38.455,seismic,0.010918,0,,444.19,inferred,354
+TOS,Tosya-Meteoroloji Mudurlugu,34.037,41.013,seismic,0.010306,0,,517.19,inferred,567
+DNZ,Denizli-Bayindirlik ve Iskan Mudurlugu,29.114,37.813,seismic,0.00799,0,,281.66,inferred,454
+AYD,Aydin-Hayvan Hastanesi,27.838,37.837,seismic,0.005878,0,,277.29,inferred,301
+TKT,Tokat-DSI Misafirhanesi,36.554,40.328,seismic,0.001133,0,,301.91,inferred,476

@@ -1,0 +1,55 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+6503,,43.76302,38.99011,seismic,0.178349,0,unknown,488.22,unknown,415
+401,,43.0164,39.71978,seismic,0.018335,0,C,295,C,297
+1206,,41.00883,39.29345,seismic,0.011078,0,C,356,C,460
+7201,,41.15112,37.873,seismic,0.008594,0,B,450,B,312
+1211,,41.0504,38.96616,seismic,0.004585,0,B,463,B,681
+2407,,40.39108,39.77665,seismic,0.003432,0,C,320,C,500
+6303,,39.3291,37.7524,seismic,0.003059,0,A,986,A,432
+205,,38.61597,37.79177,seismic,0.002968,0,B,660,B,339
+4609,,36.91505,37.57532,seismic,0.002126,0,C,317,C,572
+2307,,39.93199,38.69583,seismic,0.002117,0,C,329,C,413
+4701,,40.72374,37.32632,seismic,0.002003,0,unknown,709,unknown,509
+2304,,39.86293,38.72096,seismic,0.001664,0,B,489,B,597
+6901,,40.2101,40.2623,seismic,0.001344,0,B,519,B,479
+2401,,39.51152,39.74183,seismic,0.001311,0,C,314,C,325
+2902,,39.43658,40.12439,seismic,0.001235,0,B,594,B,421
+2305,,40.13103,38.72778,seismic,0.001145,0,A,907,A,900
+208,,37.65275,37.78694,seismic,0.001118,0,B,469,B,491
+4404,,38.87385,38.19588,seismic,0.000992,0,unknown,1380,unknown,654
+6503,"Muradiye, MUR",43.763,38.99,seismic,0.18196,0,,488.22,inferred,415
+1302,"Merkez, BTLS",42.15,38.466,seismic,0.0914,0,,794.05,inferred,794
+5326,Qareziaoddin,45.02,38.888,seismic,0.0398,0,,405.95,inferred,290
+5325,Siah-Cheshmeh,44.386,39.066,seismic,0.0316,0,,379.03,inferred,424
+GNI,"Garni, Armenia",44.741,40.148,seismic,0.019319,0,,574.3,inferred,733
+401,"Merkez, AGR",43.016,39.72,seismic,0.01882,0,,298.82,inferred,297
+5322,Avagiq,44.16,39.332,seismic,0.0143,0,,461.33,inferred,403
+4901,"Merkez, MUS",41.504,38.761,seismic,0.01051,0,,349.78,inferred,427
+5329,Qotoor,44.406,38.479,seismic,0.0102,0,,587.96,inferred,486
+5601,"Merkez, SIRT",41.931,37.912,seismic,0.0101,0,,570.08,inferred,497
+5323,Makoo,44.445,39.294,seismic,0.0092,0,,784.95,inferred,573
+7201,"Merkez, BTMN",41.151,37.873,seismic,0.00846,0,,336.51,inferred,312
+5327,Salmas1,44.848,38.201,seismic,0.0082,0,,289.89,inferred,263
+1206,"Karliova, KRL",41.009,39.293,seismic,0.00767,0,,628.07,inferred,460
+5324,Khoy,44.956,38.546,seismic,0.0061,0,,313.23,inferred,287
+5328,Seylab,44.764,38.313,seismic,0.0061,0,,387.17,inferred,838
+5330,Pol Dasht,45.06,39.354,seismic,0.0061,0,,243.12,inferred,299
+1211,"Solhan, SLHAN",41.05,38.966,seismic,0.00468,0,,681.06,inferred,681
+205,"Kahta, KAHTA",38.616,37.792,seismic,0.00303,0,,253.3,inferred,339
+MARD,"Mardin, Turkey",40.778,37.313,seismic,0.002755,0,,590.07,inferred,579
+KOPT,"Kop Dagi, Turkey",40.497,40.018,seismic,0.002455,0,,494.27,inferred,612
+2407,"Tercan, TRCAN",40.391,39.777,seismic,0.00242,0,,574.58,inferred,500
+4701,"Merkez, MRD",40.724,37.326,seismic,0.00205,0,,438.73,inferred,509
+6303,"Siverek, SVREK",39.329,37.752,seismic,0.00205,0,,367.45,inferred,432
+4609,"Merkez, MARAS",36.915,37.575,seismic,0.00177,0,,760,inferred,572
+2401,"Merkez, ERC",39.512,39.742,seismic,0.00157,0,,338.07,inferred,325
+2304,"Kovancilar, KOVAN",39.864,38.722,seismic,0.00149,0,,511.54,inferred,597
+6901,"Merkez, BAYB",40.21,40.262,seismic,0.00138,0,,304.29,inferred,479
+2305,"Beyhan, BEYHN",40.131,38.728,seismic,0.00123,0,,424.42,inferred,900
+208,"Golbasi, GOLBS",37.653,37.787,seismic,0.00114,0,,447.87,inferred,491
+2902,"Kelkit, KELKT",39.437,40.124,seismic,0.00108,0,,328.61,inferred,421
+4404,"Poturge, POT",38.524,38.117,seismic,0.00102,0,,718.74,inferred,558
+ARTV,"Artvin, Turkey",41.928,41.185,seismic,0.000558,0,,900,inferred,766
+KIV,"Kislovodsk, Stavropol'skiy Kray, Russia",42.686,43.955,seismic,0.000138,0,,760,inferred,824
+BR131,"Keskin Array Site 131, Turkey",33.639,39.725,seismic,7.20E-05,0,,760,inferred,500
+TOKA,"Tokat, Turkey",36.478,40.323,seismic,5.00E-06,0,,760,inferred,619
