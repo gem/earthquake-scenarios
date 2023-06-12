@@ -1,0 +1,110 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+ALM,ALMERIA,-2.4597,36.8525,seismic,447.28,2.8,0.63,0.0,0.001918,0.0,0.3089,,,,,,,inferred,Stations_USGS
+DUR,DURCAL,-3.565,36.9867,seismic,457.38,2.9,0.63,0.0,0.001302,0.0,0.3575,,,,,,,inferred,Stations_USGS
+EALB,EALB,-3.0343,35.9399,seismic,600.0,5.0,0.63,0.0,0.447378,0.0,5.7635,0.0,0.088333,0.0,0.042668,0.0,0.027113,inferred,Stations_USGS
+MAL,MALAGA,-4.4111,36.7275,seismic,477.83,2.4,0.63,0.0,0.004564,0.0,0.1638,,,,,,,inferred,Stations_USGS
+CAC,CACIN,-3.9167,37.0614,seismic,324.76,2.5,0.63,0.0,0.001603,0.0,0.1679,,,,,,,inferred,Stations_USGS
+EBER,EBER,-2.8896,36.8979,seismic,900.0,4.1,0.63,0.0,0.007881,0.0,2.3469,0.0,0.020364,0.0,0.015685,0.0,0.004916,inferred,Stations_USGS
+ADR,ADRA,-3.0125,36.7569,seismic,640.58,2.4,0.63,0.0,0.002174,0.0,0.1809,,,,,,,inferred,Stations_USGS
+JAY,JAYENA,-3.8217,36.9501,seismic,395.46,3.2,0.63,0.0,0.003389,0.0,0.5561,,,,,,,inferred,Stations_USGS
+MPD,MALAGA_(PLD._MARTIN_CARPENA),-4.4583,36.6861,seismic,259.84,3.0,0.63,0.0,0.003538,0.0,0.4699,,,,,,,inferred,Stations_USGS
+OBS_13,Beni Abdellah (Intensity IX),-4.0727,35.0556,macroseismic,587.04,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBS_12,Barrage Abdelkrim Khattabi (dam) (Intensity VIII),-3.8185,35.0887,macroseismic,379.51,8.0,0.3,0.8059,0.623641,0.875,49.7549,1.0131,1.032266,1.0822,0.586835,1.4737,0.113766,inferred,Stations_USGS
+OBS_39,Tamoujjout (Intensity VIII),-3.9826,35.2072,macroseismic,464.92,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_15,Almunecar (Intensity II),-3.6909,36.7344,macroseismic,381.34,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_10,Imarnissene,-4.0741,35.1073,macroseismic,745.86,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBS_2,Ait Aziz (Intensity IX),-3.9443,35.0704,macroseismic,528.04,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBSIGN_11,Fuengirola (Intensity III),-4.6237,36.539,macroseismic,297.9,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_16,Boudinar (Intensity VI),-3.6332,35.1542,macroseismic,482.11,6.0,0.3,0.8059,0.153618,0.875,11.5857,1.0131,0.312591,1.0822,0.131981,1.4737,0.027431,inferred,Stations_USGS
+OBSHahou_3,Izemmourene,-3.9985,35.1897,macroseismic,623.42,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_20,El_Ejido (Intensity II),-2.8149,36.7757,macroseismic,409.73,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_33,Rabat (Intensity III),-6.83,34.02,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_29,Las_Palmas_de_Gran_Canaria (Intensity II),-15.414,28.0997,macroseismic,760.0,1.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_3,Marbella (Intensity III),-4.884,36.5096,macroseismic,430.06,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_14,Beni Bouayach (Intensity VII),-3.8411,35.1045,macroseismic,389.02,7.0,0.3,0.8059,0.346601,0.875,24.0093,1.0131,0.602863,1.0822,0.259653,1.4737,0.051686,inferred,Stations_USGS
+OBSIGN_4,Malaga (Intensity III),-4.4199,36.7203,macroseismic,600.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_42,Taza (Intensity V),-4.01,34.21,macroseismic,435.44,5.0,0.3,0.8059,0.061889,0.875,5.5907,1.0131,0.14014,1.0822,0.071126,1.4737,0.015545,inferred,Stations_USGS
+OBSIGN_1,Melilla (Intensity V),-2.9412,35.2962,macroseismic,438.16,5.0,0.3,0.8059,0.06185,0.875,5.5907,1.0131,0.140026,1.0822,0.071153,1.4737,0.015551,inferred,Stations_USGS
+OBSHahou_4,Ait Messaoud,-3.9655,35.1458,macroseismic,281.79,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_2,Guadix (Intensity III),-3.1363,37.3016,macroseismic,453.22,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_38,Tala Youssef (Intensity VII),-3.9845,35.2315,macroseismic,838.5,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBSIGN_19,Villanueva_de_los_Infantes (Intensity II),-3.015,38.737,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_17,Cordoba (Intensity II),-4.7803,37.8795,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_19,Izannayene,-3.7409,35.0535,macroseismic,706.97,6.0,0.3,0.8059,0.164135,0.875,11.5857,1.0131,0.323665,1.0822,0.126731,1.4737,0.026211,inferred,Stations_USGS
+OBSIGN_14,Huelva (Intensity II),-6.9504,37.26,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_8,Tirhaza,-4.1925,35.1498,macroseismic,754.47,7.0,0.3,0.8059,0.354461,0.875,24.0093,1.0131,0.610012,1.0822,0.256109,1.4737,0.050896,inferred,Stations_USGS
+OBS_17,Boukhlifa (Intensity VIII),-4.04,35.07,macroseismic,708.71,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSHahou_17,Bades,-4.2955,35.1688,macroseismic,688.73,6.0,0.3,0.8059,0.165787,0.875,11.5857,1.0131,0.325374,1.0822,0.125955,1.4737,0.026031,inferred,Stations_USGS
+OBS_18,Boussekkour (Intensity VIII),-4.01,35.24,macroseismic,600.0,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_18,Jaen (Intensity II),-3.7903,37.7651,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_47,Trougout (Intensity VII),-3.78,35.19,macroseismic,382.79,7.0,0.3,0.8059,0.329436,0.875,24.0093,1.0131,0.586978,1.0822,0.267864,1.4737,0.053521,inferred,Stations_USGS
+OBSHahou_20,Sa'ida,-3.6428,35.2118,macroseismic,478.76,6.0,0.3,0.8059,0.156404,0.875,11.5857,1.0131,0.315558,1.0822,0.130535,1.4737,0.027094,inferred,Stations_USGS
+OBS_44,Tazourakht (Intensity VII),-3.8164,35.0093,macroseismic,478.41,7.0,0.3,0.8059,0.326205,0.875,24.0093,1.0131,0.583945,1.0822,0.269487,1.4737,0.053884,inferred,Stations_USGS
+OBSIGN_27,San_Pedro_de_Alcantara (Intensity II),-4.9906,36.4868,macroseismic,398.8,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_23,Imzouren (Intensity IX),-3.85,35.14,macroseismic,411.07,9.0,0.3,0.8059,1.235067,0.875,103.1077,1.0131,1.858924,1.0822,1.250577,1.4737,0.234447,inferred,Stations_USGS
+OBSHahou_13,Bni Bouayach,-3.8423,35.1092,macroseismic,389.02,7.0,0.3,0.8059,0.347761,0.875,24.0093,1.0131,0.603923,1.0822,0.259122,1.4737,0.051567,inferred,Stations_USGS
+OBSHahou_2,Toussarte,-4.0976,35.2087,macroseismic,900.0,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_9,Adra (Intensity III),-3.0233,36.7486,macroseismic,545.32,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_27,Khmis des Temsaman (Intensity VI),-3.63,35.12,macroseismic,378.03,6.0,0.3,0.8059,0.152327,0.875,11.5857,1.0131,0.311208,1.0822,0.132665,1.4737,0.02759,inferred,Stations_USGS
+OBS_43,Tazarine (Intensity VIII),-4.06,35.12,macroseismic,710.28,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSHahou_11,Bni Abdellah,-4.0741,35.0543,macroseismic,587.04,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBSHahou_7,Al Hoceima,-3.935,35.2518,macroseismic,367.52,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_15,Beni Hadifa (Intensity VII),-4.13,35.03,macroseismic,543.71,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBSIGN_23,Torremolinos (Intensity II),-4.4975,36.6211,macroseismic,486.85,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_22,Ronda (Intensity II),-5.1654,36.7372,macroseismic,493.88,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_16,Rabda,-3.7644,35.2452,macroseismic,585.6,7.0,0.3,0.8059,0.328766,0.875,24.0093,1.0131,0.586351,1.0822,0.268198,1.4737,0.053596,inferred,Stations_USGS
+OBSHahou_18,Senada,-4.2182,35.074,macroseismic,369.35,6.0,0.3,0.8059,0.18803,0.875,11.5857,1.0131,0.347638,1.0822,0.116602,1.4737,0.023875,inferred,Stations_USGS
+OBS_25,Izemmouren (Intensity VIII),-3.995,35.185,macroseismic,342.4,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_7,Ajdir (Intensity VIII),-3.9,35.2,macroseismic,558.42,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_19,Club Med (Hotel) (Intensity VII),-3.8969,35.2082,macroseismic,505.57,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBSHahou_6,Boussekkour,-3.9592,35.2439,macroseismic,679.3,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_10,Arhbal (Intensity VIII),-4.07,35.17,macroseismic,541.43,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_24,Izbariyine (Intensity VII),-4.14,35.16,macroseismic,484.78,7.0,0.3,0.8059,0.391178,0.875,24.0093,1.0131,0.642454,1.0822,0.241095,1.4737,0.047564,inferred,Stations_USGS
+OBS_31,Nador (Intensity V),-2.93,35.18,macroseismic,492.92,5.0,0.3,0.8059,0.061493,0.875,5.5907,1.0131,0.138987,1.0822,0.071406,1.4737,0.015613,inferred,Stations_USGS
+OBS_20,Dar Tazammourt (Intensity VIII),-4.08,35.09,macroseismic,786.12,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_10,Roquetas_de_Mar (Intensity III),-2.615,36.7646,macroseismic,294.69,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_6,Algeciras (Intensity III),-5.4477,36.1313,macroseismic,355.51,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_9,Rouadi,-4.1377,35.142,macroseismic,553.71,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBS_9,Al Hoceima (Intensity VI),-3.915,35.246,macroseismic,600.0,6.0,0.3,0.8059,0.212182,0.875,11.5857,1.0131,0.37044,1.0822,0.108277,1.4737,0.021973,inferred,Stations_USGS
+OBS_41,Taouessart (Intensity VII),-4.08,35.2,macroseismic,466.2,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBS_11,Azghar (Intensity VIII),-3.9033,35.1809,macroseismic,412.69,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_26,Picanya (Intensity II),-0.4357,39.4359,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_28,Chimeneas (Intensity II),-3.8211,37.1326,macroseismic,418.28,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_24,Boumeddour,-3.6226,35.0607,macroseismic,843.45,4.7,0.3,0.8059,0.066798,0.875,4.493,1.0131,0.130667,1.0822,0.047705,1.4737,0.010314,inferred,Stations_USGS
+OBSIGN_13,Granada (Intensity II),-3.6,37.1764,macroseismic,483.91,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_37,Tafensa (Intensity VIII),-4.02,35.2,macroseismic,642.78,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBS_26,Kenitra (Intensity III),-6.57,34.27,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_6,Ait Youssef ou Ali (Intensity IX),-3.92,35.17,macroseismic,569.85,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBS_21,Fes (Intensity IV),-4.98,34.06,macroseismic,435.94,4.0,0.3,0.8059,0.020992,0.875,2.0945,1.0131,0.031013,1.0822,0.026402,1.4737,0.005358,inferred,Stations_USGS
+OBS_36,Sidi Bouafif (Intensity VII),-3.8722,35.1739,macroseismic,506.84,7.0,0.3,0.8059,0.374672,0.875,24.0093,1.0131,0.628057,1.0822,0.24755,1.4737,0.048993,inferred,Stations_USGS
+OBSHahou_21,Ras Tarf,-3.692,35.2844,macroseismic,447.75,6.0,0.3,0.8059,0.165027,0.875,11.5857,1.0131,0.324588,1.0822,0.126311,1.4737,0.026114,inferred,Stations_USGS
+OBS_32,Oukrichen (Intensity IX),-4.06,35.06,macroseismic,593.04,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBSHahou_22,L'assoutene,-3.6033,35.1595,macroseismic,544.51,5.5,0.3,0.8059,0.11031,0.875,8.0482,1.0131,0.234226,1.0822,0.08983,1.4737,0.018971,inferred,Stations_USGS
+OBSIGN_24,Madrid (Intensity II),-3.6876,40.4084,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_1,Aeroport (Intensity VII),-3.845,35.181,macroseismic,286.32,7.0,0.3,0.8059,0.358667,0.875,24.0093,1.0131,0.613807,1.0822,0.254264,1.4737,0.050485,inferred,Stations_USGS
+OBS_4,Ait Kamra (Intensity IX),-3.98,35.12,macroseismic,839.82,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBSHahou_14,Imzouren,-3.8472,35.1438,macroseismic,411.07,7.0,0.3,0.8059,0.354743,0.875,24.0093,1.0131,0.610268,1.0822,0.255984,1.4737,0.050868,inferred,Stations_USGS
+OBS_5,Ait Messaoud (Intensity IX),-3.9688,35.1428,macroseismic,281.79,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBS_8,Al Ars (Intensity VII),-4.17,35.08,macroseismic,563.79,7.0,0.3,0.8059,0.382039,0.875,24.0093,1.0131,0.63452,1.0822,0.244614,1.4737,0.048342,inferred,Stations_USGS
+OBS_3,Ait Daoud (Intensity IX),-4.0389,35.1214,macroseismic,598.05,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBSHahou_12,Mnoud,-3.8431,35.0588,macroseismic,626.56,7.0,0.3,0.8059,0.342189,0.875,24.0093,1.0131,0.598816,1.0822,0.2617,1.4737,0.052142,inferred,Stations_USGS
+OBS_30,Mnoud (Intensity VI),-3.8407,35.0519,macroseismic,749.41,6.0,0.3,0.8059,0.182653,0.875,11.5857,1.0131,0.342375,1.0822,0.118694,1.4737,0.024355,inferred,Stations_USGS
+OBSIGN_12,Arenas_de_Rey (Intensity II),-3.8943,36.9578,macroseismic,443.94,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_5,Ait Kamra,-3.9832,35.1249,macroseismic,346.16,8.0,0.3,0.8059,0.736631,0.875,49.7549,1.0131,1.126702,1.0822,0.529899,1.4737,0.10147,inferred,Stations_USGS
+OBSIGN_5,Estepona (Intensity III),-5.1463,36.4265,macroseismic,395.63,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_15,Imhaouchene,-3.7402,35.2014,macroseismic,726.02,7.0,0.3,0.8059,0.31652,0.875,24.0093,1.0131,0.574765,1.0822,0.274511,1.4737,0.055012,inferred,Stations_USGS
+OBS_46,Tirhanimine (Intensity VII),-3.9614,35.2405,macroseismic,679.3,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBS_45,Tetouan (Intensity III),-5.3713,35.5714,macroseismic,668.87,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_7,Alhaurin_de_la_Torre (Intensity III),-4.5604,36.6631,macroseismic,488.75,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_1,Tafesna,-4.0291,35.2054,macroseismic,407.28,9.0,0.3,0.8059,1.372525,0.875,103.1077,1.0131,1.964966,1.0822,1.172251,1.4737,0.218054,inferred,Stations_USGS
+OBS_28,Meknes (Intensity IV),-5.55,33.88,macroseismic,335.83,4.0,0.3,0.8059,0.017101,0.875,2.0945,1.0131,0.027766,1.0822,0.02921,1.4737,0.006236,inferred,Stations_USGS
+OBS_34,Rouadi (Intensity VII),-4.13,35.14,macroseismic,522.68,7.0,0.3,0.8059,0.395348,0.875,24.0093,1.0131,0.646046,1.0822,0.239533,1.4737,0.047218,inferred,Stations_USGS
+OBS_29,Melilla (Intensity V),-2.95,35.29,macroseismic,338.91,5.0,0.3,0.8059,0.061998,0.875,5.5907,1.0131,0.140458,1.0822,0.071049,1.4737,0.015526,inferred,Stations_USGS
+OBSIGN_8,Motril (Intensity III),-3.5212,36.7457,macroseismic,453.33,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_40,Tanger (Intensity III),-5.81,35.78,macroseismic,474.64,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_21,Rincon_de_la_Victoria (Intensity II),-4.2923,36.7163,macroseismic,522.34,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_22,Ifassiyine (Intensity IX),-3.9079,35.1203,macroseismic,372.28,9.0,0.3,0.8059,1.360865,0.875,103.1077,1.0131,1.956173,1.0822,1.178397,1.4737,0.219335,inferred,Stations_USGS
+OBS_35,Sebta (Intensity II),-5.3225,35.8924,macroseismic,386.72,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSIGN_16,Benalmadena (Intensity II),-4.5724,36.593,macroseismic,893.62,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBSHahou_23,Bni Boufrah,-4.3132,35.0962,macroseismic,484.3,4.7,0.3,0.8059,0.07382,0.875,4.493,1.0131,0.148617,1.0822,0.043831,1.4737,0.009159,inferred,Stations_USGS
+OBSIGN_25,Ceuta (Intensity II),-5.3067,35.8881,macroseismic,369.27,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS

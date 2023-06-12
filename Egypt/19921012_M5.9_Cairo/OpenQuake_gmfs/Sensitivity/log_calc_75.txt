@@ -1,0 +1,23 @@
+job_id: 75
+job_description: 19921012_M5.9_Cairo median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Egypt/19921012_M5.9_Cairo/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 1721375642 (total size 516.77 KB)
+Extracting the hazard sites from the site model
+Read N=9665 hazard sites and L=1 hazard levels
+Reading station data from /Users/martina.caruso/Documents/wip/ecd/Egypt/19921012_M5.9_Cairo/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: -0.046, Nominal bias stddev: 0.333
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.023, Nominal bias stddev: 0.285
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: -0.107, Nominal bias stddev: 0.264
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: -0.001, Nominal bias stddev: 0.281
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '906.93 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 316 seconds from event_based
+Stored 453.2 KB of GMFs
+Exposing the outputs to the database
+Stored 1.43 MB on /Users/martina.caruso/oqdata/calc_75.hdf5 in 317 seconds

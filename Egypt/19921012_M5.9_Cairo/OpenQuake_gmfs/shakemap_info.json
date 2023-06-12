@@ -1,0 +1,346 @@
+{
+    "multigmpe": {
+        "PGA": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[NGAEast]"
+                    ],
+                    "weights": [
+                        1.0
+                    ],
+                    "name": "stable_continental_ngae"
+                }
+            ],
+            "weights": [
+                0.663499851053,
+                0.336500148947
+            ],
+            "name": "gmpe_usp0005f89_custom"
+        },
+        "SA(0.3)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[NGAEast]"
+                    ],
+                    "weights": [
+                        1.0
+                    ],
+                    "name": "stable_continental_ngae"
+                }
+            ],
+            "weights": [
+                0.663499851053,
+                0.336500148947
+            ],
+            "name": "gmpe_usp0005f89_custom"
+        },
+        "SA(1.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[NGAEast]"
+                    ],
+                    "weights": [
+                        1.0
+                    ],
+                    "name": "stable_continental_ngae"
+                }
+            ],
+            "weights": [
+                0.663499851053,
+                0.336500148947
+            ],
+            "name": "gmpe_usp0005f89_custom"
+        },
+        "SA(3.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[NGAEast]"
+                    ],
+                    "weights": [
+                        1.0
+                    ],
+                    "name": "stable_continental_ngae"
+                }
+            ],
+            "weights": [
+                0.663499851053,
+                0.336500148947
+            ],
+            "name": "gmpe_usp0005f89_custom"
+        },
+        "PGV": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[NGAEast]"
+                    ],
+                    "weights": [
+                        1.0
+                    ],
+                    "name": "stable_continental_ngae"
+                }
+            ],
+            "weights": [
+                0.663499851053,
+                0.336500148947
+            ],
+            "name": "gmpe_usp0005f89_custom"
+        }
+    },
+    "input": {
+        "event_information": {
+            "depth": "21.5",
+            "event_id": "usp0005f89",
+            "eventsource": "us",
+            "netid": "us",
+            "eventsourcecode": "p0005f89",
+            "id": "usp0005f89",
+            "productcode": "usp0005f89",
+            "productsource": "atlas",
+            "producttype": "shakemap",
+            "event_ref": "Source: Badawy, A., and Monus, P. (1995). Dynamic source parameters of the 12th October 1992 earthquake, Cairo, Egypt. J. Geodynamics 20, 2, 99-109. Other dimensions from Wells and Coppersmith (1994)",
+            "fault_ref": "Source: Badawy, A., and Monus, P. (1995). Dynamic source parameters of the 12th October 1992 earthquake, Cairo, Egypt. J. Geodynamics 20, 2, 99-109. Other dimensions from Wells and Coppersmith (1994)",
+            "intensity_observations": "21",
+            "latitude": "29.778",
+            "longitude": "31.144",
+            "location": "Egypt",
+            "magnitude": "5.8",
+            "origin_time": "1992-10-12T13:09:55.000000Z",
+            "seismic_stations": "0",
+            "src_mech": "NM",
+            "event_description": "ShakeMap Atlas v4",
+            "event_type": "ACTUAL"
+        }
+    },
+    "strec": {
+        "TectonicRegion": "Active",
+        "FocalMechanism": "NM",
+        "TensorType": "composite",
+        "TensorSource": "composite",
+        "KaganAngle": null,
+        "CompositeVariability": 0.0,
+        "NComposite": 1,
+        "DistanceToStable": 49.284065638728535,
+        "DistanceToActive": 0,
+        "DistanceToSubduction": null,
+        "DistanceToVolcanic": null,
+        "Oceanic": false,
+        "DistanceToOceanic": null,
+        "DistanceToContinental": 0,
+        "SlabModelRegion": "Helanic",
+        "SlabModelDepth": null,
+        "SlabModelDepthUncertainty": null,
+        "SlabModelDip": null,
+        "SlabModelStrike": null,
+        "SlabModelMaximumDepth": null
+    },
+    "output": {
+        "ground_motions": {
+            "SA(1.0)": {
+                "units": "g",
+                "bias": "0.61",
+                "max_grid": "0.373",
+                "max": "0.373"
+            },
+            "PGV": {
+                "units": "cms",
+                "bias": "0.579",
+                "max_grid": "3.518",
+                "max": "3.518"
+            },
+            "SA(0.3)": {
+                "units": "g",
+                "bias": "0.396",
+                "max_grid": "0.814",
+                "max": "0.814"
+            },
+            "SA(3.0)": {
+                "units": "g",
+                "bias": "0.738",
+                "max_grid": "0.079",
+                "max": "0.079"
+            },
+            "PGA": {
+                "units": "g",
+                "bias": "0.388",
+                "max_grid": "0.472",
+                "max": "0.472"
+            },
+            "MMI": {
+                "units": "intensity",
+                "bias": "0.862",
+                "max_grid": "7.669",
+                "max": "7.669"
+            }
+        },
+        "map_information": {
+            "grid_points": {
+                "longitude": "331",
+                "latitude": "291",
+                "units": ""
+            },
+            "grid_spacing": {
+                "longitude": "0.0083333",
+                "latitude": "0.0083333",
+                "units": "degrees"
+            },
+            "grid_span": {
+                "longitude": "2.75",
+                "latitude": "2.417",
+                "units": "degrees"
+            },
+            "min": {
+                "longitude": "29.867",
+                "latitude": "28.55",
+                "units": "degrees"
+            },
+            "max": {
+                "longitude": "32.617",
+                "latitude": "30.967",
+                "units": "degrees"
+            }
+        },
+        "uncertainty": {
+            "grade": "B",
+            "mean_uncertainty_ratio": "0.974",
+            "total_flagged_mi": "0",
+            "total_flagged_pgm": "0"
+        }
+    },
+    "processing": {
+        "ground_motion_modules": {
+            "gmpe": {
+                "module": "gmpe_usp0005f89_custom",
+                "reference": ""
+            },
+            "ipe": {
+                "module": "VirtualIPE",
+                "reference": ""
+            },
+            "gmice": {
+                "module": "WGRW12",
+                "reference": ""
+            },
+            "ccf": {
+                "module": "LothBaker2013",
+                "reference": ""
+            },
+            "basin_correction": {
+                "module": "None",
+                "reference": ""
+            },
+            "directivity": {
+                "module": "None",
+                "reference": ""
+            }
+        },
+        "miscellaneous": {
+            "bias_max_dsigma": "1.5",
+            "bias_max_mag": "7.7",
+            "bias_max_range": "120.0",
+            "median_dist": "True",
+            "do_outliers": true,
+            "outlier_deviation_level": "3.0",
+            "outlier_max_mag": "7.0"
+        },
+        "shakemap_versions": {
+            "shakemap_revision": "4.0.2+335.gcbad862",
+            "shakemap_revision_id": "cbad8622bd520e1936447620edfb3a4feea1a8d9",
+            "process_time": "2020-06-03T15:52:05Z",
+            "map_version": 1,
+            "map_comment": "ShakeMap Atlas v4",
+            "map_data_history": [
+                [
+                    "2020-06-03T15:51:17Z",
+                    "atlas",
+                    1,
+                    "ShakeMap Atlas v4"
+                ]
+            ],
+            "map_status": "automatic"
+        },
+        "site_response": {
+            "vs30default": "760.0",
+            "site_correction": "GMPE native"
+        }
+    }
+}

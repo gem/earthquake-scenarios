@@ -1,0 +1,12 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+TZA,Tanzania,17.0,17.0,440.0,,139161.0,,,,,458000000.0,,USD,,,EM-DAT,Total adjusted damages are 517085000 USD
+UGA,Uganda,4.0,4.0,,590.0,,,,,,,,,,,EM-DAT,
+TZA,Tanzania,23.0,23.0,252.0,,,,6281.0,1172.0,Buildings,458000000.0,,USD,,,NOAA,Impact values appear to include Uganda
+TZA,Tanzania,19.0,19.0,253.0,,,,1264.0,840.0,Buildings,,,,,,USGS,"""Several thousand displaced""; damage reports from Bukoba"
+UGA,Uganda,4.0,4.0,7.0,,,,,118.0,Buildings,,,,,,USGS,Damage reports from Rakai and Minziro
+TZA,Tanzania,17.0,17.0,252.0,,,,1250.0,840.0,Buildings,,,,,,AP/Tanzania PM,https://web.archive.org/web/20160914161327/http://www.therepublic.com/2016/09/13/af-tanzania-earthquake-2/
+TZA,Tanzania,,,,,,,,7500.0,Buildings,,,,,,ReliefWeb,https://reliefweb.int/disaster/eq-2016-000098-tza
+UGA,Uganda,,,,,1170.0,,,,,,,,,,ReliefWeb,https://reliefweb.int/disaster/eq-2016-000098-tza
+TZA,Tanzania,20.0,20.0,269.0,,,,1125.0,905.0,Buildings,,,,,,Tanzanian Red Cross,https://reliefweb.int/report/united-republic-tanzania/tanzania-earthquake-emergency-plan-action-update-epoa-n-mdrtz020-0
+TZA,Tanzania,20.0,20.0,269.0,,,,2029.0,270.0,Buildings,,,,,,Tanzanian Red Cross,https://m.reliefweb.int/disaster/36681/eq-2016-000098-tza
+TZA,Tanzania,,,,10000.0,,,,,,,,,,,IDMC,https://www.internal-displacement.org/database/displacement-data

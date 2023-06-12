@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "reference": "Origin",
+        "id": "us10008e3k",
+        "network": "USGS National Earthquake Information Center, PDE",
+        "netid": "us",
+        "productcode": "us10008e3k",
+        "time": "2017-04-03T17:40:18.000000Z",
+        "lat": -22.6784,
+        "lon": 25.1558,
+        "depth": 29.0,
+        "mag": 6.5,
+        "locstring": "132km WSW of Moijabana, Botswana",
+        "mech": "ALL",
+        "rake": 0.0
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1558,
+                    -22.6784,
+                    29.0
+                ]
+            }
+        }
+    ]
+}

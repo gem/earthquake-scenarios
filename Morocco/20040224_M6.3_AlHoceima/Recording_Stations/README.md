@@ -1,0 +1,13 @@
+# RECORDING STATIONS
+
+![](recording_stations.png)
+
+
+## Reference datasets
+
+The reference datasets were used in the following priority order:
+
+- `Stations_USGS`: USGS Recording stations. Raw file `stationlist.json`. Last accessed November 2022.
+
+
+

@@ -1,0 +1,15 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+OBS_1,Bakobu  Tanzania (Intensity VII),31.805,-1.3296,macroseismic,512.23,null,null,0.8059,0.244551,0.875,22.4853,1.0131,0.516025,1.0822,0.277425,1.4737,0.058445,inferred,Stations_USGS
+UTM:(36N 0630 0119 1000),,34.1729,1.0809,macroseismic,760.0,3.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36N 0722 0112 1000),,34.9995,1.0172,macroseismic,760.0,null,null,0.8059,0.03974,0.875,4.8679,1.0131,0.080173,1.0822,0.071583,1.4737,0.016645,inferred,Stations_USGS
+UTM:(35M 0705 9723 1000),,28.8482,-2.5003,macroseismic,760.0,2.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36M 0172 9784 1000),,30.0565,-1.9471,macroseismic,438.32,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(35M 0747 9814 1000),,29.2246,-1.677,macroseismic,760.0,3.1,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36M 0172 9785 1000),,30.0565,-1.9381,macroseismic,517.81,3.7,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36N 0455 0036 1000),,32.6001,0.3302,macroseismic,336.16,3.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36N 0454 0035 1000),,32.5911,0.3212,macroseismic,295.42,3.3,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(35M 0748 9813 1000),,29.2336,-1.686,macroseismic,760.0,2.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36N 0453 0038 1000),,32.5821,0.3483,macroseismic,282.8,4.5,0.3,0.8059,0.032037,0.875,3.6371,1.0131,0.055208,1.0822,0.048012,1.4737,0.011183,inferred,Stations_USGS
+UTM:(36M 0488 9721 1000),,32.8965,-2.5197,macroseismic,375.54,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(36N 0453 0034 1000),,32.5821,0.3121,macroseismic,385.82,4.5,0.3,0.8059,0.032407,0.875,3.6371,1.0131,0.055552,1.0822,0.04787,1.4737,0.011146,inferred,Stations_USGS
+UTM:(36N 0438 0007 1000),,32.4473,0.0678,macroseismic,388.53,3.7,0.3,,,,,,,,,,,inferred,Stations_USGS

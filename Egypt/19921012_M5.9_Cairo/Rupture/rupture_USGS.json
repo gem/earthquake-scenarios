@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "netid": "us",
+        "depth": 21.5,
+        "mech": "ALL",
+        "lon": 31.144,
+        "network": "USGS National Earthquake Information Center, PDE",
+        "mag": 5.8,
+        "time": "1992-10-12T13:09:55.000000Z",
+        "id": "usp0005f89",
+        "locstring": "Egypt",
+        "reference": "Source: Badawy, A., and Monus, P. (1995). Dynamic source parameters of the 12th October 1992 earthquake, Cairo, Egypt. J. Geodynamics 20, 2, 99-109. Other dimensions from Wells and Coppersmith (1994)",
+        "rake": 0.0,
+        "lat": 29.778,
+        "productcode": "usp0005f89"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                31.27835124,
+                                29.80754602,
+                                12.76320044
+                            ],
+                            [
+                                31.21326613,
+                                29.82870182,
+                                12.76320044
+                            ],
+                            [
+                                31.158,
+                                29.729,
+                                22.0
+                            ],
+                            [
+                                31.22308511,
+                                29.7078442,
+                                22.0
+                            ],
+                            [
+                                31.27835124,
+                                29.80754602,
+                                12.76320044
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

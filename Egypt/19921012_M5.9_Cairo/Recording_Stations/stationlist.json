@@ -1,0 +1,3473 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_13",
+            "properties": {
+                "code": "OBS_13",
+                "name": "El (Intensity VI)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 12.8263,
+                "pgv": 10.7089,
+                "distance": 49.316,
+                "elev": null,
+                "vs30": 240.87,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.5524,
+                        "value_rock": 4.0911,
+                        "value_soil": 4.7002,
+                        "units": "intensity",
+                        "tau": 0.46,
+                        "phi": 0.9597,
+                        "sigma": 1.0642,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.0666,
+                        "bias": 0.9482,
+                        "bias_sigma": 0.2581
+                    },
+                    {
+                        "name": "pga",
+                        "value": 6.6265,
+                        "value_rock": 4.7489,
+                        "value_soil": 7.0302,
+                        "units": "%g",
+                        "ln_tau": 0.3494,
+                        "ln_phi": 0.5258,
+                        "ln_sigma": 0.6313,
+                        "ln_sigma_rock": 0.6569,
+                        "ln_sigma_soil": 0.6256,
+                        "ln_bias": 0.3911,
+                        "ln_bias_sigma": 0.2042
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 13.3742,
+                        "value_rock": 6.4587,
+                        "value_soil": 14.8868,
+                        "units": "%g",
+                        "ln_tau": 0.3263,
+                        "ln_phi": 0.585,
+                        "ln_sigma": 0.6699,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6625,
+                        "ln_bias": 0.4001,
+                        "ln_bias_sigma": 0.2194
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 3.9482,
+                        "value_rock": 1.4571,
+                        "value_soil": 4.6402,
+                        "units": "%g",
+                        "ln_tau": 0.3692,
+                        "ln_phi": 0.624,
+                        "ln_sigma": 0.725,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7261,
+                        "ln_bias": 0.6102,
+                        "ln_bias_sigma": 0.2444
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.5691,
+                        "value_rock": 0.2162,
+                        "value_soil": 0.6849,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 3.7294,
+                        "value_rock": 2.0399,
+                        "value_soil": 4.1534,
+                        "units": "cm/s",
+                        "ln_tau": 0.3352,
+                        "ln_phi": 0.5275,
+                        "ln_sigma": 0.625,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6272,
+                        "ln_bias": 0.5793,
+                        "ln_bias_sigma": 0.2104
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 12.3489,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 29.3957,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.6993,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 12.8263,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 48.201,
+                    "rhypo": 52.778,
+                    "rjb": 44.214,
+                    "rjb_var": 0.0,
+                    "rrup": 49.316,
+                    "rrup_var": 0.0,
+                    "rx": 55.245,
+                    "ry0": 11.724
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9,
+                    29.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_6",
+            "properties": {
+                "code": "BMOBS_6",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 26.7647,
+                "pgv": 22.1923,
+                "distance": 32.7,
+                "elev": null,
+                "vs30": 295.12,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.1759,
+                        "value_rock": 4.4856,
+                        "value_soil": 5.3794,
+                        "units": "intensity",
+                        "tau": 0.4604,
+                        "phi": 0.9694,
+                        "sigma": 1.0732,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.062,
+                        "bias": 0.9488,
+                        "bias_sigma": 0.2581
+                    },
+                    {
+                        "name": "pga",
+                        "value": 11.1041,
+                        "value_rock": 8.6918,
+                        "value_soil": 11.8346,
+                        "units": "%g",
+                        "ln_tau": 0.3476,
+                        "ln_phi": 0.5323,
+                        "ln_sigma": 0.6358,
+                        "ln_sigma_rock": 0.6566,
+                        "ln_sigma_soil": 0.6126,
+                        "ln_bias": 0.3897,
+                        "ln_bias_sigma": 0.2038
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 20.1354,
+                        "value_rock": 11.3417,
+                        "value_soil": 23.125,
+                        "units": "%g",
+                        "ln_tau": 0.3254,
+                        "ln_phi": 0.5898,
+                        "ln_sigma": 0.6736,
+                        "ln_sigma_rock": 0.6969,
+                        "ln_sigma_soil": 0.6461,
+                        "ln_bias": 0.3991,
+                        "ln_bias_sigma": 0.2192
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 5.7182,
+                        "value_rock": 2.4699,
+                        "value_soil": 7.5073,
+                        "units": "%g",
+                        "ln_tau": 0.3695,
+                        "ln_phi": 0.6266,
+                        "ln_sigma": 0.7275,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7219,
+                        "ln_bias": 0.6107,
+                        "ln_bias_sigma": 0.2446
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.8282,
+                        "value_rock": 0.3581,
+                        "value_soil": 1.1258,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.8744,
+                        "value_rock": 3.5523,
+                        "value_soil": 6.8132,
+                        "units": "cm/s",
+                        "ln_tau": 0.3355,
+                        "ln_phi": 0.5368,
+                        "ln_sigma": 0.633,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.623,
+                        "ln_bias": 0.5797,
+                        "ln_bias_sigma": 0.2105
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 25.4863,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 54.4115,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 5.3665,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 26.7647,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 30.59,
+                    "rhypo": 37.39,
+                    "rjb": 24.235,
+                    "rjb_var": 0.0,
+                    "rrup": 32.7,
+                    "rrup_var": 0.0,
+                    "rx": 36.55,
+                    "ry0": 0.0
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.13565,
+                    29.50299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_2",
+            "properties": {
+                "code": "OBS_2",
+                "name": "El (Intensity VII)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 34.5435,
+                "pgv": 22.1923,
+                "distance": 12.96,
+                "elev": null,
+                "vs30": 236.17,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 6.7435,
+                        "value_rock": 6.1391,
+                        "value_soil": 6.7464,
+                        "units": "intensity",
+                        "tau": 0.4489,
+                        "phi": 0.9511,
+                        "sigma": 1.0517,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0492,
+                        "bias": 0.9336,
+                        "bias_sigma": 0.2561
+                    },
+                    {
+                        "name": "pga",
+                        "value": 30.9942,
+                        "value_rock": 29.1202,
+                        "value_soil": 29.6697,
+                        "units": "%g",
+                        "ln_tau": 0.3185,
+                        "ln_phi": 0.5026,
+                        "ln_sigma": 0.595,
+                        "ln_sigma_rock": 0.6556,
+                        "ln_sigma_soil": 0.5796,
+                        "ln_bias": 0.3657,
+                        "ln_bias_sigma": 0.1974
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 50.7725,
+                        "value_rock": 35.596,
+                        "value_soil": 46.3317,
+                        "units": "%g",
+                        "ln_tau": 0.2914,
+                        "ln_phi": 0.5545,
+                        "ln_sigma": 0.6264,
+                        "ln_sigma_rock": 0.6967,
+                        "ln_sigma_soil": 0.6038,
+                        "ln_bias": 0.3589,
+                        "ln_bias_sigma": 0.2078
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 18.3427,
+                        "value_rock": 7.5155,
+                        "value_soil": 19.2709,
+                        "units": "%g",
+                        "ln_tau": 0.3612,
+                        "ln_phi": 0.6161,
+                        "ln_sigma": 0.7142,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7087,
+                        "ln_bias": 0.5985,
+                        "ln_bias_sigma": 0.2421
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.7474,
+                        "value_rock": 1.046,
+                        "value_soil": 3.231,
+                        "units": "%g",
+                        "ln_tau": 0.3963,
+                        "ln_phi": 0.6011,
+                        "ln_sigma": 0.7199,
+                        "ln_sigma_rock": 0.7301,
+                        "ln_sigma_soil": 0.7298,
+                        "ln_bias": 0.7381,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 18.4084,
+                        "value_rock": 11.8515,
+                        "value_soil": 18.4486,
+                        "units": "cm/s",
+                        "ln_tau": 0.3271,
+                        "ln_phi": 0.5192,
+                        "ln_sigma": 0.6136,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6113,
+                        "ln_bias": 0.5681,
+                        "ln_bias_sigma": 0.2084
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 21.7968,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 62.2218,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 4.5038,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 34.5435,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 15.252,
+                    "rhypo": 26.36,
+                    "rjb": 2.254,
+                    "rjb_var": 0.0,
+                    "rrup": 12.96,
+                    "rrup_var": 0.0,
+                    "rx": 0.052,
+                    "ry0": 2.255
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3,
+                    29.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_12",
+            "properties": {
+                "code": "BMOBS_12",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 14.3355,
+                "pgv": 10.7089,
+                "distance": 32.942,
+                "elev": null,
+                "vs30": 324.63,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.1172,
+                        "value_rock": 4.4704,
+                        "value_soil": 5.3661,
+                        "units": "intensity",
+                        "tau": 0.4616,
+                        "phi": 0.971,
+                        "sigma": 1.0751,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0621,
+                        "bias": 0.9504,
+                        "bias_sigma": 0.2584
+                    },
+                    {
+                        "name": "pga",
+                        "value": 10.8039,
+                        "value_rock": 8.5881,
+                        "value_soil": 11.717,
+                        "units": "%g",
+                        "ln_tau": 0.3501,
+                        "ln_phi": 0.5348,
+                        "ln_sigma": 0.6392,
+                        "ln_sigma_rock": 0.6566,
+                        "ln_sigma_soil": 0.6128,
+                        "ln_bias": 0.3916,
+                        "ln_bias_sigma": 0.2043
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 19.1624,
+                        "value_rock": 11.2145,
+                        "value_soil": 22.9339,
+                        "units": "%g",
+                        "ln_tau": 0.3286,
+                        "ln_phi": 0.593,
+                        "ln_sigma": 0.678,
+                        "ln_sigma_rock": 0.6969,
+                        "ln_sigma_soil": 0.6464,
+                        "ln_bias": 0.4025,
+                        "ln_bias_sigma": 0.2201
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 5.27,
+                        "value_rock": 2.4436,
+                        "value_soil": 7.4362,
+                        "units": "%g",
+                        "ln_tau": 0.3704,
+                        "ln_phi": 0.6276,
+                        "ln_sigma": 0.7288,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.722,
+                        "ln_bias": 0.612,
+                        "ln_bias_sigma": 0.2448
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.7667,
+                        "value_rock": 0.3545,
+                        "value_soil": 1.1147,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.6282,
+                        "value_rock": 3.5131,
+                        "value_soil": 6.7476,
+                        "units": "cm/s",
+                        "ln_tau": 0.3364,
+                        "ln_phi": 0.5384,
+                        "ln_sigma": 0.6348,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6231,
+                        "ln_bias": 0.5809,
+                        "ln_bias_sigma": 0.2107
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 11.535,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 31.1661,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.5007,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 14.3355,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 35.368,
+                    "rhypo": 41.39,
+                    "rjb": 24.651,
+                    "rjb_var": 0.0,
+                    "rrup": 32.942,
+                    "rrup_var": 0.0,
+                    "rx": 28.033,
+                    "ry0": 17.898
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.34978,
+                    29.51497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_12",
+            "properties": {
+                "code": "OBS_12",
+                "name": "Msagid (Intensity VI)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 12.7251,
+                "pgv": 10.7089,
+                "distance": 50.755,
+                "elev": null,
+                "vs30": 526.55,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.2116,
+                        "value_rock": 4.068,
+                        "value_soil": 4.6548,
+                        "units": "intensity",
+                        "tau": 0.2161,
+                        "phi": 0.7183,
+                        "sigma": 0.7501,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.0669,
+                        "bias": 0.449,
+                        "bias_sigma": 0.1776
+                    },
+                    {
+                        "name": "pga",
+                        "value": 5.1519,
+                        "value_rock": 4.559,
+                        "value_soil": 6.7792,
+                        "units": "%g",
+                        "ln_tau": 0.3597,
+                        "ln_phi": 0.5426,
+                        "ln_sigma": 0.651,
+                        "ln_sigma_rock": 0.6569,
+                        "ln_sigma_soil": 0.6263,
+                        "ln_bias": 0.3988,
+                        "ln_bias_sigma": 0.2062
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 8.0941,
+                        "value_rock": 6.2213,
+                        "value_soil": 14.4313,
+                        "units": "%g",
+                        "ln_tau": 0.3388,
+                        "ln_phi": 0.6024,
+                        "ln_sigma": 0.6911,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6634,
+                        "ln_bias": 0.4135,
+                        "ln_bias_sigma": 0.2231
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 1.9778,
+                        "value_rock": 1.4082,
+                        "value_soil": 4.4955,
+                        "units": "%g",
+                        "ln_tau": 0.372,
+                        "ln_phi": 0.6293,
+                        "ln_sigma": 0.731,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7264,
+                        "ln_bias": 0.6143,
+                        "ln_bias_sigma": 0.2453
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.294,
+                        "value_rock": 0.2092,
+                        "value_soil": 0.6632,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7203,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7386,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 2.4635,
+                        "value_rock": 1.9674,
+                        "value_soil": 4.0183,
+                        "units": "cm/s",
+                        "ln_tau": 0.3385,
+                        "ln_phi": 0.5404,
+                        "ln_sigma": 0.6376,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6274,
+                        "ln_bias": 0.5837,
+                        "ln_bias_sigma": 0.2112
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 12.4091,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 29.2735,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.7141,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 12.7251,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 55.252,
+                    "rhypo": 59.288,
+                    "rjb": 45.818,
+                    "rjb_var": 0.0,
+                    "rrup": 50.755,
+                    "rrup_var": 0.0,
+                    "rx": 52.106,
+                    "ry0": 21.784
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3,
+                    29.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_1",
+            "properties": {
+                "code": "OBS_1",
+                "name": "Helwan (Intensity VII)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 30.5908,
+                "pgv": 22.1923,
+                "distance": 20.14,
+                "elev": null,
+                "vs30": 373.45,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.8184,
+                        "value_rock": 5.2886,
+                        "value_soil": 6.0676,
+                        "units": "intensity",
+                        "tau": 0.4622,
+                        "phi": 0.9714,
+                        "sigma": 1.0758,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0555,
+                        "bias": 0.9512,
+                        "bias_sigma": 0.2585
+                    },
+                    {
+                        "name": "pga",
+                        "value": 18.0889,
+                        "value_rock": 15.6288,
+                        "value_soil": 18.9241,
+                        "units": "%g",
+                        "ln_tau": 0.3476,
+                        "ln_phi": 0.533,
+                        "ln_sigma": 0.6363,
+                        "ln_sigma_rock": 0.6561,
+                        "ln_sigma_soil": 0.5957,
+                        "ln_bias": 0.3897,
+                        "ln_bias_sigma": 0.2038
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 30.1997,
+                        "value_rock": 19.6878,
+                        "value_soil": 33.4485,
+                        "units": "%g",
+                        "ln_tau": 0.3281,
+                        "ln_phi": 0.5924,
+                        "ln_sigma": 0.6772,
+                        "ln_sigma_rock": 0.6968,
+                        "ln_sigma_soil": 0.6247,
+                        "ln_bias": 0.4021,
+                        "ln_bias_sigma": 0.22
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 8.1214,
+                        "value_rock": 4.2206,
+                        "value_soil": 12.0574,
+                        "units": "%g",
+                        "ln_tau": 0.3707,
+                        "ln_phi": 0.628,
+                        "ln_sigma": 0.7292,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7158,
+                        "ln_bias": 0.6124,
+                        "ln_bias_sigma": 0.2449
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 1.1713,
+                        "value_rock": 0.6087,
+                        "value_soil": 1.8963,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7201,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7299,
+                        "ln_bias": 0.7384,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 9.3818,
+                        "value_rock": 6.377,
+                        "value_soil": 11.25,
+                        "units": "cm/s",
+                        "ln_tau": 0.3368,
+                        "ln_phi": 0.5388,
+                        "ln_sigma": 0.6354,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.617,
+                        "ln_bias": 0.5815,
+                        "ln_bias_sigma": 0.2108
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 23.4823,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 58.371,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 4.8959,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 30.5908,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 28.173,
+                    "rhypo": 35.44,
+                    "rjb": 15.595,
+                    "rjb_var": 0.0,
+                    "rrup": 20.14,
+                    "rrup_var": 0.0,
+                    "rx": -13.749,
+                    "ry0": 7.373
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4,
+                    29.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_2",
+            "properties": {
+                "code": "BMOBS_2",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 29.1118,
+                "pgv": 22.1923,
+                "distance": 24.106,
+                "elev": null,
+                "vs30": 612.47,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.1484,
+                        "value_rock": 4.964,
+                        "value_soil": 5.7939,
+                        "units": "intensity",
+                        "tau": 0.4645,
+                        "phi": 0.9731,
+                        "sigma": 1.0783,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0581,
+                        "bias": 0.9541,
+                        "bias_sigma": 0.2589
+                    },
+                    {
+                        "name": "pga",
+                        "value": 13.0966,
+                        "value_rock": 12.3127,
+                        "value_soil": 15.7083,
+                        "units": "%g",
+                        "ln_tau": 0.3592,
+                        "ln_phi": 0.5421,
+                        "ln_sigma": 0.6503,
+                        "ln_sigma_rock": 0.6563,
+                        "ln_sigma_soil": 0.6025,
+                        "ln_bias": 0.3984,
+                        "ln_bias_sigma": 0.2061
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 18.0994,
+                        "value_rock": 15.7151,
+                        "value_soil": 28.9592,
+                        "units": "%g",
+                        "ln_tau": 0.339,
+                        "ln_phi": 0.6027,
+                        "ln_sigma": 0.6915,
+                        "ln_sigma_rock": 0.6969,
+                        "ln_sigma_soil": 0.6334,
+                        "ln_bias": 0.4138,
+                        "ln_bias_sigma": 0.2232
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 4.0935,
+                        "value_rock": 3.391,
+                        "value_soil": 9.9707,
+                        "units": "%g",
+                        "ln_tau": 0.372,
+                        "ln_phi": 0.6293,
+                        "ln_sigma": 0.731,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7184,
+                        "ln_bias": 0.6143,
+                        "ln_bias_sigma": 0.2453
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.597,
+                        "value_rock": 0.4926,
+                        "value_soil": 1.54,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7386,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.7577,
+                        "value_rock": 5.0339,
+                        "value_soil": 9.216,
+                        "units": "cm/s",
+                        "ln_tau": 0.3385,
+                        "ln_phi": 0.5404,
+                        "ln_sigma": 0.6377,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6194,
+                        "ln_bias": 0.5837,
+                        "ln_bias_sigma": 0.2112
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 24.2065,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 56.8699,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 5.0654,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 29.1118,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 28.468,
+                    "rhypo": 35.675,
+                    "rjb": 20.471,
+                    "rjb_var": 0.0,
+                    "rrup": 24.106,
+                    "rrup_var": 0.0,
+                    "rx": -20.521,
+                    "ry0": 0.0
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.28804,
+                    30.0015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_8",
+            "properties": {
+                "code": "BMOBS_8",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 13.7498,
+                "pgv": 10.7089,
+                "distance": 38.323,
+                "elev": null,
+                "vs30": 247.47,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.9724,
+                        "value_rock": 4.3054,
+                        "value_soil": 5.1147,
+                        "units": "intensity",
+                        "tau": 0.4589,
+                        "phi": 0.9602,
+                        "sigma": 1.0642,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.064,
+                        "bias": 0.9468,
+                        "bias_sigma": 0.2579
+                    },
+                    {
+                        "name": "pga",
+                        "value": 9.2261,
+                        "value_rock": 6.8691,
+                        "value_soil": 9.7029,
+                        "units": "%g",
+                        "ln_tau": 0.3458,
+                        "ln_phi": 0.5241,
+                        "ln_sigma": 0.6279,
+                        "ln_sigma_rock": 0.6567,
+                        "ln_sigma_soil": 0.618,
+                        "ln_bias": 0.3883,
+                        "ln_bias_sigma": 0.2034
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 17.8376,
+                        "value_rock": 9.1002,
+                        "value_soil": 19.5897,
+                        "units": "%g",
+                        "ln_tau": 0.3225,
+                        "ln_phi": 0.5823,
+                        "ln_sigma": 0.6657,
+                        "ln_sigma_rock": 0.697,
+                        "ln_sigma_soil": 0.6531,
+                        "ln_bias": 0.3958,
+                        "ln_bias_sigma": 0.2183
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 5.2887,
+                        "value_rock": 2.0051,
+                        "value_soil": 6.2217,
+                        "units": "%g",
+                        "ln_tau": 0.3684,
+                        "ln_phi": 0.6236,
+                        "ln_sigma": 0.7243,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7237,
+                        "ln_bias": 0.6091,
+                        "ln_bias_sigma": 0.2442
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.7578,
+                        "value_rock": 0.2934,
+                        "value_soil": 0.9254,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.0646,
+                        "value_rock": 2.8536,
+                        "value_soil": 5.618,
+                        "units": "cm/s",
+                        "ln_tau": 0.3344,
+                        "ln_phi": 0.528,
+                        "ln_sigma": 0.6249,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6248,
+                        "ln_bias": 0.5782,
+                        "ln_bias_sigma": 0.2102
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 11.8338,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 30.49,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.5734,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 13.7498,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 33.837,
+                    "rhypo": 40.09,
+                    "rjb": 31.434,
+                    "rjb_var": 0.0,
+                    "rrup": 38.323,
+                    "rrup_var": 0.0,
+                    "rx": 38.093,
+                    "ry0": 18.997
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.89123,
+                    29.56737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_9",
+            "properties": {
+                "code": "BMOBS_9",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 12.1296,
+                "pgv": 10.7089,
+                "distance": 60.392,
+                "elev": null,
+                "vs30": 186.68,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.3904,
+                        "value_rock": 3.9346,
+                        "value_soil": 4.4009,
+                        "units": "intensity",
+                        "tau": 0.2133,
+                        "phi": 0.7131,
+                        "sigma": 0.7443,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 0.747,
+                        "bias": 0.4411,
+                        "bias_sigma": 0.176
+                    },
+                    {
+                        "name": "pga",
+                        "value": 5.4038,
+                        "value_rock": 3.584,
+                        "value_soil": 5.4564,
+                        "units": "%g",
+                        "ln_tau": 0.3476,
+                        "ln_phi": 0.5218,
+                        "ln_sigma": 0.627,
+                        "ln_sigma_rock": 0.657,
+                        "ln_sigma_soil": 0.6305,
+                        "ln_bias": 0.3897,
+                        "ln_bias_sigma": 0.2038
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 11.8062,
+                        "value_rock": 5.0012,
+                        "value_soil": 11.9942,
+                        "units": "%g",
+                        "ln_tau": 0.3235,
+                        "ln_phi": 0.5807,
+                        "ln_sigma": 0.6648,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6686,
+                        "ln_bias": 0.3969,
+                        "ln_bias_sigma": 0.2186
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 3.66,
+                        "value_rock": 1.1586,
+                        "value_soil": 3.7475,
+                        "units": "%g",
+                        "ln_tau": 0.368,
+                        "ln_phi": 0.6222,
+                        "ln_sigma": 0.7229,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7276,
+                        "ln_bias": 0.6085,
+                        "ln_bias_sigma": 0.2441
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.5379,
+                        "value_rock": 0.1738,
+                        "value_soil": 0.5523,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 3.2598,
+                        "value_rock": 1.5964,
+                        "value_soil": 3.3141,
+                        "units": "cm/s",
+                        "ln_tau": 0.334,
+                        "ln_phi": 0.5234,
+                        "ln_sigma": 0.6209,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6287,
+                        "ln_bias": 0.5777,
+                        "ln_bias_sigma": 0.2102
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 12.779,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 28.5451,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.8049,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 12.1296,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 59.942,
+                    "rhypo": 63.682,
+                    "rjb": 56.34,
+                    "rjb_var": 0.0,
+                    "rrup": 60.392,
+                    "rrup_var": 0.0,
+                    "rx": 65.681,
+                    "ry0": 19.19
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.79033,
+                    29.33533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_10",
+            "properties": {
+                "code": "BMOBS_10",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 11.5904,
+                "pgv": 10.7089,
+                "distance": 71.221,
+                "elev": null,
+                "vs30": 186.74,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.2761,
+                        "value_rock": 3.8129,
+                        "value_soil": 4.2872,
+                        "units": "intensity",
+                        "tau": 0.2137,
+                        "phi": 0.7134,
+                        "sigma": 0.7447,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 0.7474,
+                        "bias": 0.4425,
+                        "bias_sigma": 0.1763
+                    },
+                    {
+                        "name": "pga",
+                        "value": 4.4054,
+                        "value_rock": 2.8722,
+                        "value_soil": 4.4519,
+                        "units": "%g",
+                        "ln_tau": 0.3503,
+                        "ln_phi": 0.5239,
+                        "ln_sigma": 0.6302,
+                        "ln_sigma_rock": 0.6571,
+                        "ln_sigma_soil": 0.634,
+                        "ln_bias": 0.3918,
+                        "ln_bias_sigma": 0.2043
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 9.9479,
+                        "value_rock": 4.1157,
+                        "value_soil": 10.1203,
+                        "units": "%g",
+                        "ln_tau": 0.3266,
+                        "ln_phi": 0.5835,
+                        "ln_sigma": 0.6687,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6728,
+                        "ln_bias": 0.4004,
+                        "ln_bias_sigma": 0.2195
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 3.1177,
+                        "value_rock": 0.9782,
+                        "value_soil": 3.1954,
+                        "units": "%g",
+                        "ln_tau": 0.3687,
+                        "ln_phi": 0.6228,
+                        "ln_sigma": 0.7238,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7286,
+                        "ln_bias": 0.6095,
+                        "ln_bias_sigma": 0.2443
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.4599,
+                        "value_rock": 0.1483,
+                        "value_soil": 0.4724,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 2.7255,
+                        "value_rock": 1.3192,
+                        "value_soil": 2.7731,
+                        "units": "cm/s",
+                        "ln_tau": 0.3348,
+                        "ln_phi": 0.5241,
+                        "ln_sigma": 0.6219,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6298,
+                        "ln_bias": 0.5788,
+                        "ln_bias_sigma": 0.2103
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 13.1401,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 27.8709,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.8939,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 11.5904,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 74.645,
+                    "rhypo": 77.68,
+                    "rjb": 67.855,
+                    "rjb_var": 0.0,
+                    "rrup": 71.221,
+                    "rrup_var": 0.0,
+                    "rx": 79.571,
+                    "ry0": 8.892
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.07645,
+                    29.10928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_4",
+            "properties": {
+                "code": "BMOBS_4",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 31.8647,
+                "pgv": 22.1923,
+                "distance": 17.369,
+                "elev": null,
+                "vs30": 285.75,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 6.2137,
+                        "value_rock": 5.5793,
+                        "value_soil": 6.3061,
+                        "units": "intensity",
+                        "tau": 0.4564,
+                        "phi": 0.9651,
+                        "sigma": 1.0676,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0531,
+                        "bias": 0.9436,
+                        "bias_sigma": 0.2574
+                    },
+                    {
+                        "name": "pga",
+                        "value": 22.6116,
+                        "value_rock": 19.4541,
+                        "value_soil": 22.3105,
+                        "units": "%g",
+                        "ln_tau": 0.3351,
+                        "ln_phi": 0.5216,
+                        "ln_sigma": 0.6199,
+                        "ln_sigma_rock": 0.6559,
+                        "ln_sigma_soil": 0.5895,
+                        "ln_bias": 0.3798,
+                        "ln_bias_sigma": 0.2012
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 38.5476,
+                        "value_rock": 24.2783,
+                        "value_soil": 37.9447,
+                        "units": "%g",
+                        "ln_tau": 0.3121,
+                        "ln_phi": 0.5771,
+                        "ln_sigma": 0.6561,
+                        "ln_sigma_rock": 0.6967,
+                        "ln_sigma_soil": 0.6166,
+                        "ln_bias": 0.3839,
+                        "ln_bias_sigma": 0.215
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 11.9168,
+                        "value_rock": 5.1688,
+                        "value_soil": 14.2992,
+                        "units": "%g",
+                        "ln_tau": 0.3669,
+                        "ln_phi": 0.6237,
+                        "ln_sigma": 0.7236,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7132,
+                        "ln_bias": 0.6069,
+                        "ln_bias_sigma": 0.2438
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 1.7285,
+                        "value_rock": 0.7355,
+                        "value_soil": 2.285,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7201,
+                        "ln_sigma_rock": 0.7301,
+                        "ln_sigma_soil": 0.7299,
+                        "ln_bias": 0.7383,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 12.5137,
+                        "value_rock": 7.8816,
+                        "value_soil": 13.3847,
+                        "units": "cm/s",
+                        "ln_tau": 0.3326,
+                        "ln_phi": 0.5327,
+                        "ln_sigma": 0.628,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6149,
+                        "ln_bias": 0.5758,
+                        "ln_bias_sigma": 0.2098
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 22.9024,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 59.6365,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 4.7606,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 31.8647,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 21.186,
+                    "rhypo": 30.184,
+                    "rjb": 10.651,
+                    "rjb_var": 0.0,
+                    "rrup": 17.369,
+                    "rrup_var": 0.0,
+                    "rx": 6.052,
+                    "ry0": 10.142
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.35464,
+                    29.72455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_1",
+            "properties": {
+                "code": "BMOBS_1",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 8.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 60.1791,
+                "pgv": 45.9895,
+                "distance": 16.539,
+                "elev": null,
+                "vs30": 269.75,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 6.471,
+                        "value_rock": 5.8569,
+                        "value_soil": 6.5077,
+                        "units": "intensity",
+                        "tau": 0.4545,
+                        "phi": 0.961,
+                        "sigma": 1.063,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0519,
+                        "bias": 0.941,
+                        "bias_sigma": 0.2571
+                    },
+                    {
+                        "name": "pga",
+                        "value": 27.2345,
+                        "value_rock": 24.3644,
+                        "value_soil": 26.0261,
+                        "units": "%g",
+                        "ln_tau": 0.3306,
+                        "ln_phi": 0.516,
+                        "ln_sigma": 0.6128,
+                        "ln_sigma_rock": 0.6558,
+                        "ln_sigma_soil": 0.5863,
+                        "ln_bias": 0.3761,
+                        "ln_bias_sigma": 0.2002
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 45.4599,
+                        "value_rock": 30.0257,
+                        "value_soil": 42.4169,
+                        "units": "%g",
+                        "ln_tau": 0.3063,
+                        "ln_phi": 0.5705,
+                        "ln_sigma": 0.6475,
+                        "ln_sigma_rock": 0.6967,
+                        "ln_sigma_soil": 0.6122,
+                        "ln_bias": 0.3771,
+                        "ln_bias_sigma": 0.213
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 14.6533,
+                        "value_rock": 6.2859,
+                        "value_soil": 16.4431,
+                        "units": "%g",
+                        "ln_tau": 0.3654,
+                        "ln_phi": 0.6216,
+                        "ln_sigma": 0.721,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7118,
+                        "ln_bias": 0.6046,
+                        "ln_bias_sigma": 0.2433
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.0931,
+                        "value_rock": 0.8612,
+                        "value_soil": 2.67,
+                        "units": "%g",
+                        "ln_tau": 0.3963,
+                        "ln_phi": 0.6011,
+                        "ln_sigma": 0.72,
+                        "ln_sigma_rock": 0.7301,
+                        "ln_sigma_soil": 0.7299,
+                        "ln_bias": 0.7383,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 15.0941,
+                        "value_rock": 9.6486,
+                        "value_soil": 15.5031,
+                        "units": "cm/s",
+                        "ln_tau": 0.3311,
+                        "ln_phi": 0.5288,
+                        "ln_sigma": 0.6239,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6138,
+                        "ln_bias": 0.5738,
+                        "ln_bias_sigma": 0.2094
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 50.2473,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 45.9895,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 104.747,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 10.1357,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 60.1791,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 8.192,
+                    "rhypo": 23.008,
+                    "rjb": 0.0,
+                    "rjb_var": 0.0,
+                    "rrup": 16.539,
+                    "rrup_var": 0.0,
+                    "rx": 10.577,
+                    "ry0": 0.0
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.20741,
+                    29.72904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_11",
+            "properties": {
+                "code": "BMOBS_11",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 13.3263,
+                "pgv": 10.7089,
+                "distance": 42.928,
+                "elev": null,
+                "vs30": 329.35,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.6323,
+                        "value_rock": 4.2081,
+                        "value_soil": 4.9278,
+                        "units": "intensity",
+                        "tau": 0.4625,
+                        "phi": 0.9716,
+                        "sigma": 1.0761,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.0652,
+                        "bias": 0.9515,
+                        "bias_sigma": 0.2585
+                    },
+                    {
+                        "name": "pga",
+                        "value": 7.4849,
+                        "value_rock": 5.8167,
+                        "value_soil": 8.4045,
+                        "units": "%g",
+                        "ln_tau": 0.3534,
+                        "ln_phi": 0.5375,
+                        "ln_sigma": 0.6433,
+                        "ln_sigma_rock": 0.6568,
+                        "ln_sigma_soil": 0.6216,
+                        "ln_bias": 0.3941,
+                        "ln_bias_sigma": 0.205
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 13.6211,
+                        "value_rock": 7.7951,
+                        "value_soil": 17.346,
+                        "units": "%g",
+                        "ln_tau": 0.3319,
+                        "ln_phi": 0.5961,
+                        "ln_sigma": 0.6823,
+                        "ln_sigma_rock": 0.697,
+                        "ln_sigma_soil": 0.6575,
+                        "ln_bias": 0.4062,
+                        "ln_bias_sigma": 0.2211
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 3.721,
+                        "value_rock": 1.7345,
+                        "value_soil": 5.45,
+                        "units": "%g",
+                        "ln_tau": 0.3709,
+                        "ln_phi": 0.6282,
+                        "ln_sigma": 0.7295,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7249,
+                        "ln_bias": 0.6128,
+                        "ln_bias_sigma": 0.245
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.5466,
+                        "value_rock": 0.2554,
+                        "value_soil": 0.8072,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 3.9532,
+                        "value_rock": 2.4502,
+                        "value_soil": 4.9027,
+                        "units": "cm/s",
+                        "ln_tau": 0.337,
+                        "ln_phi": 0.539,
+                        "ln_sigma": 0.6357,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6259,
+                        "ln_bias": 0.5818,
+                        "ln_bias_sigma": 0.2109
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 12.0628,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 29.9927,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.6293,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 13.3263,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 47.23,
+                    "rhypo": 51.894,
+                    "rjb": 36.926,
+                    "rjb_var": 0.0,
+                    "rrup": 42.928,
+                    "rrup_var": 0.0,
+                    "rx": 40.021,
+                    "ry0": 23.38
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.35924,
+                    29.39671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_6",
+            "properties": {
+                "code": "OBS_6",
+                "name": "Tamiya (Intensity VII)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 25.8937,
+                "pgv": 22.1923,
+                "distance": 36.87,
+                "elev": null,
+                "vs30": 259.83,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.0179,
+                        "value_rock": 4.339,
+                        "value_soil": 5.1787,
+                        "units": "intensity",
+                        "tau": 0.4593,
+                        "phi": 0.9627,
+                        "sigma": 1.0667,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.0635,
+                        "bias": 0.9474,
+                        "bias_sigma": 0.258
+                    },
+                    {
+                        "name": "pga",
+                        "value": 9.6339,
+                        "value_rock": 7.2703,
+                        "value_soil": 10.1844,
+                        "units": "%g",
+                        "ln_tau": 0.3464,
+                        "ln_phi": 0.5264,
+                        "ln_sigma": 0.6301,
+                        "ln_sigma_rock": 0.6567,
+                        "ln_sigma_soil": 0.6168,
+                        "ln_bias": 0.3888,
+                        "ln_bias_sigma": 0.2036
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 18.3076,
+                        "value_rock": 9.5959,
+                        "value_soil": 20.4048,
+                        "units": "%g",
+                        "ln_tau": 0.3233,
+                        "ln_phi": 0.5844,
+                        "ln_sigma": 0.6679,
+                        "ln_sigma_rock": 0.697,
+                        "ln_sigma_soil": 0.6514,
+                        "ln_bias": 0.3967,
+                        "ln_bias_sigma": 0.2185
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 5.3861,
+                        "value_rock": 2.1079,
+                        "value_soil": 6.5102,
+                        "units": "%g",
+                        "ln_tau": 0.3687,
+                        "ln_phi": 0.6245,
+                        "ln_sigma": 0.7252,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7233,
+                        "ln_bias": 0.6096,
+                        "ln_bias_sigma": 0.2443
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.771,
+                        "value_rock": 0.3078,
+                        "value_soil": 0.97,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.2353,
+                        "value_rock": 3.0077,
+                        "value_soil": 5.8864,
+                        "units": "cm/s",
+                        "ln_tau": 0.3347,
+                        "ln_phi": 0.5304,
+                        "ln_sigma": 0.6272,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6243,
+                        "ln_bias": 0.5786,
+                        "ln_bias_sigma": 0.2103
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 26.0084,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 53.4733,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 5.4899,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 25.8937,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 33.901,
+                    "rhypo": 40.143,
+                    "rjb": 29.639,
+                    "rjb_var": 0.0,
+                    "rrup": 36.87,
+                    "rrup_var": 0.0,
+                    "rx": 41.448,
+                    "ry0": 6.523
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0,
+                    29.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_7",
+            "properties": {
+                "code": "BMOBS_7",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 15.6437,
+                "pgv": 10.7089,
+                "distance": 23.998,
+                "elev": null,
+                "vs30": 252.43,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.6938,
+                        "value_rock": 4.9721,
+                        "value_soil": 5.8008,
+                        "units": "intensity",
+                        "tau": 0.4561,
+                        "phi": 0.9591,
+                        "sigma": 1.062,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.058,
+                        "bias": 0.9431,
+                        "bias_sigma": 0.2574
+                    },
+                    {
+                        "name": "pga",
+                        "value": 15.4469,
+                        "value_rock": 12.3864,
+                        "value_soil": 15.7829,
+                        "units": "%g",
+                        "ln_tau": 0.3373,
+                        "ln_phi": 0.5184,
+                        "ln_sigma": 0.6185,
+                        "ln_sigma_rock": 0.6563,
+                        "ln_sigma_soil": 0.6023,
+                        "ln_bias": 0.3816,
+                        "ln_bias_sigma": 0.2017
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 27.9957,
+                        "value_rock": 15.8039,
+                        "value_soil": 29.0677,
+                        "units": "%g",
+                        "ln_tau": 0.3134,
+                        "ln_phi": 0.5748,
+                        "ln_sigma": 0.6547,
+                        "ln_sigma_rock": 0.6969,
+                        "ln_sigma_soil": 0.6332,
+                        "ln_bias": 0.3854,
+                        "ln_bias_sigma": 0.2154
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 8.6994,
+                        "value_rock": 3.4095,
+                        "value_soil": 10.0184,
+                        "units": "%g",
+                        "ln_tau": 0.3666,
+                        "ln_phi": 0.6221,
+                        "ln_sigma": 0.722,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7183,
+                        "ln_bias": 0.6064,
+                        "ln_bias_sigma": 0.2437
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 1.258,
+                        "value_rock": 0.4952,
+                        "value_soil": 1.548,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7201,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7384,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 8.5676,
+                        "value_rock": 5.0636,
+                        "value_soil": 9.2623,
+                        "units": "cm/s",
+                        "ln_tau": 0.3323,
+                        "ln_phi": 0.5269,
+                        "ln_sigma": 0.623,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6194,
+                        "ln_bias": 0.5754,
+                        "ln_bias_sigma": 0.2097
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 10.9339,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 32.6303,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.3551,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 15.6437,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 25.199,
+                    "rhypo": 33.124,
+                    "rjb": 20.343,
+                    "rjb_var": 0.0,
+                    "rrup": 23.998,
+                    "rrup_var": 0.0,
+                    "rx": -16.266,
+                    "ry0": 12.307
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.15279,
+                    30.00449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_5",
+            "properties": {
+                "code": "BMOBS_5",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 28.7168,
+                "pgv": 22.1923,
+                "distance": 25.331,
+                "elev": null,
+                "vs30": 327.53,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.5894,
+                        "value_rock": 4.9674,
+                        "value_soil": 5.7937,
+                        "units": "intensity",
+                        "tau": 0.4608,
+                        "phi": 0.9704,
+                        "sigma": 1.0743,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0585,
+                        "bias": 0.9494,
+                        "bias_sigma": 0.2582
+                    },
+                    {
+                        "name": "pga",
+                        "value": 15.2259,
+                        "value_rock": 12.5345,
+                        "value_soil": 15.9266,
+                        "units": "%g",
+                        "ln_tau": 0.3466,
+                        "ln_phi": 0.5321,
+                        "ln_sigma": 0.635,
+                        "ln_sigma_rock": 0.6564,
+                        "ln_sigma_soil": 0.603,
+                        "ln_bias": 0.3889,
+                        "ln_bias_sigma": 0.2036
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 26.3814,
+                        "value_rock": 16.082,
+                        "value_soil": 29.5465,
+                        "units": "%g",
+                        "ln_tau": 0.3252,
+                        "ln_phi": 0.59,
+                        "ln_sigma": 0.6737,
+                        "ln_sigma_rock": 0.6969,
+                        "ln_sigma_soil": 0.6338,
+                        "ln_bias": 0.3989,
+                        "ln_bias_sigma": 0.2191
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 7.3129,
+                        "value_rock": 3.4398,
+                        "value_soil": 10.0557,
+                        "units": "%g",
+                        "ln_tau": 0.3699,
+                        "ln_phi": 0.6272,
+                        "ln_sigma": 0.7281,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7185,
+                        "ln_bias": 0.6113,
+                        "ln_bias_sigma": 0.2447
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 1.0556,
+                        "value_rock": 0.4922,
+                        "value_soil": 1.5397,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7201,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7384,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 7.9399,
+                        "value_rock": 5.0463,
+                        "value_soil": 9.2145,
+                        "units": "cm/s",
+                        "ln_tau": 0.3358,
+                        "ln_phi": 0.5379,
+                        "ln_sigma": 0.6341,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6198,
+                        "ln_bias": 0.5801,
+                        "ln_bias_sigma": 0.2106
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 24.41,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 56.4629,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 5.1132,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 28.7168,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 26.547,
+                    "rhypo": 34.161,
+                    "rjb": 15.623,
+                    "rjb_var": 0.0,
+                    "rrup": 25.331,
+                    "rrup_var": 0.0,
+                    "rx": 18.602,
+                    "ry0": 13.184
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.33844,
+                    29.60928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_15",
+            "properties": {
+                "code": "OBS_15",
+                "name": "Beni (Intensity VI)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 11.3377,
+                "pgv": 10.7089,
+                "distance": 77.149,
+                "elev": null,
+                "vs30": 183.34,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.2273,
+                        "value_rock": 3.7553,
+                        "value_soil": 4.233,
+                        "units": "intensity",
+                        "tau": 0.2139,
+                        "phi": 0.7134,
+                        "sigma": 0.7448,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 0.7475,
+                        "bias": 0.4428,
+                        "bias_sigma": 0.1764
+                    },
+                    {
+                        "name": "pga",
+                        "value": 4.0063,
+                        "value_rock": 2.5792,
+                        "value_soil": 4.0279,
+                        "units": "%g",
+                        "ln_tau": 0.3512,
+                        "ln_phi": 0.5246,
+                        "ln_sigma": 0.6313,
+                        "ln_sigma_rock": 0.6571,
+                        "ln_sigma_soil": 0.6354,
+                        "ln_bias": 0.3924,
+                        "ln_bias_sigma": 0.2045
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 9.233,
+                        "value_rock": 3.7489,
+                        "value_soil": 9.3151,
+                        "units": "%g",
+                        "ln_tau": 0.3276,
+                        "ln_phi": 0.5844,
+                        "ln_sigma": 0.6699,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6746,
+                        "ln_bias": 0.4015,
+                        "ln_bias_sigma": 0.2198
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 2.9269,
+                        "value_rock": 0.9034,
+                        "value_soil": 2.9636,
+                        "units": "%g",
+                        "ln_tau": 0.3689,
+                        "ln_phi": 0.623,
+                        "ln_sigma": 0.724,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7291,
+                        "ln_bias": 0.6098,
+                        "ln_bias_sigma": 0.2444
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.4335,
+                        "value_rock": 0.1378,
+                        "value_soil": 0.4393,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7386,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 2.5251,
+                        "value_rock": 1.2055,
+                        "value_soil": 2.5474,
+                        "units": "cm/s",
+                        "ln_tau": 0.335,
+                        "ln_phi": 0.5243,
+                        "ln_sigma": 0.6222,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6302,
+                        "ln_bias": 0.579,
+                        "ln_bias_sigma": 0.2104
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 13.3188,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 27.5498,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.938,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 11.3377,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 79.006,
+                    "rhypo": 81.879,
+                    "rjb": 74.074,
+                    "rjb_var": 0.0,
+                    "rrup": 77.149,
+                    "rrup_var": 0.0,
+                    "rx": 86.517,
+                    "ry0": 0.114
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9,
+                    29.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_16",
+            "properties": {
+                "code": "OBS_16",
+                "name": "Cairo (Intensity VI)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 14.2462,
+                "pgv": 10.7089,
+                "distance": 33.697,
+                "elev": null,
+                "vs30": 248.19,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 5.1417,
+                        "value_rock": 4.3903,
+                        "value_soil": 5.277,
+                        "units": "intensity",
+                        "tau": 0.4582,
+                        "phi": 0.9598,
+                        "sigma": 1.0636,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.0626,
+                        "bias": 0.9459,
+                        "bias_sigma": 0.2578
+                    },
+                    {
+                        "name": "pga",
+                        "value": 10.3778,
+                        "value_rock": 7.8443,
+                        "value_soil": 10.8579,
+                        "units": "%g",
+                        "ln_tau": 0.3439,
+                        "ln_phi": 0.5227,
+                        "ln_sigma": 0.6257,
+                        "ln_sigma_rock": 0.6566,
+                        "ln_sigma_soil": 0.6145,
+                        "ln_bias": 0.3868,
+                        "ln_bias_sigma": 0.203
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 19.7684,
+                        "value_rock": 10.2892,
+                        "value_soil": 21.4703,
+                        "units": "%g",
+                        "ln_tau": 0.3205,
+                        "ln_phi": 0.5806,
+                        "ln_sigma": 0.6632,
+                        "ln_sigma_rock": 0.697,
+                        "ln_sigma_soil": 0.6487,
+                        "ln_bias": 0.3935,
+                        "ln_bias_sigma": 0.2176
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 5.9258,
+                        "value_rock": 2.2586,
+                        "value_soil": 6.9399,
+                        "units": "%g",
+                        "ln_tau": 0.368,
+                        "ln_phi": 0.6233,
+                        "ln_sigma": 0.7238,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7226,
+                        "ln_bias": 0.6086,
+                        "ln_bias_sigma": 0.2441
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.8552,
+                        "value_rock": 0.3321,
+                        "value_soil": 1.0449,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.73,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 5.7297,
+                        "value_rock": 3.2595,
+                        "value_soil": 6.3233,
+                        "units": "cm/s",
+                        "ln_tau": 0.3339,
+                        "ln_phi": 0.5276,
+                        "ln_sigma": 0.6244,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6235,
+                        "ln_bias": 0.5775,
+                        "ln_bias_sigma": 0.2101
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 11.5793,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 31.0639,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.5115,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 14.2462,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 38.832,
+                    "rhypo": 44.387,
+                    "rjb": 31.217,
+                    "rjb_var": 0.0,
+                    "rrup": 33.697,
+                    "rrup_var": 0.0,
+                    "rx": -31.18,
+                    "ry0": 2.763
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3,
+                    30.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.BMOBS_3",
+            "properties": {
+                "code": "BMOBS_3",
+                "name": "Unknown",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 32.4692,
+                "pgv": 22.1923,
+                "distance": 16.225,
+                "elev": null,
+                "vs30": 378.19,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 6.1885,
+                        "value_rock": 5.6791,
+                        "value_soil": 6.3888,
+                        "units": "intensity",
+                        "tau": 0.462,
+                        "phi": 0.9713,
+                        "sigma": 1.0756,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0523,
+                        "bias": 0.9509,
+                        "bias_sigma": 0.2584
+                    },
+                    {
+                        "name": "pga",
+                        "value": 23.3815,
+                        "value_rock": 20.7735,
+                        "value_soil": 23.4199,
+                        "units": "%g",
+                        "ln_tau": 0.3452,
+                        "ln_phi": 0.5311,
+                        "ln_sigma": 0.6335,
+                        "ln_sigma_rock": 0.6559,
+                        "ln_sigma_soil": 0.5876,
+                        "ln_bias": 0.3879,
+                        "ln_bias_sigma": 0.2033
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 38.4336,
+                        "value_rock": 25.8351,
+                        "value_soil": 39.2626,
+                        "units": "%g",
+                        "ln_tau": 0.3264,
+                        "ln_phi": 0.5908,
+                        "ln_sigma": 0.675,
+                        "ln_sigma_rock": 0.6967,
+                        "ln_sigma_soil": 0.6142,
+                        "ln_bias": 0.4001,
+                        "ln_bias_sigma": 0.2194
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 10.459,
+                        "value_rock": 5.5113,
+                        "value_soil": 15.1075,
+                        "units": "%g",
+                        "ln_tau": 0.3705,
+                        "ln_phi": 0.6278,
+                        "ln_sigma": 0.729,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7124,
+                        "ln_bias": 0.6122,
+                        "ln_bias_sigma": 0.2448
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 1.4968,
+                        "value_rock": 0.7865,
+                        "value_soil": 2.4403,
+                        "units": "%g",
+                        "ln_tau": 0.3964,
+                        "ln_phi": 0.6012,
+                        "ln_sigma": 0.7201,
+                        "ln_sigma_rock": 0.7301,
+                        "ln_sigma_soil": 0.7299,
+                        "ln_bias": 0.7383,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 12.2853,
+                        "value_rock": 8.4761,
+                        "value_soil": 14.2159,
+                        "units": "cm/s",
+                        "ln_tau": 0.3367,
+                        "ln_phi": 0.5387,
+                        "ln_sigma": 0.6352,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6142,
+                        "ln_bias": 0.5813,
+                        "ln_bias_sigma": 0.2108
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 22.6401,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 60.2286,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 4.6995,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 32.4692,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 21.84,
+                    "rhypo": 30.647,
+                    "rjb": 10.027,
+                    "rjb_var": 0.0,
+                    "rrup": 16.225,
+                    "rrup_var": 0.0,
+                    "rx": -9.805,
+                    "ry0": 2.179
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.33518,
+                    29.88323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_14",
+            "properties": {
+                "code": "OBS_14",
+                "name": "El (Intensity VI)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 6.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 12.2671,
+                "pgv": 10.7089,
+                "distance": 57.972,
+                "elev": null,
+                "vs30": 232.84,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 4.3655,
+                        "value_rock": 3.9658,
+                        "value_soil": 4.4524,
+                        "units": "intensity",
+                        "tau": 0.2142,
+                        "phi": 0.714,
+                        "sigma": 0.7454,
+                        "sigma_rock": 0.7527,
+                        "sigma_soil": 1.068,
+                        "bias": 0.4437,
+                        "bias_sigma": 0.1765
+                    },
+                    {
+                        "name": "pga",
+                        "value": 5.4199,
+                        "value_rock": 3.7923,
+                        "value_soil": 5.744,
+                        "units": "%g",
+                        "ln_tau": 0.3511,
+                        "ln_phi": 0.5258,
+                        "ln_sigma": 0.6323,
+                        "ln_sigma_rock": 0.657,
+                        "ln_sigma_soil": 0.6296,
+                        "ln_bias": 0.3924,
+                        "ln_bias_sigma": 0.2045
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 11.3235,
+                        "value_rock": 5.263,
+                        "value_soil": 12.5312,
+                        "units": "%g",
+                        "ln_tau": 0.328,
+                        "ln_phi": 0.5856,
+                        "ln_sigma": 0.6713,
+                        "ln_sigma_rock": 0.6971,
+                        "ln_sigma_soil": 0.6675,
+                        "ln_bias": 0.402,
+                        "ln_bias_sigma": 0.22
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 3.3706,
+                        "value_rock": 1.2122,
+                        "value_soil": 3.9097,
+                        "units": "%g",
+                        "ln_tau": 0.3694,
+                        "ln_phi": 0.6239,
+                        "ln_sigma": 0.7251,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7273,
+                        "ln_bias": 0.6106,
+                        "ln_bias_sigma": 0.2445
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 0.4884,
+                        "value_rock": 0.1814,
+                        "value_soil": 0.5762,
+                        "units": "%g",
+                        "ln_tau": 0.3965,
+                        "ln_phi": 0.6013,
+                        "ln_sigma": 0.7202,
+                        "ln_sigma_rock": 0.7302,
+                        "ln_sigma_soil": 0.7301,
+                        "ln_bias": 0.7385,
+                        "ln_bias_sigma": 0.2796
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 3.1354,
+                        "value_rock": 1.6762,
+                        "value_soil": 3.4674,
+                        "units": "cm/s",
+                        "ln_tau": 0.3355,
+                        "ln_phi": 0.5263,
+                        "ln_sigma": 0.6242,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6284,
+                        "ln_bias": 0.5797,
+                        "ln_bias_sigma": 0.2105
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 12.691,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 10.7089,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 28.7148,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.7833,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 12.2671,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 58.157,
+                    "rhypo": 62.004,
+                    "rjb": 53.729,
+                    "rjb_var": 0.0,
+                    "rrup": 57.972,
+                    "rrup_var": 0.0,
+                    "rx": 65.669,
+                    "ry0": 7.854
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9,
+                    29.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "INTENSITY.OBS_7",
+            "properties": {
+                "code": "OBS_7",
+                "name": "Dahshur (Intensity VII)",
+                "instrumentType": "OBSERVED",
+                "source": "INTENSITY",
+                "network": "INTENSITY",
+                "commType": "UNK",
+                "location": "",
+                "intensity": 7.0,
+                "intensity_flag": "0",
+                "intensity_stddev": 0.3,
+                "pga": 34.3585,
+                "pgv": 22.1923,
+                "distance": 13.215,
+                "elev": null,
+                "vs30": 353.92,
+                "channels": [],
+                "nresp": -1,
+                "station_type": "macroseismic",
+                "predictions": [
+                    {
+                        "name": "mmi",
+                        "value": 6.6625,
+                        "value_rock": 6.1387,
+                        "value_soil": 6.7407,
+                        "units": "intensity",
+                        "tau": 0.4602,
+                        "phi": 0.97,
+                        "sigma": 1.0736,
+                        "sigma_rock": 1.0867,
+                        "sigma_soil": 1.0492,
+                        "bias": 0.9485,
+                        "bias_sigma": 0.2581
+                    },
+                    {
+                        "name": "pga",
+                        "value": 32.0819,
+                        "value_rock": 29.3627,
+                        "value_soil": 29.787,
+                        "units": "%g",
+                        "ln_tau": 0.3395,
+                        "ln_phi": 0.5268,
+                        "ln_sigma": 0.6267,
+                        "ln_sigma_rock": 0.6556,
+                        "ln_sigma_soil": 0.5798,
+                        "ln_bias": 0.3833,
+                        "ln_bias_sigma": 0.2021
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 51.7539,
+                        "value_rock": 35.8451,
+                        "value_soil": 46.4335,
+                        "units": "%g",
+                        "ln_tau": 0.3201,
+                        "ln_phi": 0.5852,
+                        "ln_sigma": 0.667,
+                        "ln_sigma_rock": 0.6967,
+                        "ln_sigma_soil": 0.604,
+                        "ln_bias": 0.3931,
+                        "ln_bias_sigma": 0.2175
+                    },
+                    {
+                        "name": "sa(1.0)",
+                        "value": 14.8021,
+                        "value_rock": 7.5291,
+                        "value_soil": 19.2063,
+                        "units": "%g",
+                        "ln_tau": 0.3694,
+                        "ln_phi": 0.6267,
+                        "ln_sigma": 0.7275,
+                        "ln_sigma_rock": 0.7357,
+                        "ln_sigma_soil": 0.7088,
+                        "ln_bias": 0.6106,
+                        "ln_bias_sigma": 0.2445
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 2.088,
+                        "value_rock": 1.0402,
+                        "value_soil": 3.2135,
+                        "units": "%g",
+                        "ln_tau": 0.3963,
+                        "ln_phi": 0.6011,
+                        "ln_sigma": 0.72,
+                        "ln_sigma_rock": 0.7301,
+                        "ln_sigma_soil": 0.7298,
+                        "ln_bias": 0.7383,
+                        "ln_bias_sigma": 0.2795
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 17.3544,
+                        "value_rock": 11.8477,
+                        "value_soil": 18.3712,
+                        "units": "cm/s",
+                        "ln_tau": 0.3353,
+                        "ln_phi": 0.5374,
+                        "ln_sigma": 0.6334,
+                        "ln_sigma_rock": 0.6452,
+                        "ln_sigma_soil": 0.6114,
+                        "ln_bias": 0.5795,
+                        "ln_bias_sigma": 0.2105
+                    }
+                ],
+                "pgm_from_mmi": [
+                    {
+                        "name": "sa(1.0)",
+                        "value": 21.8687,
+                        "units": "%g",
+                        "ln_sigma": 1.0822,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pgv",
+                        "value": 22.1923,
+                        "units": "cm/s",
+                        "ln_sigma": 0.875,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(0.3)",
+                        "value": 62.0464,
+                        "units": "%g",
+                        "ln_sigma": 1.0131,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "sa(3.0)",
+                        "value": 4.5204,
+                        "units": "%g",
+                        "ln_sigma": 1.4737,
+                        "flag": "0"
+                    },
+                    {
+                        "name": "pga",
+                        "value": 34.3585,
+                        "units": "%g",
+                        "ln_sigma": 0.8059,
+                        "flag": "0"
+                    }
+                ],
+                "distance_stddev": 0.0,
+                "distances": {
+                    "repi": 5.932,
+                    "rhypo": 22.303,
+                    "rjb": 0.0,
+                    "rjb_var": 0.0,
+                    "rrup": 13.215,
+                    "rrup_var": 0.0,
+                    "rx": 3.438,
+                    "ry0": 0.08
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2,
+                    29.8
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "eventid": "usp0005f89"
+    }
+}

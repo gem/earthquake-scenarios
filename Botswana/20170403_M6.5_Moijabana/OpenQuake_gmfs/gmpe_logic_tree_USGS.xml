@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="stable_continental_nshmp2014_rlme">
+        <logicTreeBranch branchID='b0'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.FrankelEtAl1996MwNSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.06</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b1'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.ToroEtAl1997MwNSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.11</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b2'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.SilvaEtAl2002MwNSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.06</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.Campbell2003MwNSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.11</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b4'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.TavakoliPezeshk2005MwNSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.11</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b5'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.AtkinsonBoore2006Modified2011 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.22</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b6'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.PezeshkEtAl2011 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.15</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b7'>
+            <uncertaintyModel>
+                Atkinson2008prime
+            </uncertaintyModel>
+            <uncertaintyWeight>0.08</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b8'>
+            <uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.SomervilleEtAl2001NSHMP2008 = {}
+                    add_between_within_stds.with_betw_ratio = 1.8
+            </uncertaintyModel>
+            <uncertaintyWeight>0.1</uncertaintyWeight>
+        </logicTreeBranch>
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

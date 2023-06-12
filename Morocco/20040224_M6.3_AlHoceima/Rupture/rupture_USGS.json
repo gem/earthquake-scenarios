@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "id": "usp000cmxe",
+        "mag": 6.4,
+        "lat": 35.142,
+        "locstring": "Strait of Gibraltar",
+        "rake": 0.0,
+        "reference": "source: Stich, D., F. L. Mancilla, D. Baumont, and J. Morales (2005). Source analysis of the MW 6.3 2004 Al Hoceima earthquake (Morocco) using regional apparent source time functions, J. Geophys. Res. 110, B06306, doi:10.1029/2004JB003366.",
+        "network": "USGS National Earthquake Information Center, PDE",
+        "depth": 0.0,
+        "lon": -3.997,
+        "mech": "ALL",
+        "time": "2004-02-24T02:27:46.000000Z",
+        "netid": "us",
+        "productcode": "usp000cmxe"
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -4.054,
+                                35.0367,
+                                0.0
+                            ],
+                            [
+                                -3.9886,
+                                35.3018,
+                                0.0
+                            ],
+                            [
+                                -3.9398,
+                                35.2939,
+                                10.0
+                            ],
+                            [
+                                -4.008,
+                                35.0292,
+                                10.0
+                            ],
+                            [
+                                -4.054,
+                                35.0367,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "multigmpe": {
+        "PGA": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "subduction_crustal"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000cmxe_custom"
+        },
+        "PGV": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "subduction_crustal"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000cmxe_custom"
+        },
+        "SA(1.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "subduction_crustal"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000cmxe_custom"
+        },
+        "SA(0.3)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "subduction_crustal"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000cmxe_custom"
+        },
+        "SA(3.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "subduction_crustal"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000cmxe_custom"
+        }
+    },
+    "input": {
+        "event_information": {
+            "depth": "0.0",
+            "event_id": "usp000cmxe",
+            "eventsource": "us",
+            "netid": "us",
+            "eventsourcecode": "p000cmxe",
+            "id": "usp000cmxe",
+            "productcode": "usp000cmxe",
+            "productsource": "atlas",
+            "producttype": "shakemap",
+            "event_ref": "source: Stich, D., F. L. Mancilla, D. Baumont, and J. Morales (2005). Source analysis of the MW 6.3 2004 Al Hoceima earthquake (Morocco) using regional apparent source time functions, J. Geophys. Res. 110, B06306, doi:10.1029/2004JB003366.",
+            "fault_ref": "source: Stich, D., F. L. Mancilla, D. Baumont, and J. Morales (2005). Source analysis of the MW 6.3 2004 Al Hoceima earthquake (Morocco) using regional apparent source time functions, J. Geophys. Res. 110, B06306, doi:10.1029/2004JB003366.",
+            "intensity_observations": "100",
+            "latitude": "35.142",
+            "longitude": "-3.997",
+            "location": "Strait of Gibraltar",
+            "magnitude": "6.4",
+            "origin_time": "2004-02-24T02:27:46.000000Z",
+            "seismic_stations": "9",
+            "src_mech": "SS",
+            "event_description": "ShakeMap Atlas v4",
+            "event_type": "ACTUAL"
+        }
+    },
+    "strec": {
+        "TectonicRegion": "Subduction",
+        "FocalMechanism": "SS",
+        "TensorType": "Mwb",
+        "TensorSource": "us_p000cmxe",
+        "KaganAngle": null,
+        "CompositeVariability": null,
+        "NComposite": 0,
+        "DistanceToStable": null,
+        "DistanceToActive": 178.90888100338682,
+        "DistanceToSubduction": 0,
+        "DistanceToVolcanic": null,
+        "Oceanic": false,
+        "DistanceToOceanic": null,
+        "DistanceToContinental": 0,
+        "SlabModelRegion": "",
+        "SlabModelDepth": null,
+        "SlabModelDepthUncertainty": null,
+        "SlabModelDip": null,
+        "SlabModelStrike": null,
+        "SlabModelMaximumDepth": null
+    },
+    "output": {
+        "ground_motions": {
+            "PGA": {
+                "units": "g",
+                "bias": "0.378",
+                "max_grid": "1.081",
+                "max": "1.081"
+            },
+            "PGV": {
+                "units": "cms",
+                "bias": "0.331",
+                "max_grid": "4.59",
+                "max": "4.59"
+            },
+            "MMI": {
+                "units": "intensity",
+                "bias": "0.38",
+                "max_grid": "9.038",
+                "max": "9.038"
+            },
+            "SA(1.0)": {
+                "units": "g",
+                "bias": "0.371",
+                "max_grid": "1.246",
+                "max": "1.246"
+            },
+            "SA(0.3)": {
+                "units": "g",
+                "bias": "0.259",
+                "max_grid": "1.893",
+                "max": "1.893"
+            },
+            "SA(3.0)": {
+                "units": "g",
+                "bias": "0.461",
+                "max_grid": "0.304",
+                "max": "0.304"
+            }
+        },
+        "map_information": {
+            "grid_points": {
+                "longitude": "607",
+                "latitude": "519",
+                "units": ""
+            },
+            "grid_spacing": {
+                "longitude": "0.0083333",
+                "latitude": "0.0083333",
+                "units": "degrees"
+            },
+            "grid_span": {
+                "longitude": "5.05",
+                "latitude": "4.317",
+                "units": "degrees"
+            },
+            "min": {
+                "longitude": "-6.433",
+                "latitude": "32.983",
+                "units": "degrees"
+            },
+            "max": {
+                "longitude": "-1.383",
+                "latitude": "37.3",
+                "units": "degrees"
+            }
+        },
+        "uncertainty": {
+            "grade": "A",
+            "mean_uncertainty_ratio": "0.919",
+            "total_flagged_mi": "0",
+            "total_flagged_pgm": "8"
+        }
+    },
+    "processing": {
+        "ground_motion_modules": {
+            "gmpe": {
+                "module": "gmpe_usp000cmxe_custom",
+                "reference": ""
+            },
+            "ipe": {
+                "module": "VirtualIPE",
+                "reference": ""
+            },
+            "gmice": {
+                "module": "WGRW12",
+                "reference": ""
+            },
+            "ccf": {
+                "module": "LothBaker2013",
+                "reference": ""
+            },
+            "basin_correction": {
+                "module": "None",
+                "reference": ""
+            },
+            "directivity": {
+                "module": "None",
+                "reference": ""
+            }
+        },
+        "miscellaneous": {
+            "bias_max_dsigma": "1.5",
+            "bias_max_mag": "7.7",
+            "bias_max_range": "120.0",
+            "median_dist": "True",
+            "do_outliers": true,
+            "outlier_deviation_level": "3.0",
+            "outlier_max_mag": "7.0"
+        },
+        "shakemap_versions": {
+            "shakemap_revision": "4.0.2+335.gcbad862",
+            "shakemap_revision_id": "cbad8622bd520e1936447620edfb3a4feea1a8d9",
+            "process_time": "2020-06-04T01:32:12Z",
+            "map_version": 1,
+            "map_comment": "ShakeMap Atlas v4",
+            "map_data_history": [
+                [
+                    "2020-06-04T01:31:45Z",
+                    "atlas",
+                    1,
+                    "ShakeMap Atlas v4"
+                ]
+            ],
+            "map_status": "automatic"
+        },
+        "site_response": {
+            "vs30default": "760.0",
+            "site_correction": "GMPE native"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+KOT,Kottamia,31.829,29.927,seismic,0.0321,0.0
+OBS_13,El (Intensity VI),30.9,29.4,macroseismic,0.12826,0.8059
+BMOBS_6,Unknown,31.13565,29.50299,macroseismic,0.26765,0.8059
+OBS_2,El (Intensity VII),31.3,29.8,macroseismic,0.34544,0.8059
+BMOBS_12,Unknown,31.34978,29.51497,macroseismic,0.14336,0.8059
+OBS_12,Msagid (Intensity VI),31.3,29.3,macroseismic,0.12725,0.8059
+OBS_1,Helwan (Intensity VII),31.4,29.9,macroseismic,0.30591,0.8059
+BMOBS_2,Unknown,31.28804,30.0015,macroseismic,0.29112,0.8059
+BMOBS_8,Unknown,30.89123,29.56737,macroseismic,0.1375,0.8059
+BMOBS_9,Unknown,30.79033,29.33533,macroseismic,0.1213,0.8059
+BMOBS_10,Unknown,31.07645,29.10928,macroseismic,0.1159,0.8059
+BMOBS_4,Unknown,31.35464,29.72455,macroseismic,0.31865,0.8059
+BMOBS_1,Unknown,31.20741,29.72904,macroseismic,0.60179,0.8059
+BMOBS_11,Unknown,31.35924,29.39671,macroseismic,0.13326,0.8059
+OBS_6,Tamiya (Intensity VII),31.0,29.5,macroseismic,0.25894,0.8059
+BMOBS_7,Unknown,31.15279,30.00449,macroseismic,0.15644,0.8059
+BMOBS_5,Unknown,31.33844,29.60928,macroseismic,0.28717,0.8059
+OBS_15,Beni (Intensity VI),30.9,29.1,macroseismic,0.11338,0.8059
+OBS_16,Cairo (Intensity VI),31.3,30.1,macroseismic,0.14246,0.8059
+BMOBS_3,Unknown,31.33518,29.88323,macroseismic,0.32469,0.8059
+OBS_14,El (Intensity VI),30.9,29.3,macroseismic,0.12267,0.8059
+OBS_7,Dahshur (Intensity VII),31.2,29.8,macroseismic,0.34358,0.8059

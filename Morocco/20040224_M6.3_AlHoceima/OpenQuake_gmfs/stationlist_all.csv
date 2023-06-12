@@ -1,0 +1,77 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+ALM,ALMERIA,-2.4597,36.8525,seismic,0.00192,0.0
+DUR,DURCAL,-3.565,36.9867,seismic,0.0013,0.0
+EALB,EALB,-3.0343,35.9399,seismic,0.44738,0.0
+MAL,MALAGA,-4.4111,36.7275,seismic,0.00456,0.0
+CAC,CACIN,-3.9167,37.0614,seismic,0.0016,0.0
+EBER,EBER,-2.8896,36.8979,seismic,0.00788,0.0
+ADR,ADRA,-3.0125,36.7569,seismic,0.00217,0.0
+JAY,JAYENA,-3.8217,36.9501,seismic,0.00339,0.0
+MPD,MALAGA_(PLD._MARTIN_CARPENA),-4.4583,36.6861,seismic,0.00354,0.0
+OBS_13,Beni Abdellah (Intensity IX),-4.0727,35.0556,macroseismic,1.37252,0.8059
+OBS_12,Barrage Abdelkrim Khattabi (dam) (Intensity VIII),-3.8185,35.0887,macroseismic,0.62364,0.8059
+OBS_39,Tamoujjout (Intensity VIII),-3.9826,35.2072,macroseismic,0.73663,0.8059
+OBSHahou_10,Imarnissene,-4.0741,35.1073,macroseismic,0.39535,0.8059
+OBS_2,Ait Aziz (Intensity IX),-3.9443,35.0704,macroseismic,1.37252,0.8059
+OBS_16,Boudinar (Intensity VI),-3.6332,35.1542,macroseismic,0.15362,0.8059
+OBSHahou_3,Izemmourene,-3.9985,35.1897,macroseismic,0.73663,0.8059
+OBS_14,Beni Bouayach (Intensity VII),-3.8411,35.1045,macroseismic,0.3466,0.8059
+OBS_42,Taza (Intensity V),-4.01,34.21,macroseismic,0.06189,0.8059
+OBSIGN_1,Melilla (Intensity V),-2.9412,35.2962,macroseismic,0.06185,0.8059
+OBSHahou_4,Ait Messaoud,-3.9655,35.1458,macroseismic,0.73663,0.8059
+OBS_38,Tala Youssef (Intensity VII),-3.9845,35.2315,macroseismic,0.39535,0.8059
+OBSHahou_19,Izannayene,-3.7409,35.0535,macroseismic,0.16414,0.8059
+OBSHahou_8,Tirhaza,-4.1925,35.1498,macroseismic,0.35446,0.8059
+OBS_17,Boukhlifa (Intensity VIII),-4.04,35.07,macroseismic,0.73663,0.8059
+OBSHahou_17,Bades,-4.2955,35.1688,macroseismic,0.16579,0.8059
+OBS_18,Boussekkour (Intensity VIII),-4.01,35.24,macroseismic,0.73663,0.8059
+OBS_47,Trougout (Intensity VII),-3.78,35.19,macroseismic,0.32944,0.8059
+OBSHahou_20,Sa'ida,-3.6428,35.2118,macroseismic,0.1564,0.8059
+OBS_44,Tazourakht (Intensity VII),-3.8164,35.0093,macroseismic,0.32621,0.8059
+OBS_23,Imzouren (Intensity IX),-3.85,35.14,macroseismic,1.23507,0.8059
+OBSHahou_13,Bni Bouayach,-3.8423,35.1092,macroseismic,0.34776,0.8059
+OBSHahou_2,Toussarte,-4.0976,35.2087,macroseismic,0.73663,0.8059
+OBS_27,Khmis des Temsaman (Intensity VI),-3.63,35.12,macroseismic,0.15233,0.8059
+OBS_43,Tazarine (Intensity VIII),-4.06,35.12,macroseismic,0.73663,0.8059
+OBSHahou_11,Bni Abdellah,-4.0741,35.0543,macroseismic,0.39535,0.8059
+OBSHahou_7,Al Hoceima,-3.935,35.2518,macroseismic,0.73663,0.8059
+OBS_15,Beni Hadifa (Intensity VII),-4.13,35.03,macroseismic,0.39535,0.8059
+OBSHahou_16,Rabda,-3.7644,35.2452,macroseismic,0.32877,0.8059
+OBSHahou_18,Senada,-4.2182,35.074,macroseismic,0.18803,0.8059
+OBS_25,Izemmouren (Intensity VIII),-3.995,35.185,macroseismic,0.73663,0.8059
+OBS_7,Ajdir (Intensity VIII),-3.9,35.2,macroseismic,0.73663,0.8059
+OBS_19,Club Med (Hotel) (Intensity VII),-3.8969,35.2082,macroseismic,0.39535,0.8059
+OBSHahou_6,Boussekkour,-3.9592,35.2439,macroseismic,0.73663,0.8059
+OBS_10,Arhbal (Intensity VIII),-4.07,35.17,macroseismic,0.73663,0.8059
+OBS_24,Izbariyine (Intensity VII),-4.14,35.16,macroseismic,0.39118,0.8059
+OBS_31,Nador (Intensity V),-2.93,35.18,macroseismic,0.06149,0.8059
+OBS_20,Dar Tazammourt (Intensity VIII),-4.08,35.09,macroseismic,0.73663,0.8059
+OBSHahou_9,Rouadi,-4.1377,35.142,macroseismic,0.39535,0.8059
+OBS_9,Al Hoceima (Intensity VI),-3.915,35.246,macroseismic,0.21218,0.8059
+OBS_41,Taouessart (Intensity VII),-4.08,35.2,macroseismic,0.39535,0.8059
+OBS_11,Azghar (Intensity VIII),-3.9033,35.1809,macroseismic,0.73663,0.8059
+OBSHahou_24,Boumeddour,-3.6226,35.0607,macroseismic,0.0668,0.8059
+OBS_37,Tafensa (Intensity VIII),-4.02,35.2,macroseismic,0.73663,0.8059
+OBS_6,Ait Youssef ou Ali (Intensity IX),-3.92,35.17,macroseismic,1.37252,0.8059
+OBS_21,Fes (Intensity IV),-4.98,34.06,macroseismic,0.02099,0.8059
+OBS_36,Sidi Bouafif (Intensity VII),-3.8722,35.1739,macroseismic,0.37467,0.8059
+OBSHahou_21,Ras Tarf,-3.692,35.2844,macroseismic,0.16503,0.8059
+OBS_32,Oukrichen (Intensity IX),-4.06,35.06,macroseismic,1.37252,0.8059
+OBSHahou_22,L'assoutene,-3.6033,35.1595,macroseismic,0.11031,0.8059
+OBS_1,Aeroport (Intensity VII),-3.845,35.181,macroseismic,0.35867,0.8059
+OBS_4,Ait Kamra (Intensity IX),-3.98,35.12,macroseismic,1.37252,0.8059
+OBSHahou_14,Imzouren,-3.8472,35.1438,macroseismic,0.35474,0.8059
+OBS_5,Ait Messaoud (Intensity IX),-3.9688,35.1428,macroseismic,1.37252,0.8059
+OBS_8,Al Ars (Intensity VII),-4.17,35.08,macroseismic,0.38204,0.8059
+OBS_3,Ait Daoud (Intensity IX),-4.0389,35.1214,macroseismic,1.37252,0.8059
+OBSHahou_12,Mnoud,-3.8431,35.0588,macroseismic,0.34219,0.8059
+OBS_30,Mnoud (Intensity VI),-3.8407,35.0519,macroseismic,0.18265,0.8059
+OBSHahou_5,Ait Kamra,-3.9832,35.1249,macroseismic,0.73663,0.8059
+OBSHahou_15,Imhaouchene,-3.7402,35.2014,macroseismic,0.31652,0.8059
+OBS_46,Tirhanimine (Intensity VII),-3.9614,35.2405,macroseismic,0.39535,0.8059
+OBSHahou_1,Tafesna,-4.0291,35.2054,macroseismic,1.37252,0.8059
+OBS_28,Meknes (Intensity IV),-5.55,33.88,macroseismic,0.0171,0.8059
+OBS_34,Rouadi (Intensity VII),-4.13,35.14,macroseismic,0.39535,0.8059
+OBS_29,Melilla (Intensity V),-2.95,35.29,macroseismic,0.062,0.8059
+OBS_22,Ifassiyine (Intensity IX),-3.9079,35.1203,macroseismic,1.36086,0.8059
+OBSHahou_23,Bni Boufrah,-4.3132,35.0962,macroseismic,0.07382,0.8059

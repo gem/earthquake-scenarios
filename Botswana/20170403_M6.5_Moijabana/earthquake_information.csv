@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2017
+Country,Botswana
+Region,Ghanzi 
+Event_Name,Moijabana_2017
+Local_Date,03/04/2017
+Local_Time,19:40:18
+Latitude,-22.6784
+Longitude,25.1558
+Depth_(km),23.5
+Mw,6.46
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Normal
+Tectonic_region_type,Unknown (occurred in an area with no know previous seismicity)
+Fatalities,0
+Injured,0
+Displaced_Population,271
+Affected_Population,271
+Affected_Units,
+Damaged_Units,13 Units
+Collapsed_Units,
+Economic_Losses,
+Insured_Losses,
+Induced_Effects,Stampede
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us10008e3k/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake

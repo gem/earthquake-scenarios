@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "reference": "Origin",
+        "id": "us10006nkx",
+        "network": "USGS National Earthquake Information Center, PDE",
+        "netid": "us",
+        "productcode": "us10006nkx",
+        "time": "2016-09-10T12:27:33.000000Z",
+        "lat": -1.0355,
+        "lon": 31.6181,
+        "depth": 40.0,
+        "mag": 5.9,
+        "locstring": "27km ENE of Nsunga, Tanzania",
+        "mech": "ALL",
+        "rake": 0.0
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6181,
+                    -1.0355,
+                    40.0
+                ]
+            }
+        }
+    ]
+}
