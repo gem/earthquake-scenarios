@@ -1,0 +1,26 @@
+job_id: 13
+job_description: 20080529_M6.32_Iceland median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Iceland/20080529_M6.32_Iceland/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+An error occurred while calling https://api.openquake.org/engine/latest to check if the installed version of the engine is up to date.
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 596433156 (total size 210.8 KB)
+Entering SLOW MODE. You have 1.8 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=3140 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Iceland/20080529_M6.32_Iceland/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: -0.211, Nominal bias stddev: 0.241
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.051, Nominal bias stddev: 0.241
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: -0.474, Nominal bias stddev: 0.241
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: -0.240, Nominal bias stddev: 0.241
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: -0.183, Nominal bias stddev: 0.241
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '368.79 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 15 seconds from event_based
+Stored 184.17 KB of GMFs
+Exposing the outputs to the database
+Stored 738.83 KB on /Users/chago/oqdata/calc_13.hdf5 in 15 seconds

@@ -1,0 +1,9 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+113,Hveragerdi-Retirement House,-21.187,64.002,seismic,0.656432,0.0,A (inferred from geology),696.0,inferred_USGS,696.0
+112,Selfoss-City Hall,-21.002,63.937,seismic,0.53059,0.0,A (inferred from geology),290.0,inferred_USGS,290.0
+306,Ljosafoss-Hydroelectric Power Station,-21.011,64.094,seismic,0.129728,0.0,A (inferred from geology),391.0,inferred_USGS,391.0
+502,Thjorsarbru,-20.649,63.931,seismic,0.096179,0.0,A (inferred from geology),268.0,inferred_USGS,268.0
+105,Hella,-20.39,63.84,seismic,0.046861,0.0,B (inferred from geology),259.0,inferred_USGS,259.0
+403,Reykjavik-Heidmork (Jadar),-21.764,64.075,seismic,0.037199,0.0,A (inferred from geology),320.0,inferred_USGS,320.0
+402,Reykjavik-Foldaskoli,-21.79,64.133,seismic,0.015196,0.0,A (inferred from geology),356.0,inferred_USGS,356.0
+UTM:(27W 0422 7098 2000),,-22.5748,64.0093,macroseismic,0.048201,0.8059,,240.55,inferred,241.0

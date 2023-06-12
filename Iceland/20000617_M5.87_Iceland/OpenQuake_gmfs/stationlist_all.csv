@@ -1,0 +1,25 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+304,Sigoldustifla,-19.1,64.16,seismic,0.041122,0,,455.83,inferred,460.0
+113,Hveragerdi-Retirement House,-21.187,64.002,seismic,0.109184,0,,696.25,inferred,696.0
+302,Hrauneyjafoss-Hydroelectric Power Station,-19.239,64.201,seismic,0.015816,0,,465.12,inferred,435.0
+403,Reykjavik-Heidmork (Jadar),-21.764,64.075,seismic,0.044286,0,,325.86,inferred,320.0
+100,Reykjavik-University (VR-II),-21.96,64.14,seismic,0.038367,0,,600.0,inferred,280.0
+106,Flagbjarnarholt,-20.264,63.991,seismic,0.337755,0,,317.45,inferred,350.0
+101,Selfoss-Hospital,-20.987,63.94,seismic,0.067551,0,,237.75,inferred,228.0
+311,Blondustifla,-19.674,65.225,seismic,0.003296,0,,415.11,inferred,417.0
+306,Ljosafoss-Hydroelectric Power Station,-21.011,64.094,seismic,0.066633,0,,370.16,inferred,391.0
+305,Irafoss-Hydroelectric Power Station,-21.007,64.088,seismic,0.042755,0,,600.0,inferred,391.0
+112,Selfoss-City Hall,-21.002,63.937,seismic,0.072041,0,,289.85,inferred,290.0
+402,Reykjavik-Foldaskoli,-21.79,64.133,seismic,0.046327,0,,364.92,inferred,356.0
+309,Sultartanga-Hydroelectric Power Station,-19.619,64.167,seismic,0.041735,0,,567.55,inferred,568.0
+303,Sultartangastifla,-19.57,64.19,seismic,0.024388,0,,701.98,inferred,549.0
+103,Kaldarholt,-20.474,64.004,seismic,0.626531,0,,347.2,inferred,335.0
+401,Reykjavik-Hus Verslunarinnar,-21.905,64.135,seismic,0.038776,0,,387.7,inferred,390.0
+502,Thjorsarbru,-20.649,63.931,seismic,0.518367,0,,268.3,inferred,268.0
+111,Selsund,-19.946,63.941,seismic,0.278571,0,,368.97,inferred,406.0
+104,Thorlakshofn,-21.382,63.854,seismic,0.070612,0,,283.52,inferred,284.0
+109,Solheimar,-20.642,64.065,seismic,0.4,0,,296.24,inferred,266.0
+301,Burfell-Hydroelectric Power Station,-19.84,64.1,seismic,0.090306,0,,492.02,inferred,359.0
+108,Minni-Nupur,-20.16,64.05,seismic,0.156122,0,,605.42,inferred,592.0
+105,Hella,-20.39,63.84,seismic,0.477551,0,,244.69,inferred,259.0
+307,Sigolduvirkjun-Hydroelectric Power Station,-19.125,64.174,seismic,0.011327,0,,590.15,inferred,559.0

@@ -1,0 +1,19 @@
+job_id: 1
+job_description: 20000617_M5.87_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Iceland/20000617_M5.87_Iceland/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 854813458 (total size 235.51 KB)
+Entering SLOW MODE. You have 1.7 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=3544 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '416.15 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 207.84 KB of GMFs
+Exposing the outputs to the database
+Stored 762.09 KB on /Users/chago/oqdata/calc_1.hdf5 in 0 seconds

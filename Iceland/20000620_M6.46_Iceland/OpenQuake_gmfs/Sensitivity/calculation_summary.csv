@@ -1,0 +1,46 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+1,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.7527449,,,
+1,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.46502882,,,
+1,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,1.2184726,,,
+1,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.84488165,,,
+1,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.6706559,,,
+2,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.39279607,,,
+2,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.24266055,,,
+2,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.63582134,,,
+2,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.43468314,,,
+2,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.35494533,,,
+3,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.75649923,,,
+3,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,0.46734816,,,
+3,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+KothaEtAl2020ESHM20SlopeGeology",PGA,1.2245498,,,
+3,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.8490955,,,
+3,"20000620_M6.46_Iceland median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.6740008,,,

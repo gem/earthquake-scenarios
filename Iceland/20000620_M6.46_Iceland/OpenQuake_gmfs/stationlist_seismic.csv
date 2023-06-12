@@ -1,0 +1,24 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+103,Kaldarholt,-20.474,64.004,seismic,0.391837,0,,347.2,inferred,335.0
+305,Irafoss-Hydroelectric Power Station,-21.007,64.088,seismic,0.105102,0,,600.0,inferred,391.0
+112,Selfoss-City Hall,-21.002,63.937,seismic,0.127551,0,,289.85,inferred,290.0
+109,Solheimar,-20.642,64.065,seismic,0.721429,0,,296.24,inferred,266.0
+502,Thjorsarbru,-20.649,63.931,seismic,0.838776,0,,268.3,inferred,268.0
+302,Hrauneyjafoss-Hydroelectric Power Station,-19.239,64.201,seismic,0.007694,0,,465.12,inferred,435.0
+402,Reykjavik-Foldaskoli,-21.79,64.133,seismic,0.011735,0,,364.92,inferred,356.0
+309,Sultartanga-Hydroelectric Power Station,-19.619,64.167,seismic,0.01551,0,,567.55,inferred,568.0
+105,Hella,-20.39,63.84,seismic,0.165306,0,,244.69,inferred,259.0
+301,Burfell-Hydroelectric Power Station,-19.84,64.1,seismic,0.028878,0,,492.02,inferred,359.0
+107,Thjorsartun,-20.648,63.928,seismic,0.568367,0,,268.3,inferred,382.0
+303,Sultartangastifla,-19.57,64.19,seismic,0.009398,0,,701.98,inferred,549.0
+106,Flagbjarnarholt,-20.264,63.991,seismic,0.052347,0,,317.45,inferred,350.0
+403,Reykjavik-Heidmork (Jadar),-21.764,64.075,seismic,0.011633,0,,325.86,inferred,320.0
+101,Selfoss-Hospital,-20.987,63.94,seismic,0.178571,0,,237.75,inferred,228.0
+401,Reykjavik-Hus Verslunarinnar,-21.905,64.135,seismic,0.018265,0,,387.7,inferred,390.0
+307,Sigolduvirkjun-Hydroelectric Power Station,-19.125,64.174,seismic,0.008898,0,,519.72,inferred,559.0
+104,Thorlakshofn,-21.382,63.854,seismic,0.106122,0,,283.52,inferred,284.0
+102,Hveragerdi-Church,-21.187,64.002,seismic,0.127551,0,,696.25,inferred,696.0
+108,Minni-Nupur,-20.16,64.05,seismic,0.027959,0,,605.42,inferred,592.0
+306,Ljosafoss-Hydroelectric Power Station,-21.011,64.094,seismic,0.106122,0,,370.16,inferred,391.0
+304,Sigoldustifla,-19.1,64.16,seismic,0.017755,0,,455.83,inferred,460.0
+311,Blondustifla,-19.674,65.225,seismic,0.004398,0,,415.11,inferred,417.0

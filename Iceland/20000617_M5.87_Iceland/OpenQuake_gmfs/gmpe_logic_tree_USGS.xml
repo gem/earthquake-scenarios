@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Logic Tree for Iceland Atlantic Active Region -->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Iceland Atlantic Active Region">
+
+                <logicTreeBranch branchID="b51">
+                    <uncertaintyModel>Atkinson2010Hawaii</uncertaintyModel>
+                    <uncertaintyWeight>1.0</uncertaintyWeight>
+                </logicTreeBranch>
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>
