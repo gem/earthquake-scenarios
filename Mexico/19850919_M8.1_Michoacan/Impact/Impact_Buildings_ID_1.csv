@@ -1,0 +1,10 @@
+ID_1,NAME_1,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+9,Ciudad de México,,,,3124.0,,,,412,,Shaking,Chaires,
+9,Ciudad de México,,,,3124.0,,,,412,,Shaking,Wikipedia,
+9,Ciudad de México,,,,3124.0,,,,412,,Shaking,Livescience,
+9,Ciudad de México,,,,3124.0,,,,412,,Shaking,USGS,
+9,Ciudad de México,,,,3124.0,,,,412,,Shaking,Berkeley_Seismo_Blog,
+9,Ciudad de México,,,,100000.0,,,,3000,,Shaking,NIST,
+9,Ciudad de México,,,,,,,,>400,,Shaking,History,
+9,Ciudad de México,,,,,,,,880,,Shaking,Diaz_Fanas_et_al_2019,
+9,Ciudad de México,,,,,,,,800,,Shaking,BBC,

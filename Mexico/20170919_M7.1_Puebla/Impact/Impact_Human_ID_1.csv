@@ -1,0 +1,36 @@
+ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,RELOCATIONS,CAUSE_OF_INJURY/DEATH,COMMENTS,REFERENCE
+9,Ciudad de México,225-228,225-228,456,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+17,Morelos,75,75,2508,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+21,Puebla,45-46,45-46,105,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+15,México,15,15,200,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+12,Guerrero,6,6,2,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+20,Oaxaca,1,1,0,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+16,Michoacán de Ocampo,0,0,1,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+29,Tlaxcala,0,0,2,,,,,,Wikipedia_Spanish_and_Wikipedia_English
+12,Guerrero,,,,193546,,,,,EID
+21,Puebla,46,46,,,,,,,EID
+9,Ciudad de México,220,220,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+17,Morelos,74,74,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+21,Puebla,45,45,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+15,México,13,13,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+12,Guerrero,6,6,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+20,Oaxaca,4,4,,,,,,,NOAA_ref#1053_National_Earthquake_Information_Center 
+9,Ciudad de México,228,228,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+17,Morelos,74,74,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+21,Puebla,45,45,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+15,México,15,15,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+12,Guerrero,6,6,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+20,Oaxaca,1,1,,,,,,,NOAA_ref#11886_El_Sol_de_Mexico_2017
+17,Morelos,73,73,196,,,,,,NOAA_ref#11894_El_Sol/-de_Mexico_2017
+9,Ciudad de México,220,220,,,,,,,USGS
+17,Morelos,74,74,,,,,,,USGS
+21,Puebla,45,45,,,,,,,USGS
+15,México,13,13,,,,,,,USGS
+12,Guerrero,6,6,,,,,,,USGS
+20,Oaxaca,4,4,,,,,,,USGS
+9,Ciudad de México,228,228,,,59248,,,,CENAPRED
+17,Morelos,74,74,,,63204,,,,CENAPRED
+21,Puebla,45,45,,,113380,,,,CENAPRED
+15,México,15,15,,,24240,,,,CENAPRED
+29,Tlaxcala,,,,,136,,,,CENAPRED
+12,Guerrero,6,6,,,15712,438,,,CENAPRED

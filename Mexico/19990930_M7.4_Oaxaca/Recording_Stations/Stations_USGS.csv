@@ -1,0 +1,11 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,VS30_TYPE,REFERENCES
+OCLL,"Ocotillo, Mexico",-99.88,17.036,seismic,541.17,3.6,0.66,0.0,0.009388,inferred,Stations_USGS
+TEAC,"Teacalco, Mexico",-99.453,18.614,seismic,442.72,3.5,0.66,0.0,0.007959,inferred,Stations_USGS
+POZU,"Pozuelo, Mexico",-99.62,17.1,seismic,432.91,4.2,0.66,0.0,0.02551,inferred,Stations_USGS
+COPL,"Copala, Mexico",-98.98,16.61,seismic,283.49,4.2,0.66,0.0,0.030714,inferred,Stations_USGS
+VIGA,"Las Vigas, Mexico",-99.23,16.758,seismic,279.86,4.9,0.66,0.0,0.052959,inferred,Stations_USGS
+SLUI,"San Luis, Mexico",-100.89,17.272,seismic,374.88,2.9,0.66,0.0,0.003163,inferred,Stations_USGS
+VNTA,"La Venta, Mexico",-99.819,16.913,seismic,303.81,3.4,0.66,0.0,0.007755,inferred,Stations_USGS
+COYQ,"Coyuquilla, Mexico",-101.056,17.38,seismic,433.94,4.3,0.66,0.0,0.023061,inferred,Stations_USGS
+COYC,"Coyuca, Mexico",-100.12,16.995,seismic,225.23,4.0,0.66,0.0,0.015612,inferred,Stations_USGS
+PET2,"Petatlan Ii, Mexico",-101.26,17.53,seismic,329.83,3.2,0.66,0.0,0.00449,inferred,Stations_USGS

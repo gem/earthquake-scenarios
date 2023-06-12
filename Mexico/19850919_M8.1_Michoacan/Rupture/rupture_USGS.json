@@ -1,0 +1,60 @@
+{
+   "metadata":{
+      "id":"usp0002jwe",
+      "mech":"ALL",
+      "reference":"Source: Mendoza, C., and S. H. Hartzell (1989). Slip distribution of the 19 September 1985 Michoacan, Mexico, earthquake - near-source and teleseismic constraints, Bull. Seism. Soc. Am. 79, 655-669.",
+      "mag":8.0,
+      "netid":"us",
+      "depth":27.9,
+      "locstring":"Michoacan, Mexico",
+      "rake":0.0,
+      "network":"USGS National Earthquake Information Center, PDE",
+      "lon":-102.533,
+      "time":"1985-09-19T13:17:47.000000Z",
+      "lat":18.19,
+      "productcode":"usp0002jwe"
+   },
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "type":"Feature",
+         "geometry":{
+            "coordinates":[
+               [
+                  [
+                     [
+                        -101.78933,
+                        17.23636,
+                        6.0
+                     ],
+                     [
+                        -103.2652,
+                        18.04848,
+                        6.0
+                     ],
+                     [
+                        -102.65707,
+                        19.13333,
+                        36.0
+                     ],
+                     [
+                        -101.16214,
+                        18.33333,
+                        36.0
+                     ],
+                     [
+                        -101.78933,
+                        17.23636,
+                        6.0
+                     ]
+                  ]
+               ]
+            ],
+            "type":"MultiPolygon"
+         }
+      }
+   ]
+}

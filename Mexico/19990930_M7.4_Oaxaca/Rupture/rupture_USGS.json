@@ -1,0 +1,60 @@
+{
+   "metadata":{
+      "id":"usp0009f7v",
+      "mech":"ALL",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "time":"1999-09-30T16:31:15.000000Z",
+      "netid":"us",
+      "lon":-96.931,
+      "mag":7.5,
+      "locstring":"Oaxaca, Mexico",
+      "depth":60.6,
+      "reference":"Castro, R. R., and E. Ruiz-Cruz (2005). Stochastic modeling of the 30 September 1999 Mw 7.5 earthquake, Oaxaca, Mexico, Bull. Seism. Soc. Am. 95, 2259-2271.",
+      "rake":0.0,
+      "lat":16.059,
+      "productcode":"usp0009f7v"
+   },
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "type":"Feature",
+         "geometry":{
+            "coordinates":[
+               [
+                  [
+                     [
+                        -97.64,
+                        16.144,
+                        26.0
+                     ],
+                     [
+                        -96.873,
+                        15.797,
+                        26.0
+                     ],
+                     [
+                        -96.753,
+                        16.036,
+                        51.0
+                     ],
+                     [
+                        -97.52,
+                        16.383,
+                        51.0
+                     ],
+                     [
+                        -97.64,
+                        16.144,
+                        26.0
+                     ]
+                  ]
+               ]
+            ],
+            "type":"MultiPolygon"
+         }
+      }
+   ]
+}

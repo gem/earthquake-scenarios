@@ -1,0 +1,23 @@
+job_id: 100
+job_description: 20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+
+usuario@CYE.local running /Users/cye/Documents/wip/ecd/Mexico/20170919_M7.1_Puebla/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git0855b3c6a9
+Using 8 cores on CYE.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3518526970 (total size 816.29 KB)
+Extracting the hazard sites from the site model
+Read N=14831 hazard sites and L=1 hazard levels
+Reading station data from /Users/cye/Documents/wip/ecd/Mexico/20170919_M7.1_Puebla/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+corner points do not lie on the same plane
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2015SSlab, IMT: PGA, Nominal bias mean: -0.175, Nominal bias stddev: 0.078
+GMM: Kanno2006Deep, IMT: PGA, Nominal bias mean: 0.937, Nominal bias stddev: 0.062
+GMM: ParkerEtAl2020SSlab, IMT: PGA, Nominal bias mean: 0.225, Nominal bias stddev: 0.084
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.02 MB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 1545 seconds from event_based
+Stored 521.52 KB of GMFs
+Exposing the outputs to the database
+Stored 2.07 MB on /Users/cye/oqdata/calc_100.hdf5 in 1549 seconds

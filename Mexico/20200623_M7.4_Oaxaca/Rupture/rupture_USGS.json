@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":" Finite fault from D. Goldberg 2 pm 6.23.2020",
+      "id":"us6000ah9t",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"us6000ah9t",
+      "time":"2020-06-23T15:29:04.000000Z",
+      "lat":15.8861,
+      "lon":-96.0077,
+      "depth":20.0,
+      "mag":7.4,
+      "locstring":"9 km SE of Santa Mar\u00eda Xadani, Mexico",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -95.8,
+                        15.95,
+                        19.18
+                     ],
+                     [
+                        -95.99,
+                        15.93,
+                        19.18
+                     ],
+                     [
+                        -96.01,
+                        16.11,
+                        27.41
+                     ],
+                     [
+                        -95.82,
+                        16.13,
+                        27.41
+                     ],
+                     [
+                        -95.8,
+                        15.95,
+                        19.18
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

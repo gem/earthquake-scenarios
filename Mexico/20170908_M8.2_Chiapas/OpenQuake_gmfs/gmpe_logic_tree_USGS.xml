@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+
+<!-- Ground Motion Models for PGA: subduction_slab_nshmp2014 -->
+<!-- The USGS logic tree includes equations active_crustal_deep and subduction_interface_nshmp2014 -->
+
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="Subduction Inslab">
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.1667</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b4'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SSlabCascadia
+            </uncertaintyModel>
+            <uncertaintyWeight>0.1667</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b5'>
+            <uncertaintyModel>
+                ZhaoEtAl2016SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.3333</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b6'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2015SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.3333</uncertaintyWeight>
+        </logicTreeBranch>
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "time":"2017-09-08T04:49:19.000000Z",
+      "netid":"us",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "mag":8.2,
+      "rake":0.0,
+      "reference":"Source: Hayes FFF",
+      "locstring":"101km SSW of Tres Picos, Mexico",
+      "lon":-93.8993,
+      "id":"us2000ahv0",
+      "depth":47.4,
+      "lat":15.0222,
+      "mech":"ALL",
+      "productcode":"us2000ahv0"
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -93.86,
+                        14.88,
+                        20.62
+                     ],
+                     [
+                        -94.61,
+                        15.61,
+                        20.62
+                     ],
+                     [
+                        -94.46,
+                        15.75,
+                        92.6
+                     ],
+                     [
+                        -93.71,
+                        15.02,
+                        92.6
+                     ],
+                     [
+                        -93.86,
+                        14.88,
+                        20.62
+                     ]
+                  ]
+               ]
+            ]
+         },
+         "properties":{
+            "rupture type":"rupture extent"
+         }
+      }
+   ]
+}

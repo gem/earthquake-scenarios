@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>2000ar20</name>
+	<StyleMap id="msn_ylw-pushpin">
+	<Pair>
+	<key>normal</key>
+	<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+		<key>highlight</key>
+	<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+		<color>ff00ffff</color>
+	<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+		<scale>1.3</scale>
+	<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+		</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	<LineStyle>
+	<color>ff00ffff</color>
+			<width>5</width>
+	</LineStyle>
+	</Style>
+ <Placemark>
+		<name>Fault Segment 0</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+ -98.79720,18.71200,46.31610   -98.14140,18.47340,46.31610   -98.25260,18.19870,75.75780   -98.90840,18.43730,75.75780   -98.79720,18.71200,46.31610   </coordinates>
+		</LineString>
+	</Placemark>
+     <GroundOverlay>
+             <name>2000ar20 FFM Image Overlay</name>
+             <Icon>
+                     <href>2000ar20_ge.png</href>
+                     <viewBoundScale>0.75</viewBoundScale>
+             </Icon>
+		<color>bfffffff</color>
+             <LatLonBox>
+                     <north>18.71200</north>
+                     <south>18.19870</south>
+                     <east>-98.14140</east>
+                     <west>-98.90840</west>
+             </LatLonBox>
+     </GroundOverlay>
+	<ScreenOverlay>
+		<name>FFM Legend</name>
+		<Icon>
+	  	<href>2000ar20_scale.png</href>
+		</Icon>
+		<overlayXY x="0" y="85" xunits="pixels" yunits="pixels" />
+		<screenXY x="4" y="1.0" xunits="pixels" yunits="fraction" />
+		<size x="0" y="0" xunits="pixels" yunits="pixels" />
+	</ScreenOverlay>
+ </Document>
+ </kml>

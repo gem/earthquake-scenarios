@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Global Hazard Mosaic - MEX  -->
+<!-- https://gitlab.openquake.org/hazard/mosaic/MEX/-/blob/c2bd4dcf8010d951ba7c2acffde6b9c9e862e94e/in/gmmLTrisk.xml -->
+
+<!-- 4.0 Logic Tree for Interface Zone -->
+
+       <logicTreeBranchingLevel branchingLevelID="bl04">
+            
+            <logicTreeBranchSet branchSetID="bs04" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Subduction Interface">
+                 
+                <logicTreeBranch branchID="b41">
+                    <uncertaintyModel>
+                        [ModifiableGMPE]
+                        gmpe.YoungsEtAl1997SInter = {}
+                        add_between_within_stds.with_betw_ratio = 1.8        
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b42">
+                    <uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b43">
+                    <uncertaintyModel>MontalvaEtAl2017SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3334</uncertaintyWeight>
+                </logicTreeBranch>           
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

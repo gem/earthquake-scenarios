@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+
+<!-- Ground Motion Models for PGA: subduction_slab_nshmp2014 - Weighted Average -->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Subduction IntraSlab">
+
+                <logicTreeBranch branchID="b05">
+                    <uncertaintyModel>
+                        [AvgGMPE]
+                        b51.AtkinsonBoore2003SSlab.weight=0.1667
+                        b52.AtkinsonBoore2003SSlabCascadia.weight=0.1667
+                        b53.ZhaoEtAl2016SSlab.weight=0.3333
+                        b54.AbrahamsonEtAl2015SSlab.weight=0.3333
+                    </uncertaintyModel>
+                    <uncertaintyWeight>1.0</uncertaintyWeight>
+                </logicTreeBranch>
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

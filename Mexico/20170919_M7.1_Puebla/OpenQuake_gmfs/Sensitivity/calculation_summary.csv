@@ -1,0 +1,169 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+99,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:SSN
+",26985, Seismic, GEM, SSN,ParkerEtAl2020SSlab,PGA,0.44945157,-0.01,0.083,0.01
+97,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1015, Seismic, GEM, GCMT,ParkerEtAl2020SSlab,PGA,0.4361051,0.012,0.083,0.012
+112,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",1534, All, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.059,0.073,0.059
+108,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",968, All, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.059,0.073,0.059
+109,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",1299, All, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.101,0.073,0.101
+105,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",1536, All, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.101,0.073,0.101
+107,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:SSN
+",980, All, GEM, SSN,ParkerEtAl2020SSlab,PGA,0.5077656,0.114,0.077,0.114
+111,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:SSN
+",1340, All, USGS, SSN,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.117,0.073,0.117
+107,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:SSN
+",980, All, GEM, SSN,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.117,0.073,0.117
+105,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",1536, All, GEM, GCMT,ParkerEtAl2020SSlab,PGA,0.48432586,0.122,0.077,0.122
+106,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:Melgar_et_al_2018
+",963, All, GEM, Melgar_et_al_2018,ParkerEtAl2020SSlab,PGA,0.4872173,-0.126,0.076,0.126
+100,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1549, Seismic, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.24473028,-0.175,0.078,0.175
+104,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",1276, Seismic, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.24473028,-0.175,0.078,0.175
+110,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:Melgar_et_al_2018
+",8412, All, USGS, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.179,0.073,0.179
+106,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:Melgar_et_al_2018
+",963, All, GEM, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.43934,-0.179,0.073,0.179
+97,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1015, Seismic, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.2520663,-0.212,0.078,0.212
+101,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",1275, Seismic, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.2520663,-0.212,0.078,0.212
+100,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1549, Seismic, GEM, USGS,ParkerEtAl2020SSlab,PGA,0.37935948,0.225,0.084,0.225
+102,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:Melgar_et_al_2018
+",1280, Seismic, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlab,PGA,0.5099219,0.241,0.068,0.241
+99,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:SSN
+",26985, Seismic, GEM, SSN,AbrahamsonEtAl2015SSlab,PGA,0.25731507,-0.242,0.078,0.242
+103,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:SSN
+",1269, Seismic, USGS, SSN,AbrahamsonEtAl2015SSlab,PGA,0.25731507,-0.242,0.078,0.242
+98,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:Melgar_et_al_2018
+",991, Seismic, GEM, Melgar_et_al_2018,ParkerEtAl2020SSlab,PGA,0.4263132,-0.263,0.082,0.263
+102,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:Melgar_et_al_2018
+",1280, Seismic, USGS, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.2324,-0.305,0.078,0.305
+98,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:Melgar_et_al_2018
+",991, Seismic, GEM, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.2324,-0.305,0.078,0.305
+110,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:Melgar_et_al_2018
+",8412, All, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlab,PGA,0.554297,0.331,0.064,0.331
+108,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",968, All, GEM, USGS,ParkerEtAl2020SSlab,PGA,0.43934,0.339,0.077,0.339
+112,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",1534, All, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.43934,-0.428,0.072,0.428
+103,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:SSN
+",1269, Seismic, USGS, SSN,AtkinsonBoore2003SSlab,PGA,0.5709045,0.488,0.068,0.488
+109,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",1299, All, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.43934,-0.492,0.072,0.492
+111,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:SSN
+",1340, All, USGS, SSN,ZhaoEtAl2016SSlab,PGA,0.43934,-0.507,0.072,0.507
+101,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",1275, Seismic, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.56893325,0.532,0.068,0.532
+104,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",1276, Seismic, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.2827227,-0.545,0.076,0.545
+111,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:SSN
+",1340, All, USGS, SSN,AtkinsonBoore2003SSlab,PGA,0.61758965,0.572,0.064,0.572
+110,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:Melgar_et_al_2018
+",8412, All, USGS, Melgar_et_al_2018,ZhaoEtAl2016SSlab,PGA,0.43934,-0.578,0.072,0.578
+109,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",1299, All, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.60368055,0.6,0.064,0.6
+101,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",1275, Seismic, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.31050515,-0.6,0.076,0.6
+98,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:Melgar_et_al_2018
+",991, Seismic, GEM, Melgar_et_al_2018,Kanno2006Deep,PGA,0.80899465,0.613,0.062,0.613
+103,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:SSN
+",1269, Seismic, USGS, SSN,ZhaoEtAl2016SSlab,PGA,0.3112787,-0.629,0.076,0.629
+102,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:Melgar_et_al_2018
+",1280, Seismic, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlabCascadia,PGA,0.5845111,0.688,0.068,0.688
+106,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:Melgar_et_al_2018
+",963, All, GEM, Melgar_et_al_2018,Kanno2006Deep,PGA,0.87695366,0.699,0.058,0.699
+102,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:Melgar_et_al_2018
+",1280, Seismic, USGS, Melgar_et_al_2018,ZhaoEtAl2016SSlab,PGA,0.2901019,-0.704,0.076,0.704
+99,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:SSN
+",26985, Seismic, GEM, SSN,Kanno2006Deep,PGA,0.9045536,0.721,0.062,0.721
+104,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",1276, Seismic, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.54960936,0.748,0.068,0.748
+97,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1015, Seismic, GEM, GCMT,Kanno2006Deep,PGA,0.8460503,0.773,0.062,0.773
+110,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:Melgar_et_al_2018
+",8412, All, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlabCascadia,PGA,0.6359147,0.779,0.064,0.779
+107,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:SSN
+",980, All, GEM, SSN,Kanno2006Deep,PGA,0.97157615,0.8,0.058,0.8
+112,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",1534, All, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.59139997,0.825,0.064,0.825
+105,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",1536, All, GEM, GCMT,Kanno2006Deep,PGA,0.88387525,0.832,0.058,0.832
+103,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:SSN
+",1269, Seismic, USGS, SSN,AtkinsonBoore2003SSlabCascadia,PGA,0.6407723,0.934,0.068,0.934
+100,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1549, Seismic, GEM, USGS,Kanno2006Deep,PGA,0.8026946,0.937,0.062,0.937
+101,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",1275, Seismic, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.6334008,0.977,0.068,0.977
+108,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",968, All, GEM, USGS,Kanno2006Deep,PGA,0.84687424,1.003,0.058,1.003
+111,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:SSN
+",1340, All, USGS, SSN,AtkinsonBoore2003SSlabCascadia,PGA,0.69457126,1.021,0.064,1.021
+109,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",1299, All, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.67306,1.046,0.064,1.046
+104,"20170919_M7.1_Puebla median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",1276, Seismic, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.594048,1.193,0.068,1.193
+112,"20170919_M7.1_Puebla median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",1534, All, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.6401251,1.273,0.064,1.273
+81,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",6, None, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.3298954,,,
+81,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",6, None, GEM, GCMT,Kanno2006Deep,PGA,0.47706535,,,
+81,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",6, None, GEM, GCMT,ParkerEtAl2020SSlab,PGA,0.46972063,,,
+82,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:Melgar_et_al_2018
+",6, None, GEM, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.30539975,,,
+82,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:Melgar_et_al_2018
+",6, None, GEM, Melgar_et_al_2018,Kanno2006Deep,PGA,0.45441902,,,
+82,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:Melgar_et_al_2018
+",6, None, GEM, Melgar_et_al_2018,ParkerEtAl2020SSlab,PGA,0.5615572,,,
+83,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:SSN
+",6, None, GEM, SSN,AbrahamsonEtAl2015SSlab,PGA,0.32955107,,,
+83,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:SSN
+",6, None, GEM, SSN,Kanno2006Deep,PGA,0.47678986,,,
+83,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:SSN
+",6, None, GEM, SSN,ParkerEtAl2020SSlab,PGA,0.47020224,,,
+84,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.34193698,,,
+84,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,Kanno2006Deep,PGA,0.42000937,,,
+84,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,ParkerEtAl2020SSlab,PGA,0.3905118,,,
+85,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",6, None, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.3298954,,,
+85,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",6, None, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.37123975,,,
+85,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",6, None, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.26635873,,,
+85,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",6, None, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.59130734,,,
+86,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:Melgar_et_al_2018
+",6, None, USGS, Melgar_et_al_2018,AbrahamsonEtAl2015SSlab,PGA,0.30539975,,,
+86,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:Melgar_et_al_2018
+",6, None, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlab,PGA,0.40643647,,,
+86,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:Melgar_et_al_2018
+",6, None, USGS, Melgar_et_al_2018,AtkinsonBoore2003SSlabCascadia,PGA,0.29799214,,,
+86,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:Melgar_et_al_2018
+",6, None, USGS, Melgar_et_al_2018,ZhaoEtAl2016SSlab,PGA,0.5867239,,,
+87,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:SSN
+",6, None, USGS, SSN,AbrahamsonEtAl2015SSlab,PGA,0.32955107,,,
+87,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:SSN
+",6, None, USGS, SSN,AtkinsonBoore2003SSlab,PGA,0.37086964,,,
+87,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:SSN
+",6, None, USGS, SSN,AtkinsonBoore2003SSlabCascadia,PGA,0.26603702,,,
+87,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:SSN
+",6, None, USGS, SSN,ZhaoEtAl2016SSlab,PGA,0.5896486,,,
+88,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.34193698,,,
+88,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.3305201,,,
+88,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.23208033,,,
+88,"20170919_M7.1_Puebla median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.5708081,,,

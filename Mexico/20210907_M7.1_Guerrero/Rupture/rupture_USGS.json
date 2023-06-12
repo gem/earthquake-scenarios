@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Source: USGS NEIC Rapid Finite FaultEvent ID: 7000f93vModel created: 2021-09-08 03:53:15",
+      "id":"us7000f93v",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"us7000f93v",
+      "time":"2021-09-08T01:47:47.000000Z",
+      "lat":16.9722,
+      "lon":-99.7429,
+      "depth":20.0,
+      "mag":7.0,
+      "locstring":"0 km WSW of Ejido Nuevo, Guerrero, MX",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -99.7,
+                        16.82,
+                        9.0
+                     ],
+                     [
+                        -99.92,
+                        16.9,
+                        9.0
+                     ],
+                     [
+                        -99.84,
+                        17.09,
+                        17.23
+                     ],
+                     [
+                        -99.63,
+                        17.02,
+                        17.23
+                     ],
+                     [
+                        -99.7,
+                        16.82,
+                        9.0
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

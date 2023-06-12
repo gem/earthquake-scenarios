@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Global Hazard Mosaic - MEX  -->
+<!-- https://gitlab.openquake.org/hazard/mosaic/MEX/-/blob/c2bd4dcf8010d951ba7c2acffde6b9c9e862e94e/in/gmmLTrisk.xml -->
+
+
+<!-- 5.0 Logic Tree for Intraslab -->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Subduction IntraSlab">
+
+                <logicTreeBranch branchID="b51">
+                    <uncertaintyModel>
+                        [ModifiableGMPE]
+                        gmpe.YoungsEtAl1997SSlab = {}
+                        add_between_within_stds.with_betw_ratio = 1.8                        
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.3334</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b52">
+                    <uncertaintyModel>AbrahamsonEtAl2015SSlab</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b53">
+                    <uncertaintyModel>
+                        [ModifiableGMPE]
+                        gmpe.Kanno2006Deep = {}
+                        add_between_within_stds.with_betw_ratio = 1.8
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>                  
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

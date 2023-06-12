@@ -1,0 +1,6 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA
+CS66,CS66,19.2222,-99.554,seismic,Stations_Guillermo_Diaz_Fanas_2020_And_Cires,Zona IIIc - Lago,0.1334,0
+IM40,IM40,19.2034,-99.1212,seismic,Stations_Guillermo_Diaz_Fanas_2020_And_Cires,Zona I - Lomas,0.08886,0
+NZ20,NZ20,19.241,-99,seismic,Stations_Guillermo_Diaz_Fanas_2020_And_Cires,Zona IIId - Lago,0.14569,0
+NZ31,NZ31,19.25,-99.129,seismic,Stations_Guillermo_Diaz_Fanas_2020_And_Cires,Zona IIId - Lago,0.11,0
+SS60,SS60,19.2335,-99.849,seismic,Stations_Guillermo_Diaz_Fanas_2020_And_Cires,Zona IIIb – Lago,0.10585,0

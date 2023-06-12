@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <singlePlaneRupture>
+        <magnitude>
+            7.10000
+        </magnitude>
+        <rake>
+            -93
+        </rake>
+        <hypocenter depth="48.00000" lat="18.54990" lon="-98.48870"/>
+        <planarSurface>
+            <topLeft depth="46.10000" lat="18.67000" lon="-98.51000"/>
+            <topRight depth="46.10000" lat="18.60000" lon="-98.30000"/>
+            <bottomLeft depth="56.90000" lat="18.58000" lon="-98.54000"/>
+            <bottomRight depth="56.90000" lat="18.50000" lon="-98.34000"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>
+<!-- Rupture XML automatically generated from USGS (us2000ar20).
+Reference:  Gavin Hayes teleseismic model V2 9.22.17 5 pm MST.
+Rake angle defined by SSN. -->

@@ -1,0 +1,35 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+INMD,"Presa Infiernillo, margen derecha",-101.9,18.283,seismic,536.64,5.7,0.63,0.0,0.144898,0.0,7.53,0.0,0.180122,0.0,0.066315,0.0,0.028957,inferred,Stations_USGS
+TEAC,Teacalco,-99.45418,18.61773,seismic,442.72,5.3,0.63,0.0,0.052245,0.0,7.64,0.0,0.061804,0.0,0.056217,0.0,0.018591,inferred,Stations_USGS
+CU01,"Ciudad Universitaria, Laboratorio de Instrumentacion Sismica",-99.183,19.33,seismic,367.31,5.5,0.63,0.0,0.033265,0.0,8.89,0.0,0.046528,0.0,0.093298,0.0,0.043546,inferred,Stations_USGS
+COYC,Coyuca,-100.089963,16.997788,seismic,296.06,5.2,0.63,0.0,0.042857,0.0,7.54,0.0,0.046453,0.0,0.037241,0.0,0.009185,inferred,Stations_USGS
+CARI,"Presa Caracol, margen izquierda",-99.967,17.95,seismic,900.0,4.9,0.63,0.0,0.091224,0.0,5.7,0.0,0.144204,0.0,0.041217,0.0,0.029321,inferred,Stations_USGS
+UNIO,La Union,-101.81057,17.98757,seismic,241.69,6.7,0.63,0.0,0.169388,0.0,21.7,0.0,0.479051,0.0,0.135541,0.0,0.047047,inferred,Stations_USGS
+TACY,Tacubaya,-99.195294,19.404603,seismic,431.08,5.7,0.63,0.0,0.034184,0.0,10.6,0.0,0.029178,0.0,0.035523,0.0,0.069216,inferred,Stations_USGS
+SUCH,El Suchil,-100.63833,17.22618,seismic,503.48,5.8,0.63,0.0,0.105102,0.0,11.5,0.0,0.169796,0.0,0.051912,0.0,0.013084,inferred,Stations_USGS
+SCT1,Secretaria de Comunicaciones y Transportes,-99.148656,19.394675,seismic,221.17,8.1,0.63,0.0,0.165306,0.0,58.7,0.0,0.233286,0.0,0.232827,0.0,0.307612,inferred,Stations_USGS
+PARS,El Paraiso,-100.214,17.344,seismic,263.25,4.7,0.63,0.0,0.112245,0.0,5.03,0.0,0.131847,0.0,0.043815,0.0,0.014478,inferred,Stations_USGS
+TLHD,Tlahuac Deportivo,-99.035,19.293,seismic,331.47,7.4,0.63,0.0,0.120408,0.0,35.1,0.0,0.147714,0.0,0.223541,0.0,0.150602,inferred,Stations_USGS
+FICA,Filo de Caballo,-99.842,17.652,seismic,566.89,5.5,0.63,0.0,0.070612,0.0,8.72,0.0,0.094362,0.0,0.059249,0.0,0.011859,inferred,Stations_USGS
+PAPN,Papanoa,-101.04,17.328,seismic,402.86,5.9,0.63,0.0,0.158163,0.0,12.4,0.0,0.162367,0.0,0.074176,0.0,0.023458,inferred,Stations_USGS
+VILE,"Villita, margen derecha",-102.18893,18.04524,seismic,347.14,6.8,0.63,0.0,0.127551,0.0,22.6,0.0,0.278408,0.0,0.092531,0.0,0.025189,inferred,Stations_USGS
+VNTA,"La Venta, Mexico",-99.8185,16.91428,seismic,303.81,null,null,0.0,0.022459,,,,,,,,,inferred,Stations_USGS
+TLHB,Tlahuac Bombas,-99.008,19.279,seismic,212.34,8.2,0.63,0.0,0.138776,0.0,65.1,0.0,0.150827,0.0,0.25301,0.0,0.324418,inferred,Stations_USGS
+OCTT,El Ocotito,-99.352167,17.252669,seismic,785.58,5.1,0.63,0.0,0.054388,0.0,4.92,0.0,0.213663,0.0,0.055638,0.0,0.009006,inferred,Stations_USGS
+CPDR,Cerro de Piedra,-99.633,16.769,seismic,311.89,4.7,0.63,0.0,0.026327,0.0,5.13,0.0,0.02373,0.0,0.039126,0.0,0.012471,inferred,Stations_USGS
+APAT,Apatzingan,-102.35,19.083,seismic,449.18,5.1,0.63,0.0,0.082959,0.0,6.89,0.0,0.076089,0.0,0.054877,0.0,0.027484,inferred,Stations_USGS
+XALT,"Xaltianguis, Mexico",-99.854,17.065,seismic,508.94,null,null,0.0,0.033163,,,,,,,,,inferred,Stations_USGS
+ZACA,Zacatula,-102.178,18.009,seismic,278.83,7.1,0.63,0.0,0.267347,0.0,29.9,0.0,0.230061,0.0,0.128388,0.0,0.020784,inferred,Stations_USGS
+CUIP,"Ciudad Universitaria, Instituto de Ingenieria Patio",-99.183,19.33,seismic,367.31,5.6,0.63,0.0,0.033776,0.0,9.66,0.0,0.053641,0.0,0.091301,0.0,0.04262,inferred,Stations_USGS
+AZIH,Aeropuerto Zihuatanejo,-101.46526,17.60654,seismic,278.22,6.4,0.63,0.0,0.157143,0.0,16.9,0.0,0.399112,0.0,0.175061,0.0,0.036608,inferred,Stations_USGS
+CDAF,Central de Abastos Frigorifico,-99.086,19.366,seismic,253.79,7.4,0.63,0.0,0.118367,0.0,36.0,0.0,0.092757,0.0,0.155745,0.0,0.407204,inferred,Stations_USGS
+TXSO,Texcoco Sosa,-99.019,19.58,seismic,271.22,7.1,0.63,0.0,0.105102,0.0,29.4,0.0,0.107939,0.0,0.277286,0.0,0.142286,inferred,Stations_USGS
+SXVI,Sismex Viveros,-99.171,19.358,seismic,274.07,5.8,0.63,0.0,0.042551,0.0,11.1,0.0,0.027686,0.0,0.030527,0.0,0.062948,inferred,Stations_USGS
+CUMV,"Ciudad Universitaria, Instituto de Ingenieria Mesa Vibradora",-99.183,19.33,seismic,367.31,5.9,0.63,0.0,0.038571,0.0,11.7,0.0,0.042665,0.0,0.093144,0.0,0.045389,inferred,Stations_USGS
+CDA0,Central de Abastos Oficinas,-99.096,19.372,seismic,252.57,7.5,0.63,0.0,0.088061,0.0,40.2,0.0,0.086977,0.0,0.184306,0.0,0.23498,inferred,Stations_USGS
+CAYA,Cayaco,-100.268,17.046,seismic,328.43,4.9,0.63,0.0,0.049388,0.0,3.52,0.0,0.043073,0.0,0.04405,0.0,0.010936,inferred,Stations_USGS
+CALE,Caleta de Campos,-102.754436,18.072945,seismic,600.0,6.7,0.63,0.0,0.143878,0.0,15.8,0.0,0.221786,0.0,0.069336,0.0,0.035122,inferred,Stations_USGS
+SXPU,Sismex Puebla,-98.215,19.04,seismic,331.42,5.3,0.63,0.0,0.033265,0.0,6.92,0.0,0.039541,0.0,0.08036,0.0,0.027555,inferred,Stations_USGS
+MSAS,"Las Mesas, Mexico",-99.458,17.008,seismic,534.43,null,null,0.0,0.022449,,,,,,,,,inferred,Stations_USGS
+CHI1,Chilpancingo,-99.506,17.551,seismic,446.94,7.2,0.63,0.0,0.190816,0.0,31.4,0.0,0.126929,0.0,0.243653,0.0,0.045239,inferred,Stations_USGS
+ATYC,Atoyac,-100.432269,17.213361,seismic,333.59,5.2,0.63,0.0,0.06102,0.0,4.1,0.0,0.18699,0.0,0.075927,0.0,0.013035,inferred,Stations_USGS

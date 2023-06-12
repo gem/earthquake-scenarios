@@ -1,0 +1,11 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+MEX,Mexico,13-14,13-14,>23,,1600000.0,,8700.0,,Buildings,,,,"Tsunami, Landslide",,Wikipedia,"Of Fatalities, 3 were direct, 6 happened in the aftermath, and 4 occurred indirectly. BUILDINGS_DAMAGED refer to Guerrero state."
+MEX,Mexico,3,3,,,,,7317.0,,Buildings,200000000.0,,USD,Tsunami,,NOAA,Number of BUILDINGS_DAMAGED refers to houses.
+MEX,Mexico,3,3,30,15000.0,,,12963.0,,Buildings,1100000000.0,,USD,"Tsunami, Landslide",,EID_2020,"Of BUILDING_DAMAGED, 135 were related to education damage, 15 were related to religious damage, 13 were related to commercial damage, and 128000 were related to residential damage."
+MEX,Mexico,3,3,,,21951.0,,,,,200000000.0,,USD,Tsunami,,EM-DAT,Geo Locations: Guerrero (Adm1).
+MEX,Mexico,12,12,23,,,,8700.0,,Buildings,,,,"Tsunami, Landslide",,USGS,"5 people killed by a landslide on El Chiquihuite near Mexico City; 4 people died from a heart attack including 3 at Acapulco and 1 in Puebla; 1 person killed at Colonia Luces en el Mar, 1 at Las Tortolitas and 1 at Xaltianguis."
+MEX,Mexico,3,3,20,,,,,,,,,,,,AGU,
+MEX,Mexico,,,,,1600000.0,,,,,,,,,,CNBC,
+MEX,Mexico,,,,,,,,,,,200000.0,USD,,,Insurancejournal,
+MEX,Mexico,,,,,15000.0,,8000.0,,Buildings,,,,,,Mexico_News_Daily,BUILDINGS_DAMAGED and AFFECTED_POPULATION refer to Guerrero state.
+MEX,Mexico,3,3,,,,,,,,,,,Landslide,,Suracapulco,

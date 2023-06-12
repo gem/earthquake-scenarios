@@ -1,0 +1,29 @@
+usuario@CYE.local running /Users/cye/Documents/wip/ecd/Mexico/20170908_M8.2_Chiapas/OpenQuake_gmfs/Sensitivity/job_rup-GCMT_gmpe-GEM_seismic.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 8 cores on CYE.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 1922389229 (total size 430.67 KB)
+Extracting the hazard sites from the site model
+Read N=7841 hazard sites and L=3 hazard levels
+Reading station data from /Users/cye/Documents/wip/ecd/Mexico/20170908_M8.2_Chiapas/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10 1.e-10 1.e-10]
+There are 3 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+1 stations filtered away
+GMM: AbrahamsonEtAl2015SSlab, IMT: PGA, Nominal bias (mean): 0.120
+GMM: AbrahamsonEtAl2015SSlab, IMT: SA(0.3), Nominal bias (mean): 0.483
+GMM: AbrahamsonEtAl2015SSlab, IMT: SA(1.0), Nominal bias (mean): 1.632
+GMM: Kanno2006Deep, IMT: PGA, Nominal bias (mean): 1.686
+GMM: Kanno2006Deep, IMT: SA(0.3), Nominal bias (mean): 1.688
+GMM: Kanno2006Deep, IMT: SA(1.0), Nominal bias (mean): 0.647
+GMM: YoungsEtAl1997SSlab, IMT: PGA, Nominal bias (mean): -0.612
+GMM: YoungsEtAl1997SSlab, IMT: SA(0.3), Nominal bias (mean): -0.800
+GMM: YoungsEtAl1997SSlab, IMT: SA(1.0), Nominal bias (mean): -0.817
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '735.63 KB', 'sig_eps': '511 B', 'times': '309 B', 'hcurves': '5 B'} in 523 seconds from event_based
+Stored 459.36 KB of GMFs
+Checking stored GMFs
+Your results are expected to have a large dependency from the rupture seed: 96%
+Exposing the outputs to the database
+Stored 1.48 MB on /Users/cye/oqdata/calc_13.hdf5 in 526 seconds

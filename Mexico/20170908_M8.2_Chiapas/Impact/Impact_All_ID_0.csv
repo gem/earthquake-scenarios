@@ -1,0 +1,18 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+MEX,Mexico,98,98,251,,,,94027.0,47468.0,Buildings,4000000000.0,,USD,,,NOAA,
+MEX,Mexico,98,98,250,,1200250.0,,,,,2300000000.0,400000000,USD,"Tsunami, Landslide",,EM-DAT,"Geo Locations: Chiapas, Oaxaca, Tabasco (Adm1)."
+MEX,Mexico,102,102,300,458134.0,,,209863.0,56504.0,Buildings,,,,,,EID,"Consist of building damages and human Impacts for Adm_ID_1.  4 person injured and 258 displaced in Guatemala. Also, 1634 buildings damaged in Gutemala. Furthermore, 1006 buildings destroyed in Gutemala."
+MEX,Mexico,96,96,,,,,,,,,14000000000-20000000000,MXN,,,Verisk,"Geo Locations: Chiapas, Oaxaca, Juchitán (Adm1)."
+MEX,Mexico,98,98,250,,,,,,,,,,,,USGS,INJURIES refer to Oaxaca.
+MEX,Mexico,98-100,98-100,300-900,,2500000.0,,,,,4000000000.0,,USD,Tsunami,,Wikipedia,
+MEX,Mexico,98,98,250,,,,,,,,,,Tsunami,,UTSU,
+MEX,Mexico,,,,,,,,,,,,,,,National_Center_for_Disaster_Prevention_2020,
+MEX,Mexico,98-100,98-100,>300,,,,,,,,,,,,Mexico_News_2020,
+MEX,Mexico,98,98,,,,,,,,,,,,,Mavroulis_et_al_2018,
+MEX,Mexico,98,98,,,,,,,,,,,Tsunami,,Lingling_Ye_et_al_2017_a,
+MEX,Mexico,96,96,,,,,110000.0,41000.0,Buildings,,,,,,Godinez_Dominguez_et_al_2021,
+MEX,Mexico,98,98,900,,2500000.0,,118916.0,,Buildings,,,,,,EDEMX_2017,
+MEX,Mexico,95,95,,,,,,,,,,,,,Adrian_Pozos_Estrada_et_al_2019,
+MEX,Mexico,96,96,,,800000.0,40000.0,,,Buildings,,,,,,Boletin_ERNterate_DanosSismo_070917,AFFECTED_POPULATION and BUILDINGS_AFFECTED refer to Oaxaca.
+MEX,Mexico,100,100,,,,,,,,,,,Tsunami,,Cesar_Jimenez_2019,
+MEX,Mexico,61,61,,,,,,,,,,,,,CNN,
