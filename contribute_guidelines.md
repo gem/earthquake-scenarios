@@ -2,7 +2,7 @@
 
 You can contribute by improving the information available for a given event(s), or you can include a new one.
 
-The folder [src][../src] include ipython notebooks that facilitate the collection of the information and formating of the information.
+The folder [src](../src/) include ipython notebooks that facilitate the collection of the information and formating of the information.
 
 If you are familiar working with `git` repositories, open a pull request with the new information, and follow the standards and recomendations in the sections below. Otherwise, you can email your information to the email _risk@globalquakemodel.org_.
 
@@ -11,10 +11,6 @@ To include a new earthquake scenario, at least, the following information needs 
 - Impact
 - Recording stations
 - Rupture geometries
-
-
-[[_TOC_]]
-
 
 ## 0. Create a new event
 
@@ -275,11 +271,7 @@ This value is only reported when the source of reference explicitly indicates "d
 - The losses do not account for the "recovery" cost
 - If there is information regarding the source of the loss, e.g. direct loss, indirect, etc, report it in different columns.
 
-## 5. References
-
-... To be added ...
-
-## 6. Final details
+## 5. Final details
 - Update ECD database, figure and home README using the notebook `6_ecd_readme.ipynb`
 - Verify the integrity of all files by running in the terminal ```pytest tests/``` from the home folder
 - Create a `pull request` to include the new event in the `main` branch.
