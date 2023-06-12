@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2007
+Country,Peru
+Region,Pisco
+Event_Name,Pisco_2007
+Local_Date,15/08/2007
+Local_Time,18:40:58
+Latitude,-13.67
+Longitude,-76.76
+Depth_(km),40
+Mw,7.9
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse Fault
+Tectonic_region_type,Subduction Interface
+Fatalities,337-610 
+Injured,1042-2291
+Displaced_Population,100000
+Affected_Population,32000-722643
+Affected_Units,2574-13688 Units
+Damaged_Units,17000-230000 Units
+Collapsed_Units,33676-94000 Units
+Economic_Losses,139.1-600 M USD
+Insured_Losses,200 M USD 
+Induced_Effects,"Tsunami, Landslides, Liquefaction"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000fjta/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2007_Peru_earthquake

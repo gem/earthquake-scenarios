@@ -1,0 +1,58 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+ANC,ANC,-77.15,-11.776,seismic,0.05873,0.0
+ANR,ANR,-76.976,-12.123,seismic,0.08591,0.0
+CAL,CAL,-77.15,-12.06,seismic,0.1009,0.0
+CDL-CIP,CDL-CIP,-77.049,-12.092,seismic,0.05841,0.0
+CER,CER,-76.998,-12.103,seismic,0.05818,0.0
+CSM,CSM,-77.0502,-12.0133,seismic,0.07377,0.0
+E1,E1,-76.975,-12.033,seismic,0.05998,0.0
+E2,E2,-76.944,-12.055,seismic,0.02058,0.0
+ICA2,ICA2,-75.73,-14.09,seismic,0.3341,0.0
+LMO,LMO,-76.948,-12.085,seismic,0.0253,0.0
+MOL,MOL,-76.89,-12.1,seismic,0.0781,0.0
+NNA,NNA,-76.839,-11.987,seismic,0.02216,0.0
+PCN,PCN,-75.699,-14.042,seismic,0.4884,0.0
+PUCP,PUCP,-77.08,-12.074,seismic,0.0666,0.0
+RIN,RIN,-76.9208,-12.0835,seismic,0.1134,0.0
+CSM,Cismid,-77.05,-12.013,seismic,0.0752,0.0
+RIN,Rinconada,-76.921,-12.084,seismic,0.1156,0.0
+OBS_5,Asia,-76.567,-12.783,macroseismic,0.204881,0.8059
+DYOBS_15,Chincha Alta::Ica::Peru (Intensity VIII),-76.14,-13.42,macroseismic,0.63514,0.8059
+OBS_19,Guadalupe,-75.767,-13.967,macroseismic,0.372862,0.8059
+OBS_6,Coayllo,-76.467,-12.733,macroseismic,0.270145,0.8059
+DYOBS_12,Nazca::Ica::Peru (Intensity VI),-74.94,-14.83,macroseismic,0.117643,0.8059
+OBS_21,Tate de la Capilla,-75.707,-14.152,macroseismic,0.195792,0.8059
+OBS_1,LurAn,-76.867,-12.283,macroseismic,0.093371,0.8059
+OBS_9,Pauyo,-76.183,-13.033,macroseismic,0.146221,0.8059
+OBS_18,Pozo Santo,-76.083,-13.9,macroseismic,0.407556,0.8059
+OBS_13,Chincha Baja,-76.167,-13.467,macroseismic,0.390183,0.8059
+OBS_12,Tambo de Mora,-76.2,-13.467,macroseismic,0.287599,0.8059
+OBS_26,San Juan,-75.162,-15.365,macroseismic,0.057561,0.8059
+DYOBS_9,Ica::Ica::Peru (Intensity VIII),-75.75,-14.06,macroseismic,0.393112,0.8059
+OBS_3,Chilca,-76.733,-12.533,macroseismic,0.139226,0.8059
+OBS_10,San Vicente de CaAete,-76.4,-13.083,macroseismic,0.284559,0.8059
+OBS_20,Ica,-75.726,-14.068,macroseismic,0.268076,0.8059
+OBS_15,Pisco,-76.217,-13.7,macroseismic,0.555343,0.8059
+DYOBS_5,Lima::Callao::Peru (Intensity VI),-77.05,-12.07,macroseismic,0.126518,0.8059
+OBS_7,Lunahuana,-76.133,-12.967,macroseismic,0.266933,0.8059
+DYOBS_16,Pisco::Ica::Peru (Intensity IX),-76.22,-13.71,macroseismic,0.759677,0.8059
+OBS_14,San Clemente,-76.15,-13.667,macroseismic,0.399366,0.8059
+OBS_25,Nazca,-74.95,-14.833,macroseismic,0.059416,0.8059
+OBS_23,Ocucaje,-75.669,-14.348,macroseismic,0.140677,0.8059
+OBS_24,Palpa,-75.186,-14.534,macroseismic,0.063957,0.8059
+OBS_4,Mala,-76.633,-12.65,macroseismic,0.197855,0.8059
+OBS_8,Cerro Azul,-76.483,-13.033,macroseismic,0.210432,0.8059
+OBS_11,Chincha Alta,-76.133,-13.45,macroseismic,0.386987,0.8059
+DYOBS_10,Imperial::Lima Provincias::Peru (Intensity VII),-76.36,-13.07,macroseismic,0.206662,0.8059
+OBS_17,Paracas,-76.267,-13.867,macroseismic,0.422768,0.8059
+OBS_2,Pucusama,-76.8,-12.483,macroseismic,0.099921,0.8059
+OBS_16,San AndrAos,-76.233,-13.733,macroseismic,0.410311,0.8059
+OBS_22,Santiago,-75.714,-14.189,macroseismic,0.268585,0.8059
+DYOBS_17,Cusco::Cusco::Peru (Intensity V),-71.99,-13.52,macroseismic,0.043304,0.8059
+UTM:(18L 027 866 10000),,-77.067,-12.0687,macroseismic,0.104787,0.8059
+UTM:(18L 031 868 10000),,-76.6985,-11.8904,macroseismic,0.054811,0.8059
+UTM:(18L 035 855 10000),,-76.3374,-13.0677,macroseismic,0.181709,0.8059
+UTM:(18L 036 848 10000),,-76.2484,-13.701,macroseismic,0.81234,0.8059
+UTM:(18L 037 851 10000),,-76.1547,-13.4302,macroseismic,0.637585,0.8059
+UTM:(18L 041 844 10000),,-75.7873,-14.0645,macroseismic,0.399476,0.8059
+UTM:(18L 082 850 10000),,-71.9981,-13.5052,macroseismic,0.033175,0.8059

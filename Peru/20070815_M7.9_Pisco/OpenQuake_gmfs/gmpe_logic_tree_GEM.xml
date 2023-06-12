@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <logicTree logicTreeID='lt1'>
+
+        <logicTreeBranchingLevel branchingLevelID="bl1">
+            <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1"
+                    applyToTectonicRegionType="Subduction Interface">
+                <logicTreeBranch branchID="Zhao_et_al_2006_SInter">
+                    <uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+                <logicTreeBranch branchID="Abrahamson_et_al_2015_SInter_High">
+                    <uncertaintyModel>AbrahamsonEtAl2015SInterHigh</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+                <logicTreeBranch branchID="MontalvaEtAl2017SInter">
+                    <uncertaintyModel>MontalvaEtAl2017SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3334</uncertaintyWeight>
+                </logicTreeBranch>
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel>
+
+
+
+    </logicTree>
+</nrml>

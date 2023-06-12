@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <singlePlaneRupture>
+        <magnitude>8</magnitude>
+        <rake>60.76</rake>
+        <hypocenter lat="-13.0483" lon="-76.5427" depth="39"/>
+        <planarSurface strike="324" dip="27.00">
+            <topLeft lon="-76.24720" lat="-13.76201" depth="28.38263"/>
+            <topRight lon="-77.14739" lat="-12.55403" depth="28.38263"/>
+            <bottomLeft lon="-75.93559" lat="-13.54117" depth="49.61737"/>
+            <bottomRight lon="-76.83650" lat="-12.33426" depth="49.61737"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>

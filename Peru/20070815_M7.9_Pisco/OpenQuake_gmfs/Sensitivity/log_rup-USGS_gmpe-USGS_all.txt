@@ -1,0 +1,24 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\Peru\20070815_M7.9_Pisco\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-USGS_all.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 40228517 (total size 252.06 KB)
+Extracting the hazard sites from the site model
+Read N=4467 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\Peru\20070815_M7.9_Pisco\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+There are 5 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias (mean): -0.339
+GMM: MontalvaEtAl2017SInter, IMT: PGA, Nominal bias (mean): -0.336
+GMM: MontalvaEtAl2017SSlab, IMT: PGA, Nominal bias (mean): 0.204
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): -0.257
+GMM: ZhaoEtAl2016SSlab, IMT: PGA, Nominal bias (mean): -0.801
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '524.37 KB', 'sig_eps': '379 B', 'times': '309 B', 'hcurves': '5 B'} in 146 seconds from event_based
+Stored 261.88 KB of GMFs
+Checking stored GMFs
+Your results are expected to have a large dependency from the rupture seed: 5%
+Exposing the outputs to the database
+Stored 773.29 KB on C:\Users\Luis Martins\oqdata/calc_432.hdf5 in 151 seconds
