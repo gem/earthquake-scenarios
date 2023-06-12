@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+40,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",29, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.9312015,-0.111,0.071,0.111
+40,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",29, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.9312015,-0.144,0.071,0.144
+41,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",28, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4554578,0.163,0.071,0.163
+41,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",28, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4554578,-0.299,0.071,0.299
+41,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",28, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4554578,-0.322,0.071,0.322
+40,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",29, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.9312015,0.352,0.071,0.352
+38,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",17, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.5037707,-0.425,0.063,0.425
+38,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",17, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.25234243,-0.554,0.07,0.554
+41,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",28, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4554578,0.625,0.071,0.625
+39,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",17, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.27449915,-0.631,0.063,0.631
+41,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",28, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4554578,0.648,0.071,0.648
+38,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",17, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.2880157,-0.727,0.068,0.727
+39,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",17, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.24756,-0.733,0.07,0.733
+40,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",29, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.9312015,0.814,0.071,0.814
+40,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",29, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.9312015,0.848,0.071,0.848
+39,"20201229_M6.3_Petrijna median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",17, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.24756,-0.9,0.068,0.9
+33,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.42706284,,,
+33,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.32595977,,,
+33,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.507812,,,
+32,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.39874405,,,
+32,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.5562494,,,
+32,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.7462061,,,
+35,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.40438882,,,
+35,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.42443064,,,
+35,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.3852934,,,
+35,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.24982226,,,
+35,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,0.6545867,,,
+34,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.664374,,,
+34,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.7021369,,,
+34,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.62864214,,,
+34,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.41043523,,,
+34,"20201229_M6.3_Petrijna median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,1.0754263,,,

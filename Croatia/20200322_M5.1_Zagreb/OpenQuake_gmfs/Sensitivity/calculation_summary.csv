@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+8,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:Heraketal2021
+",3, Seismic, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22704,-0.023,0.123,0.023
+5,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",2, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.27852502,-0.107,0.113,0.107
+7,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",3, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.55270576,0.122,0.126,0.122
+7,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",3, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.55270576,0.183,0.126,0.183
+8,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:Heraketal2021
+",3, Seismic, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22704,0.412,0.123,0.412
+8,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:Heraketal2021
+",3, Seismic, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22704,-0.458,0.123,0.458
+5,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",2, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.22704,-0.464,0.112,0.464
+8,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:Heraketal2021
+",3, Seismic, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22704,0.476,0.123,0.476
+6,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:Heraketal2021
+",2, Seismic, USGS, Heraketal2021,AkkarEtAlRjb2014,PGA,0.2522227,-0.508,0.113,0.508
+8,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:Heraketal2021
+",3, Seismic, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22704,-0.522,0.123,0.522
+7,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",3, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.55270576,0.621,0.126,0.621
+5,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",2, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.2554876,-0.679,0.103,0.679
+6,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:Heraketal2021
+",2, Seismic, USGS, Heraketal2021,CauzziEtAl2014,PGA,0.22704,-0.918,0.112,0.918
+6,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:USGS, Rupture:Heraketal2021
+",2, Seismic, USGS, Heraketal2021,ZhaoEtAl2016Asc,PGA,0.2577187,-0.952,0.103,0.952
+7,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",3, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.55270576,1.059,0.126,1.059
+7,"20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",3, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.55270576,1.121,0.126,1.121
+4,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:Heraketal2021
+",0, None, USGS, Heraketal2021,AkkarEtAlRjb2014,PGA,0.25514978,,,
+4,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:Heraketal2021
+",0, None, USGS, Heraketal2021,CauzziEtAl2014,PGA,0.19404212,,,
+4,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:Heraketal2021
+",0, None, USGS, Heraketal2021,ZhaoEtAl2016Asc,PGA,0.2665738,,,
+2,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:Heraketal2021
+",0, None, GEM, Heraketal2021,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18808,,,
+2,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:Heraketal2021
+",0, None, GEM, Heraketal2021,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.19743697,,,
+2,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:Heraketal2021
+",0, None, GEM, Heraketal2021,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.17916647,,,
+2,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:Heraketal2021
+",0, None, GEM, Heraketal2021,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.11619156,,,
+2,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:Heraketal2021
+",0, None, GEM, Heraketal2021,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,0.30444625,,,
+3,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.19713192,,,
+3,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.14214456,,,
+3,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.21065894,,,
+1,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.26715317,,,
+1,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.28235108,,,
+1,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.2527733,,,
+1,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.16504118,,,
+1,"20200322_M5.1_Zagreb median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,0.4324425,,,

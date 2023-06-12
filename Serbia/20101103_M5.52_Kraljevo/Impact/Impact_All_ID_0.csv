@@ -1,0 +1,6 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,HOMELESS,AFFECTED_POPULATION,SHELTERED,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+SRB,Serbia,2,2,100,,,,,5967,1551,138,Buildings,,,,,,,Wikipedia English,
+SRB,Serbia,2,2,120,1470,1470,27030,,,,,,,,132260000,USD,,,EM-DAT,
+SRB,Serbia,2,2,100,,,,,,,,Buildings,,,,USD,,,NOAA,1) AFFECTED_POPULATION includes deaths and injureds
+SRB,Serbia,3,2,120,,,,,,6000,,,,,100000000,EUR,,,IFRC,1) Economic Loss is referred in the reference as Damage
+SRB,Serbia,,,,,,,772,,16000,,Buildings,,,,,,,United Nations,1) Sheltered people is referred in the reference as people displaced to collective centers

@@ -1,0 +1,140 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+QKAS,QKAS,16.103,45.914,seismic,0.24756,0.0
+QGAJ,QGAJ,15.968,45.811,seismic,0.1301,0.0
+QUHS,QUHS,15.999,45.808,seismic,0.12706,0.0
+QCRE,QCRE,16.0198,45.8432,seismic,0.11138,0.0
+QZAG,QZAG,15.987,45.827,seismic,0.10794,0.0
+QARH,QARH,15.993,45.777,seismic,0.0952,0.0
+QCER,QCER,16.3296,45.02685,seismic,0.04527,0.0
+QPTJ,QPTJ,15.968,45.907,seismic,0.03969,0.0
+CRES,Cresnjevec  SL,15.4569,45.826,seismic,0.02469,0.0
+KOGS,Kog  SL,16.2504,46.4481,seismic,0.02254,0.0
+SABO,Monte Sabotino  Italy,13.6336,45.9875,seismic,0.01856,0.0
+LJU,Ljubljana  SL,14.5278,46.0438,seismic,0.01362,0.0
+VISS,Visnje  SL,14.8393,45.8033,seismic,0.0126,0.0
+BLY,Banja Luka  Bosnia and Herzegovina,17.1839,44.7488,seismic,0.01181,0.0
+VNDS,Vrh nad Dolskim  SL,14.7014,46.1016,seismic,0.01082,0.0
+CRNS,Crni vrh  SL,14.2613,46.0807,seismic,0.01061,0.0
+BOJS,Bojanci  SL,15.2518,45.5043,seismic,0.00962,0.0
+DST2,Trieste Universita DST  Italy,13.8013,45.6589,seismic,0.00852,0.0
+CEY,Cerknica  SL,14.4221,45.7381,seismic,0.00745,0.0
+FREG,Fregona,12.31299,46.01109,seismic,0.00734,0.0
+MOZS,Mozjanca  SL,14.4433,46.2941,seismic,0.00722,0.0
+PERS,Pernice  SL,15.1139,46.6365,seismic,0.00679,0.0
+CADS,Cadrg  SL,13.7368,46.2281,seismic,0.00485,0.0
+DRE,Drenchia  Italy,13.645,46.1733,seismic,0.00482,0.0
+ACOM,Acomizza  Italy,13.5137,46.548,seismic,0.00451,0.0
+SENI,Senigallia,13.2331,43.7052,seismic,0.00369,0.0
+GORS,Gorjuse  SL,13.9999,46.3174,seismic,0.00367,0.0
+VOJS,Vojsko  SL,13.8877,46.0322,seismic,0.00348,0.0
+FRE8,Fregona,12.3552,46.015,seismic,0.00346,0.0
+CIMA,Civitanova Marche,13.67009,43.3053,seismic,0.00343,0.0
+STAL,Staligial,12.7104,46.2601,seismic,0.00288,0.0
+SKDS,Skadanscina  SL,14.0143,45.5464,seismic,0.00273,0.0
+COR1,Corinaldo,13.00033,43.63183,seismic,0.00272,0.0
+FANO,Fano,13.01835,43.84347,seismic,0.00259,0.0
+MPRI,Monte Prat  Italy,12.9877,46.2408,seismic,0.00248,0.0
+GUMA,Gualdo di Macerata,13.3352,43.0627,seismic,0.00234,0.0
+FCOR,Fonte Corniale  PU,12.81459,43.76911,seismic,0.00205,0.0
+MCIF,Montecalvo in Foglia,12.63168,43.81158,seismic,0.00186,0.0
+BOO,Bordano  Italy,13.0984,46.3195,seismic,0.00186,0.0
+MTL1,Matelica,13.0096,43.25673,seismic,0.00175,0.0
+MNTP,Montappone,13.46925,43.13738,seismic,0.00175,0.0
+MLN,Malnisio  Italy,12.6154,46.1495,seismic,0.00161,0.0
+TREM,ISOLE TREMITI   SAN NICOLA,15.51,42.123,seismic,0.00141,0.0
+CLUD,Cludinico  Italy,12.8814,46.4569,seismic,0.00134,0.0
+FUSE,Fusea  Italy,13.0011,46.4142,seismic,0.00122,0.0
+PRED,Cave del Predil  Italy,13.565,46.4428,seismic,0.00121,0.0
+BANR,Banloc,21.137,45.3828,seismic,0.00112,0.0
+CIMO,Cimolais  Italy,12.4448,46.3116,seismic,0.00101,0.0
+MPAG,Monte Paganuccio,12.7595,43.6292,seismic,0.00082,0.0
+SSFR,Montelago di Sassoferrato,12.78225,43.43628,seismic,0.00076,0.0
+MSAG,Monte S. Angelo,15.9096,41.712,seismic,0.00071,0.0
+TERO,TERAMO,13.60393,42.62279,seismic,0.00055,0.0
+BZS,Buzias,21.6401,45.6188,seismic,0.00034,0.0
+MDVR,Moldovita,21.7128,44.7815,seismic,0.00029,0.0
+SIRR,Siria,21.663,46.2653,seismic,0.00028,0.0
+SSM1,San Severino Marche,13.177,43.2288,seismic,0.04083,0.0
+SBPO,S.Benedetto Po,10.9199,45.0511,seismic,0.00584,0.0
+ASOL,Asolo,11.9023,45.8003,seismic,0.00479,0.0
+FERS,FERS,11.5406,44.9035,seismic,0.0035,0.0
+CDCA,Citta di Castello,12.2336,43.4584,seismic,0.00314,0.0
+PCRO,Pietralacroce (Ancona),13.5323,43.6077,seismic,0.0028,0.0
+VENL,Venezia Lido,12.3765,45.4167,seismic,0.00278,0.0
+COR1,COR1,13.0003,43.6318,seismic,0.00277,0.0
+TEOL,Teolo,11.6739,45.3617,seismic,0.00264,0.0
+IMOL,Imola,11.7425,44.3595,seismic,0.00241,0.0
+SOKA,SOKA,15.0327,46.678,seismic,0.00236,0.0
+OPPE,Oppeano,11.1724,45.3082,seismic,0.00236,0.0
+SANR,Sandrigo,11.6099,45.64,seismic,0.00223,0.0
+TRI,TRI,13.764,45.709,seismic,0.0022,0.0
+CADA,Capodarco,13.7614,43.1942,seismic,0.0022,0.0
+PP3,PP3,13.6095,43.3778,seismic,0.0021,0.0
+CTI,CASTELLO TESINO,11.6497,46.0482,seismic,0.00186,0.0
+MNTV,Mantova,10.7897,45.1495,seismic,0.00183,0.0
+MORH,MORH,18.6436,46.215,seismic,0.00183,0.0
+TREG,Tregnago,11.1606,45.523,seismic,0.0018,0.0
+MNTP,MNTP,13.4692,43.1373,seismic,0.00178,0.0
+BRSN,BARISANO,12.0802,44.2842,seismic,0.00172,0.0
+TRE1,Treia,13.3128,43.3112,seismic,0.00171,0.0
+CPGN,Carpegna,12.3205,43.8011,seismic,0.00169,0.0
+MODE,Modena,10.9492,44.6297,seismic,0.00168,0.0
+CRND,Cornuda,12.0131,45.8361,seismic,0.00168,0.0
+MML1,Monte Lago,12.9717,43.1135,seismic,0.00163,0.0
+MPLH,MPLH,17.5348,47.1712,seismic,0.00144,0.0
+FAEN,Faenza,11.877,44.2895,seismic,0.00143,0.0
+SAIV,Sant Angelo in Vado (PU),12.413,43.6648,seismic,0.00143,0.0
+MURB,MONTE URBINO,12.5246,43.263,seismic,0.0014,0.0
+GAG1,Gagliole,13.0674,43.2381,seismic,0.00134,0.0
+NDIM,Novi di Modena,10.8987,44.8873,seismic,0.00127,0.0
+ATCC,AVT - Casa Castalda,12.6399,43.1851,seismic,0.00118,0.0
+ATFO,Monte Foce - Gubbio,12.5715,43.3666,seismic,0.00107,0.0
+MELA,Melanico - S. Croce di Magliano,15.127,41.7059,seismic,0.00106,0.0
+FEMA,Monte Fema,13.0498,42.9621,seismic,0.00106,0.0
+ATPI,Pietralunga - Aviosuperficie,12.4022,43.4507,seismic,0.00099,0.0
+MMUR,Monte Murano,12.9973,43.4418,seismic,0.00099,0.0
+ATPC,Poggio Castellaccio,12.457,43.4807,seismic,0.00098,0.0
+ARSA,ARSA,15.5232,47.2505,seismic,0.00097,0.0
+DJES,"Station Derdap-Kladovo, Serbia",22.5197,44.6672,seismic,0.00097,0.0
+TRIV,Trivento,14.5502,41.7666,seismic,0.00095,0.0
+APRC,Apricena (FG),15.5431,41.7574,seismic,0.00087,0.0
+MTRZ,Monterenzio,11.4248,44.3128,seismic,0.00087,0.0
+PIO1,Pioraco,12.9838,43.1782,seismic,0.00082,0.0
+MDAR,Monte Daria,13.1427,43.1927,seismic,0.00081,0.0
+SEF1,Sefro,12.9476,43.1468,seismic,0.00081,0.0
+FOSV,Fossato di Vico,12.7612,43.2948,seismic,0.00081,0.0
+RNI2,RIONERO SANNITICO,14.1524,41.7033,seismic,0.0008,0.0
+SSFR,SSFR,12.7822,43.4363,seismic,0.00078,0.0
+T1299,T1299,13.2822,42.6342,seismic,0.00075,0.0
+INTR,INTRODACQUA,13.9046,42.0115,seismic,0.00072,0.0
+MBAL,Monte Baldo Osservatorio Astronomico Novezzina,10.8589,45.6975,seismic,0.0007,0.0
+CESI,Cesi-Serravalle di Chienti,12.9046,43.0049,seismic,0.0007,0.0
+VOBA,Vobarno,10.5038,45.644,seismic,0.00068,0.0
+CAFI,Castiglion Fiorentino,11.9663,43.3292,seismic,0.00066,0.0
+MTRA,Matera di Acquasanta Terme (AP),13.3965,42.7567,seismic,0.00063,0.0
+SFI,SANTA SOFIA,11.8469,43.9048,seismic,0.0006,0.0
+ATVO,AVT - Monte Valentino,12.4066,43.3821,seismic,0.00057,0.0
+GAVE,Gavelli,12.8942,42.6922,seismic,0.00057,0.0
+FIU1,Fiuminata,12.9316,43.1886,seismic,0.00056,0.0
+LNSS,LEONESSA,13.0403,42.6029,seismic,0.00055,0.0
+CING,CINGOLI,13.1954,43.3756,seismic,0.00055,0.0
+ZCCA,ZOCCA,10.9765,44.3509,seismic,0.00054,0.0
+FIR,Firenze,11.2551,43.7744,seismic,0.00052,0.0
+PIEI,PIEIA,12.535,43.5357,seismic,0.00052,0.0
+SERM,Semide,11.2958,45.01,seismic,0.00052,0.0
+FDMO,Fiordimonte,13.0873,43.0365,seismic,0.0005,0.0
+SACS,San Casciano dei Bagni,11.9097,42.8491,seismic,0.00048,0.0
+LPEL,Lama dei Peligni,14.1832,42.0468,seismic,0.00048,0.0
+MIDA,MIRANDA,14.254,41.6419,seismic,0.00046,0.0
+MGAB,Montegabbione,12.1121,42.9126,seismic,0.00046,0.0
+NRCA,NORCIA,13.1143,42.8336,seismic,0.00044,0.0
+MOMA,Monte Martano,12.5701,42.8039,seismic,0.00043,0.0
+FIAM,FIAMIGNANO,13.1172,42.268,seismic,0.00043,0.0
+OSSC,OSSC,11.2458,43.5236,seismic,0.0004,0.0
+VVLD,VILLAVALLELONGA,13.6232,41.8697,seismic,0.00037,0.0
+ZEN8,San Zeno di Montagna,10.7319,45.6378,seismic,0.00036,0.0
+KHC,Kasperske Hory,13.5782,49.1309,seismic,0.00033,0.0
+FUORN,"Ofenpass-Fuorn, GR",10.2635,46.6203,seismic,0.0003,0.0
+SNTG,ESANATOGLIA,12.9406,43.255,seismic,0.00017,0.0
+BRIS,BRISIGHELLA,11.7666,44.2245,seismic,0.00013,0.0
+TIH,TIH,17.8877,46.9001,seismic,1e-05,0.0

@@ -1,0 +1,10 @@
+ID_0,NAME_0,OCCUPANCY,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,SURFACE_AREA_DAMAGED,DS1_SLIGHT,DS2_MODERATE_DAMAGE,LIGHTLY_DAMAGED,DS3_EXTENSIVE,SEVERE_TO_MODERATE_STRUCTURAL_DAMAGE,DS4_COMPLETE,HEAVILY_DAMAGED_OR_DESTROYED,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+HRV,Croatia,Housing,,,,34522,,,24243,24243,7494,7494,2785,2785,,Buildings,,Government of Croatia: https://documents1.worldbank.org/curated/en/311901608097332728/pdf/Croatia-Earthquake-Rapid-Damage-and-Needs-Assessment-2020.pdf,"1) LIGHTLY_DAMAGED = Slight structural damage
+2) SEVERE_TO_MODERATE_DAMAGE = Moderate structural damage
+3) HEAVILY_DAMAGED_OR_DESTROYED = Heavy structural damage
+(in the reference taxonomy)
+4) Damage is estimated in terms of the replacement value of both public- and private-domain physical assets damaged or destroyed."
+HRV,Croatia,Health,,,,193,,,158,158,27,27,8,8,,Buildings,,Government of Croatia: https://documents1.worldbank.org/curated/en/311901608097332728/pdf/Croatia-Earthquake-Rapid-Damage-and-Needs-Assessment-2020.pdf,
+HRV,Croatia,Educational,,,,271,,,223,223,29,29,19,19,,Buildings,,Government of Croatia: https://documents1.worldbank.org/curated/en/311901608097332728/pdf/Croatia-Earthquake-Rapid-Damage-and-Needs-Assessment-2020.pdf,
+HRV,Croatia,Culture and Cultural Heritage,,,,412,,,173,173,134,134,105,105,,Buildings,,Government of Croatia: https://documents1.worldbank.org/curated/en/311901608097332728/pdf/Croatia-Earthquake-Rapid-Damage-and-Needs-Assessment-2020.pdf,
+HRV,Croatia,,,,,46634,,29078,9741,,4371,,2759,,685,Buildings,,"Josip Atali_, Marija Dem_i_, Maja Bani_ek et al. The December 2020 Magnitude (Mw) 6.4 Petrinja earthquake, Croatia: Seismological aspects, emergency response and impacts, 09 November 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2136108/v1]",

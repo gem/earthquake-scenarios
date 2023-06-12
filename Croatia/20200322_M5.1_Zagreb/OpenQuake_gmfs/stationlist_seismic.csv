@@ -1,0 +1,35 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+QUHS,QUHS,15.999,45.808,seismic,0.22704,0.0
+QARH,QARH,15.993,45.777,seismic,0.19119,0.0
+KOGS,Kog  SL,16.2504,46.4481,seismic,0.0276,0.0
+CRES,Cresnjevec  SL,15.4569,45.826,seismic,0.01073,0.0
+SABO,Monte Sabotino  Italy,13.6336,45.9875,seismic,0.00579,0.0
+VISS,Visnje  SL,14.8393,45.8033,seismic,0.00446,0.0
+BOJS,Bojanci  SL,15.2518,45.5043,seismic,0.00342,0.0
+DRE,Drenchia  Italy,13.645,46.1733,seismic,0.0018,0.0
+PLRO,Paularo  Italy,13.1481,46.5491,seismic,0.00144,0.0
+BLY,Banja Luka  Bosnia and Herzegovina,17.1839,44.7488,seismic,0.00088,0.0
+ACOM,Acomizza  Italy,13.5137,46.548,seismic,0.00087,0.0
+BAD,Bernadia  Italy,13.2438,46.234,seismic,0.00058,0.0
+BOO,Bordano  Italy,13.0984,46.3195,seismic,0.00051,0.0
+PRED,Cave del Predil  Italy,13.565,46.4428,seismic,0.00027,0.0
+LJU,"Ljubljana, SL",14.5278,46.0438,seismic,0.00469,0.0
+PERS,"Pernice, SL",15.1139,46.6365,seismic,0.00443,0.0
+VNDS,"Vrh nad Dolskim, SL",14.7014,46.1016,seismic,0.00436,0.0
+CEY,"Cerknica, SL",14.4221,45.7381,seismic,0.00198,0.0
+SABO,Sabotino,13.6337,45.9875,seismic,0.0014,0.0
+TEOL,Teolo,11.6739,45.3617,seismic,0.00086,0.0
+GUMA,Gualdo di Macerata,13.3352,43.0627,seismic,0.00073,0.0
+CTI,CASTELLO TESINO,11.6497,46.0482,seismic,0.00044,0.0
+ARSA,"Arzberg, Styria, Austria",15.5232,47.2505,seismic,0.0004,0.0
+SALO,Salo,10.5243,45.6183,seismic,0.00035,0.0
+FUSE,Fusea,13.0011,46.4142,seismic,0.00029,0.0
+CESX,Cesi,12.5868,42.6085,seismic,0.00015,0.0
+FDMO,Fiordimonte,13.0873,43.0365,seismic,0.00014,0.0
+GEC2A,Null,13.7016,48.8451,seismic,0.00013,0.0
+PRMA,Parma,10.3131,44.7637,seismic,0.00013,0.0
+KHC,Kasperske Hory,13.5782,49.1309,seismic,0.00012,0.0
+SGRT,San Giovanni Rotondo,15.7437,41.7546,seismic,0.00012,0.0
+FUORN,"Ofenpass-Fuorn, GR",10.2635,46.6203,seismic,6e-05,0.0
+PSZ,"GKKI/GEOFON Station Piszkes, Hungary",19.8944,47.9184,seismic,4e-05,0.0
+MORC,"GEOFON Station Moravsky Beroun, Czech Republic",17.5428,49.7766,seismic,3e-05,0.0

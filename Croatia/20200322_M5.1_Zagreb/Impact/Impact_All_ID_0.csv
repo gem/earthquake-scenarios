@@ -1,0 +1,14 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,HOMELESS,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,DAMAGED_OR_DESTROYED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,RECOVERY_AND_RECONSTRUCTION_COSTS,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+HRV,Croatia,1,1,26,,,,,,,,,11700000000,,,,USD,,,Wikipedia English,
+HRV,Croatia,1,1,27,,,,,20000,,6305,Buildings,1800000000,,,,USD,,,NOAA,
+HRV,Croatia,1,1,27,18915,18915,78942,,,,,,6800000000-9450000000,7119452000-9893945000,,,USD,,,EM-DAT,"1) The number of affected population does not include injuries nor deaths, but the number of Total_affected DOES include them and the values is different
+2) The displaced people is reported explicitly as homeless (ref: https://public.emdat.be/about).
+3) The economic losses are reported as: Total Damages (6800000) and Reconstruction costs (9450000) both values in '000 US$"
+HRV,Croatia,1,1,26,30000,,,,26000,26000,1243,Buildings,11301000000,,17469000000,,EUR,,,Government of Croatia: https://www.oporavak-i-pripravnost.hr/UserDocsImages//dokumenti/RDNA_2021_07_01_web_ENG.pdf,"1) The number of destroyed units are included in ""DAMAGED_UNITS"" and are presented as ""DAMAGED_OR_DESTROYED_UNITS""
+2) Exchange rate used is of March 22, 2020, 1 EUR = 7.599120 HRK. 
+3) of 26 injured, 18 were severely. All directly from ground shaking
+4) 30000 is the estimated number of people that went to live with family or friends. 488 people were accommodated in student dormitories.
+5) 11.301 billion EUR,1 of which 10.661 billion EUR represent the value of destroyed physical assets and 0.640 billion EUR refers to losses.
+6) death is 15 y/o child found under collapsed building with no longer showed signs of life, said Zarko Rasic, the head of the Zagreb Emergency Medicine Institute. (reuters)
+7) another minor qieh head injuries from a falling roof
+"

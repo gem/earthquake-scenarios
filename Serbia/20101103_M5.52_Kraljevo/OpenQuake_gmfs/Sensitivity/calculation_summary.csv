@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+53,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.2950325,0.011,0.118,0.011
+50,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",44, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4190435,-0.015,0.127,0.015
+52,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",27, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.2266126,-0.071,0.118,0.071
+51,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",44, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27071407,-0.073,0.128,0.073
+51,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",44, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27071407,0.075,0.128,0.075
+50,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",44, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4190435,-0.158,0.127,0.158
+51,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",44, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27071407,-0.221,0.128,0.221
+53,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.16630395,-0.221,0.118,0.221
+50,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",44, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4190435,0.271,0.127,0.271
+50,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",44, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4190435,-0.301,0.127,0.301
+52,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",27, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.2994878,-0.328,0.118,0.328
+51,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",44, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27071407,0.356,0.128,0.356
+51,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",44, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27071407,-0.502,0.128,0.502
+50,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",44, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4190435,-0.587,0.127,0.587
+53,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.1643,-0.791,0.108,0.791
+52,"20101103_M5.52_Kraljevo median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",27, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.35443616,-0.8,0.108,0.8
+44,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.24972923,,,
+44,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,CauzziEtAl2014,PGA,0.4179226,,,
+44,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.7794032,,,
+45,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.23951168,,,
+45,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,CauzziEtAl2014,PGA,0.13587941,,,
+45,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.23163421,,,
+47,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.24020673,,,
+47,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.2520284,,,
+47,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.22893958,,,
+47,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.14839429,,,
+47,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,0.38882414,,,
+46,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5044444,,,
+46,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1.73205100",PGA,0.53314143,,,
+46,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1.73205100",PGA,0.47729206,,,
+46,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1.35563000",PGA,0.31163433,,,
+46,"20101103_M5.52_Kraljevo median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1.35563000",PGA,0.8165473,,,

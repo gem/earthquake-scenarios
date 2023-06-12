@@ -1,0 +1,25 @@
+job_id: 7
+job_description: 20200322_M5.1_Zagreb median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Croatia/20200322_M5.1_Zagreb/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 4181839052 (total size 114.53 KB)
+Entering SLOW MODE. You have 1.7 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=1635 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Croatia/20200322_M5.1_Zagreb/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.621, Nominal bias stddev: 0.126
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 1.121, Nominal bias stddev: 0.126
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.122, Nominal bias stddev: 0.126
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 1.059, Nominal bias stddev: 0.126
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.183, Nominal bias stddev: 0.126
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '192.43 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 3 seconds from event_based
+Stored 95.99 KB of GMFs
+Exposing the outputs to the database
+Stored 461.68 KB on /Users/chago/oqdata/calc_7.hdf5 in 3 seconds
