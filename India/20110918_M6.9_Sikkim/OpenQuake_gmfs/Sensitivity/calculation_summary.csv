@@ -1,0 +1,97 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+150,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:ISC
+",383, Seismic, USGS, ISC,AbrahamsonEtAl2015SSlab,PGA,0.391323,0.582,0.155,0.582
+147,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:ISC
+",383, Seismic, GEM, ISC,AbrahamsonEtAl2015SSlab,PGA,0.391323,0.582,0.155,0.582
+150,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:ISC
+",383, Seismic, USGS, ISC,ZhaoEtAl2016SSlab,PGA,0.70609593,0.583,0.154,0.583
+146,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",386, Seismic, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.46147588,0.614,0.155,0.614
+149,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",382, Seismic, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.46147588,0.614,0.155,0.614
+149,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",382, Seismic, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.8983932,0.67,0.154,0.67
+151,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",380, Seismic, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.531218,0.702,0.155,0.702
+148,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",381, Seismic, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.531218,0.702,0.155,0.702
+151,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",380, Seismic, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.9236564,0.739,0.154,0.739
+147,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:ISC
+",383, Seismic, GEM, ISC,Gupta2010SSlab,PGA,1.3800241,0.825,0.113,0.825
+146,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",386, Seismic, GEM, GCMT,Gupta2010SSlab,PGA,1.7807772,1.023,0.113,1.023
+148,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",381, Seismic, GEM, USGS,Gupta2010SSlab,PGA,1.914839,1.091,0.113,1.091
+150,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:ISC
+",383, Seismic, USGS, ISC,AtkinsonBoore2003SSlab,PGA,1.3854823,1.658,0.134,1.658
+147,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:ISC
+",383, Seismic, GEM, ISC,ZhaoEtAl2006SSlab,PGA,1.5156783,1.671,0.149,1.671
+146,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",386, Seismic, GEM, GCMT,ZhaoEtAl2006SSlab,PGA,2.0094445,1.703,0.149,1.703
+148,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",381, Seismic, GEM, USGS,ZhaoEtAl2006SSlab,PGA,2.0618021,1.801,0.149,1.801
+149,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",382, Seismic, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,1.7033617,1.825,0.134,1.825
+151,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",380, Seismic, USGS, USGS,AtkinsonBoore2003SSlab,PGA,1.833102,1.891,0.134,1.891
+147,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:ISC
+",383, Seismic, GEM, ISC,AtkinsonBoore2003SSlabCascadia,PGA,1.3776275,2.044,0.134,2.044
+150,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:ISC
+",383, Seismic, USGS, ISC,AtkinsonBoore2003SSlabCascadia,PGA,1.3776275,2.044,0.134,2.044
+149,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",382, Seismic, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,1.7070831,2.211,0.134,2.211
+146,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",386, Seismic, GEM, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,1.7070831,2.211,0.134,2.211
+148,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",381, Seismic, GEM, USGS,AtkinsonBoore2003SSlabCascadia,PGA,1.8310745,2.278,0.134,2.278
+151,"20110918_M6.9_Sikkim median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",380, Seismic, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,1.8310745,2.278,0.134,2.278
+152,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.26165107,,,
+152,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.20241037,,,
+152,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,Gupta2010SSlab,PGA,0.67324555,,,
+152,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,ZhaoEtAl2006SSlab,PGA,0.37839845,,,
+153,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,AbrahamsonEtAl2015SSlab,PGA,0.21875146,,,
+153,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,AtkinsonBoore2003SSlabCascadia,PGA,0.17956619,,,
+153,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,Gupta2010SSlab,PGA,0.60650367,,,
+153,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,ZhaoEtAl2006SSlab,PGA,0.2869616,,,
+154,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.2638196,,,
+154,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.19038312,,,
+154,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,Gupta2010SSlab,PGA,0.6479224,,,
+154,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,ZhaoEtAl2006SSlab,PGA,0.3499802,,,
+155,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.26165107,,,
+155,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.29331362,,,
+155,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.20241037,,,
+155,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.4692576,,,
+156,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,AbrahamsonEtAl2015SSlab,PGA,0.21875146,,,
+156,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,AtkinsonBoore2003SSlab,PGA,0.2656954,,,
+156,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,AtkinsonBoore2003SSlabCascadia,PGA,0.17956619,,,
+156,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,ZhaoEtAl2016SSlab,PGA,0.39567828,,,
+157,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.2638196,,,
+157,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.28022745,,,
+157,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.19038312,,,
+157,"20110918_M6.9_Sikkim median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.44781563,,,

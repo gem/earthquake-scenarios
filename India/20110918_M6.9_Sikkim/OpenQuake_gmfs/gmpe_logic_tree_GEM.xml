@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+	<logicTreeBranchSet branchSetID="bs1" uncertaintyType="gmpeModel" applyToTectonicRegionType="Subduction Intraslab">
+
+		<logicTreeBranch branchID="b_08_32">
+				<uncertaintyModel>AtkinsonBoore2003SSlabCascadia</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_08_33">
+				<uncertaintyModel>AbrahamsonEtAl2015SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_08_34">
+				<uncertaintyModel>ZhaoEtAl2006SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_08_35">
+				<uncertaintyModel>
+                    [ModifiableGMPE]
+                    gmpe.Gupta2010SSlab = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+				</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+
+		
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

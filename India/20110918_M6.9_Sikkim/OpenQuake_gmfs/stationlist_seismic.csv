@@ -1,0 +1,21 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+SILI,Siliguri,88.42,26.71,seismic,0.20612,0.0
+GANG,Gangtok,88.62,27.35,seismic,0.16122,0.0
+COVB,Cooch Vihar,89.44,26.31,seismic,0.05918,0.0
+KOKJ,Kokhrajhar,90.26,26.4,seismic,0.05306,0.0
+RAXL,Raxual,84.84,26.98,seismic,0.02857,0.0
+NAUG,Naugaon,92.69,26.34,seismic,0.02857,0.0
+MALD,Malda,88.14,25.0,seismic,0.02347,0.0
+KRMJ,Karimganj,92.35,24.87,seismic,0.0051,0.0
+SIBS,Sibsagar,94.63,26.98,seismic,0.0051,0.0
+PATI,Patti,80.2,29.57,seismic,0.00408,0.0
+CHAP,Champawat,80.09,29.33,seismic,0.00204,0.0
+UDHM,Udham Singh Nagar,79.4,28.99,seismic,0.00204,0.0
+CHAM,Chamoli,79.32,30.41,seismic,0.00204,0.0
+Gangtok,Gangtok,88.627,27.352,seismic,0.36735,0.0
+Siliguri,Siliguri,88.428,26.712,seismic,0.20612,0.0
+Cooch Bihar,Cooch Bihar,89.44,26.319,seismic,0.05918,0.0
+Malda,Malda,88.146,25.0,seismic,0.02347,0.0
+Pithoragarh,Pithoragarh,80.207,29.579,seismic,0.00408,0.0
+Chamoli,Chamoli,79.32,30.412,seismic,0.00204,0.0
+Champawat,Champawat,80.095,29.334,seismic,0.00204,0.0

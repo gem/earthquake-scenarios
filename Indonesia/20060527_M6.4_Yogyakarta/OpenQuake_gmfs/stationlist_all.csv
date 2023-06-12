@@ -1,0 +1,32 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+OBS_8,Beji (Intensity V),110.706,-7.72,macroseismic,0.08321,0.8059
+OBS_9,Nglipar (Intensity V),110.629,-7.89,macroseismic,0.10108,0.8059
+OBS_19,Semanu (Intensity IV),110.646,-7.99,macroseismic,0.04998,0.8059
+OBS_6,Cawas (Intensity VI),110.698,-7.76,macroseismic,0.16012,0.8059
+OBS_1,Bantul (Intensity VII),110.329,-7.89,macroseismic,0.37931,0.8059
+OBS_12,Delanggu (Intensity V),110.68,-7.62,macroseismic,0.07898,0.8059
+OBS_2,Prambanan (Intensity VII),110.494,-7.75,macroseismic,0.34602,0.8059
+OBS_23,Mungkid (Intensity IV),110.22,-7.59,macroseismic,0.03995,0.8059
+OBS_7,Yogyakarta (Intensity VI),110.361,-7.78,macroseismic,0.17545,0.8059
+OBS_10,Serrin (Intensity V),110.73,-7.87,macroseismic,0.08652,0.8059
+OBS_3,Klaten (Intensity VI),110.606,-7.71,macroseismic,0.16588,0.8059
+OBS_15,Kaliurang (Intensity V),110.42,-7.6,macroseismic,0.08092,0.8059
+OBS_17,Sleman (Intensity V),110.36,-7.72,macroseismic,0.08847,0.8059
+OBS_20,Eromoko (Intensity IV),110.83,-7.97,macroseismic,0.04185,0.8059
+OBS_22,Borobudur (Intensity IV),110.2,-7.6,macroseismic,0.03977,0.8059
+OBS_21,Tengaran (Intensity IV),110.53,-7.42,macroseismic,0.03834,0.8059
+OBS_11,Sukoharjo (Intensity V),110.841,-7.68,macroseismic,0.07453,0.8059
+OBS_5,Parangtritis (Intensity VI),110.35,-8.02,macroseismic,0.20995,0.8059
+OBS_14,Jatinom (Intensity V),110.6,-7.63,macroseismic,0.08239,0.8059
+OBS_16,Selo (Intensity V),110.46,-7.49,macroseismic,0.07465,0.8059
+OBS_18,Kenteng (Intensity V),110.21,-7.75,macroseismic,0.08268,0.8059
+OBS_4,Sanden (Intensity VI),110.266,-7.98,macroseismic,0.20995,0.8059
+OBS_13,Surakarta (Intensity V),110.817,-7.57,macroseismic,0.0722,0.8059
+UTM:(49M 002 928 20000),,106.7536,-6.4057,macroseismic,0.22251,0.8059
+UTM:(49M 002 930 20000),,106.7552,-6.2253,macroseismic,0.11942,0.8059
+UTM:(49M 040 916 20000),,110.1843,-7.5081,macroseismic,0.06636,0.8059
+UTM:(49M 042 912 20000),,110.3649,-7.8702,macroseismic,0.59832,0.8059
+UTM:(49M 042 914 20000),,110.3653,-7.6893,macroseismic,0.38362,0.8059
+UTM:(49M 044 914 20000),,110.5466,-7.6895,macroseismic,0.79058,0.8059
+UTM:(49M 046 914 20000),,110.728,-7.6897,macroseismic,0.052,0.8059
+UTM:(49M 066 910 20000),,112.5426,-8.0487,macroseismic,0.03956,0.8059

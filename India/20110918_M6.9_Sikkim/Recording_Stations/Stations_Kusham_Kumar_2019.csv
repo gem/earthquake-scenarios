@@ -1,0 +1,10 @@
+﻿STATION_NAME,STATION_ID,LATITUDE,LONGITUDE,PGA_VALUE,PGA_LN_SIGMA,STATION_TYPE,REFERENCES
+Cooch-Bihar,COB,26.31,89.44,0.059295918,0,seismic,Kusham_Kumar_2019
+Gangtok,GTK,27.35,88.62,0.161459184,0,seismic,Kusham_Kumar_2019
+Karimganj,KRM,24.87,92.35,0.004673469,0,seismic,Kusham_Kumar_2019
+Kokhrajhar,KOK,26.4,90.26,0.05344898,0,seismic,Kusham_Kumar_2019
+Malda,MID,25,88.14,0.023765306,0,seismic,Kusham_Kumar_2019
+Naugaon,NAU,26.34,92.69,0.020428571,0,seismic,Kusham_Kumar_2019
+Raxaul,RAX,26.98,84.84,0.0285,0,seismic,Kusham_Kumar_2019
+Sibsagar,SBS,26.98,94.63,0.005102041,0,seismic,Kusham_Kumar_2019
+Siliguri,SLG,26.71,88.42,0.205765306,0,seismic,Kusham_Kumar_2019

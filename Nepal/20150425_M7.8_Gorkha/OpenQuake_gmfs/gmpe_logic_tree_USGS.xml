@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="subduction_interface_nshmp2014">
+        <logicTreeBranch branchID='b0'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.05792532594525</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b1'>
+            <uncertaintyModel>
+                BooreEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.05792532594525</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b2'>
+            <uncertaintyModel>
+                CampbellBozorgnia2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.05792532594525</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                ChiouYoungs2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.05792532594525</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b4'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.15365973924380003</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b5'>
+            <uncertaintyModel>
+                ZhaoEtAl2016SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.30731947848760005</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b6'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2015SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.30731947848760005</uncertaintyWeight>
+        </logicTreeBranch>
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

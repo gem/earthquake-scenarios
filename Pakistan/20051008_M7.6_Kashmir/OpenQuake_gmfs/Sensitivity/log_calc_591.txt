@@ -1,0 +1,23 @@
+job_id: 591
+job_description: 20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Shao_And_Ji_2005
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Pakistan\20051008_M7.6_Kashmir\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3825908602 (total size 193.14 KB)
+Extracting the hazard sites from the site model
+Read N=3202 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Pakistan\20051008_M7.6_Kashmir\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 2.233, Nominal bias stddev: 0.065
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 2.521, Nominal bias stddev: 0.066
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 2.250, Nominal bias stddev: 0.063
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 1.859, Nominal bias stddev: 0.063
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '301.08 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 26 seconds from event_based
+Stored 150.21 KB of GMFs
+Exposing the outputs to the database
+Stored 591.13 KB on C:\Users\zkarimzadeh\oqdata/calc_591.hdf5 in 29 seconds

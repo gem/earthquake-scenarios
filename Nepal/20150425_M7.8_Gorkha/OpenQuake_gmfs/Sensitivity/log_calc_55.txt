@@ -1,0 +1,24 @@
+job_id: 55
+job_description: 20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+
+usuario@CYE.local running /Users/cye/Documents/wip/ecd/Nepal/DRAFT_20150425_M7.8_Gorkha/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git0855b3c6a9
+Using 8 cores on CYE.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2806486788 (total size 371.42 KB)
+Extracting the hazard sites from the site model
+Read N=6681 hazard sites and L=1 hazard levels
+Reading station data from /Users/cye/Documents/wip/ecd/Nepal/DRAFT_20150425_M7.8_Gorkha/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2015SInter, IMT: PGA, Nominal bias mean: -0.370, Nominal bias stddev: 0.114
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias mean: -0.159, Nominal bias stddev: 0.085
+GMM: AtkinsonMacias2009NSHMP2014, IMT: PGA, Nominal bias mean: 1.074, Nominal bias stddev: 0.056
+GMM: Kanno2006Shallow, IMT: PGA, Nominal bias mean: 0.851, Nominal bias stddev: 0.085
+GMM: ZhaoEtAl2006SInter, IMT: PGA, Nominal bias mean: 0.664, Nominal bias stddev: 0.111
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '783.83 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 155 seconds from event_based
+Stored 391.65 KB of GMFs
+Exposing the outputs to the database
+Stored 1.13 MB on /Users/cye/oqdata/calc_55.hdf5 in 173 seconds

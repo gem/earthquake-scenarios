@@ -1,0 +1,65 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+590,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Konca_2005
+",30, All, USGS, Konca_2005,ChiouYoungs2014,PGA,3.853115,1.859,0.063,1.859
+591,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",29, All, USGS, Shao_And_Ji_2005,ChiouYoungs2014,PGA,3.8969738,1.859,0.063,1.859
+589,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",31, All, USGS, GCMT,ChiouYoungs2014,PGA,2.816543,1.864,0.063,1.864
+588,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",33, All, USGS, USGS,ChiouYoungs2014,PGA,3.7284894,1.932,0.063,1.932
+588,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",33, All, USGS, USGS,CampbellBozorgnia2014,PGA,5.655087,1.938,0.063,1.938
+589,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",31, All, USGS, GCMT,CampbellBozorgnia2014,PGA,4.0828876,2.175,0.063,2.175
+590,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Konca_2005
+",30, All, USGS, Konca_2005,AbrahamsonEtAl2014,PGA,5.175034,2.229,0.065,2.229
+591,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",29, All, USGS, Shao_And_Ji_2005,AbrahamsonEtAl2014,PGA,5.2581244,2.233,0.065,2.233
+591,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",29, All, USGS, Shao_And_Ji_2005,CampbellBozorgnia2014,PGA,5.7229795,2.25,0.063,2.25
+590,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Konca_2005
+",30, All, USGS, Konca_2005,CampbellBozorgnia2014,PGA,5.3842664,2.251,0.063,2.251
+589,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",31, All, USGS, GCMT,AbrahamsonEtAl2014,PGA,3.9133208,2.258,0.065,2.258
+588,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",33, All, USGS, USGS,AbrahamsonEtAl2014,PGA,4.320114,2.36,0.065,2.36
+589,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",31, All, USGS, GCMT,BooreEtAl2014,PGA,3.8981013,2.483,0.066,2.483
+588,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",33, All, USGS, USGS,BooreEtAl2014,PGA,3.745418,2.51,0.066,2.51
+591,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",29, All, USGS, Shao_And_Ji_2005,BooreEtAl2014,PGA,5.7571397,2.521,0.066,2.521
+590,"20051008_M7.6_Kashmir median gmf, Stations:All, gmlt:USGS, Rupture:Konca_2005
+",30, All, USGS, Konca_2005,BooreEtAl2014,PGA,5.7407775,2.532,0.066,2.532
+584,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.81275266,,,
+584,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,BooreEtAl2014,PGA,0.587189,,,
+584,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,CampbellBozorgnia2014,PGA,1.5293499,,,
+584,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,ChiouYoungs2014,PGA,1.2349496,,,
+585,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.6960872,,,
+585,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,BooreEtAl2014,PGA,0.56409717,,,
+585,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.78689957,,,
+585,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,ChiouYoungs2014,PGA,0.81800747,,,
+586,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Konca_2005
+",5, None, USGS, Konca_2005,AbrahamsonEtAl2014,PGA,0.7552652,,,
+586,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Konca_2005
+",5, None, USGS, Konca_2005,BooreEtAl2014,PGA,0.587189,,,
+586,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Konca_2005
+",5, None, USGS, Konca_2005,CampbellBozorgnia2014,PGA,0.76538885,,,
+586,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Konca_2005
+",5, None, USGS, Konca_2005,ChiouYoungs2014,PGA,0.8664781,,,
+587,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",5, None, USGS, Shao_And_Ji_2005,AbrahamsonEtAl2014,PGA,0.7659997,,,
+587,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",5, None, USGS, Shao_And_Ji_2005,BooreEtAl2014,PGA,0.587189,,,
+587,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",5, None, USGS, Shao_And_Ji_2005,CampbellBozorgnia2014,PGA,0.7859114,,,
+587,"20051008_M7.6_Kashmir median gmf, Stations:None, gmlt:USGS, Rupture:Shao_And_Ji_2005
+",5, None, USGS, Shao_And_Ji_2005,ChiouYoungs2014,PGA,0.8783652,,,

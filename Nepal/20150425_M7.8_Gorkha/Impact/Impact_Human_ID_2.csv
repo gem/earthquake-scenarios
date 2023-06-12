@@ -1,0 +1,101 @@
+ID_1,NAME_1,ID_2,NAME_2,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
+1,Koshi,12,Okhaldhunga,634,634,187,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,20,Okhaldhunga,892,892,627,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,21,Okhaldhunga,895,895,328,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,22,Okhaldhunga,961,961,493,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,23,Okhaldhunga,4999,4999,2955,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,24,Okhaldhunga,2170,2170,695,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,28,Okhaldhunga,2451,2451,1200,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,29,Okhaldhunga,790,790,292,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,30,Okhaldhunga,2130,2130,876,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+3,Bagmati,31,Okhaldhunga,1526,1526,496,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+4,Gandaki,36,Okhaldhunga,1757,1757,968,,,,2015_Nepal_earthquake_open_data,Number of people within households who have died or were injured or missing  in last 12 months.
+,Lumbini/Karnali,,Rukum,2,2,6,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+,Gandaki/Lumbini,,Nawalparasi,8,8,41,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,71,Kailali,0,0,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,72,Kanchanpur,0,0,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,73,Dadeldhura,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,74,Baitadi,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,75,Darchula,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,69,Achhaam,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,70,Doti,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,68,Bajhang,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+7,Sudurpashchim,67,Bajura,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,59,Surkhet,0,0,3,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,60,Dailekh,0,0,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,61,Jajarkot,0,0,3,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,64,Kalikot,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,66,Humla,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,65,Mugu,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,63,Jumla,0,0,2,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,62,Dolpa,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+6,Karnali,55,Salyan,0,0,2,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,58,Bardiya,0,0,2,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,57,Banke,0,0,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,56,Dang,2,2,10,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,52,Pyuthan,0,0,9,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,53,Rolpa,2,2,2,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,46,Gulmi,3,3,11,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,51,Arghakhanchi,0,0,0,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,47,Palpa,1,1,16,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,50,Kapilbastu,0,0,6,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+5,Lumbini,49,Rupandehi,0,0,39,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,45,Baglung,2,2,14,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,43,Myagdi,3,3,10,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,39,Syanja,2,2,23,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,44,Parbat,0,0,21,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,42,Mustang,0,0,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,41,Manang,1,1,1,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,40,Kaski,3,3,38,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,38,Tanahun,0,0,27,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,37,Lamjung,5,5,40,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+4,Gandaki,36,Gorkha,470,470,952,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,27,Kathmandu,1245,1245,7950,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,25,Lalitpur,185,185,3051,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,26,Bhaktapur,333,333,2101,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,31,Makwanpur,33,33,229,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,35,Chitawan,10,10,143,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,30,Dhading,683,683,1218,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,28,Nuwakot,1112,1112,1050,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,29,Rasuwa,820,820,771,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,23,Sindhupalchowk,3578,3578,1569,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,24,Kavrepalanchok,330,330,1179,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,20,Sindhuli,15,15,230,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,21,Ramechhap,42,42,134,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,22,Dolakha,185,185,661,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,34,Parsa,7,7,50,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,33,Bara,2,2,62,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,32,Rautahat,3,3,38,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,19,Sarlahi,2,2,70,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,18,Mahottari,4,4,16,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,17,Dhanusha,1,1,45,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,16,Siraha,1,1,39,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+2,Madhesh,15,Saptari,0,0,24,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,6,Sunsari,9,9,35,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,5,Morang,2,2,59,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,4,Jhapa,1,1,25,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,14,Udayapur,1,1,35,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,12,Okhaldhunga,20,20,61,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,11,Solukhumbu,25,25,100,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,13,Khotang,0,0,8,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,10,Bhojpur,2,2,13,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,7,Dhankuta,0,0,5,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,8,Tehrathum,1,1,14,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,9,Sankhuwasabha,0,0,8,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,3,Ilam,0,0,10,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,2,Panchthar,0,0,9,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+1,Koshi,1,Taplejung,1,1,7,,,,Nepal_agency_incident_report_from_2015-04-25_to_2015-04-25,Fatalities include total deaths and missing people.
+3,Bagmati,23,Sindhupalchowk,3440,3440,2101,,,,World_Bank_2015,
+3,Bagmati,27,Kathmandu,1222,1222,1218,,,,World_Bank_2015,
+3,Bagmati,28,Nuwakot,1086,1086,662,,,,World_Bank_2015,
+3,Bagmati,30,Dhading,733,733,952,,,,World_Bank_2015,
+3,Bagmati,29,Rasuwa,597,597,7949,,,,World_Bank_2015,
+4,Gandaki,36,Gorkha,443,443,1179,,,,World_Bank_2015,
+3,Bagmati,26,Bhaktapur,333,333,3052,,,,World_Bank_2015,
+3,Bagmati,24,Kavrepalanchok,318,318,229,,,,World_Bank_2015,
+3,Bagmati,25,Lalitpur,174,174,1051,,,,World_Bank_2015,
+3,Bagmati,22,Dolakha,170,170,61,,,,World_Bank_2015,
+3,Bagmati,21,Ramechhap,39,39,135,,,,World_Bank_2015,
+3,Bagmati,31,Makwanpur,33,33,771,,,,World_Bank_2015,
+1,Koshi,12,Okhaldhunga,20,20,230,,,,World_Bank_2015,
+3,Bagmati,20,Sindhuli,15,15,1571,,,,World_Bank_2015,

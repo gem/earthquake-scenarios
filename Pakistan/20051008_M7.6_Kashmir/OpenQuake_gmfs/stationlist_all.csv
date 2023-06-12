@@ -1,0 +1,258 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+MSOBS_156,Anandpur Sahib (Intensity V),76.5,31.25,macroseismic,0.04904,0.8059
+MSOBS_208,Vaishno Devi (Intensity V),74.95,32.98,macroseismic,0.05862,0.8059
+MSOBS_186,Makhu (Intensity V),74.98,31.1,macroseismic,0.04904,0.8059
+MSOBS_286,Hill (Intensity VIII),73.15,34.72,macroseismic,0.66785,0.8059
+MSOBS_52,Abohar (Intensity IV),74.2,30.14,macroseismic,0.01578,0.8059
+MSOBS_256,Sarkaghat (Intensity VI),76.75,31.69,macroseismic,0.09138,0.8059
+MSOBS_247,Nurpur (Intensity VI),75.88,32.29,macroseismic,0.09386,0.8059
+MSOBS_135,Saharanpur (Intensity IV),77.54,29.97,macroseismic,0.01578,0.8059
+MSOBS_79,Giddarbaha (Intensity IV),74.69,30.21,macroseismic,0.01578,0.8059
+MSOBS_75,Faridkot (Intensity IV),74.75,30.67,macroseismic,0.01578,0.8059
+MSOBS_228,Gurdaspur (Intensity VI),74.4,32.03,macroseismic,0.09859,0.8059
+MSOBS_128,Rian (Intensity IV),74.24,26.54,macroseismic,0.01578,0.8059
+MSOBS_195,Rampur (Intensity V),77.45,29.8,macroseismic,0.04904,0.8059
+MSOBS_151,Vehari (Intensity IV),72.35,30.05,macroseismic,0.01578,0.8059
+MSOBS_221,Dhariwal (Intensity VI),75.32,31.95,macroseismic,0.09408,0.8059
+MSOBS_249,Rajauri (Intensity VI),74.29,33.38,macroseismic,0.12969,0.8059
+MSOBS_262,Udhampur (Intensity VI),75.13,32.92,macroseismic,0.1063,0.8059
+MSOBS_71,Dhampur (Intensity IV),78.5,29.3,macroseismic,0.01578,0.8059
+MSOBS_73,Faisalabad (Intensity IV),73.08,31.41,macroseismic,0.01587,0.8059
+MSOBS_281,Chiniari (Intensity VIII),73.81,34.17,macroseismic,0.81022,0.8059
+MSOBS_226,Gujjar Khan (Intensity VI),73.31,33.26,macroseismic,0.12507,0.8059
+MSOBS_159,Barnala (Intensity V),75.54,30.38,macroseismic,0.04904,0.8059
+MSOBS_59,Bareilly (Intensity IV),79.41,28.36,macroseismic,0.01578,0.8059
+MSOBS_199,Sirsa (Intensity V),75.04,29.52,macroseismic,0.04904,0.8059
+MSOBS_147,Titron (Intensity IV),77.33,29.68,macroseismic,0.01578,0.8059
+MSOBS_241,Ludhiana (Intensity VI),75.85,30.9,macroseismic,0.09138,0.8059
+MSOBS_185,Mahalpur (Intensity V),76.03,31.35,macroseismic,0.04904,0.8059
+MSOBS_178,Gurgaon (Intensity V),77.01,28.46,macroseismic,0.04904,0.8059
+OBS_48,Mansehra  Pakistan,73.2,34.34,macroseismic,0.50642,0.8059
+MSOBS_103,Mandawar (Intensity IV),78.12,29.48,macroseismic,0.01578,0.8059
+MSOBS_289,Salamabad (Intensity VIII),73.97,34.07,macroseismic,0.81022,0.8059
+MSOBS_282,Chitterkote Gundi (Intensity VIII),74.19,34.2,macroseismic,0.66443,0.8059
+MSOBS_119,Parwan-AFG (Intensity IV),69.16,35.01,macroseismic,0.01578,0.8059
+MSOBS_206,Topi (Intensity V),72.62,34.07,macroseismic,0.06982,0.8059
+MSOBS_272,Mansehra (Intensity VII),73.19,34.34,macroseismic,0.3456,0.8059
+MSOBS_139,Sriganganagar (Intensity IV),73.86,29.92,macroseismic,0.01578,0.8059
+MSOBS_110,Muzaffarnagar (Intensity IV),77.69,29.46,macroseismic,0.01578,0.8059
+OBS_54,Taxila  Pakistan,72.81,33.75,macroseismic,0.19568,0.8059
+OBS_45,Muzaffarabad  Pakistan,73.48,34.35,macroseismic,1.10595,0.8059
+MSOBS_76,Fazilka (Intensity IV),74.02,30.4,macroseismic,0.01578,0.8059
+MSOBS_227,Gujrat (Intensity VI),74.08,32.57,macroseismic,0.10811,0.8059
+MSOBS_231,Hazro (Intensity VI),72.49,33.91,macroseismic,0.12261,0.8059
+MSOBS_116,New Tehri (Intensity IV),78.44,30.37,macroseismic,0.01578,0.8059
+OBS_53,Srinagar  India,78.78,30.22,macroseismic,0.14127,0.8059
+MSOBS_88,Jind (Intensity IV),76.31,29.3,macroseismic,0.01578,0.8059
+MSOBS_257,Shabqadar Fort (Intensity VI),71.56,34.22,macroseismic,0.10693,0.8059
+MSOBS_167,Chhaprauli (Intensity V),77.18,29.22,macroseismic,0.04904,0.8059
+MSOBS_179,Hanumangarh (Intensity V),74.29,29.62,macroseismic,0.04904,0.8059
+MSOBS_267,Baramulla (Intensity VII),74.34,34.21,macroseismic,0.31657,0.8059
+MSOBS_137,Sargodha (Intensity IV),72.67,32.08,macroseismic,0.01828,0.8059
+MSOBS_129,Rishikesh (Intensity IV),78.29,30.11,macroseismic,0.01578,0.8059
+OBS_46,Jammu  India,74.85,32.71,macroseismic,0.50238,0.8059
+MSOBS_191,Palampur (Intensity V),76.54,32.1,macroseismic,0.04904,0.8059
+MSOBS_112,Nagina (Intensity IV),78.43,29.44,macroseismic,0.01578,0.8059
+MSOBS_280,Chakoti (Intensity VIII),73.88,34.12,macroseismic,0.81022,0.8059
+MSOBS_202,Sultanpur Lodhi (Intensity V),75.2,31.21,macroseismic,0.04904,0.8059
+MSOBS_144,Talwara (Intensity IV),75.9,31.93,macroseismic,0.01578,0.8059
+MSOBS_122,Pilbhit (Intensity IV),79.81,28.63,macroseismic,0.01578,0.8059
+MSOBS_205,Tisa (Intensity V),76.14,32.82,macroseismic,0.05167,0.8059
+MSOBS_125,Raikot (Intensity IV),75.61,30.64,macroseismic,0.01578,0.8059
+MSOBS_235,Kathua (Intensity VI),75.52,32.36,macroseismic,0.09673,0.8059
+OBS_55,Amritsar  India,74.87,31.64,macroseismic,0.10524,0.8059
+MSOBS_140,Siwan (Intensity IV),76.35,29.88,macroseismic,0.01578,0.8059
+MSOBS_107,Multan (Intensity IV),71.45,30.19,macroseismic,0.01578,0.8059
+MSOBS_245,Maindhar (Intensity VI),74.16,33.61,macroseismic,0.14491,0.8059
+MSOBS_273,Mirpur (Intensity VII),73.25,34.2,macroseismic,0.32211,0.8059
+MSOBS_264,Abbottabad (Intensity VII),73.2,34.15,macroseismic,0.30387,0.8059
+MSOBS_117,Pantnagar (Intensity IV),79.51,29.05,macroseismic,0.01578,0.8059
+MSOBS_85,Islamnagar (Intensity IV),77.4,29.83,macroseismic,0.01578,0.8059
+MSOBS_121,Pehowa (Intensity IV),76.58,29.96,macroseismic,0.01578,0.8059
+MSOBS_223,Dir (Intensity VI),71.88,35.2,macroseismic,0.11109,0.8059
+OBS_51,Islamabad  Pakistan,73.06,33.72,macroseismic,0.20678,0.8059
+MSOBS_170,Dasuya (Intensity V),75.64,31.81,macroseismic,0.04907,0.8059
+MSOBS_148,Thanesar-Kurukshetra (Intensity IV),76.83,29.97,macroseismic,0.01578,0.8059
+MSOBS_115,Narwana (Intensity IV),76.11,29.59,macroseismic,0.01578,0.8059
+MSOBS_238,Lakhanpur (Intensity VI),75.52,32.4,macroseismic,0.0971,0.8059
+MSOBS_246,Mianwali (Intensity VI),71.54,32.58,macroseismic,0.0946,0.8059
+MSOBS_84,Iglas (Intensity IV),77.93,27.71,macroseismic,0.01578,0.8059
+MSOBS_293,Chikar (Intensity IX),73.68,34.15,macroseismic,1.50963,0.8059
+MSOBS_219,Daska (Intensity VI),75.67,29.95,macroseismic,0.09138,0.8059
+MSOBS_152,Wer (Intensity IV),77.17,27.02,macroseismic,0.01578,0.8059
+OBS_58,Lahore  Pakistan,74.35,31.56,macroseismic,0.10572,0.8059
+MSOBS_111,Nahan (Intensity IV),77.28,30.55,macroseismic,0.01578,0.8059
+MSOBS_160,Baraut (Intensity V),77.26,29.1,macroseismic,0.04904,0.8059
+MSOBS_130,Rewari (Intensity IV),76.61,28.19,macroseismic,0.01578,0.8059
+MSOBS_58,Bannu (Intensity IV),70.6,32.99,macroseismic,0.01578,0.8059
+MSOBS_94,Kabul (Intensity IV),69.13,34.52,macroseismic,0.01578,0.8059
+MSOBS_254,Riasi (Intensity VI),74.82,33.08,macroseismic,0.11258,0.8059
+MSOBS_175,Gardhiwala (Intensity V),75.75,31.73,macroseismic,0.04904,0.8059
+MSOBS_222,Dinga (Intensity VI),73.72,32.64,macroseismic,0.10993,0.8059
+MSOBS_188,Moga (Intensity V),75.17,30.81,macroseismic,0.04904,0.8059
+MSOBS_268,Gultari (Intensity VII),75.54,34.66,macroseismic,0.20696,0.8059
+MSOBS_242,Mandi Bahaudin (Intensity VI),73.49,32.58,macroseismic,0.1082,0.8059
+MSOBS_181,Hisar (Intensity V),75.72,29.15,macroseismic,0.04904,0.8059
+MSOBS_136,Sahiwal (Intensity IV),73.11,30.66,macroseismic,0.01578,0.8059
+MSOBS_194,Panipat (Intensity V),76.96,29.38,macroseismic,0.04904,0.8059
+MSOBS_164,Chakwal (Intensity V),72.85,32.93,macroseismic,0.05936,0.8059
+MSOBS_108,Mussourie (Intensity IV),78.07,30.45,macroseismic,0.01578,0.8059
+MSOBS_218,Buner (Intensity VI),74.28,35.32,macroseismic,0.12699,0.8059
+OBS_52,Rawalpindi  Pakistan,73.04,33.6,macroseismic,0.2002,0.8059
+MSOBS_239,Lalamusa (Intensity VI),73.95,32.7,macroseismic,0.1112,0.8059
+MSOBS_153,Yamunanagar (Intensity IV),77.29,30.13,macroseismic,0.01578,0.8059
+MSOBS_216,Bholath (Intensity VI),75.44,31.57,macroseismic,0.09138,0.8059
+MSOBS_162,Bhawanigarh (Intensity V),76.03,30.27,macroseismic,0.04904,0.8059
+MSOBS_250,Ramban (Intensity VI),75.25,33.25,macroseismic,0.10971,0.8059
+MSOBS_189,Mohali (Intensity V),76.69,30.78,macroseismic,0.04904,0.8059
+MSOBS_146,Taoru (Intensity IV),76.95,28.22,macroseismic,0.01578,0.8059
+MSOBS_229,Hafizabad (Intensity VI),73.69,32.07,macroseismic,0.09995,0.8059
+MSOBS_263,Wah (Intensity VI),72.75,33.78,macroseismic,0.12564,0.8059
+MSOBS_123,Philkuwa (Intensity IV),77.66,28.71,macroseismic,0.01578,0.8059
+MSOBS_165,Chamba (Intensity V),76.12,32.56,macroseismic,0.05071,0.8059
+MSOBS_62,Bharatpur (Intensity IV),77.49,27.22,macroseismic,0.01578,0.8059
+MSOBS_210,Amritsar (Intensity VI),74.87,31.62,macroseismic,0.09274,0.8059
+MSOBS_74,Faridabad (Intensity IV),77.3,28.38,macroseismic,0.01578,0.8059
+MSOBS_83,Haridwar (Intensity IV),78.17,29.97,macroseismic,0.01578,0.8059
+MSOBS_92,Jhunjhunu (Intensity IV),75.4,28.12,macroseismic,0.01578,0.8059
+MSOBS_236,Kishtwar (Intensity VI),75.77,33.32,macroseismic,0.10391,0.8059
+MSOBS_197,Sardhana (Intensity V),77.61,29.14,macroseismic,0.04904,0.8059
+MSOBS_87,Jaipur (Intensity IV),75.81,26.91,macroseismic,0.01578,0.8059
+MSOBS_81,Gotan (Intensity IV),73.72,26.67,macroseismic,0.01578,0.8059
+MSOBS_104,Mansa (Intensity IV),75.39,29.97,macroseismic,0.01578,0.8059
+MSOBS_198,Sheikhpura (Intensity V),73.99,31.71,macroseismic,0.05118,0.8059
+MSOBS_193,Panchkula (Intensity V),76.89,30.68,macroseismic,0.04904,0.8059
+MSOBS_290,Sudhangali (Intensity VIII),73.71,34.11,macroseismic,0.81022,0.8059
+MSOBS_60,Bashta (Intensity IV),78.22,29.08,macroseismic,0.01578,0.8059
+MSOBS_292,Balakot (Intensity IX),73.35,34.55,macroseismic,1.50963,0.8059
+MSOBS_172,Dharamsala (Intensity V),76.32,32.22,macroseismic,0.04904,0.8059
+MSOBS_258,Shimla (Intensity VI),77.16,31.11,macroseismic,0.09138,0.8059
+MSOBS_68,Chhachhrauli (Intensity IV),77.35,30.25,macroseismic,0.01578,0.8059
+MSOBS_255,Sambrial (Intensity VI),74.34,32.48,macroseismic,0.1055,0.8059
+MSOBS_180,Hiranagar (Intensity V),75.27,32.45,macroseismic,0.05332,0.8059
+MSOBS_127,Rampur (Intensity IV),79.02,28.8,macroseismic,0.01578,0.8059
+MSOBS_118,Parikchhatgarh (Intensity IV),77.91,28.97,macroseismic,0.01578,0.8059
+MSOBS_211,Anantnag (Intensity VI),75.19,33.75,macroseismic,0.11807,0.8059
+MSOBS_187,Meerut (Intensity V),77.7,28.99,macroseismic,0.04904,0.8059
+MSOBS_173,Dinanagar (Intensity V),75.47,32.13,macroseismic,0.05096,0.8059
+MSOBS_182,Jagadri (Intensity V),77.3,30.17,macroseismic,0.04904,0.8059
+MSOBS_96,Kotdwar (Intensity IV),78.53,29.75,macroseismic,0.01578,0.8059
+MSOBS_114,Narnaul (Intensity IV),76.1,28.03,macroseismic,0.01578,0.8059
+MSOBS_166,Chandigarh (Intensity V),76.78,30.74,macroseismic,0.04904,0.8059
+MSOBS_171,Delhi (Intensity V),77.23,28.66,macroseismic,0.04904,0.8059
+MSOBS_100,Malakheda (Intensity IV),76.61,27.37,macroseismic,0.01578,0.8059
+OBS_66,Bikaner  India,73.32,28.03,macroseismic,0.01831,0.8059
+MSOBS_154,Aligarh (Intensity V),78.06,27.89,macroseismic,0.04904,0.8059
+MSOBS_65,Chamoli (Intensity IV),79.35,30.4,macroseismic,0.01578,0.8059
+MSOBS_109,Muzaffargarh (Intensity IV),71.18,30.06,macroseismic,0.01578,0.8059
+MSOBS_101,Malaut (Intensity IV),74.48,30.21,macroseismic,0.01578,0.8059
+MSOBS_225,Firozpur (Intensity VI),74.62,30.92,macroseismic,0.09138,0.8059
+MSOBS_82,Haldaur (Intensity IV),78.28,29.3,macroseismic,0.01578,0.8059
+OBS_62,Peshawar  Pakistan,71.54,34.01,macroseismic,0.09324,0.8059
+MSOBS_63,Bhiwani (Intensity IV),76.13,28.79,macroseismic,0.01578,0.8059
+MSOBS_141,Shahabad (Intensity IV),76.88,30.16,macroseismic,0.01578,0.8059
+MSOBS_251,Ramnagar (Intensity VI),75.3,32.8,macroseismic,0.10307,0.8059
+MSOBS_67,Chandpur (Intensity IV),78.27,29.14,macroseismic,0.01578,0.8059
+MSOBS_269,Jared (Intensity VII),73.55,34.68,macroseismic,0.43484,0.8059
+MSOBS_291,Tangdhar (Intensity VIII),73.87,34.4,macroseismic,0.74468,0.8059
+MSOBS_133,Sabathu (Intensity IV),76.98,30.98,macroseismic,0.01578,0.8059
+MSOBS_53,Alwar (Intensity IV),76.61,27.56,macroseismic,0.01578,0.8059
+MSOBS_177,Gujranwala (Intensity V),74.18,32.16,macroseismic,0.05415,0.8059
+MSOBS_77,Firozpur Jhirka (Intensity IV),76.94,27.78,macroseismic,0.01578,0.8059
+MSOBS_72,Dhuri (Intensity IV),75.86,30.37,macroseismic,0.01578,0.8059
+MSOBS_106,Muktsar (Intensity IV),74.51,30.46,macroseismic,0.01578,0.8059
+OBS_56,Bhakkar  Pakistan,71.06,31.63,macroseismic,0.10349,0.8059
+MSOBS_89,Jhajjar (Intensity IV),76.66,28.59,macroseismic,0.01578,0.8059
+MSOBS_157,Bakloh (Intensity V),75.91,32.46,macroseismic,0.05101,0.8059
+OBS_67,Faisalabad  Pakistan,73.11,31.41,macroseismic,0.01844,0.8059
+MSOBS_234,Kasur (Intensity VI),74.45,31.11,macroseismic,0.09138,0.8059
+MSOBS_168,Chika (Intensity V),76.36,30.05,macroseismic,0.04904,0.8059
+MSOBS_285,Hattian Bala (Intensity VIII),73.73,34.16,macroseismic,0.81022,0.8059
+MSOBS_200,Sohna (Intensity V),77.07,28.24,macroseismic,0.04904,0.8059
+MSOBS_176,Garhshankar (Intensity V),76.13,31.22,macroseismic,0.04904,0.8059
+MSOBS_163,Bhikwind (Intensity V),74.69,31.34,macroseismic,0.04904,0.8059
+MSOBS_252,Ranbirsinghpura (Intensity VI),74.72,32.6,macroseismic,0.10532,0.8059
+MSOBS_99,Lambgaon (Intensity IV),78.49,30.51,macroseismic,0.01578,0.8059
+MSOBS_277,Sopore (Intensity VII),74.46,34.29,macroseismic,0.29121,0.8059
+MSOBS_161,Bilaspur (Intensity V),76.76,31.32,macroseismic,0.04904,0.8059
+MSOBS_265,Arja (Intensity VII),73.66,33.98,macroseismic,0.4006,0.8059
+MSOBS_215,Batot (Intensity VI),75.32,33.1,macroseismic,0.10672,0.8059
+MSOBS_124,Rabwah (Intensity IV),72.82,31.82,macroseismic,0.0173,0.8059
+MSOBS_132,Ropar (Intensity IV),76.5,30.97,macroseismic,0.01578,0.8059
+OBS_68,Multan  Pakistan,71.45,30.2,macroseismic,0.01831,0.8059
+MSOBS_105,Moradabad (Intensity IV),78.76,28.83,macroseismic,0.01578,0.8059
+MSOBS_56,Badaun (Intensity IV),79.12,28.03,macroseismic,0.01578,0.8059
+MSOBS_243,Mandi (Intensity VI),76.94,31.71,macroseismic,0.09138,0.8059
+MSOBS_90,Jhalu (Intensity IV),78.25,29.35,macroseismic,0.01578,0.8059
+MSOBS_230,Hatar (Intensity VI),72.71,33.58,macroseismic,0.12029,0.8059
+MSOBS_270,Kohala (Intensity VII),73.48,34.12,macroseismic,0.37099,0.8059
+MSOBS_78,Gadoon (Intensity IV),72.07,34.2,macroseismic,0.02812,0.8059
+MSOBS_192,Paghwara (Intensity V),75.77,31.21,macroseismic,0.04904,0.8059
+MSOBS_276,Rawalakot (Intensity VII),73.77,33.87,macroseismic,0.37503,0.8059
+MSOBS_203,Sundernagar (Intensity V),76.9,31.53,macroseismic,0.04904,0.8059
+MSOBS_220,Dera Baba Nayak (Intensity VI),75.08,32.03,macroseismic,0.09599,0.8059
+MSOBS_155,Ambala (Intensity V),76.8,30.36,macroseismic,0.04904,0.8059
+MSOBS_102,Maler Kotla (Intensity IV),75.87,30.52,macroseismic,0.01578,0.8059
+MSOBS_266,Bagh (Intensity VII),73.78,33.98,macroseismic,0.43484,0.8059
+OBS_50,Daska  Pakistan,74.36,32.33,macroseismic,0.15916,0.8059
+MSOBS_244,Mangla (Intensity VI),73.65,33.11,macroseismic,0.12299,0.8059
+MSOBS_150,Vrindavan (Intensity IV),77.7,27.58,macroseismic,0.01578,0.8059
+MSOBS_224,Doda (Intensity VI),75.55,33.15,macroseismic,0.10477,0.8059
+MSOBS_207,Una (Intensity V),76.28,31.48,macroseismic,0.04904,0.8059
+MSOBS_214,Batala (Intensity VI),75.22,31.81,macroseismic,0.09325,0.8059
+MSOBS_288,Kamsar (Intensity VIII),73.47,34.44,macroseismic,0.81022,0.8059
+MSOBS_64,Bijnor (Intensity IV),78.13,29.37,macroseismic,0.01578,0.8059
+MSOBS_271,Jhelum (Intensity VII),73.72,32.93,macroseismic,0.21853,0.8059
+MSOBS_275,Poonch (Intensity VII),74.09,33.84,macroseismic,0.31331,0.8059
+MSOBS_212,Baijnath (Intensity VI),76.65,32.05,macroseismic,0.09138,0.8059
+MSOBS_190,Narendranagar (Intensity V),78.3,30.16,macroseismic,0.04904,0.8059
+MSOBS_69,Dehradun (Intensity IV),78.04,30.33,macroseismic,0.01578,0.8059
+MSOBS_134,Safidon (Intensity IV),76.66,29.4,macroseismic,0.01578,0.8059
+MSOBS_57,Bagpat (Intensity IV),77.21,28.95,macroseismic,0.01578,0.8059
+MSOBS_86,Ismailabad (Intensity IV),76.67,30.11,macroseismic,0.01578,0.8059
+OBS_59,Udhampur  India,75.13,32.93,macroseismic,0.12055,0.8059
+MSOBS_97,Kot Kapura (Intensity IV),74.8,30.58,macroseismic,0.01578,0.8059
+MSOBS_201,Solan (Intensity V),77.12,30.91,macroseismic,0.04904,0.8059
+MSOBS_232,Hoshiarpur (Intensity VI),75.91,31.53,macroseismic,0.09138,0.8059
+MSOBS_113,Najibabad (Intensity IV),78.33,29.61,macroseismic,0.01578,0.8059
+OBS_63,Chandigarh  India,76.78,30.75,macroseismic,0.04608,0.8059
+MSOBS_98,Ladwa (Intensity IV),77.04,29.99,macroseismic,0.01578,0.8059
+MSOBS_80,Gilgit (Intensity IV),74.29,35.92,macroseismic,0.02515,0.8059
+MSOBS_196,Sangrur (Intensity V),75.84,30.23,macroseismic,0.04904,0.8059
+MSOBS_287,Kamalkot (Intensity VIII),73.98,34.14,macroseismic,0.81022,0.8059
+MSOBS_183,Kaithal (Intensity V),76.4,29.79,macroseismic,0.04904,0.8059
+MSOBS_278,Uri (Intensity VII),74.05,34.08,macroseismic,0.39378,0.8059
+MSOBS_169,Dalhousie (Intensity V),75.98,32.53,macroseismic,0.05108,0.8059
+MSOBS_93,Joharabad (Intensity IV),71.61,34.31,macroseismic,0.02361,0.8059
+MSOBS_70,Dera Ghazi Khan (Intensity IV),70.63,30.05,macroseismic,0.01578,0.8059
+MSOBS_248,Peshawar (Intensity VI),71.54,34.0,macroseismic,0.10554,0.8059
+MSOBS_55,Babrala (Intensity IV),78.4,28.27,macroseismic,0.01578,0.8059
+MSOBS_213,Bhakkar (Intensity VI),71.07,31.62,macroseismic,0.09138,0.8059
+OBS_49,Uri  India,74.03,34.08,macroseismic,0.58762,0.8059
+MSOBS_138,Sherkot (Intensity IV),78.57,29.33,macroseismic,0.01578,0.8059
+MSOBS_91,Jhang Maghiana (Intensity IV),72.32,31.27,macroseismic,0.01578,0.8059
+MSOBS_174,Fatehabad (Intensity V),75.45,29.51,macroseismic,0.04904,0.8059
+MSOBS_145,Talwandi Sabo (Intensity IV),75.08,29.98,macroseismic,0.01578,0.8059
+MSOBS_259,Sialkot (Intensity VI),74.55,32.52,macroseismic,0.10512,0.8059
+MSOBS_260,Srinagar (Intensity VI),74.8,34.08,macroseismic,0.1349,0.8059
+MSOBS_240,Leiah (Intensity VI),70.94,30.96,macroseismic,0.09138,0.8059
+MSOBS_204,Swabi (Intensity V),72.47,34.13,macroseismic,0.06786,0.8059
+MSOBS_184,Kalait (Intensity V),76.25,29.68,macroseismic,0.04904,0.8059
+MSOBS_158,Bandikui (Intensity V),76.56,27.04,macroseismic,0.04904,0.8059
+MSOBS_261,Taunsa Sharif (Intensity VI),70.64,30.71,macroseismic,0.09138,0.8059
+MSOBS_283,Gahri Dupatta (Intensity VIII),73.6,34.21,macroseismic,0.81022,0.8059
+MSOBS_120,Patiala (Intensity IV),76.39,30.32,macroseismic,0.01578,0.8059
+MSOBS_54,Babain (Intensity IV),76.98,30.08,macroseismic,0.01578,0.8059
+MSOBS_131,Roorkee (Intensity IV),77.9,29.86,macroseismic,0.01578,0.8059
+OBS_65,Jaipur  India,75.8,26.92,macroseismic,0.04608,0.8059
+MSOBS_149,Uttarkashi (Intensity IV),78.44,30.73,macroseismic,0.01578,0.8059
+MSOBS_284,Garhi Habibullah (Intensity VIII),73.38,34.4,macroseismic,0.81022,0.8059
+MSOBS_142,Sonepat (Intensity IV),77.12,28.99,macroseismic,0.01578,0.8059
+MSOBS_61,Bathinda (Intensity IV),74.94,30.2,macroseismic,0.01578,0.8059
+MSOBS_279,Batgram (Intensity VIII),73.01,34.68,macroseismic,0.59454,0.8059
+MSOBS_217,Budil (Intensity VI),74.65,33.37,macroseismic,0.12163,0.8059
+MSOBS_126,Rajaund (Intensity IV),76.48,29.58,macroseismic,0.01578,0.8059
+UTM:(43S 042 348 20000),,74.2627,31.5428,macroseismic,0.03904,0.8059
+UTM:(43S 066 340 20000),,76.7772,30.8109,macroseismic,0.03318,0.8059
+UTM:(43S 068 314 20000),,76.9407,28.4627,macroseismic,0.02124,0.8059
+UTM:(43S 072 316 20000),,77.3529,28.6367,macroseismic,0.02465,0.8059

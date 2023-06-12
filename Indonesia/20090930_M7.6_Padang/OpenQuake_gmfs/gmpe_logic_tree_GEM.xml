@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml>
+	<logicTree logicTreeID="">
+		<logicTreeBranchSet branchSetID="bs_02" uncertaintyType="gmpeModel" applyToTectonicRegionType="Subduction Inslab">
+			<logicTreeBranch branchID="b_02_09">
+				<uncertaintyModel>AbrahamsonEtAl2015SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_02_10">
+				<uncertaintyModel>ParkerEtAl2020SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_02_11">
+				<uncertaintyModel>ZhaoEtAl2006SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_02_12">
+				<uncertaintyModel>KuehnEtAl2020SSlab</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+		</logicTreeBranchSet>
+	</logicTree>
+</nrml>

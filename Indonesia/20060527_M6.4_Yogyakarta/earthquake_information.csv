@@ -1,0 +1,27 @@
+FIELD,DESCRIPTION
+Year,2006
+Country,Indonesia
+Region,Yogyakarta 
+Event_Name,Yogyakarta
+Local_Date,27/05/2006
+Local_Time,05:54:00
+Longitude,110.446
+Latitude,-7.961
+Depth_(km),12.5
+Mw,6.4
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Strike slip
+Tectonic_region_type,Shallow crustal 
+Fatalities,5176-5782
+Injured,36299-137883
+Displaced_Population,600000-699295
+Homeless,699295
+Affected_Population,2340745
+Affected_Units,
+Damaged_Units,127000-451000 Buildings
+Collapsed_Units,127000-154000 Buildings
+Economic_Losses,3100 M USD
+Insured_Losses,40 M USD
+Induced_Effects,Ground movement
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000ej1c/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2006_Yogyakarta_earthquake

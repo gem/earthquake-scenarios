@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml>
+	<logicTree logicTreeID="">
+		<logicTreeBranchSet branchSetID="bs_06" uncertaintyType="gmpeModel" applyToTectonicRegionType="subduction interface megathrust">
+			<logicTreeBranch branchID="b_06_24">
+				<uncertaintyModel>AtkinsonBoore2003SInter</uncertaintyModel>
+				<uncertaintyWeight>0.25</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_06_25">
+				<uncertaintyModel>                
+                    [ModifiableGMPE]
+                    gmpe.AtkinsonMacias2009NSHMP2014.NRCan15SiteTerm = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+                </uncertaintyModel>
+				<uncertaintyWeight>0.25</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_06_26">
+				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+				<uncertaintyWeight>0.25</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_06_27">
+				<uncertaintyModel>                
+                    [ModifiableGMPE]
+                    gmpe.Kanno2006Shallow = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+                </uncertaintyModel>
+				<uncertaintyWeight>0.25</uncertaintyWeight>
+			</logicTreeBranch>
+		</logicTreeBranchSet>
+
+	</logicTree>
+</nrml>

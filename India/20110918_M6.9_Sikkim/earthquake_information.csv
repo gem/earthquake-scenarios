@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2011
+Country,"India, China, Nepal, Bhutan, Bangladesh"
+Region,Sikkim
+Event_Name,Sikkim_2011
+Local_Date,18/09/2011
+Local_Time,18:10:51
+Longitude,88.155
+Latitude,27.73
+Depth_(km),50
+Mw,6.9
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Subduction intraslab
+Fatalities,111-112
+Injured,177-710
+Displaced_Population,5000-7882
+Affected_Population,575200
+Affected_Units,
+Damaged_Units,34000-39000
+Collapsed_Units,
+Economic_Losses,22.3 M USD
+Insured_Losses,
+Induced_Effects,"Landslides, mudslides"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000j88b/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2011_Sikkim_earthquake

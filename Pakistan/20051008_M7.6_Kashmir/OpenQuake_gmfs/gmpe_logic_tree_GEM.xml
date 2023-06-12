@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml>
+	<logicTree logicTreeID="">
+	<logicTreeBranchSet branchSetID="bs_01" uncertaintyType="gmpeModel" applyToTectonicRegionType="active shallow crust strike-slip reverse">
+			<logicTreeBranch branchID="b_01_04">
+				<uncertaintyModel>Kanno2006Shallow</uncertaintyModel>
+				<uncertaintyWeight>0.20000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_01_05">
+				<uncertaintyModel>BooreEtAl2014</uncertaintyModel>
+				<uncertaintyWeight>0.20000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_01_06">
+				<uncertaintyModel>CampbellBozorgnia2014</uncertaintyModel>
+				<uncertaintyWeight>0.20000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_01_07">
+				<uncertaintyModel>SharmaEtAl2009</uncertaintyModel>
+				<uncertaintyWeight>0.20000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_01_08">
+				<uncertaintyModel>AkkarEtAlRjb2014</uncertaintyModel>
+				<uncertaintyWeight>0.20000</uncertaintyWeight>
+			</logicTreeBranch>
+		</logicTreeBranchSet>
+
+	</logicTree>
+</nrml>

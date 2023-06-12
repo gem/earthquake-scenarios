@@ -1,0 +1,24 @@
+job_id: 526
+job_description: 20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Indonesia\20060527_M6.4_Yogyakarta\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3109776154 (total size 67.19 KB)
+Extracting the hazard sites from the site model
+Read N=1147 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Indonesia\20060527_M6.4_Yogyakarta\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.566, Nominal bias stddev: 0.187
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.501, Nominal bias stddev: 0.174
+GMM: CauzziEtAl2014, IMT: PGA, Nominal bias mean: 0.481, Nominal bias stddev: 0.223
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.475, Nominal bias stddev: 0.164
+GMM: ZhaoEtAl2006Asc, IMT: PGA, Nominal bias mean: 0.429, Nominal bias stddev: 0.194
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '135.3 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 5 seconds from event_based
+Stored 67.35 KB of GMFs
+Exposing the outputs to the database
+Stored 308.6 KB on C:\Users\zkarimzadeh\oqdata/calc_526.hdf5 in 7 seconds

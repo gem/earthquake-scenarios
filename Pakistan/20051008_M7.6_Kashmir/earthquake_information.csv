@@ -1,0 +1,27 @@
+FIELD,DESCRIPTION
+Year,2005
+Country,"Pakistan, India, Afghanistan"
+Region,Northern Pakistan
+Event_Name,Kashmir
+Local_Date,08/10/2005
+Local_Time,08:50:39
+Longitude,73.588
+Latitude,34.539
+Depth_(km),26
+Mw,7.6
+Max_Intensity_(MMI),IX
+Fault_mechanism,Reverse
+Tectonic_region_type,Active shallow crustal
+Fatalities,74689-88705
+Injured,75277-206277
+Displaced_Population,2800000
+Homeless,3500000-5000000
+Affected_Population,>5000000
+Affected_Units,
+Damaged_Units,780000 Buildings
+Collapsed_Units,32335 Buildings
+Economic_Losses,5000-6680 M USD
+Insured_Losses,
+Induced_Effects,"Landslides, rockfall, seiche"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000e12e/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2005_Kashmir_earthquake

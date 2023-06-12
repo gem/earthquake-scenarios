@@ -1,0 +1,193 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,ZhaoEtAl2016SInter,PGA,0.8304619,0.193,0.202,0.193
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.34382266,0.244,0.189,0.244
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,ZhaoEtAl2016SInter,PGA,0.55301106,0.265,0.202,0.265
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,ZhaoEtAl2016SInter,PGA,0.49620086,0.289,0.202,0.289
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,ChiouYoungs2014,PGA,0.33114067,0.3,0.166,0.3
+525,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",7, All, GEM, GCMT,ChiouYoungs2014,PGA,0.33114067,0.3,0.166,0.3
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.9807501,0.343,0.202,0.343
+527,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",8, All, GEM, SCARDEC,ZhaoEtAl2006Asc,PGA,0.6224067,0.344,0.194,0.344
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,CampbellBozorgnia2014,PGA,0.30761054,0.346,0.172,0.346
+525,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",7, All, GEM, GCMT,CampbellBozorgnia2014,PGA,0.30761054,0.346,0.172,0.346
+527,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",8, All, GEM, SCARDEC,CauzziEtAl2014,PGA,0.60419357,0.347,0.223,0.347
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,ChiouYoungs2014,PGA,0.63244987,0.367,0.163,0.367
+527,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",8, All, GEM, SCARDEC,ChiouYoungs2014,PGA,0.63244987,0.367,0.163,0.367
+524,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",10, All, GEM, USGS,CampbellBozorgnia2014,PGA,0.63715893,0.368,0.171,0.368
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,CampbellBozorgnia2014,PGA,0.63715893,0.368,0.171,0.368
+524,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",10, All, GEM, USGS,BooreEtAl2014,PGA,0.60298127,0.391,0.187,0.391
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,BooreEtAl2014,PGA,0.60298127,0.391,0.187,0.391
+526,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",7, All, GEM, IPGP,ZhaoEtAl2006Asc,PGA,0.44295463,0.429,0.194,0.429
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,BooreEtAl2014,PGA,0.5481213,0.438,0.187,0.438
+525,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",7, All, GEM, GCMT,BooreEtAl2014,PGA,0.5481213,0.438,0.187,0.438
+524,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",10, All, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.7998117,0.446,0.194,0.446
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,BooreEtAl2014,PGA,0.55189264,0.447,0.187,0.447
+527,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",8, All, GEM, SCARDEC,BooreEtAl2014,PGA,0.55189264,0.447,0.187,0.447
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,AbrahamsonEtAl2014,PGA,0.40990433,0.47,0.19,0.47
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,ChiouYoungs2014,PGA,0.4240057,0.475,0.164,0.475
+526,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",7, All, GEM, IPGP,ChiouYoungs2014,PGA,0.4240057,0.475,0.164,0.475
+526,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",7, All, GEM, IPGP,CauzziEtAl2014,PGA,0.48222506,0.481,0.223,0.481
+526,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",7, All, GEM, IPGP,CampbellBozorgnia2014,PGA,0.39296192,0.501,0.174,0.501
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,CampbellBozorgnia2014,PGA,0.39296192,0.501,0.174,0.501
+525,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",7, All, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.29449043,0.505,0.194,0.505
+527,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",8, All, GEM, SCARDEC,CampbellBozorgnia2014,PGA,0.6459933,0.506,0.173,0.506
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.6459933,0.506,0.173,0.506
+524,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",10, All, GEM, USGS,ChiouYoungs2014,PGA,0.7354909,0.526,0.171,0.526
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,ChiouYoungs2014,PGA,0.7354909,0.526,0.171,0.526
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,AbrahamsonEtAl2015SInter,PGA,0.49934122,0.53,0.217,0.53
+524,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",10, All, GEM, USGS,CauzziEtAl2014,PGA,0.6684769,0.535,0.223,0.535
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,BooreEtAl2014,PGA,0.5106136,0.566,0.187,0.566
+526,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",7, All, GEM, IPGP,BooreEtAl2014,PGA,0.5106136,0.566,0.187,0.566
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.7079045,0.593,0.191,0.593
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,AtkinsonBoore2003SInter,PGA,0.33880183,0.621,0.164,0.621
+530,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",9, All, USGS, IPGP,AbrahamsonEtAl2015SInter,PGA,0.40971258,0.623,0.217,0.623
+531,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",8, All, USGS, SCARDEC,AtkinsonBoore2003SInter,PGA,0.32021213,0.638,0.164,0.638
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.590613,0.7,0.217,0.7
+525,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",7, All, GEM, GCMT,CauzziEtAl2014,PGA,0.3083393,0.704,0.223,0.704
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,AbrahamsonEtAl2014,PGA,0.70390403,0.721,0.193,0.721
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,AtkinsonBoore2003SInter,PGA,0.2612279,0.756,0.164,0.756
+528,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",9, All, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.39142218,0.776,0.164,0.776
+529,"20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",8, All, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,0.30032116,0.82,0.217,0.82
+508,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,BooreEtAl2014,PGA,0.49303666,,,
+508,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.5481406,,,
+508,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,CauzziEtAl2014,PGA,0.50257087,,,
+508,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,ChiouYoungs2014,PGA,0.5155311,,,
+508,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.6238915,,,
+509,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",3, None, GEM, GCMT,BooreEtAl2014,PGA,0.5077473,,,
+509,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",3, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.26544097,,,
+509,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",3, None, GEM, GCMT,CauzziEtAl2014,PGA,0.17361571,,,
+509,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",3, None, GEM, GCMT,ChiouYoungs2014,PGA,0.28925854,,,
+509,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",3, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.19834507,,,
+510,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",3, None, GEM, IPGP,BooreEtAl2014,PGA,0.35280588,,,
+510,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",3, None, GEM, IPGP,CampbellBozorgnia2014,PGA,0.29836392,,,
+510,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",3, None, GEM, IPGP,CauzziEtAl2014,PGA,0.3821992,,,
+510,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",3, None, GEM, IPGP,ChiouYoungs2014,PGA,0.3195515,,,
+510,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",3, None, GEM, IPGP,ZhaoEtAl2006Asc,PGA,0.34821734,,,
+511,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",3, None, GEM, SCARDEC,BooreEtAl2014,PGA,0.4158232,,,
+511,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",3, None, GEM, SCARDEC,CampbellBozorgnia2014,PGA,0.45787194,,,
+511,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",3, None, GEM, SCARDEC,CauzziEtAl2014,PGA,0.54373294,,,
+511,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",3, None, GEM, SCARDEC,ChiouYoungs2014,PGA,0.50352997,,,
+511,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",3, None, GEM, SCARDEC,ZhaoEtAl2006Asc,PGA,0.52888674,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.44066083,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.35474187,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.17927943,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,BooreEtAl2014,PGA,0.49303666,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.5481406,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,ChiouYoungs2014,PGA,0.5155311,,,
+512,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",3, None, USGS, USGS,ZhaoEtAl2016SInter,PGA,1.0535592,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.34050167,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,0.14058708,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,AtkinsonBoore2003SInter,PGA,0.12564461,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,BooreEtAl2014,PGA,0.5077473,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.26544097,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,ChiouYoungs2014,PGA,0.28925854,,,
+513,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",3, None, USGS, GCMT,ZhaoEtAl2016SInter,PGA,0.50881577,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,AbrahamsonEtAl2014,PGA,0.3553186,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,AbrahamsonEtAl2015SInter,PGA,0.26182935,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,AtkinsonBoore2003SInter,PGA,0.17849945,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,BooreEtAl2014,PGA,0.35280588,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,CampbellBozorgnia2014,PGA,0.29836392,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,ChiouYoungs2014,PGA,0.3195515,,,
+514,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",3, None, USGS, IPGP,ZhaoEtAl2016SInter,PGA,0.726798,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.47823223,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,AbrahamsonEtAl2015SInter,PGA,0.3463511,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,AtkinsonBoore2003SInter,PGA,0.17781396,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,BooreEtAl2014,PGA,0.4158232,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.45787194,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,ChiouYoungs2014,PGA,0.50352997,,,
+515,"20060527_M6.4_Yogyakarta median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",3, None, USGS, SCARDEC,ZhaoEtAl2016SInter,PGA,0.9989592,,,

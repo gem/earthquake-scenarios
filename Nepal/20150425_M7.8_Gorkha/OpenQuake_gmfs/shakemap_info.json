@@ -1,0 +1,366 @@
+{
+    "multigmpe": {
+        "SA(1.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[AtkinsonBoore2003SInter]",
+                        "[ZhaoEtAl2016SInter]",
+                        "[AbrahamsonEtAl2015SInter]"
+                    ],
+                    "weights": [
+                        0.2,
+                        0.4,
+                        0.4
+                    ],
+                    "name": "subduction_interface_nshmp2014"
+                }
+            ],
+            "weights": [
+                0.231701303781,
+                0.768298696219
+            ],
+            "name": "gmpe_us20002926_custom"
+        },
+        "SA(3.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[AtkinsonBoore2003SInter]",
+                        "[ZhaoEtAl2016SInter]",
+                        "[AbrahamsonEtAl2015SInter]"
+                    ],
+                    "weights": [
+                        0.2,
+                        0.4,
+                        0.4
+                    ],
+                    "name": "subduction_interface_nshmp2014"
+                }
+            ],
+            "weights": [
+                0.231701303781,
+                0.768298696219
+            ],
+            "name": "gmpe_us20002926_custom"
+        },
+        "SA(0.3)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[AtkinsonBoore2003SInter]",
+                        "[ZhaoEtAl2016SInter]",
+                        "[AbrahamsonEtAl2015SInter]"
+                    ],
+                    "weights": [
+                        0.2,
+                        0.4,
+                        0.4
+                    ],
+                    "name": "subduction_interface_nshmp2014"
+                }
+            ],
+            "weights": [
+                0.231701303781,
+                0.768298696219
+            ],
+            "name": "gmpe_us20002926_custom"
+        },
+        "PGA": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[AtkinsonBoore2003SInter]",
+                        "[ZhaoEtAl2016SInter]",
+                        "[AbrahamsonEtAl2015SInter]"
+                    ],
+                    "weights": [
+                        0.2,
+                        0.4,
+                        0.4
+                    ],
+                    "name": "subduction_interface_nshmp2014"
+                }
+            ],
+            "weights": [
+                0.231701303781,
+                0.768298696219
+            ],
+            "name": "gmpe_us20002926_custom"
+        },
+        "PGV": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                },
+                {
+                    "gmpes": [
+                        "[AtkinsonBoore2003SInter]",
+                        "[ZhaoEtAl2016SInter]",
+                        "[AbrahamsonEtAl2015SInter]"
+                    ],
+                    "weights": [
+                        0.2,
+                        0.4,
+                        0.4
+                    ],
+                    "name": "subduction_interface_nshmp2014"
+                }
+            ],
+            "weights": [
+                0.231701303781,
+                0.768298696219
+            ],
+            "name": "gmpe_us20002926_custom"
+        }
+    },
+    "input": {
+        "event_information": {
+            "depth": "8.2",
+            "event_id": "us20002926",
+            "eventsource": "us",
+            "netid": "us",
+            "eventsourcecode": "20002926",
+            "id": "us20002926",
+            "productcode": "us20002926",
+            "productsource": "atlas",
+            "producttype": "shakemap",
+            "event_ref": "Source: Avouac, J., Meng, L., Wei, S., Wang, T., and Ampuero, J. (2015). \"Lower Edge of Locked Main Himalayan Thrust Unzipped by the 2015 Gorkha Earthquake\". Nature Geoscience Letters. DOI: 10.1038/NGEO2518.",
+            "fault_ref": "Source: Avouac, J., Meng, L., Wei, S., Wang, T., and Ampuero, J. (2015). \"Lower Edge of Locked Main Himalayan Thrust Unzipped by the 2015 Gorkha Earthquake\". Nature Geoscience Letters. DOI: 10.1038/NGEO2518.",
+            "intensity_observations": "435",
+            "latitude": "28.2305",
+            "longitude": "84.7314",
+            "location": "36km E of Khudi, Nepal",
+            "magnitude": "7.8",
+            "origin_time": "2015-04-25T06:11:25.000000Z",
+            "seismic_stations": "27",
+            "src_mech": "RS",
+            "event_description": "ShakeMap Atlas v4",
+            "event_type": "ACTUAL"
+        }
+    },
+    "strec": {
+        "TectonicRegion": "Subduction",
+        "FocalMechanism": "RS",
+        "TensorType": "Mww",
+        "TensorSource": "us_20002926",
+        "KaganAngle": 10.057136375058269,
+        "CompositeVariability": null,
+        "NComposite": 0,
+        "DistanceToStable": 155.62465615752072,
+        "DistanceToActive": 69.8422885629249,
+        "DistanceToSubduction": 0,
+        "DistanceToVolcanic": null,
+        "Oceanic": false,
+        "DistanceToOceanic": null,
+        "DistanceToContinental": 0,
+        "SlabModelRegion": "Himalaya",
+        "SlabModelDepth": 23.51199722290039,
+        "SlabModelDepthUncertainty": 9.661055564880371,
+        "SlabModelDip": 16.655298233032227,
+        "SlabModelStrike": 276.5632629394531,
+        "SlabModelMaximumDepth": 45
+    },
+    "output": {
+        "ground_motions": {
+            "SA(1.0)": {
+                "units": "g",
+                "bias": "0.549",
+                "max_grid": "1.338",
+                "max": "1.338"
+            },
+            "SA(3.0)": {
+                "units": "g",
+                "bias": "0.42",
+                "max_grid": "0.231",
+                "max": "0.231"
+            },
+            "SA(0.3)": {
+                "units": "g",
+                "bias": "-0.056",
+                "max_grid": "1.411",
+                "max": "1.411"
+            },
+            "PGA": {
+                "units": "g",
+                "bias": "0.143",
+                "max_grid": "0.866",
+                "max": "0.866"
+            },
+            "PGV": {
+                "units": "cms",
+                "bias": "0.32",
+                "max_grid": "4.597",
+                "max": "4.597"
+            },
+            "MMI": {
+                "units": "intensity",
+                "bias": "0.3",
+                "max_grid": "8.718",
+                "max": "8.718"
+            }
+        },
+        "map_information": {
+            "grid_points": {
+                "longitude": "558",
+                "latitude": "479",
+                "units": ""
+            },
+            "grid_spacing": {
+                "longitude": "0.0166667",
+                "latitude": "0.0166667",
+                "units": "degrees"
+            },
+            "grid_span": {
+                "longitude": "9.283",
+                "latitude": "7.967",
+                "units": "degrees"
+            },
+            "min": {
+                "longitude": "80.85",
+                "latitude": "23.983",
+                "units": "degrees"
+            },
+            "max": {
+                "longitude": "90.133",
+                "latitude": "31.95",
+                "units": "degrees"
+            }
+        },
+        "uncertainty": {
+            "grade": "C",
+            "mean_uncertainty_ratio": "1.003",
+            "total_flagged_mi": "4",
+            "total_flagged_pgm": "26"
+        }
+    },
+    "processing": {
+        "ground_motion_modules": {
+            "gmpe": {
+                "module": "gmpe_us20002926_custom",
+                "reference": ""
+            },
+            "ipe": {
+                "module": "VirtualIPE",
+                "reference": ""
+            },
+            "gmice": {
+                "module": "WGRW12",
+                "reference": ""
+            },
+            "ccf": {
+                "module": "LothBaker2013",
+                "reference": ""
+            },
+            "basin_correction": {
+                "module": "None",
+                "reference": ""
+            },
+            "directivity": {
+                "module": "None",
+                "reference": ""
+            }
+        },
+        "miscellaneous": {
+            "bias_max_dsigma": "1.5",
+            "bias_max_mag": "7.7",
+            "bias_max_range": "120.0",
+            "median_dist": "True",
+            "do_outliers": true,
+            "outlier_deviation_level": "3.0",
+            "outlier_max_mag": "7.0"
+        },
+        "shakemap_versions": {
+            "shakemap_revision": "4.0.2+335.gcbad862",
+            "shakemap_revision_id": "cbad8622bd520e1936447620edfb3a4feea1a8d9",
+            "process_time": "2020-06-03T05:35:56Z",
+            "map_version": 1,
+            "map_comment": "ShakeMap Atlas v4",
+            "map_data_history": [
+                [
+                    "2020-06-03T05:35:14Z",
+                    "atlas",
+                    1,
+                    "ShakeMap Atlas v4"
+                ]
+            ],
+            "map_status": "automatic"
+        },
+        "site_response": {
+            "vs30default": "760.0",
+            "site_correction": "GMPE native"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",159, Seismic, Adjusted, USGS,AtkinsonBoore2003SInter,PGA,0.4007305,0.081,0.085,0.081
+55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+",173, Seismic, Adjusted, Kobayashi,AtkinsonBoore2003SInter,PGA,0.3910619,-0.159,0.085,0.159
+57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
+",160, Seismic, Adjusted, Yagi,AtkinsonBoore2003SInter,PGA,0.39004073,-0.193,0.085,0.193
+56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",159, Seismic, Adjusted, USGS,AbrahamsonEtAl2015SInter,PGA,0.43927923,-0.239,0.114,0.239
+58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
+",176, All, Adjusted, Hayes,AbrahamsonEtAl2015SInter,PGA,1.49174,0.251,0.071,0.251
+61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
+",179, All, Adjusted, Yagi,AbrahamsonEtAl2015SInter,PGA,1.49174,0.267,0.071,0.267
+59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
+",190, All, Adjusted, Kobayashi,AbrahamsonEtAl2015SInter,PGA,1.49174,0.314,0.071,0.314
+54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
+",176, Seismic, Adjusted, Hayes,AtkinsonBoore2003SInter,PGA,0.38844472,-0.318,0.085,0.318
+55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+",173, Seismic, Adjusted, Kobayashi,AbrahamsonEtAl2015SInter,PGA,0.48094368,-0.37,0.114,0.37
+57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
+",160, Seismic, Adjusted, Yagi,AbrahamsonEtAl2015SInter,PGA,0.5709901,-0.424,0.114,0.424
+54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
+",176, Seismic, Adjusted, Hayes,ZhaoEtAl2006SInter,PGA,1.0686208,0.431,0.111,0.431
+60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
+",177, All, Adjusted, USGS,AbrahamsonEtAl2015SInter,PGA,1.49174,0.47,0.071,0.47
+54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
+",176, Seismic, Adjusted, Hayes,AbrahamsonEtAl2015SInter,PGA,0.50124514,-0.506,0.114,0.506
+54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
+",176, Seismic, Adjusted, Hayes,Kanno2006Shallow,PGA,1.5617552,0.555,0.085,0.555
+58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
+",176, All, Adjusted, Hayes,AtkinsonBoore2003SInter,PGA,1.49174,0.645,0.054,0.645
+57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
+",160, Seismic, Adjusted, Yagi,ZhaoEtAl2006SInter,PGA,1.3377935,0.659,0.111,0.659
+55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+",173, Seismic, Adjusted, Kobayashi,ZhaoEtAl2006SInter,PGA,1.1709533,0.664,0.111,0.664
+61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
+",179, All, Adjusted, Yagi,AtkinsonBoore2003SInter,PGA,1.49174,0.717,0.054,0.717
+59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
+",190, All, Adjusted, Kobayashi,AtkinsonBoore2003SInter,PGA,1.49174,0.741,0.054,0.741
+56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",159, Seismic, Adjusted, USGS,ZhaoEtAl2006SInter,PGA,1.1328212,0.816,0.111,0.816
+57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
+",160, Seismic, Adjusted, Yagi,Kanno2006Shallow,PGA,2.0661843,0.849,0.085,0.849
+55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+",173, Seismic, Adjusted, Kobayashi,Kanno2006Shallow,PGA,1.7848004,0.851,0.085,0.851
+54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
+",176, Seismic, Adjusted, Hayes,AtkinsonMacias2009NSHMP2014,PGA,0.8616449,0.864,0.056,0.864
+60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
+",177, All, Adjusted, USGS,AtkinsonBoore2003SInter,PGA,1.49174,0.981,0.054,0.981
+56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",159, Seismic, Adjusted, USGS,Kanno2006Shallow,PGA,1.6296501,1.044,0.085,1.044
+55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
+",173, Seismic, Adjusted, Kobayashi,AtkinsonMacias2009NSHMP2014,PGA,0.9792515,1.074,0.056,1.074
+57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
+",160, Seismic, Adjusted, Yagi,AtkinsonMacias2009NSHMP2014,PGA,1.0301744,1.087,0.056,1.087
+56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",159, Seismic, Adjusted, USGS,AtkinsonMacias2009NSHMP2014,PGA,0.9750512,1.183,0.056,1.183
+58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
+",176, All, Adjusted, Hayes,ZhaoEtAl2006SInter,PGA,2.2063239,1.2,0.071,1.2
+59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
+",190, All, Adjusted, Kobayashi,ZhaoEtAl2006SInter,PGA,1.6803954,1.339,0.071,1.339
+61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
+",179, All, Adjusted, Yagi,ZhaoEtAl2006SInter,PGA,1.6520845,1.345,0.071,1.345
+58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
+",176, All, Adjusted, Hayes,Kanno2006Shallow,PGA,3.4996214,1.415,0.052,1.415
+60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
+",177, All, Adjusted, USGS,ZhaoEtAl2006SInter,PGA,1.582265,1.511,0.071,1.511
+58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
+",176, All, Adjusted, Hayes,AtkinsonMacias2009NSHMP2014,PGA,1.57913,1.518,0.034,1.518
+59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
+",190, All, Adjusted, Kobayashi,Kanno2006Shallow,PGA,2.119831,1.583,0.052,1.583
+61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
+",179, All, Adjusted, Yagi,Kanno2006Shallow,PGA,2.3602366,1.593,0.052,1.593
+59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
+",190, All, Adjusted, Kobayashi,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.629,0.034,1.629
+61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
+",179, All, Adjusted, Yagi,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.66,0.034,1.66
+60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
+",177, All, Adjusted, USGS,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.754,0.034,1.754
+60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
+",177, All, Adjusted, USGS,Kanno2006Shallow,PGA,2.2467096,1.777,0.052,1.777
+50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
+",5, None, Adjusted, Hayes,AbrahamsonEtAl2015SInter,PGA,0.8327327,,,
+50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
+",5, None, Adjusted, Hayes,AtkinsonBoore2003SInter,PGA,0.21976143,,,
+50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
+",5, None, Adjusted, Hayes,AtkinsonMacias2009NSHMP2014,PGA,0.36507556,,,
+50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
+",5, None, Adjusted, Hayes,Kanno2006Shallow,PGA,0.91749674,,,
+50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
+",5, None, Adjusted, Hayes,ZhaoEtAl2006SInter,PGA,0.70665014,,,
+51,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Kobayashi
+",19, None, Adjusted, Kobayashi,AbrahamsonEtAl2015SInter,PGA,0.7026855,,,
+51,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Kobayashi
+",19, None, Adjusted, Kobayashi,AtkinsonBoore2003SInter,PGA,0.21910541,,,
+51,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Kobayashi
+",19, None, Adjusted, Kobayashi,AtkinsonMacias2009NSHMP2014,PGA,0.33654457,,,
+51,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Kobayashi
+",19, None, Adjusted, Kobayashi,Kanno2006Shallow,PGA,0.7674625,,,
+51,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Kobayashi
+",19, None, Adjusted, Kobayashi,ZhaoEtAl2006SInter,PGA,0.6069038,,,
+52,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",4, None, Adjusted, USGS,AbrahamsonEtAl2015SInter,PGA,0.5590377,,,
+52,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",4, None, Adjusted, USGS,AtkinsonBoore2003SInter,PGA,0.19547912,,,
+52,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",4, None, Adjusted, USGS,AtkinsonMacias2009NSHMP2014,PGA,0.30073327,,,
+52,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",4, None, Adjusted, USGS,Kanno2006Shallow,PGA,0.61234426,,,
+52,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",4, None, Adjusted, USGS,ZhaoEtAl2006SInter,PGA,0.4923391,,,
+53,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Yagi
+",5, None, Adjusted, Yagi,AbrahamsonEtAl2015SInter,PGA,0.8828115,,,
+53,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Yagi
+",5, None, Adjusted, Yagi,AtkinsonBoore2003SInter,PGA,0.22053294,,,
+53,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Yagi
+",5, None, Adjusted, Yagi,AtkinsonMacias2009NSHMP2014,PGA,0.3499888,,,
+53,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Yagi
+",5, None, Adjusted, Yagi,Kanno2006Shallow,PGA,0.890729,,,
+53,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Yagi
+",5, None, Adjusted, Yagi,ZhaoEtAl2006SInter,PGA,0.70129514,,,

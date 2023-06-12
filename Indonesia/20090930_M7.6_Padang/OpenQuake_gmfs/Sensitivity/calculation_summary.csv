@@ -1,0 +1,161 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+583,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",611, All, USGS, SCARDEC,ZhaoEtAl2016SSlab,PGA,0.5597433,-0.029,0.215,0.029
+574,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",641, All, GEM, USGS,KuehnEtAl2020SSlab,PGA,0.55247736,-0.031,0.22,0.031
+583,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",611, All, USGS, SCARDEC,AtkinsonBoore2003SSlab,PGA,0.5201591,-0.032,0.182,0.032
+579,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",598, All, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.523541,0.034,0.182,0.034
+581,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",645, All, USGS, IPGP,AtkinsonBoore2003SSlab,PGA,0.53496814,-0.035,0.182,0.035
+579,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",598, All, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.5800572,-0.039,0.215,0.039
+578,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",599, All, GEM, SCARDEC,ZhaoEtAl2006SSlab,PGA,0.54328346,0.039,0.197,0.039
+574,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",641, All, GEM, USGS,ParkerEtAl2020SSlab,PGA,0.8126148,-0.047,0.2,0.047
+580,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",594, All, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.521723,-0.048,0.182,0.048
+576,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",629, All, GEM, IPGP,ZhaoEtAl2006SSlab,PGA,0.5432007,-0.061,0.197,0.061
+575,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",630, All, GEM, GCMT,KuehnEtAl2020SSlab,PGA,0.5286373,-0.078,0.22,0.078
+575,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",630, All, GEM, GCMT,ZhaoEtAl2006SSlab,PGA,0.5432683,-0.083,0.197,0.083
+576,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",629, All, GEM, IPGP,ParkerEtAl2020SSlab,PGA,0.67513597,0.095,0.2,0.095
+575,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",630, All, GEM, GCMT,ParkerEtAl2020SSlab,PGA,0.6575185,0.096,0.2,0.096
+576,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",629, All, GEM, IPGP,KuehnEtAl2020SSlab,PGA,0.5239782,-0.098,0.22,0.098
+580,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",594, All, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.5617967,-0.108,0.215,0.108
+578,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",599, All, GEM, SCARDEC,KuehnEtAl2020SSlab,PGA,0.5201662,0.113,0.22,0.113
+581,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",645, All, USGS, IPGP,AbrahamsonEtAl2015SSlab,PGA,0.52731436,0.119,0.215,0.119
+576,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:IPGP
+",629, All, GEM, IPGP,AbrahamsonEtAl2015SSlab,PGA,0.52731436,0.119,0.215,0.119
+581,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",645, All, USGS, IPGP,ZhaoEtAl2016SSlab,PGA,0.5601277,-0.138,0.215,0.138
+580,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",594, All, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.5441436,0.166,0.182,0.166
+583,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",611, All, USGS, SCARDEC,AtkinsonBoore2003SSlabCascadia,PGA,0.54334897,0.183,0.182,0.183
+581,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:IPGP
+",645, All, USGS, IPGP,AtkinsonBoore2003SSlabCascadia,PGA,0.55201304,0.187,0.182,0.187
+579,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",598, All, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.55019677,-0.2,0.182,0.2
+574,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",641, All, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.5277405,0.236,0.215,0.236
+579,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",598, All, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.5277405,0.236,0.215,0.236
+578,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",599, All, GEM, SCARDEC,AbrahamsonEtAl2015SSlab,PGA,0.5253921,0.26,0.215,0.26
+583,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:SCARDEC
+",611, All, USGS, SCARDEC,AbrahamsonEtAl2015SSlab,PGA,0.5253921,0.26,0.215,0.26
+578,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:SCARDEC
+",599, All, GEM, SCARDEC,ParkerEtAl2020SSlab,PGA,0.61379844,0.268,0.2,0.268
+574,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",641, All, GEM, USGS,ZhaoEtAl2006SSlab,PGA,0.65641105,-0.286,0.197,0.286
+575,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+",630, All, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.52196825,0.366,0.215,0.366
+580,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:GCMT
+",594, All, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.52196825,0.366,0.215,0.366
+582,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:JMA
+",634, All, USGS, JMA,AtkinsonBoore2003SSlab,PGA,0.5626634,0.476,0.182,0.476
+577,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:JMA
+",616, All, GEM, JMA,KuehnEtAl2020SSlab,PGA,0.55514824,0.545,0.22,0.545
+577,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:JMA
+",616, All, GEM, JMA,ZhaoEtAl2006SSlab,PGA,0.5432054,0.593,0.197,0.593
+582,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:JMA
+",634, All, USGS, JMA,ZhaoEtAl2016SSlab,PGA,0.5517751,0.597,0.215,0.597
+577,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:JMA
+",616, All, GEM, JMA,ParkerEtAl2020SSlab,PGA,0.5463663,0.642,0.2,0.642
+582,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:JMA
+",634, All, USGS, JMA,AtkinsonBoore2003SSlabCascadia,PGA,0.56735235,0.77,0.182,0.77
+582,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:USGS, Rupture:JMA
+",634, All, USGS, JMA,AbrahamsonEtAl2015SSlab,PGA,0.5542489,0.898,0.215,0.898
+577,"20090930_M7.6_Padang median gmf, Stations:All, gmlt:GEM, Rupture:JMA
+",616, All, GEM, JMA,AbrahamsonEtAl2015SSlab,PGA,0.5542489,0.898,0.215,0.898
+564,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AbrahamsonEtAl2015SSlab,PGA,0.36514357,,,
+564,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,KuehnEtAl2020SSlab,PGA,0.6142035,,,
+564,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,ParkerEtAl2020SSlab,PGA,1.029427,,,
+564,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,ZhaoEtAl2006SSlab,PGA,1.04186,,,
+565,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.31646147,,,
+565,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,KuehnEtAl2020SSlab,PGA,0.53568035,,,
+565,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,ParkerEtAl2020SSlab,PGA,0.63713783,,,
+565,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,ZhaoEtAl2006SSlab,PGA,0.59036297,,,
+566,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",5, None, GEM, IPGP,AbrahamsonEtAl2015SSlab,PGA,0.38849863,,,
+566,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",5, None, GEM, IPGP,KuehnEtAl2020SSlab,PGA,0.51151097,,,
+566,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",5, None, GEM, IPGP,ParkerEtAl2020SSlab,PGA,0.61267745,,,
+566,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",5, None, GEM, IPGP,ZhaoEtAl2006SSlab,PGA,0.52760124,,,
+567,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,AbrahamsonEtAl2015SSlab,PGA,0.15714121,,,
+567,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,KuehnEtAl2020SSlab,PGA,0.27687716,,,
+567,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,ParkerEtAl2020SSlab,PGA,0.25615507,,,
+567,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,ZhaoEtAl2006SSlab,PGA,0.20375854,,,
+568,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",6, None, GEM, SCARDEC,AbrahamsonEtAl2015SSlab,PGA,0.34336627,,,
+568,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",6, None, GEM, SCARDEC,KuehnEtAl2020SSlab,PGA,0.4410453,,,
+568,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",6, None, GEM, SCARDEC,ParkerEtAl2020SSlab,PGA,0.49994886,,,
+568,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",6, None, GEM, SCARDEC,ZhaoEtAl2006SSlab,PGA,0.50585014,,,
+569,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.36514357,,,
+569,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.7268222,,,
+569,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.48623174,,,
+569,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.6635595,,,
+570,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.31646147,,,
+570,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.48976693,,,
+570,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,AtkinsonBoore2003SSlabCascadia,PGA,0.38623622,,,
+570,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.5834231,,,
+571,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",6, None, USGS, IPGP,AbrahamsonEtAl2015SSlab,PGA,0.38849863,,,
+571,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",6, None, USGS, IPGP,AtkinsonBoore2003SSlab,PGA,0.46590307,,,
+571,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",6, None, USGS, IPGP,AtkinsonBoore2003SSlabCascadia,PGA,0.35807332,,,
+571,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",6, None, USGS, IPGP,ZhaoEtAl2016SSlab,PGA,0.56789285,,,
+572,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,AbrahamsonEtAl2015SSlab,PGA,0.15714121,,,
+572,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,AtkinsonBoore2003SSlab,PGA,0.26744178,,,
+572,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,AtkinsonBoore2003SSlabCascadia,PGA,0.18253042,,,
+572,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,ZhaoEtAl2016SSlab,PGA,0.23936597,,,
+573,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",6, None, USGS, SCARDEC,AbrahamsonEtAl2015SSlab,PGA,0.34336627,,,
+573,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",6, None, USGS, SCARDEC,AtkinsonBoore2003SSlab,PGA,0.4927547,,,
+573,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",6, None, USGS, SCARDEC,AtkinsonBoore2003SSlabCascadia,PGA,0.39003596,,,
+573,"20090930_M7.6_Padang median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",6, None, USGS, SCARDEC,ZhaoEtAl2016SSlab,PGA,0.5482468,,,

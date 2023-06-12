@@ -1,0 +1,26 @@
+job_id: 528
+job_description: 20060527_M6.4_Yogyakarta median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Indonesia\20060527_M6.4_Yogyakarta\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 4178971265 (total size 69.34 KB)
+Extracting the hazard sites from the site model
+Read N=1147 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Indonesia\20060527_M6.4_Yogyakarta\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 0.721, Nominal bias stddev: 0.193
+GMM: AbrahamsonEtAl2015SInter, IMT: PGA, Nominal bias mean: 0.700, Nominal bias stddev: 0.217
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias mean: 0.776, Nominal bias stddev: 0.164
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.391, Nominal bias stddev: 0.187
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.368, Nominal bias stddev: 0.171
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.526, Nominal bias stddev: 0.171
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias mean: 0.343, Nominal bias stddev: 0.202
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '189.07 KB', 'sig_eps': '407 B', 'times': '332 B', 'hcurves': '5 B'} in 6 seconds from event_based
+Stored 94.29 KB of GMFs
+Exposing the outputs to the database
+Stored 328.73 KB on C:\Users\zkarimzadeh\oqdata/calc_528.hdf5 in 9 seconds
