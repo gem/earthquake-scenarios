@@ -1,0 +1,60 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+ARG2,Prefecture Argostoli Cephalonia Ionian Islands,20.4878,38.1783,seismic,0.098569,0,B (inferred from topography),435.0,inferred_USGS,435.0
+MSL1,Prefecture Mesologgi Western Greece,21.4243,38.3727,seismic,0.033883,0,C (inferred from topography),317.0,inferred_USGS,317.0
+KRK1,Prefecture Veterinary Corfu Ionian Islands,19.9202,39.618861,seismic,0.011852,0,B (inferred from topography),311.0,inferred_USGS,311.0
+KLV1,Health Center Kalavryta Achaea Peloponnese,22.10797,38.03256,seismic,0.005057,0,B (inferred from topography),449.0,inferred_USGS,449.0
+ARS1,Town Hall Argos Argolis Peloponnese,22.7293,37.6349,seismic,0.004156,0,C (inferred from topography),308.0,inferred_USGS,308.0
+LAM2,Antiperifereia Lamia Fthiotis Central Greece,22.431301,38.90203,seismic,0.003438,0,B (inferred from topography),435.0,inferred_USGS,435.0
+VOL2,Prefecture Volos Magnesia Thessaly,22.9506,39.366,seismic,0.001434,0,B (inferred from topography),311.0,inferred_USGS,311.0
+MESG,Mesagne,17.850423,40.589408,seismic,0.000993,0,B (inferred from geology),712.0,inferred_USGS,712.0
+NPS1,HealthCenter Neapoli Laconia Peloponnese,23.06248,36.51263,seismic,0.00093,0,B (inferred from topography),456.0,inferred_USGS,456.0
+ACER,Acerenza,15.9427,40.7867,seismic,0.00085,0,B,523.0,B,990.0
+DION,Dionisos  Attiki  Greece,23.93306,38.07794,seismic,0.000639,0,B (inferred from topography),595.0,inferred_USGS,595.0
+LMS2,TownHall Laimos Florina Western Macedonia,21.141815,40.834985,seismic,0.000611,0,B (inferred from topography),605.0,inferred_USGS,605.0
+KTHA,NOA GEOFON Station Kythira  Greece,23.0621,36.2566,seismic,0.000597,0,B (inferred from topography),587.0,inferred_USGS,587.0
+PIPA,Pietrapaola,16.8158,39.48514,seismic,0.000484,0,B (inferred from geology),994.0,inferred_USGS,994.0
+SKO1,TownHall Skopelos Skopelos Island,23.728705,39.123383,seismic,0.000457,0,A (inferred from topography),629.0,inferred_USGS,629.0
+PDG,Podgorica  Montenegro,19.2608,42.4297,seismic,0.000343,0,A (inferred from geology),267.0,inferred_USGS,267.0
+CAR1,CAROLEI,16.2114,39.2534,seismic,0.000327,0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+KYMI,Kymi- Euboea Island,24.100138,38.633147,seismic,0.000301,0,A (inferred from topography),591.0,inferred_USGS,591.0
+JOPP,Joppolo,15.8856,38.6068,seismic,0.000299,0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+MCEL,Monticello,15.8019,40.3249,seismic,0.000291,0,A (inferred from geology),411.0,inferred_USGS,411.0
+SALB,San Lorenzo Bellizzi,16.3459,39.8772,seismic,0.000252,0,B (inferred from geology),603.0,inferred_USGS,603.0
+CELI,Celico  Cosenza,16.5088,39.4027,seismic,0.00022,0,B (inferred from geology),994.0,inferred_USGS,994.0
+PLG,Poligiros Chalkidiki Greece,23.44443,40.37328,seismic,0.000218,0,B (inferred from topography),579.0,inferred_USGS,579.0
+SIRI,Monte Sirino   Moliterno,15.8675,40.1821,seismic,0.000217,0,B (inferred from geology),994.0,inferred_USGS,994.0
+PLAC,Placanica,16.4383,38.4494,seismic,0.000212,0,A (inferred from geology),999.0,inferred_USGS,999.0
+SERS,Sersale,16.6886,39.0359,seismic,0.000195,0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+CUC,Castrocucco  Italy,15.8155,39.9938,seismic,0.000194,0,A (inferred from geology),825.0,inferred_USGS,825.0
+MGR,MORIGERATI,15.55352,40.1376,seismic,0.000162,0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+TIP,Timpagrande  Italy,16.7583,39.1794,seismic,0.000146,0,B (inferred from geology),997.0,inferred_USGS,997.0
+LXRA,LIXOURI,20.43735,38.19948,seismic,0.092981,0,B (inferred from topography),499.0,inferred_USGS,499.0
+PATG,Patra Greece,21.72657,38.23865,seismic,0.014019,0,C (inferred from topography),364.0,inferred_USGS,364.0
+PATC,Patra Greece,21.76001,38.26933,seismic,0.013119,0,B (inferred from topography),476.0,inferred_USGS,476.0
+ARIA,ANTIRRIO,21.76206,38.33358,seismic,0.011991,0,C (inferred from topography),479.0,inferred_USGS,479.0
+ROD3,Rodini,21.89204,38.30811,seismic,0.011059,0,A (inferred from geology),597.0,inferred_USGS,597.0
+RIOA,Rio Greece,21.79118,38.29585,seismic,0.01062,0,B (inferred from topography),445.0,inferred_USGS,445.0
+TRIZ,Trizonia- Dorida- Central Greece- Greece,22.07272,38.36543,seismic,0.007221,0,A (inferred from geology),600.0,inferred_USGS,600.0
+AGRP,Agrapidokambos,21.72277,38.3959,seismic,0.005308,0,A (inferred from geology),476.0,inferred_USGS,476.0
+JAN,Ioannina  Greece,20.84874,39.65616,seismic,0.004064,0,B (inferred from topography),525.0,inferred_USGS,525.0
+KASA,KASSIOPI,19.93542,39.74628,seismic,0.003267,0,A (inferred from topography),784.0,inferred_USGS,784.0
+DURR,,19.4573,41.3199,seismic,0.002568,0,C,202.0,C,226.0
+TPE,TELEPENA SEISM. STATION,20.0155,40.2948,seismic,0.002393,0,B,686.0,B,652.0
+HIMA,,19.7582,40.089,seismic,0.002368,0,A,1178.0,A,541.0
+ITM,Ithomi Messinia Greece,21.92522,37.17872,seismic,0.002053,0,A (inferred from topography),595.0,inferred_USGS,595.0
+FIER,,19.5669,40.7174,seismic,0.001842,0,B,374.0,B,363.0
+DLFA,Delfoi  Greece,22.49583,38.47836,seismic,0.001636,0,A (inferred from topography),597.0,inferred_USGS,597.0
+TIR1,IGEWE BUILDING,19.8078,41.3357,seismic,0.001461,0,C,311.0,C,320.0
+KBN,Korce  Albania,20.7874,40.6236,seismic,0.000763,0,B,742.0,B,493.0
+ALNA,ALONNISSOS,23.86669,39.14804,seismic,0.00049,0,C (inferred from topography),605.0,inferred_USGS,605.0
+MNVA,Monemvasia  Greece,23.03734,36.68709,seismic,0.000475,0,B (inferred from topography),598.0,inferred_USGS,598.0
+ANKY,Antikythira Island  Greece,23.30117,35.86704,seismic,0.000422,0,B (inferred from topography),536.0,inferred_USGS,536.0
+LACI,LACI SEISM. STATION,19.7199,41.6359,seismic,0.000265,0,A,1490.0,A,649.0
+TNSA,Tinos Island  Greece,25.1631,37.53942,seismic,0.000238,0,B (inferred from topography),678.0,inferred_USGS,678.0
+EFSA,Agios Efstratios Island  Greece,24.98864,39.54015,seismic,0.000137,0,B (inferred from topography),571.0,inferred_USGS,571.0
+KVLA,Kavala  Greece,24.38591,40.93704,seismic,0.000104,0,B (inferred from topography),551.0,inferred_USGS,551.0
+LIA,Limnos Greece,25.18055,39.89725,seismic,8.7e-05,0,B (inferred from topography),277.0,inferred_USGS,277.0
+SCTE,Santa Cesarea Terme,18.4675,40.0724,seismic,0.001582,0,,438.01,inferred,714.0
+TIR,"Tirana, Albania",19.8631,41.3472,seismic,0.000607,0,,760.0,inferred,525.0
+CEL,"Celeste, Calabria, Italy",15.8939,38.2603,seismic,0.000237,0,,760.0,inferred,794.0
+VTS,Stasrv: unknown station,23.235,42.618,seismic,4.7e-05,0,,760.0,inferred,788.0

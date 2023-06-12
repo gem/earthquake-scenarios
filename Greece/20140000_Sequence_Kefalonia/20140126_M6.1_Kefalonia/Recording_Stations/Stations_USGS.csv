@@ -1,0 +1,22 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+KARP,"NOA/RUB/GEOFON Station Karpathos, Greece",27.1612,35.5472,seismic,760.0,1.0,0.63,0.0,6.2e-05,0.0,0.0149,0.0,0.000127,0.0,0.000109,0.0,6e-05,inferred,Stations_USGS
+SANT,"Santorini, Notion Aiyaion, Greece",25.459,36.371,seismic,760.0,1.0,0.63,0.0,6e-05,0.0,0.0206,0.0,0.000164,0.0,0.000131,0.0,0.00011,inferred,Stations_USGS
+ITM,Stasrv: unknown station,21.9252,37.1786,seismic,844.35,2.4,0.63,0.0,0.001308,0.0,0.1396,0.0,0.003909,0.0,0.00132,0.0,0.00054,inferred,Stations_USGS
+AGG,"Station Agios Georgios, Greece",22.336,39.0211,seismic,760.0,2.8,0.63,0.0,0.00141,0.0,0.2905,0.0,0.004379,0.0,0.004392,0.0,0.001135,inferred,Stations_USGS
+ALN,"Station Alexandroupolis, Greece",26.0497,40.8957,seismic,760.0,null,null,0.0,1.2e-05,0.0,0.0047,0.0,1.4e-05,0.0,2.8e-05,0.0,2.2e-05,inferred,Stations_USGS
+FNA,"Station Florina, Greece",21.3835,40.7818,seismic,760.0,2.1,0.63,0.0,0.000584,0.0,0.0747,0.0,0.001335,0.0,0.001534,0.0,0.000583,inferred,Stations_USGS
+LIT,Stasrv: unknown station,22.489,40.1003,seismic,760.0,2.4,0.63,0.0,0.000801,0.0,0.1671,0.0,0.001193,0.0,0.001677,0.0,0.000712,inferred,Stations_USGS
+ACER,Acerenza,15.9427,40.7867,seismic,760.0,2.1,0.63,0.0,0.000562,0.0,0.0874,0.0,0.001455,0.0,0.001307,0.0,0.000363,inferred,Stations_USGS
+CORL,Corleone (Palermo),13.3038,37.8943,seismic,760.0,1.0,0.63,0.0,4.3e-05,0.0,0.0066,0.0,0.000126,0.0,7.7e-05,0.0,4.1e-05,inferred,Stations_USGS
+INTR,INTRODACQUA,13.9046,42.01154,seismic,760.0,1.0,0.63,0.0,0.000101,0.0,0.0269,0.0,0.000198,0.0,0.00029,0.0,0.000129,inferred,Stations_USGS
+PAOL,Paolisi,14.567486,41.031206,seismic,760.0,1.0,0.63,0.0,9.9e-05,0.0,0.0219,0.0,0.000254,0.0,0.000167,0.0,8.3e-05,inferred,Stations_USGS
+SCTE,Santa Cesarea Terme,18.4675,40.0724,seismic,760.0,2.2,0.63,0.0,0.001546,0.0,0.1226,0.0,0.005573,0.0,0.001057,0.0,0.00038,inferred,Stations_USGS
+SGRT,San Giovanni Rotondo,15.7437,41.7546,seismic,760.0,1.4,0.63,0.0,0.0003,0.0,0.0386,0.0,0.000532,0.0,0.000376,0.0,0.000176,inferred,Stations_USGS
+CEL,"Celeste, Calabria, Italy",15.8939,38.2603,seismic,760.0,1.3,0.63,0.0,0.00043,0.0,0.038,0.0,0.001041,0.0,0.000412,0.0,6.3e-05,inferred,Stations_USGS
+CLTB,"Caltabellotta, Sicilia, Italy",13.21562,37.57857,seismic,760.0,1.0,0.63,0.0,8.5e-05,0.0,0.0092,0.0,0.000135,0.0,0.000105,0.0,2.3e-05,inferred,Stations_USGS
+PDG,"Podgorica, Crna Gora",19.2608,42.4297,seismic,760.0,1.0,0.63,0.0,0.000174,0.0,0.0278,0.0,0.000347,0.0,0.000246,0.0,0.000196,inferred,Stations_USGS
+TIP,"Timpagrande, Calabria, Italy",16.7583,39.1794,seismic,760.0,1.1,0.63,0.0,0.000114,0.0,0.0298,0.0,0.000253,0.0,0.000296,0.0,0.000212,inferred,Stations_USGS
+TIR,"Tirana, Albania",19.8631,41.3472,seismic,760.0,2.2,0.63,0.0,0.000476,0.0,0.1208,0.0,0.000937,0.0,0.001293,0.0,0.000719,inferred,Stations_USGS
+VTS,Stasrv: unknown station,23.235,42.618,seismic,760.0,1.0,0.63,0.0,3.9e-05,0.0,0.0159,0.0,6.2e-05,0.0,7e-05,0.0,7.4e-05,inferred,Stations_USGS
+WDD,"Wield Dalam, Malta",14.5242,35.8373,seismic,760.0,1.4,0.63,0.0,0.000293,0.0,0.0418,0.0,0.000674,0.0,0.000681,0.0,0.000117,inferred,Stations_USGS
+MANT,"Manisa, Turkey",28.5578,38.4908,seismic,760.0,1.0,0.63,0.0,7.4e-05,0.0,0.0203,0.0,4.9e-05,0.0,6.9e-05,0.0,0.000212,inferred,Stations_USGS

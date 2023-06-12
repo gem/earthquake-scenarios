@@ -1,0 +1,145 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+20,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",6, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.324969,0.023,0.237,0.023
+16,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",9, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.029,0.25,0.029
+16,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",9, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.06,0.25,0.06
+15,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.078,0.248,0.078
+20,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",6, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.324969,-0.078,0.263,0.078
+18,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",9, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4261582,-0.088,0.25,0.088
+16,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",9, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.091,0.25,0.091
+22,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",5, Seismic, USGS, ESM,AkkarEtAlRjb2014,PGA,0.3284329,-0.123,0.237,0.123
+17,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",9, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38349414,-0.146,0.248,0.146
+16,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",9, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,0.204,0.25,0.204
+21,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.324969,-0.216,0.237,0.216
+19,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.324969,-0.221,0.237,0.221
+16,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",9, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.325,0.25,0.325
+15,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.33,0.248,0.33
+18,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",9, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4261582,-0.341,0.25,0.341
+15,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.342,0.248,0.342
+18,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",9, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4261582,-0.352,0.25,0.352
+15,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.355,0.248,0.355
+18,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",9, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4261582,-0.364,0.25,0.364
+17,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",9, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38349414,-0.399,0.248,0.399
+17,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",9, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38349414,-0.41,0.248,0.41
+17,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",9, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38349414,-0.421,0.248,0.421
+22,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",5, Seismic, USGS, ESM,CauzziEtAl2014,PGA,0.324969,-0.44,0.263,0.44
+19,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.324969,-0.471,0.263,0.471
+21,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.324969,-0.564,0.263,0.564
+20,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",6, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.324969,-0.57,0.232,0.57
+15,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.324969,-0.606,0.248,0.606
+18,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",9, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4261582,-0.617,0.25,0.617
+17,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",9, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38349414,-0.674,0.248,0.674
+22,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",5, Seismic, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.33007964,-0.856,0.232,0.856
+19,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.324969,-0.891,0.232,0.891
+21,"19860913_M6.0_Kalamata median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.324969,-0.947,0.232,0.947
+10,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.666171,,,
+10,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.69993365,,,
+10,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.634037,,,
+10,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.4115454,,,
+10,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,1.0783352,,,
+11,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.28797963,,,
+11,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.2421033,,,
+11,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.56494266,,,
+12,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.2782673,,,
+12,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.21416043,,,
+12,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.39737847,,,
+13,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.2937428,,,
+13,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.34101915,,,
+13,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.7609023,,,
+14,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,AkkarEtAlRjb2014,PGA,0.28225207,,,
+14,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,CauzziEtAl2014,PGA,0.2829468,,,
+14,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.65472037,,,
+7,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33128545,,,
+7,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.34587398,,,
+7,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.31731224,,,
+7,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.20466065,,,
+7,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.5362538,,,
+8,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43232313,,,
+8,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.45149487,,,
+8,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.41396546,,,
+8,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.26707944,,,
+8,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.6998041,,,
+9,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.69552505,,,
+9,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.7306341,,,
+9,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.6621031,,,
+9,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.42967963,,,
+9,"19860913_M6.0_Kalamata median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,1.1258507,,,

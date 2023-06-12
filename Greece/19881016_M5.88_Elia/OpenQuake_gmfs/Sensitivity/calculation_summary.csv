@@ -1,0 +1,91 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+16,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",11, Seismic, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.15648,0.155,0.229,0.155
+18,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",11, Seismic, USGS, EFEHR,AbrahamsonEtAl2015SInter,PGA,0.15648,0.27,0.229,0.27
+17,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",11, Seismic, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,0.15648,0.324,0.229,0.324
+16,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",11, Seismic, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.15648,0.387,0.161,0.387
+17,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",11, Seismic, USGS, GCMT,ZhaoEtAl2016SInter,PGA,0.15648,-0.4,0.208,0.4
+18,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",11, Seismic, USGS, EFEHR,ZhaoEtAl2016SInter,PGA,0.15648,-0.452,0.208,0.452
+18,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",11, Seismic, USGS, EFEHR,AtkinsonBoore2003SInter,PGA,0.15648,0.471,0.161,0.471
+17,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",11, Seismic, USGS, GCMT,AtkinsonBoore2003SInter,PGA,0.15648,0.561,0.161,0.561
+16,"19881016_M5.88_Elia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",11, Seismic, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.15648,-0.713,0.208,0.713
+1,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"BCHydroESHM20SInter
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.042299394,,,
+1,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"BCHydroESHM20SInter
+sigma_mu_epsilon = -1",PGA,0.033059023,,,
+1,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"BCHydroESHM20SInter
+sigma_mu_epsilon = 1",PGA,0.05412255,,,
+1,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"BCHydroESHM20SInter
+theta_6_adjustment = -0",PGA,0.042299394,,,
+1,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"BCHydroESHM20SInter
+theta_6_adjustment = 0",PGA,0.042299394,,,
+2,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"BCHydroESHM20SInter
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.030572733,,,
+2,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"BCHydroESHM20SInter
+sigma_mu_epsilon = -1",PGA,0.023894072,,,
+2,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"BCHydroESHM20SInter
+sigma_mu_epsilon = 1",PGA,0.039118156,,,
+2,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"BCHydroESHM20SInter
+theta_6_adjustment = -0",PGA,0.030572733,,,
+2,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"BCHydroESHM20SInter
+theta_6_adjustment = 0",PGA,0.030572733,,,
+3,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"BCHydroESHM20SInter
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.031214483,,,
+3,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"BCHydroESHM20SInter
+sigma_mu_epsilon = -1",PGA,0.02439563,,,
+3,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"BCHydroESHM20SInter
+sigma_mu_epsilon = 1",PGA,0.039939284,,,
+3,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"BCHydroESHM20SInter
+theta_6_adjustment = -0",PGA,0.031214483,,,
+3,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"BCHydroESHM20SInter
+theta_6_adjustment = 0",PGA,0.031214483,,,
+4,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.05059151,,,
+4,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.031266276,,,
+4,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,LinLee2008SInter,PGA,0.068958156,,,
+4,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.12815776,,,
+5,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,0.037899014,,,
+5,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AtkinsonBoore2003SInter,PGA,0.02145384,,,
+5,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,LinLee2008SInter,PGA,0.05664772,,,
+5,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016SInter,PGA,0.07474069,,,
+6,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AbrahamsonEtAl2015SInter,PGA,0.039136585,,,
+6,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AtkinsonBoore2003SInter,PGA,0.0235803,,,
+6,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,LinLee2008SInter,PGA,0.059741233,,,
+6,"19881016_M5.88_Elia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016SInter,PGA,0.07832134,,,

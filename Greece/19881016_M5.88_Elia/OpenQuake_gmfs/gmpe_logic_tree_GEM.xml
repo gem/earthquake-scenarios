@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <logicTree
+    logicTreeID="ESHM20 Logic Tree - 5 Stress Branch"
+    >
+        <logicTreeBranchSet
+        applyToTectonicRegionType="Subduction Interface"
+        branchSetID="BCHydroSubIF"
+        uncertaintyType="gmpeModel"
+        >
+            <logicTreeBranch
+            branchID="SUB_IFLowStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = -1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.18
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.11
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.42
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.11
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFHighStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = 1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.18
+                </uncertaintyWeight>
+            </logicTreeBranch>
+        </logicTreeBranchSet>
+    </logicTree>
+</nrml>

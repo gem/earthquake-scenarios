@@ -1,0 +1,145 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+11,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",14, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.0,0.207,0.0
+12,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",14, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8138734,0.006,0.207,0.006
+12,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",14, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8138734,-0.015,0.207,0.015
+11,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",14, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.023,0.207,0.023
+11,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",14, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,-0.023,0.207,0.023
+13,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",9, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.51,0.036,0.197,0.036
+12,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",14, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8138734,-0.036,0.207,0.036
+15,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",9, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.51,0.037,0.208,0.037
+16,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",9, Seismic, USGS, ESM,CauzziEtAl2014,PGA,0.51,-0.051,0.208,0.051
+14,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",9, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.51,0.099,0.208,0.099
+10,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",14, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.104,0.205,0.104
+9,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",14, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5508567,0.123,0.205,0.123
+10,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",14, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.14,0.205,0.14
+10,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",14, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.177,0.205,0.177
+9,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",14, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5508567,-0.191,0.205,0.191
+10,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",14, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,-0.192,0.205,0.192
+9,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",14, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5508567,-0.209,0.205,0.209
+9,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",14, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5508567,-0.228,0.205,0.228
+16,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",9, Seismic, USGS, ESM,AkkarEtAlRjb2014,PGA,0.51,0.24,0.197,0.24
+15,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",9, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.51,0.241,0.197,0.241
+13,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",9, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.51,-0.248,0.208,0.248
+14,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",9, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.51,0.308,0.197,0.308
+12,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",14, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8138734,0.317,0.207,0.317
+11,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",14, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,-0.332,0.207,0.332
+11,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",14, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.333,0.207,0.333
+12,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",14, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8138734,-0.348,0.207,0.348
+10,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",14, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.51,0.472,0.205,0.472
+9,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",14, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5508567,-0.541,0.205,0.541
+14,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",9, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.51,-0.551,0.187,0.551
+15,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",9, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.51,-0.617,0.187,0.617
+16,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",9, Seismic, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.51,-0.635,0.187,0.635
+13,"19990907_M5.9_Athens median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",9, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.51,-0.777,0.187,0.777
+1,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.8157562,,,
+1,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.8568541,,,
+1,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.7766295,,,
+1,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.5039557,,,
+1,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,1.3204696,,,
+2,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.32097495,,,
+2,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.33440307,,,
+2,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.30808604,,,
+2,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.19829105,,,
+2,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.5195641,,,
+3,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38748264,,,
+3,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.40451357,,,
+3,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.37116876,,,
+3,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.239378,,,
+3,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.6272206,,,
+4,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.7213804,,,
+4,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.7579473,,,
+4,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.6865776,,,
+4,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.44565246,,,
+4,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,1.1677029,,,
+5,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.30694938,,,
+5,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.58581734,,,
+5,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,1.0829287,,,
+6,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.27752444,,,
+6,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.18736035,,,
+6,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.39911142,,,
+7,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.2892679,,,
+7,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.15503971,,,
+7,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.34131452,,,
+8,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,AkkarEtAlRjb2014,PGA,0.28340468,,,
+8,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,CauzziEtAl2014,PGA,0.26069605,,,
+8,"19990907_M5.9_Athens median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.61777025,,,

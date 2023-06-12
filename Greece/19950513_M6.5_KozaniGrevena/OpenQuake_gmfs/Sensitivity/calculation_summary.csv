@@ -1,0 +1,145 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+44,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",33, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35734633,0.001,0.177,0.001
+45,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",20, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.41076538,-0.008,0.176,0.008
+41,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",32, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33918583,-0.009,0.177,0.009
+48,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",19, Seismic, USGS, ESM,AkkarEtAlRjb2014,PGA,0.41350466,-0.028,0.176,0.028
+41,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",32, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33918583,0.037,0.177,0.037
+44,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",33, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35734633,-0.042,0.177,0.042
+41,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",32, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33918583,-0.055,0.177,0.055
+43,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",32, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4196418,0.069,0.177,0.069
+46,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",19, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.24422868,-0.079,0.183,0.079
+44,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",33, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35734633,-0.085,0.177,0.085
+42,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",31, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43752947,0.099,0.177,0.099
+43,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",32, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4196418,0.118,0.177,0.118
+47,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",19, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.47196746,-0.128,0.183,0.128
+42,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",31, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43752947,0.147,0.177,0.147
+47,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",19, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.48440704,0.163,0.176,0.163
+43,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",32, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4196418,0.168,0.177,0.168
+42,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",31, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43752947,0.194,0.177,0.194
+42,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",31, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43752947,-0.212,0.177,0.212
+46,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",19, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.5284237,0.224,0.176,0.224
+43,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",32, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4196418,-0.241,0.177,0.241
+45,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",20, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.29409033,-0.255,0.183,0.255
+48,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",19, Seismic, USGS, ESM,CauzziEtAl2014,PGA,0.27989516,-0.291,0.183,0.291
+44,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",33, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35734633,0.317,0.177,0.317
+41,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",32, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33918583,0.35,0.177,0.35
+41,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",32, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.33918583,-0.368,0.177,0.368
+44,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",33, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35734633,-0.401,0.177,0.401
+43,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",32, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4196418,0.477,0.177,0.477
+42,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",31, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.43752947,0.506,0.177,0.506
+47,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",19, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.5051785,-0.63,0.166,0.63
+46,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",19, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.31340066,-0.637,0.166,0.637
+45,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",20, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.32147288,-0.785,0.166,0.785
+48,"19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",19, Seismic, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.3084617,-0.823,0.166,0.823
+33,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.35933203,,,
+33,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.37030092,,,
+33,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.34868807,,,
+33,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.22198719,,,
+33,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.581653,,,
+34,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.37541938,,,
+34,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.38688838,,,
+34,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.36429036,,,
+34,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.23192559,,,
+34,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.6076937,,,
+35,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.37567854,,,
+35,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.38713652,,,
+35,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.3645597,,,
+35,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.2320857,,,
+35,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.60811317,,,
+36,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.3601042,,,
+36,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.3711053,,,
+36,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.3494292,,,
+36,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.22246422,,,
+36,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.58290285,,,
+37,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.43325424,,,
+37,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.3475509,,,
+37,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.69340265,,,
+38,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.40940264,,,
+38,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.2776367,,,
+38,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.60500354,,,
+39,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.4094656,,,
+39,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.5154325,,,
+39,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.944218,,,
+40,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,AkkarEtAlRjb2014,PGA,0.43280515,,,
+40,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,CauzziEtAl2014,PGA,0.324631,,,
+40,"19950513_M6.5_KozaniGrevena median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.6668811,,,

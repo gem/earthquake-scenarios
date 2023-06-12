@@ -1,0 +1,109 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+8,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",45, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09519318,0.007,0.087,0.007
+7,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",47, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19323897,0.139,0.088,0.139
+8,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",45, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09519318,0.143,0.087,0.143
+9,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",46, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18086138,0.146,0.088,0.146
+9,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",46, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18086138,-0.178,0.088,0.178
+7,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",47, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19323897,-0.184,0.088,0.184
+7,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",47, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19323897,0.268,0.088,0.268
+9,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",46, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18086138,0.274,0.088,0.274
+8,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",45, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09519318,-0.309,0.087,0.309
+9,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",46, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18086138,-0.502,0.088,0.502
+7,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",47, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19323897,-0.507,0.088,0.507
+8,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",45, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09519318,-0.626,0.087,0.626
+9,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",46, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18086138,-0.631,0.088,0.631
+7,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",47, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19323897,-0.637,0.088,0.637
+8,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",45, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09519318,-0.762,0.087,0.762
+12,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",28, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.13511825,-0.955,0.087,0.955
+10,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",28, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.14821053,-0.958,0.087,0.958
+11,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.068076,-1.098,0.087,1.098
+12,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",28, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.08422599,-1.327,0.085,1.327
+10,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",28, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.08589515,-1.331,0.085,1.331
+11,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.068076,-1.466,0.085,1.466
+12,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",28, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.10656469,-1.57,0.078,1.57
+10,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",28, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.10906967,-1.58,0.078,1.58
+11,"20170612_M6.3_AegeanSea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",27, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.068076,-1.696,0.078,1.696
+1,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.0680364,,,
+1,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.06802564,,,
+1,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.06804716,,,
+1,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.042031348,,,
+1,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.110130936,,,
+2,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.08066261,,,
+2,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.08098703,,,
+2,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.08033949,,,
+2,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.049831536,,,
+2,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.13056907,,,
+3,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.06594067,,,
+3,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.06521104,,,
+3,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.06667846,,,
+3,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.040736653,,,
+3,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.10673856,,,
+4,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.053857367,,,
+4,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.07493882,,,
+4,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.17040205,,,
+5,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.068584085,,,
+5,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.09570914,,,
+5,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.21697344,,,
+6,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.049301203,,,
+6,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.075980976,,,
+6,"20170612_M6.3_AegeanSea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.15764041,,,

@@ -1,0 +1,145 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+30,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",25, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.5125,-0.009,0.168,0.009
+32,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",25, Seismic, USGS, ESM,AkkarEtAlRjb2014,PGA,0.5125,-0.015,0.164,0.015
+28,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",42, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58368415,0.016,0.164,0.016
+27,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",41, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.66272014,0.022,0.166,0.022
+28,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",42, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58368415,-0.039,0.164,0.039
+25,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",41, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5125,0.062,0.164,0.062
+28,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",42, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58368415,0.071,0.164,0.071
+27,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",41, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.66272014,0.077,0.166,0.077
+26,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",41, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.56687045,-0.079,0.164,0.079
+29,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",26, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.5125,0.082,0.164,0.082
+31,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",25, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.5125,0.088,0.164,0.088
+25,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",41, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5125,0.121,0.164,0.121
+27,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",41, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.66272014,0.131,0.166,0.131
+25,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",41, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5125,0.18,0.164,0.18
+31,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",25, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.5125,-0.214,0.168,0.214
+29,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",26, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.5125,-0.219,0.168,0.219
+26,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",41, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.56687045,0.228,0.164,0.228
+25,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",41, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5125,-0.255,0.164,0.255
+30,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",25, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.6455869,0.259,0.164,0.259
+26,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",41, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.56687045,0.297,0.164,0.297
+32,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",25, Seismic, USGS, ESM,CauzziEtAl2014,PGA,0.5434734,-0.299,0.168,0.299
+27,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",41, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.66272014,-0.3,0.166,0.3
+28,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",42, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58368415,-0.36,0.164,0.36
+26,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",41, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.56687045,0.366,0.164,0.366
+28,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+",42, Seismic, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58368415,0.392,0.164,0.392
+27,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",41, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.66272014,0.453,0.166,0.453
+25,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",41, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.5125,0.497,0.164,0.497
+30,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",25, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.5125,-0.619,0.153,0.619
+26,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",41, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.56687045,0.673,0.164,0.673
+31,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",25, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.5125,-0.774,0.153,0.774
+29,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",26, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.5125,-0.776,0.153,0.776
+32,"19950615_M6.4_Aigio median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+",25, Seismic, USGS, ESM,ZhaoEtAl2016Asc,PGA,0.5230866,-0.822,0.153,0.822
+17,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.30491185,,,
+17,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.318125,,,
+17,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.29224747,,,
+17,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.18836764,,,
+17,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.49356267,,,
+18,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.34502953,,,
+18,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.36033016,,,
+18,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.3303786,,,
+18,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.21315143,,,
+18,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.5585014,,,
+19,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.58451784,,,
+19,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.6141471,,,
+19,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.5563179,,,
+19,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.36110187,,,
+19,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.9461626,,,
+20,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.67823,,,
+20,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.7117635,,,
+20,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.6462763,,,
+20,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.4189951,,,
+20,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:GEM, Rupture:ESM
+",0, None, GEM, ESM,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,1.097855,,,
+21,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.38083297,,,
+21,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.34920985,,,
+21,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.6483672,,,
+22,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.4029565,,,
+22,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.24523138,,,
+22,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.5658355,,,
+23,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.36613375,,,
+23,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.30861586,,,
+23,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.5842725,,,
+24,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,AkkarEtAlRjb2014,PGA,0.40148407,,,
+24,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,CauzziEtAl2014,PGA,0.58598906,,,
+24,"19950615_M6.4_Aigio median gmf, Stations:None, gmlt:USGS, Rupture:ESM
+",0, None, USGS, ESM,ZhaoEtAl2016Asc,PGA,1.016379,,,

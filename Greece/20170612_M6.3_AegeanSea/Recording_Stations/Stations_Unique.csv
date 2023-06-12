@@ -1,0 +1,78 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30,VS30_TYPE,MMI_VALUE,MMI_STDDEV,PGV_LN_SIGMA,PGV_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE
+MYT1,Aegean University Mytilene Lesvos Island,39.085,26.5694,seismic,ESM,B (inferred from topography),0.068075562,0.0,0.1449925079603767,0.0,0.1580481998681505,0.0,0.1392177455924747,0.0,,B (inferred from topography),,,,,,
+PRK,Agia Paraskevi  Lesvos  Greece,39.24565,26.26499,seismic,ESM,B (inferred from topography),0.037385242,0.0,0.0716239424459338,0.0,0.064910881456942,0.0,0.089343887219677,0.0,,B (inferred from topography),,,,,,
+PSRA,PSARA,38.53978,25.56202,seismic,ESM,B (inferred from topography),0.033470558,0.0,0.073035371932709,0.0,0.0199468372896952,0.0,0.0072996427398755,0.0,,B (inferred from topography),,,,,,
+GPNR,Kocakoy Ayvacik Canakkale Turkey,39.456,26.1331,seismic,ESM,B (inferred from topography),0.026606688,0.0,0.055590491305075,0.0,0.0243548495036359,0.0,0.014581639507371,0.0,,B (inferred from topography),,,,,,
+IKRA,AGIOS-KIRIKOS-IKARIAS,37.61117,26.29283,seismic,ESM,B (inferred from topography),0.014302444,0.0,0.0339181260629106,0.0,0.025362974730174,0.0,0.0200064330446027,0.0,,B (inferred from topography),,,,,,
+KRL1,Aegean University Karlovasi Samos North Aegean,37.7951,26.7065,seismic,ESM,B (inferred from topography),0.0116364409999999,0.0,0.0261094736026817,0.0,0.0163800771239184,0.0,0.0198176054518541,0.0,,B (inferred from topography),,,,,,
+AKS,Akhisar Manisa Turkey,38.8785,27.8129,seismic,ESM,B (inferred from topography),0.008537897,0.0,0.0245485886399267,0.0,0.0096481086162607,0.0,0.0066606940528911,0.0,,B (inferred from topography),,,,,,
+SMAA,Simav  Kutahya  Turkey,39.1005,28.9805,seismic,ESM,C (inferred from topography),0.007450041,0.0,0.0115845670859139,0.0,0.0292237460655992,0.0,0.0138861466808242,0.0,,C (inferred from topography),,,,,,
+SFL1,HealthCenter Soufli Evros Thrace,41.189954,26.304374,seismic,ESM,C (inferred from topography),0.006942284,0.0,0.0197821484179685,0.0,0.024789785891214,0.0,0.0107429717955613,0.0,,C (inferred from topography),,,,,,
+LMN1,TownHall Myrina Limnos Island,39.875,25.0588,seismic,ESM,B (inferred from topography),0.0067485999999999,0.0,0.0255523609227468,0.0,0.0103787469639804,0.0,0.00570576522907,0.0,,B (inferred from topography),,,,,,
+KIYI,Kiyikoy-ISTANBUL,41.4844,28.3,seismic,ESM,B (inferred from topography),0.00515792,0.0,0.010222698748218,0.0,0.0152580381906452,0.0,0.0056867374139156,0.0,,B (inferred from topography),,,,,,
+LIA,Limnos Greece,39.89725,25.18055,seismic,ESM,B (inferred from topography),0.005055713,0.0,0.0136344076894011,0.0,0.0083313227017668,0.0,0.0069134753538789,0.0,,B (inferred from topography),,,,,,
+UKOP,Uzunkopru Edirne Turkey,41.1288,26.6323,seismic,ESM,B (inferred from topography),0.004942708,0.0,0.0103982741723501,0.0,0.014620323468744,0.0,0.0079265661261131,0.0,,B (inferred from topography),,,,,,
+GOMA,Golmarmara  Manisa  Turkey,38.7077,27.9175,seismic,ESM,B (inferred from topography),0.0048721569999999,0.0,0.0142798277322501,0.0,0.0084580634757258,0.0,0.0054654222410498,0.0,,B (inferred from topography),,,,,,
+KAVV,KOERI Uskudar Istanbul Turkey,41.0638,29.06,seismic,ESM,B (inferred from topography),0.004633205,0.0,0.0080432647842366,0.0,0.0146973137355262,0.0,0.0087908626975573,0.0,,B (inferred from topography),,,,,,
+GONE,Gonen Balikesir Turkey,40.0466,27.686,seismic,ESM,B (inferred from topography),0.004017018,0.0,0.0092413338948803,0.0,0.013912705075264,0.0,0.0061073672581871,0.0,,B (inferred from topography),,,,,,
+SKY1,TownHall Skyros Skyros Island,38.904483,24.564572,seismic,ESM,B (inferred from topography),0.002951165,0.0,0.0074213348768371,0.0,0.0056220078526114,0.0,0.0039748893229279,0.0,,B (inferred from topography),,,,,,
+DST,Dursunbey Balikesir Turkey,39.6041,28.6267,seismic,ESM,B (inferred from topography),0.0029244699999999,0.0,0.0122606995866732,0.0,0.00593338139831,0.0,0.0025912552813125,0.0,,B (inferred from topography),,,,,,
+ALNA,ALONNISSOS,39.14804,23.86669,seismic,ESM,C (inferred from topography),0.002354866,0.0,0.0028840518052075,0.0,0.0059489069895523,0.0,0.0084137337950081,0.0,,C (inferred from topography),,,,,,
+TNSA,Tinos Island  Greece,37.53942,25.1631,seismic,ESM,B (inferred from topography),0.002297294,0.0,0.0062096806326485,0.0,0.0038406833662577,0.0,0.0022336780679637,0.0,,B (inferred from topography),,,,,,
+KLNA,Pothia Kalymnos Island Greece,36.95708,26.97274,seismic,ESM,B (inferred from topography),0.002199599,0.0,0.0069572518274941,0.0,0.0033350865729944,0.0,0.002816082093213,0.0,,B (inferred from topography),,,,,,
+SMTH,Samothraki Island  Greece,40.47094,25.53045,seismic,ESM,A (inferred from topography),0.001811183,0.0,0.0035602137373433,0.0,0.0029028695525845,0.0,0.0018762121490738,0.0,,A (inferred from topography),,,,,,
+RDI1,TownHall Rhodes Rhodes Island,36.4514,28.224,seismic,ESM,B (inferred from topography),0.001401296,0.0,0.0015481890063865,0.0,0.0025425980377983,0.0,0.0041868287453868,0.0,,B (inferred from topography),,,,,,
+NISR,Mandraki Nisyros Greece,36.6106,27.131,seismic,ESM,,0.001319497,0.0,0.0024687506946638,0.0,0.0027087290736623,0.0,0.0022843693269017,0.0,,,,,,,,
+PLN1,TownHall Chaniotis Chalkidiki Central Macedonia,39.998,23.575,seismic,ESM,B (inferred from topography),0.001158893,0.0,0.0015012297595188,0.0,0.002914605413722,0.0,0.0032253021666585,0.0,,B (inferred from topography),,,,,,
+KYMI,Kymi- Euboea Island,38.633147,24.100138,seismic,ESM,A (inferred from topography),0.0010831789999999,0.0,0.0019507767828369,0.0,0.0027914649632139,0.0,0.0015510839088224,0.0,,A (inferred from topography),,,,,,
+NAX1,TownHall Naxos Naxos Island,37.101394,25.374103,seismic,ESM,B (inferred from topography),0.000960017,0.0,0.0025891690960848,0.0,0.0024420759335542,0.0,0.001214149124289,0.0,,B (inferred from topography),,,,,,
+AMGA,AMORGOS,36.83157,25.89382,seismic,ESM,B (inferred from topography),0.000869958,0.0,0.0020729500938698,0.0,0.0014514502255962,0.0,0.0010431796561943,0.0,,B (inferred from topography),,,,,,
+ATH5,Greek Parliament Athens Attica,37.975421,23.737098,seismic,ESM,C (inferred from topography),0.000707114,0.0,0.0014418247092508,0.0,0.0019003342344074,0.0,0.0019529739961684,0.0,,C (inferred from topography),,,,,,
+NOAC,NOA Athens Greece,37.97384,23.71767,seismic,ESM,,0.000703304,0.0,0.0018721525825509,0.0,0.0014506049409033,0.0,0.001768723445158,0.0,,,,,,,,
+OSMT,Osmaniye Iznik Bursa Turkey,40.6009,29.7,seismic,ESM,B (inferred from topography),0.000656637,0.0,0.0016981520981249,0.0,0.0021401513639522,0.0,0.0016487962352464,0.0,,B (inferred from topography),,,,,,
+IACM,Irakleio  Crete  Greece,35.3058,25.0709,seismic,ESM,A (inferred from topography),0.0006375279999999,0.0,0.0011881143491197,0.0,0.0023683679346929,0.0,0.001611416416093,0.0,,A (inferred from topography),,,,,,
+RGE1,RGE1,36.0269,27.93056,seismic,ESM,C (inferred from topography),0.0006316739999999,0.0,0.0008132361121978,0.0,0.0011677103311491,0.0,0.0019006974776489,0.0,,C (inferred from topography),,,,,,
+GPA,Golpazari Bilecik Turkey,40.2911,30.3171,seismic,ESM,A (inferred from topography),0.000517751,0.0,0.0014100753480429,0.0,0.0017470261993153,0.0,0.0011647572732943,0.0,,A (inferred from topography),,,,,,
+YDRA,Ydra Island  Greece,37.34923,23.46525,seismic,ESM,A (inferred from topography),0.000437073,0.0,0.0007886156787062,0.0,0.0007804674588261,0.0,0.0015286915395881,0.0,,A (inferred from topography),,,,,,
+KVLA,Kavala  Greece,40.93704,24.38591,seismic,ESM,B (inferred from topography),0.000421069,0.0,0.0013948581534934,0.0,0.0010499780423383,0.0,0.0006745800344317,0.0,,B (inferred from topography),,,,,,
+ASTA,ASTYPALAIA,36.54543,26.3528,seismic,ESM,B (inferred from topography),0.000383555,0.0,0.0007260594519897,0.0,0.0009570544020987,0.0,0.0008647020360799,0.0,,B (inferred from topography),,,,,,
+KSL,Kastelorizo Island- Greece,36.15031,29.58561,seismic,ESM,B (inferred from topography),0.000364257,0.0,0.0004599776253722,0.0,0.0005887960887263,0.0,0.0006155657819026,0.0,,B (inferred from topography),,,,,,
+IMMV,GEOFON/NOA Station Varypetro- Crete- Greece,35.4599,23.98021,seismic,ESM,A (inferred from topography),0.000342457,0.0,0.0004452908045482,0.0,0.0006580946240823,0.0,0.0010774762728979,0.0,,A (inferred from topography),,,,,,
+ESKT,Seyitgazi Eskisehir Turkey,39.5212,30.8492,seismic,ESM,B (inferred from topography),0.000339718,0.0,0.000807667353807,0.0,0.0008014500768327,0.0,0.0007126394051805,0.0,,B (inferred from topography),,,,,,
+DLFA,Delfoi  Greece,38.47836,22.49583,seismic,ESM,A (inferred from topography),0.00029758,0.0,0.0003225182997838,0.0,0.0005149474586936,0.0,0.0007010565177866,0.0,,A (inferred from topography),,,,,,
+KHL,Karahalli Usak Turkey,38.3231,29.5286,seismic,ESM,B (inferred from topography),0.000285917,0.0,0.0007080286322927,0.0,0.0007103489755781,0.0,0.0005104721851816,0.0,,B (inferred from topography),,,,,,
+PLG,Poligiros Chalkidiki Greece,40.37328,23.44443,seismic,ESM,B (inferred from topography),0.00024933,0.0,0.0005253543577335,0.0,0.0005544397745199,0.0,0.0003999264777747,0.0,,B (inferred from topography),,,,,,
+KTHA,NOA GEOFON Station Kythira  Greece,36.2566,23.0621,seismic,ESM,B (inferred from topography),0.000231036,0.0,0.0002414515883725,0.0,0.0005784379193836,0.0,0.0004547581298294,0.0,,B (inferred from topography),,,,,,
+MNVA,Monemvasia  Greece,36.68709,23.03734,seismic,ESM,B (inferred from topography),0.000199819,0.0,0.0002339128407665,0.0,0.0002825697085567,0.0,0.0003102399481505,0.0,,B (inferred from topography),,,,,,
+ZKR,NOA GEOFON Zakros Greece,35.1147,26.21691,seismic,ESM,B (inferred from topography),0.00016538,0.0,0.0002469424500136,0.0,0.0003797837191514,0.0,0.0004713950604867,0.0,,B (inferred from topography),,,,,,
+ITM,Ithomi Messinia Greece,37.17872,21.92522,seismic,ESM,A (inferred from topography),0.000125859,0.0,0.0001374698724634,0.0,0.0001881264542154,0.0,0.0001843824723806,0.0,,A (inferred from topography),,,,,,
+UTM:(35S 044 431 10000),,38.9822,26.365,macroseismic,Stations_USGS,,1.445282,0.8059,2.07735,1.0131,,,1.240233,1.0822,672.07,inferred,9.1,0.3,0.875,109.4562,1.4737,0.231638
+UTM:(35S 046 432 10000),,39.0734,26.5954,macroseismic,Stations_USGS,,0.068866,0.8059,0.12314,1.0131,,,0.028616,1.0822,600.0,inferred,4.5,0.3,0.875,3.833,1.4737,0.00528
+UTM:(35S 050 426 10000),,38.5334,27.0574,macroseismic,Stations_USGS,,0.068412,0.8059,0.161632,1.0131,,,0.064944,1.0822,724.55,inferred,5.0,0.3,0.875,5.5179,1.4737,0.014176
+UTM:(35S 044 423 10000),,38.2613,26.3713,macroseismic,Stations_USGS,,0.068104,0.8059,0.160696,1.0131,,,0.065123,1.0822,434.82,inferred,5.0,0.3,0.875,5.5179,1.4737,0.01422
+UTM:(35S 048 424 10000),,38.353,26.8283,macroseismic,Stations_USGS,,0.060551,0.8059,0.123461,1.0131,,,0.055326,1.0822,468.25,inferred,4.8,0.3,0.875,4.7696,1.4737,0.012145
+UTM:(35S 050 425 10000),,38.4432,27.0573,macroseismic,Stations_USGS,,0.059004,0.8059,0.119414,1.0131,,,0.056211,1.0822,600.0,inferred,4.8,0.3,0.875,4.7696,1.4737,0.012362
+UTM:(35S 051 425 10000),,38.4431,27.1719,macroseismic,Stations_USGS,,0.047452,0.8059,0.076224,1.0131,,,0.044361,1.0822,238.96,inferred,4.5,0.3,0.875,3.833,1.4737,0.01004
+UTM:(35S 042 424 10000),,38.35,26.1417,macroseismic,Stations_USGS,,0.036124,0.8059,0.042135,1.0131,,,0.019088,1.0822,331.63,inferred,4.0,0.3,0.875,2.0363,1.4737,0.003376
+RDO,Stasrv: unknown station,41.14503,25.53553,seismic,Stations_USGS,,0.000554,0.0,0.00178,0.0,,,0.00071,0.0,760.0,inferred,2.2,0.63,0.0,0.1139,0.0,0.00043
+SANT,"NOA/GEOFON Station Santorini, Greece",36.37052,25.45926,seismic,Stations_USGS,,0.000546,0.0,0.001184,0.0,,,0.001244,0.0,760.0,inferred,2.2,0.63,0.0,0.1174,0.0,0.000823
+ARG,Stasrv: unknown station,36.21356,28.12122,seismic,Stations_USGS,,0.000499,0.0,0.00073,0.0,,,0.001356,0.0,760.0,inferred,2.6,0.63,0.0,0.2133,0.0,0.001141
+ISP,"Isparta, Turkey",37.8433,30.5093,seismic,Stations_USGS,,0.000191,0.0,0.000215,0.0,,,0.000236,0.0,760.0,inferred,1.8,0.63,0.0,0.0687,0.0,0.000377
+VTS,Stasrv: unknown station,42.618,23.235,seismic,Stations_USGS,,0.000137,0.0,0.000225,0.0,,,0.000339,0.0,760.0,inferred,1.8,0.63,0.0,0.0663,0.0,0.000557
+UTM:(34S 074 421 10000),,38.0496,23.7921,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.2,0.3,,,,
+UTM:(35T 066 455 10000),,41.1295,28.9657,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,
+UTM:(35T 067 453 10000),,40.9474,29.0791,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.2,0.3,,,,
+UTM:(35S 052 418 10000),,37.812,27.284,macroseismic,Stations_USGS,,,,,,,,,,361.5,inferred,3.3,0.3,,,,
+UTM:(35S 035 414 10000),,37.4405,25.3609,macroseismic,Stations_USGS,,,,,,,,,,533.63,inferred,2.0,0.3,,,,
+UTM:(35T 065 453 10000),,40.9514,28.8416,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.6,0.3,,,,
+UTM:(35T 066 454 10000),,41.0395,28.963,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.8,0.3,,,,
+UTM:(35S 052 419 10000),,37.9022,27.2844,macroseismic,Stations_USGS,,,,,,,,,,799.05,inferred,3.9,0.3,,,,
+UTM:(35T 031 466 10000),,42.1153,24.7622,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.4,0.3,,,,
+UTM:(35T 069 452 10000),,40.8528,29.3134,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.5,0.3,,,,
+UTM:(34S 073 420 10000),,37.9622,23.675,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,
+UTM:(35T 068 452 10000),,40.8552,29.1948,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.7,0.3,,,,
+UTM:(35T 065 454 10000),,41.0415,28.8441,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.6,0.3,,,,
+UTM:(34T 069 472 10000),,42.6527,23.379,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.1,0.3,,,,
+UTM:(35S 053 427 10000),,38.6228,27.4021,macroseismic,Stations_USGS,,,,,,,,,,362.95,inferred,3.6,0.3,,,,
+UTM:(35T 064 454 10000),,41.0433,28.7252,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.6,0.3,,,,
+UTM:(35T 067 454 10000),,41.0374,29.0819,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,

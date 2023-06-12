@@ -1,0 +1,109 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+48,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",5, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,0.014,0.09,0.014
+47,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",6, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.035,0.09,0.035
+49,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",6, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.047,0.09,0.047
+48,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",5, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.081,0.09,0.081
+47,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",6, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.137,0.09,0.137
+49,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",6, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.149,0.09,0.149
+48,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",5, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.439,0.09,0.439
+47,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",6, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.488,0.09,0.488
+49,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",6, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.5,0.09,0.5
+48,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",5, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.797,0.09,0.797
+47,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",6, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.839,0.09,0.839
+49,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",6, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.852,0.09,0.852
+48,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",5, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.892,0.09,0.892
+47,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",6, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.941,0.09,0.941
+49,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",6, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.256891,-0.953,0.09,0.953
+51,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",3, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.256891,-1.309,0.087,1.309
+52,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",4, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.256891,-1.342,0.087,1.342
+50,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.256891,-1.436,0.087,1.436
+51,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",3, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.256891,-1.517,0.085,1.517
+51,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",3, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.256891,-1.551,0.078,1.551
+52,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",4, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.256891,-1.553,0.085,1.553
+50,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.256891,-1.57,0.078,1.57
+52,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",4, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.256891,-1.623,0.078,1.623
+50,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.256891,-1.857,0.085,1.857
+41,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.026137711,,,
+41,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.024267368,,,
+41,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.028152207,,,
+41,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.016147286,,,
+41,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.042309273,,,
+42,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.022711966,,,
+42,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.020830594,,,
+42,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.024763262,,,
+42,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.014030939,,,
+42,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.036764,,,
+43,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.028322961,,,
+43,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.026425093,,,
+43,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.030357135,,,
+43,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.017497284,,,
+43,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.04584655,,,
+44,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.023069436,,,
+44,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.03877174,,,
+44,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.0452882,,,
+45,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.019850738,,,
+45,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.026272886,,,
+45,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.041949414,,,
+46,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.0224278,,,
+46,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.029552806,,,
+46,"20140000_Sequence_Kefalonia/20140203_M6.0_Kefalonia median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.049584534,,,

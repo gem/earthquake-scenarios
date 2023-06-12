@@ -1,0 +1,25 @@
+job_id: 32
+job_description: 19810000_Sequence_GulfOfCorinth/19810224_M6.7_GulfofCorinth median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Greece/19810000_Sequence_GulfOfCorinth/19810224_M6.7_GulfofCorinth/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2540063929 (total size 290.49 KB)
+Entering SLOW MODE. You have 2.0 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=3796 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Greece/19810000_Sequence_GulfOfCorinth/19810224_M6.7_GulfofCorinth/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.211, Nominal bias stddev: 0.278
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.202, Nominal bias stddev: 0.278
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.221, Nominal bias stddev: 0.278
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.390, Nominal bias stddev: 0.278
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.033, Nominal bias stddev: 0.278
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '445.68 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 26 seconds from event_based
+Stored 222.61 KB of GMFs
+Exposing the outputs to the database
+Stored 863.35 KB on /Users/chago/oqdata/calc_32.hdf5 in 27 seconds

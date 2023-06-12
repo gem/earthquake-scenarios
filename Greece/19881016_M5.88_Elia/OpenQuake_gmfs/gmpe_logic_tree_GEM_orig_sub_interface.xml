@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <logicTree
+    logicTreeID="ESHM20 Logic Tree - 5 Stress Branch"
+    >
+        <logicTreeBranchSet
+        applyToTectonicRegionType="Subduction Interface"
+        branchSetID="BCHydroSubIF"
+        uncertaintyType="gmpeModel"
+        >
+            <logicTreeBranch
+            branchID="SUB_IFVLowStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+sigma_mu_epsilon = -2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0018804200
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFVLowStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = -2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0074991600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFVLowStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+sigma_mu_epsilon = -2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0018804200
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFLowStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+sigma_mu_epsilon = -1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0370873600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFLowStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = -1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.1479052800
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFLowStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+sigma_mu_epsilon = -1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0370873600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0890644400
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.3551911200
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFMidStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0890644400
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFHighStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+sigma_mu_epsilon = 1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0370873600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFHighStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = 1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.1479052800
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFHighStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+sigma_mu_epsilon = 1.355630
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0370873600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFVHighStressFastAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = -0.001500
+sigma_mu_epsilon = 2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0018804200
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFVHighStressCentralAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+sigma_mu_epsilon = 2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0074991600
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="SUB_IFVHighStressSlowAtt"
+            >
+                <uncertaintyModel>
+                    [BCHydroESHM20SInter]
+theta_6_adjustment = 0.001500
+sigma_mu_epsilon = 2.856970
+faba_taper_model = "SFunc"
+a = -100.00
+b = 100.00
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0018804200
+                </uncertaintyWeight>
+            </logicTreeBranch>
+        </logicTreeBranchSet>
+
+    </logicTree>
+</nrml>

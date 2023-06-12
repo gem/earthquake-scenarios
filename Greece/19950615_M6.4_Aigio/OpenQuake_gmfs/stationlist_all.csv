@@ -1,0 +1,704 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+AIGA,AIGIO,22.0852,38.2512,seismic,0.5125,0.0,B,437.0,inferred_USGS,437.0
+AMIA,AMIA,22.38,38.53,seismic,0.18416,0.0,C,386.0,inferred_USGS,386.0
+PAT2,PAT2,21.738,38.238,seismic,0.087231,0.0,C,338.0,inferred_USGS,338.0
+MRNA,MRNA,22.12,38.53,seismic,0.070988,0.0,C,406.0,inferred_USGS,406.0
+PYR1,PYR1,21.438,37.67,seismic,0.055816,0.0,D,347.0,inferred_USGS,347.0
+NAUA,NAUA,21.83,38.4,seismic,0.049822,0.0,B,593.0,inferred_USGS,593.0
+PATA,PATA,21.73,38.25,seismic,0.043966,0.0,C,361.0,inferred_USGS,361.0
+PAT3,PAT3,21.738,38.254,seismic,0.041419,0.0,D,482.0,inferred_USGS,482.0
+PAT1,PAT1,21.733,38.25,seismic,0.033095,0.0,C,361.0,inferred_USGS,361.0
+LEVA,LEVA,22.88,38.43,seismic,0.028707,0.0,C,635.0,inferred_USGS,635.0
+KRP1,KRP1,21.8,38.917,seismic,0.02598,0.0,A,494.0,inferred_USGS,494.0
+KOR1,KOR1,22.933,37.939,seismic,0.020957,0.0,D,452.0,inferred_USGS,452.0
+KORA,KORA,22.93,37.93,seismic,0.019039,0.0,D,476.0,inferred_USGS,476.0
+AGR1,AGR1,21.406,38.621,seismic,0.017239,0.0,D,447.0,inferred_USGS,447.0
+LEF1,LEF1,20.702,38.826,seismic,0.01424,0.0,D,327.0,inferred_USGS,327.0
+ZAK1,ZAK1,20.9,37.785,seismic,0.011901,0.0,D,600.0,inferred_USGS,600.0
+ATH3,ATH3,23.706,37.972,seismic,0.011364,0.0,C,503.0,inferred_USGS,503.0
+OBS_32,Aigion,22.083,38.25,macroseismic,0.744465,0.8059,,481.32,inferred,437.0
+OBS_104,Erateini,22.22,38.33,macroseismic,0.399553,0.8059,,600.0,inferred,600.0
+obs_2,ERATEINI  PHOKIDA(572),22.223,38.366,macroseismic,0.399553,0.8059,,553.77,inferred,561.0
+obs_1,VALIMITIKA  ACHAIA(550),22.135,38.223,macroseismic,0.399553,0.8059,,284.81,inferred,312.0
+obs_3,TOLOFONAS  PHOKIDA(544),22.194,38.373,macroseismic,0.399553,0.8059,,900.0,inferred,513.0
+OBS_371,Valimitika,22.133,38.233,macroseismic,0.399553,0.8059,,291.57,inferred,273.0
+OBS_365,Tolofon,22.2,38.33,macroseismic,0.399553,0.8059,,600.0,inferred,600.0
+OBS_7,Agioi Pantes,22.28,38.37,macroseismic,0.292711,0.8059,,900.0,inferred,596.0
+obs_5,NIKOLAIIKA  ACHAIA(458),22.138,38.205,macroseismic,0.288331,0.8059,,633.89,inferred,421.0
+obs_6,RODIA  ACHAIA(467),22.155,38.2,macroseismic,0.28598,0.8059,,546.16,inferred,364.0
+OBS_315,Rodia,22.15,38.2,macroseismic,0.285594,0.8059,,686.92,inferred,382.0
+OBS_39,Amygdalea,22.22,38.42,macroseismic,0.274779,0.8059,,836.55,inferred,594.0
+OBS_147,Kamarai,22.0,38.28,macroseismic,0.273054,0.8059,,600.09,inferred,608.0
+obs_4,KAMARES  ACHAIA(1.401),21.997,38.297,macroseismic,0.271968,0.8059,,490.46,inferred,374.0
+OBS_226,Malandrinon,22.22,38.45,macroseismic,0.262268,0.8059,,426.8,inferred,379.0
+OBS_396,Ziria,21.97,38.28,macroseismic,0.260137,0.8059,,590.62,inferred,550.0
+OBS_132,Itea,22.417,38.433,macroseismic,0.254515,0.8059,,291.6,inferred,415.0
+obs_7,ZIRIA  ACHAIA(895),21.938,38.303,macroseismic,0.248865,0.8059,,523.89,inferred,552.0
+OBS_326,Selinous,22.1,38.22,macroseismic,0.214439,0.8059,,900.0,inferred,669.0
+OBS_118,Galaxidion,22.367,38.367,macroseismic,0.210836,0.8059,,866.5,inferred,596.0
+obs_13,SELINOUNTAS  ACHAIA(561),22.088,38.213,macroseismic,0.210228,0.8059,,900.0,inferred,651.0
+OBS_98,Elaion,22.167,38.2,macroseismic,0.210192,0.8059,,495.16,inferred,368.0
+obs_15,GALAXIDI  PHOKIDA(1369),22.348,38.386,macroseismic,0.207266,0.8059,,900.0,inferred,596.0
+obs_9,ELAIONAS  ACHAIA(857),22.165,38.19,macroseismic,0.204962,0.8059,,900.0,inferred,665.0
+obs_11,NEOS-ERINEOS  ACHAIA(443),22.002,38.283,macroseismic,0.200875,0.8059,,600.09,inferred,608.0
+OBS_262,Neos Erineos,22.0,38.27,macroseismic,0.199348,0.8059,,665.25,inferred,599.0
+OBS_294,Platanos,22.266,38.166,macroseismic,0.198934,0.8059,,900.0,inferred,654.0
+obs_12,PLATANOS  ACHAIA(445),22.255,38.164,macroseismic,0.197578,0.8059,,900.0,inferred,660.0
+obs_8,DAPHNES  ACHAIA(391),22.003,38.209,macroseismic,0.189786,0.8059,,802.15,inferred,395.0
+OBS_80,Dafnai,22.0,38.2,macroseismic,0.187175,0.8059,,809.54,inferred,490.0
+OBS_283,Pentapolis,22.2,38.47,macroseismic,0.187,0.8059,,521.77,inferred,533.0
+obs_14,AGIA-EFTHYMIA  PHOKIDA(756),22.335,38.471,macroseismic,0.182825,0.8059,,900.0,inferred,512.0
+OBS_6,Agia Efthymia,22.35,38.47,macroseismic,0.182661,0.8059,,357.14,inferred,584.0
+obs_16,PENTAPOLI  PHOKIDA(563),22.198,38.494,macroseismic,0.180704,0.8059,,327.63,inferred,453.0
+obs_27,AGIOI-PANTES  PHOKIDA(278),22.291,38.368,macroseismic,0.157097,0.8059,,403.11,inferred,585.0
+OBS_217,Longos,22.02,38.28,macroseismic,0.15205,0.8059,,606.97,inferred,538.0
+obs_28,AMYGDALIA  PHOKIDA(569),22.229,38.404,macroseismic,0.150876,0.8059,,685.59,inferred,591.0
+obs_21,LONGOS  ACHAIA(729),22.015,38.297,macroseismic,0.150827,0.8059,,354.28,inferred,355.0
+obs_41,VOUNICHORA  PHOKIDA(547),22.303,38.44,macroseismic,0.140996,0.8059,,888.57,inferred,596.0
+OBS_185,Kounina,22.02,38.2,macroseismic,0.140118,0.8059,,652.25,inferred,487.0
+obs_38,MARATHIAS  PHOKIDA(367),22.016,38.396,macroseismic,0.139608,0.8059,,900.0,inferred,499.0
+OBS_384,Vounichora,22.28,38.45,macroseismic,0.139374,0.8059,,900.0,inferred,596.0
+obs_36,MALANDRINO  PHOKIDA(393),22.238,38.455,macroseismic,0.139269,0.8059,,900.0,inferred,596.0
+obs_19,KOUNINA  ACHAIA(577),22.018,38.189,macroseismic,0.13776,0.8059,,450.8,inferred,653.0
+OBS_233,Marathias,22.0,38.4,macroseismic,0.13665,0.8059,,831.37,inferred,401.0
+OBS_189,Krini,21.95,37.83,macroseismic,0.134702,0.8059,,900.0,inferred,630.0
+obs_34,ITEA  PHOKIDA(4303),22.428,38.443,macroseismic,0.133978,0.8059,,417.42,inferred,325.0
+obs_22,MAVRIKI  ACHAIA(526),22.03,38.151,macroseismic,0.13204,0.8059,,900.0,inferred,677.0
+obs_10,KRINOS  ACHAIA(393),21.495,38.06,macroseismic,0.129671,0.8059,,727.7,inferred,554.0
+obs_39,MONASTIRAKI  PHOKIDA(487),21.953,38.405,macroseismic,0.129619,0.8059,,554.01,inferred,584.0
+OBS_85,Desfina,22.517,38.417,macroseismic,0.127342,0.8059,,549.87,inferred,403.0
+OBS_78,Chryson,22.467,38.467,macroseismic,0.127258,0.8059,,560.12,inferred,588.0
+obs_29,CHRISSO(CHRYSO)  PHOKIDA(968),22.46,38.482,macroseismic,0.125938,0.8059,,817.54,inferred,460.0
+OBS_317,Roupakia,21.883,38.317,macroseismic,0.125124,0.8059,,900.0,inferred,599.0
+obs_31,DESPHINA  PHOKIDA(2389),22.554,38.38,macroseismic,0.125116,0.8059,,696.71,inferred,592.0
+OBS_97,Efpalion,21.92,38.42,macroseismic,0.124643,0.8059,,450.99,inferred,586.0
+obs_37,MANAGOULI  PHOKIDA(563),21.903,38.39,macroseismic,0.124476,0.8059,,244.02,inferred,349.0
+obs_23,PETSAKOI  ACHAIA(220),22.027,38.104,macroseismic,0.124256,0.8059,,900.0,inferred,588.0
+obs_32,EFPALIO  PHOKIDA(781),21.931,38.449,macroseismic,0.12391,0.8059,,900.0,inferred,595.0
+obs_30,DELPHOI  PHOKIDA(1499),22.506,38.485,macroseismic,0.122178,0.8059,,900.0,inferred,629.0
+OBS_228,Managouli,21.88,38.4,macroseismic,0.121454,0.8059,,260.83,inferred,105.0
+obs_33,ELAIONAS  PHOKIDA(533),22.424,38.538,macroseismic,0.120811,0.8059,,900.0,inferred,600.0
+OBS_290,Petsakoi,22.02,38.08,macroseismic,0.120654,0.8059,,546.45,inferred,695.0
+OBS_99,Elaion,22.417,38.55,macroseismic,0.119596,0.8059,,900.0,inferred,528.0
+OBS_304,Prosilion,22.32,38.57,macroseismic,0.118937,0.8059,,900.0,inferred,462.0
+OBS_52,Antikyra,22.62,38.37,macroseismic,0.118429,0.8059,,584.47,inferred,590.0
+obs_20,LEONTIo  ACHAIA(450),21.897,38.132,macroseismic,0.118424,0.8059,,460.12,inferred,573.0
+obs_42,ANTIKYRA  VIOTIA(2346),22.624,38.396,macroseismic,0.117454,0.8059,,900.0,inferred,793.0
+OBS_56,Arachova,22.583,38.483,macroseismic,0.116575,0.8059,,900.0,inferred,569.0
+OBS_210,Leontion,21.92,38.08,macroseismic,0.115443,0.8059,,772.94,inferred,544.0
+obs_43,ARACHOVA  VIOTIA(3375),22.577,38.512,macroseismic,0.114978,0.8059,,900.0,inferred,599.0
+obs_40,PROSILIO  PHOKIDA(268),22.312,38.61,macroseismic,0.114498,0.8059,,900.0,inferred,598.0
+OBS_247,Metochion,22.169,38.202,macroseismic,0.113456,0.8059,,495.16,inferred,368.0
+obs_35,KALOSKOPI  PHOKIDA(334),22.305,38.656,macroseismic,0.110138,0.8059,,900.0,inferred,598.0
+OBS_143,Kaloskopi,22.32,38.67,macroseismic,0.108791,0.8059,,900.0,inferred,598.0
+obs_62,SYLIVAINIOTIKA  ACHAIA(808),22.333,38.167,macroseismic,0.107744,0.8059,,526.72,inferred,424.0
+obs_63,ZACHLORITIKA  ACHAIA(568),22.18,38.178,macroseismic,0.107412,0.8059,,670.49,inferred,515.0
+OBS_144,Kalousion,21.8,38.033,macroseismic,0.106156,0.8059,,900.0,inferred,621.0
+OBS_252,Monastirakion,22.1,38.72,macroseismic,0.10588,0.8059,,900.0,inferred,593.0
+obs_25,STAROCHORI  ACHAIA(656),21.754,38.059,macroseismic,0.10536,0.8059,,509.39,inferred,553.0
+OBS_394,Zachloritika,22.17,38.17,macroseismic,0.105344,0.8059,,900.0,inferred,771.0
+obs_18,KALOUSI  ACHAIA(276),21.781,38.021,macroseismic,0.104711,0.8059,,710.68,inferred,594.0
+obs_97,MILIA  PHOKIDA(119),22.139,38.447,macroseismic,0.104687,0.8059,,856.36,inferred,547.0
+OBS_348,Starochorion,21.75,38.03,macroseismic,0.103847,0.8059,,635.39,inferred,614.0
+obs_26,VRACHNAIIKA  ACHAIA(2393),21.664,38.132,macroseismic,0.103598,0.8059,,539.37,inferred,553.0
+OBS_1,Aeghira,22.35,38.15,macroseismic,0.103468,0.8059,,548.61,inferred,595.0
+obs_45,AIGEIRA  ACHAIA(1696),22.354,38.134,macroseismic,0.100343,0.8059,,617.18,inferred,584.0
+OBS_173,Kirra,22.45,38.42,macroseismic,0.098829,0.8059,,600.0,inferred,600.0
+obs_24,ROUPAKIA  ACHAIA(318),21.64,37.979,macroseismic,0.097757,0.8059,,715.73,inferred,600.0
+obs_94,KIRRA  PHOKIDA(1173),22.451,38.431,macroseismic,0.097704,0.8059,,781.64,inferred,455.0
+OBS_385,Vrachnaiika,21.485,38.105,macroseismic,0.095465,0.8059,,271.25,inferred,284.0
+OBS_356,Sykia,22.53,38.32,macroseismic,0.095315,0.8059,,600.0,inferred,600.0
+OBS_214,Lidorikion,22.2,38.52,macroseismic,0.093656,0.8059,,599.13,inferred,602.0
+OBS_54,Apideon,21.42,38.07,macroseismic,0.09276,0.8059,,288.65,inferred,285.0
+OBS_221,Lykoporia,22.483,38.133,macroseismic,0.092697,0.8059,,453.35,inferred,368.0
+obs_17,APIDEONAS  ACHAIA(411),21.412,38.06,macroseismic,0.092362,0.8059,,294.89,inferred,317.0
+obs_88,PYRGOS  KORINTHIA(529),22.442,38.092,macroseismic,0.091004,0.8059,,833.66,inferred,566.0
+obs_96,LIDORIKI  PHOKIDA(985),22.217,38.544,macroseismic,0.090751,0.8059,,900.0,inferred,597.0
+obs_84,LYKOPORIA  KORINTHIA(1042),22.5,38.121,macroseismic,0.090541,0.8059,,514.2,inferred,543.0
+obs_82,KALLITHEA  KORINTHIA(273),22.486,38.111,macroseismic,0.090536,0.8059,,900.0,inferred,551.0
+OBS_192,Krokyleion,22.03,38.53,macroseismic,0.090415,0.8059,,900.0,inferred,625.0
+obs_95,KROKYLEIO  PHOKIDA(383),22.066,38.543,macroseismic,0.090337,0.8059,,900.0,inferred,633.0
+obs_58,PSATHOPYRGOS  ACHAIA(669),21.868,38.323,macroseismic,0.090212,0.8059,,700.89,inferred,611.0
+OBS_307,Psathopyrgos,21.867,38.317,macroseismic,0.090211,0.8059,,869.19,inferred,638.0
+OBS_309,Pyrgos,22.42,38.07,macroseismic,0.089621,0.8059,,900.0,inferred,562.0
+obs_93,KASTRAKI  PHOKIDA(510),21.893,38.413,macroseismic,0.089491,0.8059,,565.1,inferred,361.0
+OBS_331,Skepasto,22.07,38.07,macroseismic,0.088702,0.8059,,724.48,inferred,633.0
+OBS_142,Kallithea,22.45,38.07,macroseismic,0.088554,0.8059,,900.0,inferred,640.0
+obs_100,TRIKORPHO  PHOKIDA(321),21.899,38.451,macroseismic,0.088413,0.8059,,900.0,inferred,595.0
+OBS_158,Kastrakion,21.88,38.42,macroseismic,0.088272,0.8059,,458.68,inferred,384.0
+OBS_90,Distomon,22.605,38.417,macroseismic,0.086759,0.8059,,814.83,inferred,596.0
+obs_67,KATAPHYGIO  AITOLOAKARNANIA(340),21.917,38.508,macroseismic,0.086618,0.8059,,900.0,inferred,595.0
+obs_60,SKEPASTO  ACHAIA(691),22.065,38.038,macroseismic,0.085628,0.8059,,798.77,inferred,619.0
+OBS_137,Kalavryta,22.1,38.02,macroseismic,0.084496,0.8059,,900.0,inferred,674.0
+obs_49,KALAVRYTA  ACHAIA(2246),22.104,38.019,macroseismic,0.084449,0.8059,,900.0,inferred,674.0
+OBS_382,Vomvokou,21.82,38.42,macroseismic,0.08433,0.8059,,780.12,inferred,593.0
+OBS_160,Katafygion,21.88,38.52,macroseismic,0.084107,0.8059,,900.0,inferred,595.0
+obs_71,VOMVOKOU  AITOLOAKARNANIA(177),21.813,38.421,macroseismic,0.083889,0.8059,,900.0,inferred,545.0
+obs_56,PATRA  ACHAIA(153344),21.777,38.253,macroseismic,0.083443,0.8059,,518.78,inferred,606.0
+obs_89,RETHIO  KORINTHIA(237),22.497,38.018,macroseismic,0.082928,0.8059,,680.01,inferred,578.0
+OBS_164,Kato Synoikia Trikal,22.465,38.0,macroseismic,0.082564,0.8059,,900.0,inferred,615.0
+obs_99,SYKIA  PHOKIDA(226),22.22,38.645,macroseismic,0.082041,0.8059,,900.0,inferred,103.0
+obs_104,DISTOMO  VIOTIA(4556),22.675,38.442,macroseismic,0.081985,0.8059,,579.65,inferred,432.0
+OBS_53,Antirrion,21.75,38.32,macroseismic,0.08195,0.8059,,600.0,inferred,600.0
+obs_83,KATO-SYNOIKIA-TRIKALON  KORINTHIA(291),22.493,38.0,macroseismic,0.081863,0.8059,,900.0,inferred,596.0
+OBS_279,Patrai,21.733,38.267,macroseismic,0.081017,0.8059,,600.0,inferred,600.0
+obs_86,PANARITI  KORINTHIA(492),22.535,37.991,macroseismic,0.080196,0.8059,,900.0,inferred,605.0
+OBS_298,Polydrosos,22.52,38.62,macroseismic,0.080164,0.8059,,900.0,inferred,601.0
+OBS_231,Manna,22.5,37.97,macroseismic,0.079865,0.8059,,900.0,inferred,574.0
+obs_64,ANTIRRIO  AITOLOAKARNANIA(1.281),21.716,38.353,macroseismic,0.079834,0.8059,,537.2,inferred,325.0
+obs_98,POLYDROSOS  PHOKIDA(1389),22.541,38.617,macroseismic,0.079809,0.8059,,892.18,inferred,557.0
+OBS_50,Ano Vlasia,21.9,38.0,macroseismic,0.079227,0.8059,,745.78,inferred,590.0
+obs_91,GRAVIA  PHOKIDA(887),22.43,38.664,macroseismic,0.079214,0.8059,,900.0,inferred,599.0
+obs_92,KASTELLIA(KASTELLI)  PHOKIDA(779),22.383,38.676,macroseismic,0.078929,0.8059,,794.1,inferred,595.0
+obs_85,MANNA  KORINTHIA(670),22.493,37.949,macroseismic,0.078816,0.8059,,563.24,inferred,511.0
+OBS_110,Feneos,22.28,37.92,macroseismic,0.078786,0.8059,,870.92,inferred,589.0
+OBS_138,Kallifonion,22.02,37.95,macroseismic,0.078771,0.8059,,852.42,inferred,640.0
+obs_50,KALLIPHONI  ACHAIA(158),22.008,37.952,macroseismic,0.07873,0.8059,,900.0,inferred,589.0
+obs_90,ARTOTINA  PHOKIDA(285),22.044,38.693,macroseismic,0.078664,0.8059,,715.88,inferred,581.0
+OBS_155,Kastellion,22.417,38.683,macroseismic,0.078259,0.8059,,900.0,inferred,527.0
+OBS_60,Artotina,22.02,38.7,macroseismic,0.077996,0.8059,,530.45,inferred,557.0
+OBS_34,Amfikleia,22.583,38.633,macroseismic,0.077949,0.8059,,900.0,inferred,603.0
+obs_47,ANO-VLASIA  ACHAIA(329),21.883,37.979,macroseismic,0.077743,0.8059,,900.0,inferred,589.0
+obs_57,PRIOLITHOS  ACHAIA(176),22.034,37.928,macroseismic,0.077674,0.8059,,900.0,inferred,669.0
+obs_101,AMPHIKLEIA  PHTHIOTIDA(3239),22.613,38.622,macroseismic,0.07766,0.8059,,900.0,inferred,516.0
+OBS_295,Platanos,21.78,38.58,macroseismic,0.077612,0.8059,,900.0,inferred,598.0
+obs_69,PLATANOS  AITOLOAKARNANIA(285),21.787,38.591,macroseismic,0.077469,0.8059,,900.0,inferred,598.0
+OBS_136,Kaisarion,22.57,37.95,macroseismic,0.07722,0.8059,,717.0,inferred,361.0
+OBS_303,Priolithos,22.02,37.92,macroseismic,0.077098,0.8059,,900.0,inferred,589.0
+obs_81,KAISARI  KORINTHIA(486),22.561,37.938,macroseismic,0.076859,0.8059,,581.0,inferred,276.0
+obs_87,PHENEOS  KORINTHIA(290),22.3,37.883,macroseismic,0.076727,0.8059,,245.75,inferred,285.0
+OBS_193,Kryonerion,22.633,37.967,macroseismic,0.076395,0.8059,,588.08,inferred,609.0
+obs_48,ISOMA  ACHAIA(509),21.695,38.098,macroseismic,0.076252,0.8059,,326.1,inferred,297.0
+obs_80,ARCHAIA-PHENOS(KALYVIA)  KORINTHIA(326),22.259,37.872,macroseismic,0.076034,0.8059,,900.0,inferred,474.0
+OBS_277,Parorio,22.75,38.55,macroseismic,0.075956,0.8059,,688.95,inferred,594.0
+OBS_129,Isoma,21.683,38.1,macroseismic,0.075873,0.8059,,302.31,inferred,370.0
+OBS_11,Agios Dimitrios,22.78,38.52,macroseismic,0.075677,0.8059,,289.86,inferred,308.0
+obs_103,AGIOS-VLASIOS  VIOTIA(381),22.797,38.498,macroseismic,0.075543,0.8059,,487.75,inferred,541.0
+obs_107,PARORI  VIOTIA(362),22.76,38.555,macroseismic,0.075494,0.8059,,757.57,inferred,598.0
+obs_52,LIVARTZI  ACHAIA(349),21.9,37.919,macroseismic,0.075328,0.8059,,900.0,inferred,587.0
+obs_44,AGIOS-STEPHANOS  ACHAIA(798),21.65,38.114,macroseismic,0.075028,0.8059,,289.89,inferred,358.0
+OBS_216,Livartzion,21.88,37.92,macroseismic,0.075014,0.8059,,900.0,inferred,589.0
+obs_70,SITARALONA  AITOLOAKARNANIA(333),21.641,38.524,macroseismic,0.07428,0.8059,,600.0,inferred,600.0
+obs_68,MESARISTA  AITOLOAKARNANIA(455),21.593,38.454,macroseismic,0.073638,0.8059,,528.26,inferred,568.0
+obs_46,ANO-SOUDENAIIKA  ACHAIA(354),21.618,38.069,macroseismic,0.073074,0.8059,,442.89,inferred,530.0
+OBS_245,Mesarista,21.583,38.483,macroseismic,0.072992,0.8059,,593.1,inferred,588.0
+OBS_45,Ano Diakopton,22.217,38.133,macroseismic,0.072671,0.8059,,900.0,inferred,648.0
+obs_110,ANO-DIAKOPTO  ACHAIA(329),22.238,38.13,macroseismic,0.07258,0.8059,,900.0,inferred,592.0
+OBS_49,Ano Soudenaiika,21.6,38.07,macroseismic,0.072565,0.8059,,670.32,inferred,486.0
+obs_53,MANESI  ACHAIA(494),21.673,37.98,macroseismic,0.072449,0.8059,,642.86,inferred,476.0
+OBS_230,Manesion,21.668,37.984,macroseismic,0.072431,0.8059,,612.48,inferred,594.0
+obs_65,GAVALOU  AITOLOAKARNANIA(1376),21.539,38.495,macroseismic,0.071525,0.8059,,899.2,inferred,611.0
+OBS_120,Gavalou,21.52,38.52,macroseismic,0.070715,0.8059,,666.14,inferred,593.0
+OBS_267,Orchomenos,22.967,38.483,macroseismic,0.070477,0.8059,,337.29,inferred,275.0
+obs_66,GRAMMATIKOU  AITOLOAKARNANIA(1037),21.5,38.534,macroseismic,0.070024,0.8059,,485.76,inferred,387.0
+obs_109,AMPELOKIPOI  ACHAIA(436),22.317,38.1,macroseismic,0.069921,0.8059,,900.0,inferred,636.0
+obs_61,SKIADAS  ACHAIA(1100),21.681,37.877,macroseismic,0.069861,0.8059,,900.0,inferred,564.0
+obs_106,ORCHOMENOS  VIOTIA(5525),22.994,38.505,macroseismic,0.069548,0.8059,,232.22,inferred,330.0
+OBS_332,Skiadas,21.67,37.87,macroseismic,0.069482,0.8059,,715.84,inferred,565.0
+OBS_319,Sagaiika,21.467,38.1,macroseismic,0.069419,0.8059,,268.82,inferred,261.0
+obs_102,ADIOS-DIMITRIOS  VIOTIA(1281),23.023,38.446,macroseismic,0.069297,0.8059,,208.25,inferred,293.0
+obs_59,SAGAIIKA  ACHAIA(1846),21.453,38.12,macroseismic,0.069286,0.8059,,229.73,inferred,304.0
+obs_136,STOMIO  KORINTHIA(359),22.467,38.133,macroseismic,0.068717,0.8059,,509.73,inferred,379.0
+OBS_248,Michoion,21.5,37.97,macroseismic,0.068284,0.8059,,582.14,inferred,580.0
+obs_55,MICHOI  ACHAIA(690),21.483,37.969,macroseismic,0.067916,0.8059,,402.34,inferred,557.0
+obs_51,KANKADI  ACHAIA(518),21.437,38.035,macroseismic,0.067908,0.8059,,346.8,inferred,412.0
+obs_54,METOCHI  ACHAIA(1863),21.39,38.116,macroseismic,0.067736,0.8059,,182.37,inferred,279.0
+obs_74,GOUMERO  ELIA(1032),21.595,37.766,macroseismic,0.065936,0.8059,,570.22,inferred,621.0
+OBS_124,Goumeron,21.62,37.75,macroseismic,0.065925,0.8059,,581.37,inferred,601.0
+obs_76,PELOPI  ELIA(1023),21.589,37.673,macroseismic,0.064011,0.8059,,527.59,inferred,417.0
+obs_111,ANO-KASTRITSI  ACHAIA(764),21.829,38.262,macroseismic,0.063784,0.8059,,900.0,inferred,598.0
+OBS_282,Pelopion,21.57,37.67,macroseismic,0.063753,0.8059,,255.65,inferred,296.0
+OBS_46,Ano Kastritsion,21.82,38.27,macroseismic,0.063357,0.8059,,822.73,inferred,621.0
+OBS_29,Agridion,22.25,38.02,macroseismic,0.062912,0.8059,,866.13,inferred,593.0
+obs_78,VARVASAINA  ELIA(1243),21.493,37.669,macroseismic,0.062912,0.8059,,430.11,inferred,563.0
+OBS_253,Myrsini,21.22,37.92,macroseismic,0.062709,0.8059,,221.59,inferred,333.0
+OBS_375,Varvasaina,21.47,37.67,macroseismic,0.06268,0.8059,,304.66,inferred,335.0
+obs_75,MYRSINI  ELIA(1160),21.215,37.924,macroseismic,0.062673,0.8059,,217.41,inferred,312.0
+OBS_256,Nafpaktos,21.82,38.37,macroseismic,0.062667,0.8059,,600.0,inferred,600.0
+obs_72,ANDRITSAINA  ELIA(881),21.906,37.496,macroseismic,0.062661,0.8059,,505.69,inferred,589.0
+obs_122,NAFPAKTOS  AITOLOAKARNANIA(10854),21.824,38.392,macroseismic,0.062478,0.8059,,598.04,inferred,599.0
+obs_73,GASTOUNI  ELIA(5883),21.247,37.845,macroseismic,0.06231,0.8059,,230.18,inferred,312.0
+OBS_119,Gastouni,21.25,37.83,macroseismic,0.062183,0.8059,,229.23,inferred,334.0
+OBS_140,Kallithea,23.42,38.32,macroseismic,0.061647,0.8059,,385.87,inferred,432.0
+OBS_14,Agios Georgios Riou,21.784,38.301,macroseismic,0.061607,0.8059,,407.32,inferred,403.0
+OBS_148,Kamarion,22.57,38.08,macroseismic,0.061542,0.8059,,900.0,inferred,651.0
+obs_117,RIO  ACHAIA(3496),21.782,38.293,macroseismic,0.061521,0.8059,,468.77,inferred,423.0
+obs_105,KALLITHEA  VIOTIA(865),23.429,38.299,macroseismic,0.061495,0.8059,,344.05,inferred,503.0
+obs_77,SKOUROCHORI  ELIA(703),21.345,37.679,macroseismic,0.061451,0.8059,,236.65,inferred,375.0
+OBS_335,Skourochorion,21.35,37.67,macroseismic,0.061383,0.8059,,197.31,inferred,197.0
+obs_79,ZACHARO  ELIA(5037),21.637,37.489,macroseismic,0.061096,0.8059,,281.15,inferred,284.0
+OBS_26,Agios Vlasios,23.52,38.12,macroseismic,0.059868,0.8059,,461.18,inferred,582.0
+OBS_171,Kertezi,21.983,37.983,macroseismic,0.058731,0.8059,,900.0,inferred,525.0
+obs_113,KLEITORIA  ACHAIA(999),22.205,37.949,macroseismic,0.058702,0.8059,,900.0,inferred,568.0
+obs_112,KERTEZI  ACHAIA(542),22.0,37.974,macroseismic,0.058548,0.8059,,719.13,inferred,666.0
+obs_116,PLATANOVRYSI  ACHAIA(425),21.754,38.13,macroseismic,0.058223,0.8059,,759.61,inferred,510.0
+OBS_296,Platanovrysi,21.73,38.13,macroseismic,0.05747,0.8059,,474.56,inferred,480.0
+OBS_250,Mintiloglion,21.7,38.183,macroseismic,0.057391,0.8059,,450.29,inferred,498.0
+obs_115,MINTILOGLI  ACHAIA(1594),21.704,38.172,macroseismic,0.057369,0.8059,,493.89,inferred,574.0
+obs_130,KEPHALARI  KORINTHIA(380),22.508,37.922,macroseismic,0.056494,0.8059,,900.0,inferred,488.0
+OBS_169,Kefalarion,22.52,37.92,macroseismic,0.056266,0.8059,,868.9,inferred,508.0
+OBS_175,Kleitoria,22.217,37.883,macroseismic,0.055952,0.8059,,858.67,inferred,629.0
+obs_108,AGRIDI  ACHAIA(121),21.966,37.896,macroseismic,0.055147,0.8059,,800.74,inferred,589.0
+obs_134,SIKYONA(KIATO)  KORINTHIA(9167),22.746,38.004,macroseismic,0.054583,0.8059,,354.81,inferred,333.0
+OBS_172,Kiaton,22.75,38.0,macroseismic,0.054413,0.8059,,354.81,inferred,333.0
+obs_124,PETROCHORI  AITOLOAKARNANIA(525),21.645,38.537,macroseismic,0.054339,0.8059,,600.0,inferred,600.0
+OBS_288,Petrochorion,21.63,38.52,macroseismic,0.054204,0.8059,,600.0,inferred,600.0
+OBS_116,Galatas,21.57,38.33,macroseismic,0.054115,0.8059,,222.9,inferred,318.0
+OBS_379,Velon,22.75,37.983,macroseismic,0.054054,0.8059,,310.18,inferred,346.0
+obs_118,GALATAS  AITOLOAKARNANIA(1271),21.56,38.339,macroseismic,0.053833,0.8059,,248.83,inferred,283.0
+obs_137,VELO  KORINTHIA(3.237),22.754,37.975,macroseismic,0.053807,0.8059,,348.77,inferred,310.0
+OBS_188,Krinai,22.75,37.967,macroseismic,0.053714,0.8059,,422.63,inferred,337.0
+obs_132,KRINES  KORINTHIA(863),22.744,37.958,macroseismic,0.053633,0.8059,,481.75,inferred,445.0
+OBS_178,Kokkonion,22.77,37.97,macroseismic,0.0534,0.8059,,336.15,inferred,350.0
+OBS_218,Lousika,21.6,38.08,macroseismic,0.053301,0.8059,,453.55,inferred,510.0
+obs_114,LOUSIKA  ACHAIA(852),21.587,38.101,macroseismic,0.053292,0.8059,,416.05,inferred,535.0
+obs_131,KOKKONI  KORINTHIA(1086),22.776,37.968,macroseismic,0.053248,0.8059,,316.34,inferred,263.0
+OBS_286,Perigialion,22.83,37.92,macroseismic,0.051446,0.8059,,419.83,inferred,343.0
+obs_133,PERIGIALI  KORINTHIA(1194),22.838,37.919,macroseismic,0.051305,0.8059,,384.2,inferred,326.0
+obs_121,MATARANKA  AITOLOAKARNANIA(2057),21.477,38.514,macroseismic,0.051021,0.8059,,900.0,inferred,659.0
+OBS_237,Mataragka,21.47,38.52,macroseismic,0.050848,0.8059,,900.0,inferred,628.0
+obs_128,ARCHAIES-KLEONES  KORINTHIA(642),22.758,37.833,macroseismic,0.050847,0.8059,,447.65,inferred,530.0
+OBS_58,Archaiai Kleonai,22.733,37.817,macroseismic,0.050828,0.8059,,501.81,inferred,531.0
+OBS_273,Pappadatai,21.45,38.52,macroseismic,0.050485,0.8059,,664.72,inferred,612.0
+obs_123,PAPPADATES  AITOLOAKARNANIA(1733),21.448,38.526,macroseismic,0.050408,0.8059,,677.58,inferred,484.0
+obs_119,KATO-KERASOVO  AITOLOAKARNANIA(623),21.431,38.516,macroseismic,0.050175,0.8059,,726.31,inferred,592.0
+OBS_109,Examilia,22.92,37.9,macroseismic,0.049804,0.8059,,430.09,inferred,353.0
+obs_129,EXAMILLIA  KORINTHIA(1973),22.934,37.903,macroseismic,0.049649,0.8059,,347.31,inferred,366.0
+OBS_323,Sargiada,21.417,38.767,macroseismic,0.047705,0.8059,,480.96,inferred,635.0
+OBS_86,Diakopion,22.12,38.57,macroseismic,0.047535,0.8059,,756.58,inferred,595.0
+obs_125,SARGIADA  AITOLOAKARNANIA(373),21.393,38.769,macroseismic,0.047406,0.8059,,494.01,inferred,504.0
+OBS_388,Xiropigadon,21.87,38.4,macroseismic,0.047353,0.8059,,352.81,inferred,286.0
+obs_197,XIROPIGADO  AITOLOAKARNANIA(518),21.864,38.402,macroseismic,0.047084,0.8059,,352.81,inferred,286.0
+OBS_340,Sofikon,23.03,37.78,macroseismic,0.046979,0.8059,,734.23,inferred,597.0
+OBS_207,Leianokladion,22.317,38.567,macroseismic,0.046926,0.8059,,900.0,inferred,462.0
+obs_135,SOPHIKO  KORINTHIA(1774),23.052,37.79,macroseismic,0.046863,0.8059,,441.55,inferred,581.0
+obs_306,DIAKOPI  PHOKIDA(200),22.129,38.599,macroseismic,0.046145,0.8059,,900.0,inferred,596.0
+OBS_84,Dafnos,22.07,38.62,macroseismic,0.044947,0.8059,,480.04,inferred,632.0
+OBS_167,Katouna,21.117,38.783,macroseismic,0.044451,0.8059,,477.88,inferred,484.0
+obs_127,ASTROS  ARKADIA(2958),22.682,37.398,macroseismic,0.044395,0.8059,,743.66,inferred,592.0
+OBS_63,Astros,22.717,37.4,macroseismic,0.044299,0.8059,,586.96,inferred,380.0
+obs_305,DAPHNOS  PHOKIDA(114),22.115,38.65,macroseismic,0.043992,0.8059,,900.0,inferred,622.0
+OBS_94,Drosia,23.53,38.47,macroseismic,0.043894,0.8059,,604.28,inferred,589.0
+OBS_9,Agios Andreas,22.32,37.28,macroseismic,0.043503,0.8059,,468.33,inferred,588.0
+obs_120,KATOUNA  AITOLOAKARNANIA(2.763),21.058,38.866,macroseismic,0.043436,0.8059,,651.75,inferred,593.0
+obs_126,AGIOS-ANDREAS  ARKADIA(1222),22.777,37.325,macroseismic,0.043222,0.8059,,675.6,inferred,591.0
+OBS_88,Diminio,22.534,37.984,macroseismic,0.042847,0.8059,,900.0,inferred,485.0
+OBS_270,Paliampela,21.77,38.53,macroseismic,0.042317,0.8059,,797.86,inferred,610.0
+OBS_197,Kyriakion,22.77,38.33,macroseismic,0.042121,0.8059,,900.0,inferred,600.0
+obs_341,KYRIAKI  VIOTIA(2482),22.773,38.318,macroseismic,0.042054,0.8059,,900.0,inferred,600.0
+OBS_244,Melission,22.67,38.03,macroseismic,0.04173,0.8059,,656.94,inferred,620.0
+obs_152,ANALIPSI  AITOLOAKARNANIA(1074),21.716,38.487,macroseismic,0.041714,0.8059,,709.89,inferred,593.0
+obs_265,MELISSI  KORINTHIA(1108),22.685,38.042,macroseismic,0.041685,0.8059,,517.13,inferred,304.0
+OBS_41,Analipsis,21.7,38.47,macroseismic,0.041532,0.8059,,900.0,inferred,661.0
+OBS_204,Lechourion,21.917,37.95,macroseismic,0.041369,0.8059,,900.0,inferred,589.0
+obs_142,LECHOURI  ACHAIA(201),21.932,37.941,macroseismic,0.041283,0.8059,,752.25,inferred,589.0
+OBS_55,Arachova,21.87,38.67,macroseismic,0.041165,0.8059,,571.97,inferred,589.0
+obs_257,DIMINIO  KORINTHIA(614),22.703,38.029,macroseismic,0.041118,0.8059,,555.26,inferred,497.0
+obs_156,AVARIKOS  AITOLOAKARNANIA(307),21.704,38.521,macroseismic,0.041077,0.8059,,664.01,inferred,366.0
+OBS_165,Kato Tithorea,22.72,38.58,macroseismic,0.040818,0.8059,,491.71,inferred,392.0
+obs_155,ARACHOVA  AITOLOAKARNANIA(280),21.863,38.684,macroseismic,0.040761,0.8059,,900.0,inferred,622.0
+obs_270,STYMPHALIA  KORINTHIA(200),22.467,37.883,macroseismic,0.040671,0.8059,,866.09,inferred,475.0
+OBS_222,Lykouria,22.2,37.87,macroseismic,0.040586,0.8059,,900.0,inferred,622.0
+obs_141,KRINOPHYTA  ACHAIA(219),22.167,37.873,macroseismic,0.040571,0.8059,,887.65,inferred,616.0
+OBS_190,Krinofyta,22.17,37.87,macroseismic,0.0405,0.8059,,862.67,inferred,569.0
+obs_140,KLEITORAS  ACHAIA(113),22.044,37.882,macroseismic,0.040451,0.8059,,900.0,inferred,589.0
+OBS_354,Stymfalia,22.45,37.87,macroseismic,0.040436,0.8059,,713.31,inferred,406.0
+OBS_66,Avarikos,21.67,38.52,macroseismic,0.040433,0.8059,,846.08,inferred,600.0
+OBS_174,Kleitor,22.1,37.87,macroseismic,0.040304,0.8059,,343.14,inferred,427.0
+obs_312,KATO-TITHOREA  PHTHIOTIDA(2.813),22.72,38.612,macroseismic,0.04028,0.8059,,354.06,inferred,334.0
+obs_170,KONISKA  AITOLOAKARNANIA(317),21.754,38.649,macroseismic,0.040014,0.8059,,900.0,inferred,642.0
+OBS_306,Psarion,22.52,37.87,macroseismic,0.039983,0.8059,,573.65,inferred,624.0
+OBS_181,Koniska,21.75,38.65,macroseismic,0.03994,0.8059,,900.0,inferred,642.0
+obs_264,MATI  KORINTHIA(323),22.323,37.835,macroseismic,0.039898,0.8059,,697.04,inferred,407.0
+obs_143,LYKOURIA  ACHAIA(597),22.209,37.842,macroseismic,0.039892,0.8059,,733.93,inferred,467.0
+OBS_75,Chiona,21.7,38.02,macroseismic,0.039865,0.8059,,362.54,inferred,598.0
+obs_268,PSARI  KORINTHIA(473),22.533,37.867,macroseismic,0.039816,0.8059,,537.44,inferred,439.0
+obs_146,SKOTANI  ACHAIA(174),22.071,37.846,macroseismic,0.03963,0.8059,,900.0,inferred,615.0
+obs_138,CHIONA  ACHAIA(194),21.68,38.02,macroseismic,0.03956,0.8059,,415.86,inferred,617.0
+OBS_238,Mation,22.33,37.82,macroseismic,0.039529,0.8059,,763.13,inferred,621.0
+obs_144,PHILIA  ACHAIA(317),22.115,37.837,macroseismic,0.039528,0.8059,,900.0,inferred,541.0
+OBS_198,Lafka,22.37,37.82,macroseismic,0.039482,0.8059,,900.0,inferred,635.0
+OBS_111,Filia,22.12,37.83,macroseismic,0.039376,0.8059,,900.0,inferred,541.0
+obs_262,LAFKA  KORINTHIA(399),22.404,37.818,macroseismic,0.039356,0.8059,,900.0,inferred,540.0
+OBS_333,Skotani,22.07,37.83,macroseismic,0.039253,0.8059,,609.13,inferred,375.0
+obs_334,AGIOS-GEORGIOS  VIOTIA(2170),22.92,38.391,macroseismic,0.038943,0.8059,,753.98,inferred,453.0
+obs_267,POULLITSA  KORINTHIA(772),22.748,37.939,macroseismic,0.038941,0.8059,,477.98,inferred,366.0
+OBS_301,Poullitsa,22.767,37.95,macroseismic,0.038866,0.8059,,393.79,inferred,349.0
+obs_164,EVINOCHORI  AITOLOAKARNANIA(2012),21.529,38.361,macroseismic,0.038826,0.8059,,246.23,inferred,293.0
+obs_139,DAPHNI  ACHAIA(1333),22.045,37.813,macroseismic,0.038813,0.8059,,454.96,inferred,387.0
+OBS_108,Evinochorion,21.52,38.37,macroseismic,0.038645,0.8059,,324.33,inferred,287.0
+OBS_141,Kallithea,21.62,38.62,macroseismic,0.038525,0.8059,,732.16,inferred,596.0
+OBS_183,Koroneia,22.95,38.33,macroseismic,0.038502,0.8059,,399.85,inferred,582.0
+obs_340,KORONEIA  VIOTIA(899),22.953,38.366,macroseismic,0.038436,0.8059,,586.58,inferred,541.0
+obs_166,KALLITHEA  AITOLOAKARNANIA(378),21.608,38.614,macroseismic,0.038425,0.8059,,748.73,inferred,597.0
+obs_348,THISVI  VIOTIA(528),22.956,38.269,macroseismic,0.038365,0.8059,,613.69,inferred,590.0
+OBS_25,Agios Vasileios,22.6,37.82,macroseismic,0.038348,0.8059,,539.04,inferred,588.0
+obs_324,YPATI  PHTHIOTIDA(1037),22.254,38.854,macroseismic,0.038241,0.8059,,900.0,inferred,591.0
+OBS_272,Pantanassa,21.57,38.58,macroseismic,0.038224,0.8059,,600.0,inferred,600.0
+OBS_360,Thisvi,22.967,38.25,macroseismic,0.038164,0.8059,,429.49,inferred,380.0
+OBS_83,Dafni,22.02,37.78,macroseismic,0.038072,0.8059,,851.7,inferred,670.0
+OBS_391,Ypati,22.22,38.87,macroseismic,0.037906,0.8059,,900.0,inferred,590.0
+OBS_395,Zelion,22.85,38.65,macroseismic,0.037863,0.8059,,476.5,inferred,583.0
+obs_180,PANTANASSA  AITOLOAKARNANIA(805),21.557,38.59,macroseismic,0.037813,0.8059,,600.0,inferred,600.0
+obs_307,ANTHILI  PHTHIOTIDA(1759),22.51,38.839,macroseismic,0.037647,0.8059,,203.31,inferred,311.0
+OBS_51,Anthili,22.467,38.85,macroseismic,0.03754,0.8059,,229.21,inferred,359.0
+obs_230,LAMPEIA  ELIA(663),21.793,37.835,macroseismic,0.037531,0.8059,,900.0,inferred,562.0
+obs_148,AGIOS-THOMAS  AITOLOAKARNANIA(679),21.472,38.39,macroseismic,0.037483,0.8059,,450.93,inferred,373.0
+obs_176,PALAIOKARYA  AITOLOAKARNANIA(312),21.564,38.624,macroseismic,0.037293,0.8059,,870.89,inferred,605.0
+OBS_135,Kainourgion,22.72,38.77,macroseismic,0.037188,0.8059,,734.68,inferred,586.0
+OBS_125,Grammatikou,21.5,38.52,macroseismic,0.03713,0.8059,,556.08,inferred,587.0
+OBS_201,Lampeia,21.78,37.83,macroseismic,0.037094,0.8059,,735.13,inferred,563.0
+obs_311,KAMMENA-VOURLA  PHTHIOTIDA(2469),22.781,38.738,macroseismic,0.036965,0.8059,,871.17,inferred,604.0
+obs_325,ZELI  PHTHIOTIDA(1033),22.858,38.676,macroseismic,0.036916,0.8059,,569.22,inferred,551.0
+OBS_345,Spercheias,22.117,38.9,macroseismic,0.036676,0.8059,,793.18,inferred,556.0
+OBS_316,Roditsa,22.47,38.87,macroseismic,0.036651,0.8059,,235.31,inferred,339.0
+obs_319,RODITSA  PHTHIOTIDA(2689),22.484,38.868,macroseismic,0.036631,0.8059,,200.4,inferred,332.0
+obs_310,KAINOURGIO  PHTHIOTIDA(1278),22.732,38.781,macroseismic,0.036558,0.8059,,585.71,inferred,513.0
+obs_254,ARCHAIA-NEMEA  KORINTHIA(703),22.706,37.813,macroseismic,0.036509,0.8059,,367.43,inferred,465.0
+obs_350,YPSILANTIS  VIOTIA(590),23.021,38.368,macroseismic,0.036496,0.8059,,900.0,inferred,660.0
+OBS_268,Palaiokarya,21.53,38.62,macroseismic,0.036365,0.8059,,900.0,inferred,469.0
+obs_320,SPERCHEIADA  PHTHIOTIDA(2957),22.13,38.908,macroseismic,0.03635,0.8059,,553.26,inferred,440.0
+obs_182,PARAVOLA  AITOLOAKARNANIA(2.115),21.525,38.622,macroseismic,0.03618,0.8059,,900.0,inferred,605.0
+OBS_150,Kamena Vourla,22.77,38.77,macroseismic,0.036162,0.8059,,900.0,inferred,605.0
+obs_154,ANO-KERASOVO  AITOLOAKARNANIA(511),21.454,38.476,macroseismic,0.036121,0.8059,,820.75,inferred,602.0
+obs_263,LOUTRAKI-PERACHORAS  KORINTHIA(11068),22.946,38.009,macroseismic,0.036087,0.8059,,729.44,inferred,539.0
+OBS_276,Paravola,21.52,38.62,macroseismic,0.036076,0.8059,,650.51,inferred,508.0
+obs_211,TROPAIA  ARKADIA(892),21.95,37.744,macroseismic,0.035964,0.8059,,731.46,inferred,572.0
+OBS_349,Stavros,22.37,38.9,macroseismic,0.035915,0.8059,,456.65,inferred,441.0
+obs_321,STAVROS  PHTHIOTIDA(1991),22.363,38.903,macroseismic,0.035824,0.8059,,456.65,inferred,441.0
+obs_253,ARCHAIA-KORINTHOS  KORINTHIA(2115),22.866,37.903,macroseismic,0.035781,0.8059,,774.96,inferred,628.0
+OBS_200,Lamia,22.433,38.9,macroseismic,0.03564,0.8059,,541.51,inferred,435.0
+OBS_291,Pisia,22.97,38.02,macroseismic,0.035598,0.8059,,900.0,inferred,605.0
+OBS_369,Tropaia,21.95,37.733,macroseismic,0.035529,0.8059,,561.42,inferred,558.0
+OBS_57,Archaia Nemea,22.7,37.78,macroseismic,0.035463,0.8059,,596.91,inferred,569.0
+obs_315,LEIANOKLADI  PHTHIOTIDA(1212),22.299,38.92,macroseismic,0.035422,0.8059,,364.31,inferred,364.0
+OBS_47,Ano Kerasovon,21.433,38.483,macroseismic,0.035405,0.8059,,900.0,inferred,603.0
+OBS_134,Kainourgion,21.47,38.58,macroseismic,0.035336,0.8059,,288.3,inferred,95.0
+OBS_182,Korinthos,22.917,37.933,macroseismic,0.035246,0.8059,,363.33,inferred,483.0
+obs_313,LAMIA  PHTHIOTIDA(44084),22.437,38.913,macroseismic,0.035115,0.8059,,437.9,inferred,587.0
+obs_145,RIOLOS  ACHAIA(725),21.443,38.071,macroseismic,0.035037,0.8059,,287.71,inferred,394.0
+obs_165,KAINOURGIO  AITOLOAKARNANIA(3249),21.481,38.62,macroseismic,0.034992,0.8059,,469.33,inferred,499.0
+OBS_341,Solomos,22.87,37.87,macroseismic,0.03482,0.8059,,710.56,inferred,561.0
+obs_179,PANAITOLIO  AITOLOAKARNANIA(3330),21.441,38.563,macroseismic,0.03476,0.8059,,281.63,inferred,316.0
+obs_261,KORINTHOS  KORINTHIA(27412),22.936,37.931,macroseismic,0.034726,0.8059,,383.69,inferred,476.0
+OBS_220,Loutrakion,22.97,37.97,macroseismic,0.034668,0.8059,,600.0,inferred,600.0
+obs_209,LEVIDI  ARKADIA(1142),22.294,37.672,macroseismic,0.034635,0.8059,,900.0,inferred,589.0
+OBS_314,Riolos,21.45,38.03,macroseismic,0.03459,0.8059,,360.76,inferred,476.0
+OBS_213,Levidion,22.28,37.67,macroseismic,0.034545,0.8059,,900.0,inferred,635.0
+obs_269,SOLOMOS  KORINTHIA(829),22.887,37.874,macroseismic,0.034543,0.8059,,311.84,inferred,264.0
+obs_252,AGIOS-VASILEIOS  KORINTHIA(1320),22.78,37.794,macroseismic,0.034515,0.8059,,863.0,inferred,597.0
+obs_175,NEA-AVORANI  AITOLOAKARNANIA(943),21.452,38.607,macroseismic,0.034432,0.8059,,402.86,inferred,434.0
+OBS_64,Atalanti,22.983,38.65,macroseismic,0.034292,0.8059,,828.94,inferred,693.0
+obs_266,PISIA  KORINTHIA(769),23.022,38.025,macroseismic,0.034246,0.8059,,900.0,inferred,607.0
+obs_212,VYTINA  ARKADIA(839),22.192,37.668,macroseismic,0.034215,0.8059,,607.54,inferred,570.0
+OBS_271,Panaitolion,21.42,38.57,macroseismic,0.034101,0.8059,,252.45,inferred,319.0
+OBS_257,Nea Avorani,21.42,38.58,macroseismic,0.033974,0.8059,,346.53,inferred,289.0
+obs_308,ATALANTI  PHTHIOTIDA(6446),23.005,38.64,macroseismic,0.033936,0.8059,,900.0,inferred,696.0
+OBS_337,Skoutera,21.47,38.67,macroseismic,0.033834,0.8059,,480.73,inferred,591.0
+obs_208,LANKADIA  ARKADIA(990),22.038,37.673,macroseismic,0.033804,0.8059,,658.27,inferred,606.0
+OBS_353,Stylis,22.6,38.917,macroseismic,0.033777,0.8059,,790.33,inferred,462.0
+OBS_389,Xylokeriza,22.92,37.87,macroseismic,0.033729,0.8059,,644.92,inferred,558.0
+OBS_199,Lagkadia,22.02,37.67,macroseismic,0.033629,0.8059,,888.47,inferred,653.0
+OBS_240,Mavrommation,23.12,38.32,macroseismic,0.033527,0.8059,,420.33,inferred,405.0
+obs_234,SIMOPOULO  ELIA(516),21.559,37.855,macroseismic,0.033511,0.8059,,341.01,inferred,530.0
+obs_189,SKOUTERA  AITOLOAKARNANIA(810),21.475,38.696,macroseismic,0.033477,0.8059,,609.45,inferred,623.0
+OBS_358,Thespiai,23.12,38.28,macroseismic,0.033467,0.8059,,297.77,inferred,468.0
+obs_322,STYLIDA  PHTHIOTIDA(5088),22.633,38.917,macroseismic,0.033447,0.8059,,562.29,inferred,416.0
+OBS_101,Ellopia,23.12,38.27,macroseismic,0.033447,0.8059,,380.98,inferred,579.0
+obs_337,ELLOPIA  VIOTIA(653),23.124,38.251,macroseismic,0.033295,0.8059,,613.11,inferred,590.0
+obs_256,CHILIOMODI  KORINTHIA(1718),22.867,37.807,macroseismic,0.033276,0.8059,,258.57,inferred,348.0
+OBS_209,Leontarion,23.13,38.28,macroseismic,0.033198,0.8059,,353.45,inferred,375.0
+obs_260,KLENIA  KORINTHIA(814),22.849,37.79,macroseismic,0.033171,0.8059,,624.1,inferred,531.0
+OBS_310,Rachai,22.77,38.87,macroseismic,0.033144,0.8059,,600.0,inferred,600.0
+OBS_328,Simopoulon,21.57,37.83,macroseismic,0.033117,0.8059,,432.92,inferred,480.0
+obs_271,XYLOKERIZA  KORINTHIA(1106),22.964,37.883,macroseismic,0.033073,0.8059,,539.74,inferred,477.0
+obs_347,THESPIES  VIOTIA(1839),23.139,38.295,macroseismic,0.032987,0.8059,,341.19,inferred,535.0
+obs_160,CHRYSOVERGI  AITOLOAKARNANIA(641),21.353,38.508,macroseismic,0.032985,0.8059,,679.96,inferred,601.0
+OBS_79,Chrysovergion,21.35,38.5,macroseismic,0.032969,0.8059,,558.09,inferred,395.0
+OBS_130,Isthmia,23.0,37.917,macroseismic,0.032956,0.8059,,460.08,inferred,491.0
+obs_344,MAVROMMATI  VIOTIA(2020),23.145,38.36,macroseismic,0.032863,0.8059,,551.15,inferred,588.0
+obs_259,ISTHMIA  KORINTHIA(2247),23.018,37.924,macroseismic,0.032686,0.8059,,550.06,inferred,559.0
+OBS_176,Klenia,22.85,37.77,macroseismic,0.03265,0.8059,,516.42,inferred,586.0
+obs_147,AGIOS-KONSTANTINOS  AITOLOAKARNANIA(5.395),21.396,38.636,macroseismic,0.032636,0.8059,,451.99,inferred,500.0
+OBS_65,Athikia,22.92,37.82,macroseismic,0.032599,0.8059,,478.54,inferred,421.0
+OBS_74,Chiliomodion,22.87,37.78,macroseismic,0.032559,0.8059,,900.0,inferred,512.0
+obs_255,ATHIKIA  KORINTHIA(2093),22.933,37.828,macroseismic,0.032531,0.8059,,589.36,inferred,520.0
+obs_342,LEFKTRA  VIOTIA(1447),23.155,38.232,macroseismic,0.032442,0.8059,,896.48,inferred,605.0
+obs_318,RACHES  PHTHIOTIDA(1337),22.775,38.894,macroseismic,0.032418,0.8059,,604.39,inferred,590.0
+obs_161,DOKIMIO  AITOLOAKARNANIA(2.198),21.361,38.595,macroseismic,0.032343,0.8059,,244.29,inferred,260.0
+obs_338,KASTRO  VIOTIA(1130),23.147,38.484,macroseismic,0.032307,0.8059,,301.02,inferred,364.0
+OBS_91,Dokimion,21.37,38.62,macroseismic,0.032254,0.8059,,266.26,inferred,330.0
+obs_173,LYSIMACHEIA  AITOLOAKARNANIA(659),21.334,38.55,macroseismic,0.03217,0.8059,,583.41,inferred,441.0
+OBS_206,Lefktra,23.17,38.25,macroseismic,0.032114,0.8059,,495.11,inferred,584.0
+OBS_223,Lysimacheia,21.32,38.52,macroseismic,0.032087,0.8059,,900.0,inferred,618.0
+obs_323,TRAGANA  PHTHIOTIDA(877),23.114,38.598,macroseismic,0.032001,0.8059,,656.38,inferred,592.0
+OBS_387,Vytina,22.183,37.6,macroseismic,0.031923,0.8059,,660.44,inferred,589.0
+obs_343,LEONTARI  VIOTIA(1246),23.183,38.295,macroseismic,0.031885,0.8059,,300.6,inferred,458.0
+OBS_115,Galatakion,22.97,37.83,macroseismic,0.031883,0.8059,,792.93,inferred,598.0
+OBS_77,Chouni,21.53,38.83,macroseismic,0.031866,0.8059,,900.0,inferred,561.0
+OBS_27,Agios Vlasios,21.47,38.78,macroseismic,0.031798,0.8059,,592.67,inferred,527.0
+obs_258,GALATAKI  KORINTHIA(1408),22.983,37.835,macroseismic,0.031742,0.8059,,496.21,inferred,584.0
+obs_205,DIMITSANA  ARKADIA(870),22.043,37.605,macroseismic,0.031621,0.8059,,452.53,inferred,589.0
+OBS_366,Tragana,23.12,38.62,macroseismic,0.031606,0.8059,,793.39,inferred,598.0
+obs_159,CHOUNI  AITOLOAKARNANIA(563),21.538,38.849,macroseismic,0.031595,0.8059,,879.53,inferred,620.0
+obs_190,STAMNA  AITOLOAKARNANIA(1.291),21.287,38.526,macroseismic,0.03129,0.8059,,350.74,inferred,494.0
+OBS_166,Katochi,21.25,38.4,macroseismic,0.031147,0.8059,,243.51,inferred,292.0
+obs_149,AGIOS-VLASIOS  AITOLOAKARNANIA(445),21.495,38.837,macroseismic,0.031138,0.8059,,575.75,inferred,592.0
+OBS_347,Stamna,21.27,38.52,macroseismic,0.030958,0.8059,,475.66,inferred,582.0
+obs_153,ANGELOKASTRO  AITOLOAKARNANIA(1.849),21.289,38.578,macroseismic,0.030923,0.8059,,449.3,inferred,451.0
+OBS_177,Kokkinon,23.22,38.47,macroseismic,0.030729,0.8059,,639.98,inferred,591.0
+obs_235,TRAGANO  ELIA(2306),21.362,37.906,macroseismic,0.030664,0.8059,,434.12,inferred,586.0
+obs_167,KALYVIA  AITOLOAKARNANIA(2.006),21.293,38.615,macroseismic,0.030662,0.8059,,237.4,inferred,301.0
+OBS_351,Stratos,21.32,38.67,macroseismic,0.0306,0.8059,,398.3,inferred,366.0
+OBS_44,Angelokastron,21.27,38.57,macroseismic,0.030595,0.8059,,335.55,inferred,386.0
+OBS_89,Dimitsana,22.02,37.57,macroseismic,0.030554,0.8059,,900.0,inferred,589.0
+OBS_212,Lesinion,21.23,38.45,macroseismic,0.030481,0.8059,,552.3,inferred,587.0
+OBS_266,Omvriaki,22.27,39.08,macroseismic,0.030353,0.8059,,432.22,inferred,324.0
+OBS_219,Loutra Aidipsou,23.02,38.83,macroseismic,0.030216,0.8059,,600.0,inferred,600.0
+OBS_146,Kalyvia,21.27,38.62,macroseismic,0.030158,0.8059,,220.02,inferred,299.0
+obs_226,CHAVARIO  ELIA(1385),21.385,37.841,macroseismic,0.03006,0.8059,,427.3,inferred,551.0
+obs_317,OMVRIAKI  PHTHIOTIDA(1758),22.279,39.093,macroseismic,0.029986,0.8059,,476.67,inferred,381.0
+obs_188,RIGANI  AITOLOAKARNANIA(599),21.238,38.583,macroseismic,0.029853,0.8059,,571.44,inferred,331.0
+obs_339,KOKKINO  VIOTIA(1556),23.257,38.492,macroseismic,0.029851,0.8059,,454.14,inferred,409.0
+obs_172,LESINI  AITOLOAKARNANIA(943),21.199,38.459,macroseismic,0.029802,0.8059,,449.05,inferred,580.0
+obs_169,KATOCHI  AITOLOAKARNANIA(3002),21.185,38.403,macroseismic,0.029754,0.8059,,247.63,inferred,271.0
+obs_191,STRATOS  AITOLOAKARNANIA(1101),21.307,38.72,macroseismic,0.029754,0.8059,,540.03,inferred,547.0
+OBS_73,Chavarion,21.37,37.83,macroseismic,0.029641,0.8059,,337.64,inferred,435.0
+OBS_227,Malesina,23.22,38.62,macroseismic,0.029621,0.8059,,589.58,inferred,464.0
+OBS_211,Lepenou,21.283,38.7,macroseismic,0.029567,0.8059,,517.33,inferred,542.0
+obs_150,AMORGIANOI  AITOLOAKARNANIA(648),21.386,38.828,macroseismic,0.029554,0.8059,,609.32,inferred,649.0
+obs_227,KALLITHEA  ELIA(1302),21.818,37.569,macroseismic,0.029552,0.8059,,627.3,inferred,536.0
+obs_168,KASTRAKI  AITOLOAKARNANIA(585),21.329,38.766,macroseismic,0.029537,0.8059,,592.78,inferred,562.0
+OBS_43,Angelokastron,23.0,37.73,macroseismic,0.029503,0.8059,,507.85,inferred,320.0
+OBS_92,Domokos,22.3,39.117,macroseismic,0.029326,0.8059,,595.84,inferred,589.0
+OBS_202,Larymna,23.27,38.55,macroseismic,0.029254,0.8059,,570.21,inferred,633.0
+obs_309,DOMOKOS  PHTHIOTIDA(1.939),22.316,39.126,macroseismic,0.029067,0.8059,,491.75,inferred,383.0
+OBS_361,Thivai,23.317,38.317,macroseismic,0.029052,0.8059,,454.99,inferred,524.0
+obs_316,MALESINA  PHTHIOTIDA(4956),23.243,38.637,macroseismic,0.02905,0.8059,,604.99,inferred,480.0
+obs_171,LEPENOU  AITOLOAKARNANIA(2445),21.269,38.726,macroseismic,0.029032,0.8059,,615.66,inferred,590.0
+obs_314,LARYMNA  PHTHIOTIDA(1409),23.277,38.572,macroseismic,0.028975,0.8059,,576.53,inferred,349.0
+obs_224,MEGARA  DYTIKI-ATTIKI(25061),23.274,38.041,macroseismic,0.02889,0.8059,,450.85,inferred,472.0
+OBS_12,Agios Dimitrios,23.32,38.22,macroseismic,0.028838,0.8059,,512.7,inferred,584.0
+obs_232,SALMONI  ELIA(725),21.518,37.657,macroseismic,0.028669,0.8059,,472.25,inferred,548.0
+OBS_139,Kallithea,21.82,37.53,macroseismic,0.028664,0.8059,,900.0,inferred,598.0
+obs_349,THIVA  VIOTIA(19509),23.34,38.337,macroseismic,0.028631,0.8059,,465.85,inferred,483.0
+obs_239,LOUTRA-AIDIPSOU  EVIA(4091),23.105,38.852,macroseismic,0.028608,0.8059,,900.0,inferred,860.0
+obs_185,PETRONA  AITOLOAKARNANIA(270),21.393,38.898,macroseismic,0.028563,0.8059,,729.99,inferred,618.0
+OBS_321,Salmoni,21.52,37.65,macroseismic,0.028562,0.8059,,327.63,inferred,323.0
+obs_229,KRESTENA  ELIA(5422),21.624,37.595,macroseismic,0.02856,0.8059,,389.34,inferred,530.0
+OBS_35,Amorgianoi,21.35,38.87,macroseismic,0.028398,0.8059,,526.48,inferred,667.0
+OBS_324,Savalia,21.3,37.817,macroseismic,0.028378,0.8059,,244.77,inferred,295.0
+OBS_313,Rigani,21.417,38.933,macroseismic,0.02832,0.8059,,729.27,inferred,590.0
+obs_186,PHYTEIES  AITOLOAKARNANIA(2077),21.199,38.687,macroseismic,0.028278,0.8059,,673.73,inferred,594.0
+OBS_187,Krestena,21.62,37.58,macroseismic,0.028226,0.8059,,364.67,inferred,262.0
+obs_233,SAVALIA  ELIA(1119),21.285,37.82,macroseismic,0.028198,0.8059,,248.34,inferred,272.0
+obs_228,KARDAMAS  ELIA(1029),21.342,37.761,macroseismic,0.028187,0.8059,,342.9,inferred,381.0
+OBS_289,Petrona,21.38,38.92,macroseismic,0.028057,0.8059,,423.87,inferred,614.0
+OBS_263,Neos Pyrgos,23.07,38.92,macroseismic,0.02803,0.8059,,577.55,inferred,678.0
+OBS_152,Kardamas,21.32,37.77,macroseismic,0.028016,0.8059,,299.45,inferred,323.0
+OBS_157,Kastraki,21.27,38.83,macroseismic,0.027817,0.8059,,429.21,inferred,477.0
+OBS_242,Megara,23.32,38.0,macroseismic,0.027809,0.8059,,505.03,inferred,493.0
+obs_174,MACHAIRAS  AITOLOAKARNANIA(573),21.14,38.627,macroseismic,0.027804,0.8059,,805.8,inferred,409.0
+obs_181,PAPPADATOS  AITOLOAKARNANIA(1059),21.195,38.732,macroseismic,0.027794,0.8059,,341.75,inferred,376.0
+obs_194,VARETADA  AITOLOAKARNANIA(314),21.286,38.854,macroseismic,0.027738,0.8059,,431.85,inferred,589.0
+OBS_224,Machairas,21.13,38.62,macroseismic,0.027691,0.8059,,565.16,inferred,633.0
+obs_157,BAMPINI  AITOLOAKARNANIA(467),21.152,38.67,macroseismic,0.027675,0.8059,,510.86,inferred,584.0
+OBS_42,Andritsaina,21.88,37.47,macroseismic,0.027665,0.8059,,743.47,inferred,590.0
+OBS_274,Pappadatos,21.167,38.7,macroseismic,0.027659,0.8059,,569.42,inferred,425.0
+obs_241,NEOS-PYRGOS  EVIA(1111),23.093,38.931,macroseismic,0.027586,0.8059,,419.62,inferred,360.0
+OBS_70,Chalkiopouloi,21.4,38.967,macroseismic,0.027585,0.8059,,554.56,inferred,589.0
+OBS_318,Roviai,23.22,38.82,macroseismic,0.027449,0.8059,,600.0,inferred,600.0
+OBS_373,Varetada,21.27,38.87,macroseismic,0.027326,0.8059,,563.03,inferred,588.0
+OBS_367,Tragano,21.38,37.67,macroseismic,0.02731,0.8059,,222.94,inferred,295.0
+OBS_36,Ampelaki,21.35,38.95,macroseismic,0.027255,0.8059,,854.23,inferred,635.0
+obs_158,CHALKIOPOULOI  AITOLOAKARNANIA(1142),21.365,38.965,macroseismic,0.027214,0.8059,,566.48,inferred,619.0
+OBS_114,Fytiai,21.12,38.67,macroseismic,0.027187,0.8059,,532.58,inferred,529.0
+obs_210,MEGALOPOLI  ARKADIA(4684),22.118,37.416,macroseismic,0.027177,0.8059,,382.7,inferred,379.0
+OBS_161,Kato Doliana,22.605,37.433,macroseismic,0.027157,0.8059,,733.39,inferred,534.0
+obs_223,MANDRA  DYTIKI-ATTIKI(11343),23.405,38.132,macroseismic,0.02713,0.8059,,611.27,inferred,590.0
+obs_206,DOLIANA  ARKADIA(1283),22.662,37.442,macroseismic,0.027065,0.8059,,731.42,inferred,419.0
+OBS_377,Vasilopoulon,21.067,38.583,macroseismic,0.026926,0.8059,,721.46,inferred,688.0
+obs_195,VASILOPOULO  AITOLOAKARNANIA(636),21.072,38.598,macroseismic,0.026923,0.8059,,829.27,inferred,535.0
+OBS_260,Nea Peramos,23.38,38.0,macroseismic,0.026874,0.8059,,332.57,inferred,307.0
+obs_243,ROVIES  EVIA(1325),23.248,38.838,macroseismic,0.026873,0.8059,,828.49,inferred,635.0
+OBS_131,Istiaia,23.15,38.95,macroseismic,0.026666,0.8059,,354.99,inferred,309.0
+obs_238,ISTIAIA  EVIA(5165),23.148,38.965,macroseismic,0.026488,0.8059,,289.66,inferred,346.0
+OBS_393,Zacharo,21.63,37.47,macroseismic,0.026295,0.8059,,241.93,inferred,342.0
+obs_151,AMPELAKI  AITOLOAKARNANIA(1.096),21.233,38.926,macroseismic,0.026206,0.8059,,490.76,inferred,599.0
+obs_225,NEA-PERAMOS  DYTIKI-ATTIKI(6869),23.433,38.009,macroseismic,0.026156,0.8059,,600.0,inferred,600.0
+OBS_285,Perdikakion,21.35,39.03,macroseismic,0.026147,0.8059,,900.0,inferred,591.0
+obs_231,PHIGALEIA  ELIA(202),21.838,37.399,macroseismic,0.026127,0.8059,,584.28,inferred,611.0
+OBS_61,Asopia,23.5,38.28,macroseismic,0.025992,0.8059,,469.87,inferred,494.0
+obs_163,EMPESOS  AITOLOAKARNANIA(811),21.325,39.025,macroseismic,0.025966,0.8059,,761.45,inferred,597.0
+OBS_20,Agios Petros,22.733,37.4,macroseismic,0.02594,0.8059,,458.4,inferred,368.0
+obs_336,ASOPIA  VIOTIA(1038),23.505,38.297,macroseismic,0.025939,0.8059,,469.16,inferred,468.0
+OBS_24,Agios Thomas,21.319,39.034,macroseismic,0.025791,0.8059,,900.0,inferred,519.0
+OBS_103,Empesos,21.317,39.033,macroseismic,0.025784,0.8059,,900.0,inferred,519.0
+obs_184,PERDIKAKI  AITOLOAKARNANIA(577),21.361,39.072,macroseismic,0.025685,0.8059,,900.0,inferred,591.0
+OBS_229,Mandra,23.5,38.07,macroseismic,0.025512,0.8059,,453.51,inferred,407.0
+OBS_159,Kastro,23.52,38.15,macroseismic,0.025487,0.8059,,587.65,inferred,595.0
+OBS_336,Skourta,23.53,38.2,macroseismic,0.025449,0.8059,,286.57,inferred,432.0
+OBS_320,Salamis,23.47,37.97,macroseismic,0.02544,0.8059,,426.05,inferred,480.0
+OBS_13,Agios Georgios,23.53,38.17,macroseismic,0.025394,0.8059,,607.08,inferred,682.0
+OBS_370,Tryfos,21.07,38.82,macroseismic,0.025343,0.8059,,561.72,inferred,485.0
+obs_204,AGIOS-PETROS  ARKADIA(1338),22.569,37.323,macroseismic,0.025283,0.8059,,543.22,inferred,515.0
+obs_248,SOPHADES  KARDITSA(5497),22.11,39.323,macroseismic,0.025282,0.8059,,219.46,inferred,305.0
+obs_333,SALAMINA  PIREAS(23061),23.489,37.969,macroseismic,0.02519,0.8059,,389.51,inferred,405.0
+obs_193,TRYPHOS  AITOLOAKARNANIA(1011),21.047,38.812,macroseismic,0.025137,0.8059,,683.16,inferred,584.0
+OBS_339,Sofades,22.1,39.333,macroseismic,0.025109,0.8059,,214.37,inferred,338.0
+OBS_325,Schimatarion,23.57,38.33,macroseismic,0.025065,0.8059,,280.83,inferred,344.0
+obs_277,KARYES  LAKONIA(660),22.461,37.294,macroseismic,0.025036,0.8059,,441.34,inferred,588.0
+OBS_23,Agios Thomas,23.57,38.27,macroseismic,0.025022,0.8059,,444.34,inferred,599.0
+obs_294,DIAVOLITSI  MESSINIA(979),21.961,37.311,macroseismic,0.024954,0.8059,,528.04,inferred,354.0
+obs_346,SKOURTA  VIOTIA(816),23.575,38.205,macroseismic,0.024862,0.8059,,405.1,inferred,580.0
+OBS_179,Kollinai,22.35,37.27,macroseismic,0.024749,0.8059,,602.3,inferred,589.0
+obs_236,AGIA-ANNA  EVIA(1365),23.409,38.865,macroseismic,0.024721,0.8059,,539.2,inferred,493.0
+OBS_37,Ampelakia,23.52,37.95,macroseismic,0.024704,0.8059,,410.18,inferred,415.0
+obs_327,AMPELAKIA  PIREAS(4387),23.522,37.947,macroseismic,0.024664,0.8059,,408.61,inferred,436.0
+OBS_22,Agios Stefanos,23.58,38.133,macroseismic,0.024661,0.8059,,823.43,inferred,601.0
+obs_335,AGIOS-THOMAS  VIOTIA(1628),23.603,38.262,macroseismic,0.02459,0.8059,,541.07,inferred,587.0
+obs_245,KARDITSA  KARDITSA(30289),21.92,39.35,macroseismic,0.024586,0.8059,,232.64,inferred,341.0
+OBS_278,Patiopoulon,21.25,39.083,macroseismic,0.024567,0.8059,,659.86,inferred,579.0
+obs_222,ASPROPYRGOS  DYTIKI-ATTIKI(15715),23.582,38.102,macroseismic,0.024557,0.8059,,489.72,inferred,495.0
+obs_345,SCHIMATARI  VIOTIA(7302),23.613,38.341,macroseismic,0.024517,0.8059,,431.45,inferred,458.0
+obs_162,DRYMOS  AITOLOAKARNANIA(688),21.03,38.868,macroseismic,0.024509,0.8059,,805.06,inferred,605.0
+OBS_31,Aigina,23.42,37.75,macroseismic,0.024492,0.8059,,600.0,inferred,600.0
+OBS_87,Diavolitsion,21.97,37.28,macroseismic,0.024473,0.8059,,275.8,inferred,272.0
+OBS_62,Aspropyrgos,23.57,38.03,macroseismic,0.024465,0.8059,,600.0,inferred,600.0
+obs_183,PATIOPOULO  AITOLOAKARNANIA(685),21.271,39.108,macroseismic,0.024458,0.8059,,900.0,inferred,593.0
+OBS_96,Dryopi,23.25,37.57,macroseismic,0.024456,0.8059,,900.0,inferred,519.0
+OBS_95,Drymos,21.02,38.87,macroseismic,0.024387,0.8059,,605.89,inferred,590.0
+obs_295,DORIO  MESSINIA(1628),21.86,37.288,macroseismic,0.024362,0.8059,,335.13,inferred,359.0
+obs_207,KOLLINES  ARKADIA(622),22.366,37.245,macroseismic,0.024345,0.8059,,485.14,inferred,588.0
+OBS_153,Karditsa,21.917,39.367,macroseismic,0.024318,0.8059,,256.26,inferred,306.0
+OBS_284,Perama,23.57,37.97,macroseismic,0.024211,0.8059,,585.29,inferred,587.0
+OBS_196,Kypseli,23.45,37.75,macroseismic,0.024175,0.8059,,408.44,inferred,483.0
+obs_330,KYPSELI  PIREAS(1595),23.458,37.758,macroseismic,0.024152,0.8059,,416.48,inferred,466.0
+OBS_363,Thyrion,20.97,38.83,macroseismic,0.02415,0.8059,,900.0,inferred,614.0
+obs_332,PERAMA  PIREAS(24119),23.58,37.975,macroseismic,0.024118,0.8059,,354.33,inferred,577.0
+obs_192,THYRIO  AITOLOAKARNANIA(1.33),20.987,38.865,macroseismic,0.02408,0.8059,,661.63,inferred,595.0
+OBS_93,Dorion,21.85,37.27,macroseismic,0.024066,0.8059,,562.55,inferred,552.0
+OBS_305,Psachna,23.62,38.57,macroseismic,0.024049,0.8059,,259.82,inferred,272.0
+OBS_236,Mataragka,22.067,39.4,macroseismic,0.024028,0.8059,,231.8,inferred,341.0
+obs_240,MYTIKAS  EVIA(1763),23.648,38.443,macroseismic,0.024021,0.8059,,291.84,inferred,322.0
+obs_328,DRYOPI  PIREAS(1394),23.266,37.541,macroseismic,0.024005,0.8059,,900.0,inferred,612.0
+obs_246,MATARANKA  KARDITSA(1796),22.071,39.402,macroseismic,0.024001,0.8059,,226.31,inferred,323.0
+obs_286,VRESTHENA  LAKONIA(420),22.469,37.224,macroseismic,0.023929,0.8059,,361.88,inferred,683.0
+OBS_386,Vresthena,22.47,37.22,macroseismic,0.023869,0.8059,,463.71,inferred,684.0
+obs_326,AIGINA  PIREAS(6736),23.467,37.73,macroseismic,0.023847,0.8059,,645.37,inferred,558.0
+obs_177,PALAIROS  AITOLOAKARNANIA(2302),20.91,38.795,macroseismic,0.023742,0.8059,,900.0,inferred,616.0
+OBS_300,Potamia,21.767,39.383,macroseismic,0.023686,0.8059,,900.0,inferred,565.0
+obs_215,CHAIDARI  ATHINA(47.437),23.629,38.002,macroseismic,0.023676,0.8059,,593.79,inferred,589.0
+obs_329,KERATSINI  PIREAS(71982),23.618,37.971,macroseismic,0.023674,0.8059,,679.14,inferred,475.0
+obs_242,PSACHNA  EVIA(5838),23.647,38.61,macroseismic,0.02361,0.8059,,494.69,inferred,586.0
+OBS_170,Keratsinion,23.618,37.95,macroseismic,0.023584,0.8059,,369.3,inferred,403.0
+OBS_243,Meligalas,21.97,37.22,macroseismic,0.02358,0.8059,,295.15,inferred,469.0
+OBS_269,Palairos,20.883,38.783,macroseismic,0.023532,0.8059,,568.31,inferred,557.0
+obs_299,MELIGALAS  MESSINIA(1405),21.972,37.214,macroseismic,0.023498,0.8059,,311.7,inferred,345.0
+OBS_299,Poros,20.77,38.15,macroseismic,0.02347,0.8059,,692.47,inferred,593.0
+obs_275,GEORGITSI  LAKONIA(586),22.267,37.185,macroseismic,0.023458,0.8059,,900.0,inferred,689.0
+OBS_281,Peiraiefs,23.633,37.95,macroseismic,0.023423,0.8059,,358.71,inferred,399.0
+obs_200,AVLONA  ANATOLIKI-ATTIKI(6441),23.705,38.266,macroseismic,0.023398,0.8059,,331.66,inferred,400.0
+obs_178,PALIAMPELA  AITOLOAKARNANIA(1.062),20.955,38.919,macroseismic,0.023375,0.8059,,486.85,inferred,581.0
+obs_221,ANO-LIOSIA  DYTIKI-ATTIKI(21397),23.685,38.074,macroseismic,0.023292,0.8059,,409.35,inferred,462.0
+OBS_184,Koroni,21.75,37.233,macroseismic,0.023261,0.8059,,900.0,inferred,621.0
+OBS_156,Kastoreion,22.28,37.17,macroseismic,0.023252,0.8059,,774.82,inferred,589.0
+OBS_121,Georgitsion,22.27,37.17,macroseismic,0.023249,0.8059,,900.0,inferred,690.0
+OBS_327,Sellasia,22.38,37.17,macroseismic,0.02324,0.8059,,485.45,inferred,684.0
+OBS_195,Kyparissia,21.67,37.25,macroseismic,0.023216,0.8059,,489.95,inferred,535.0
+obs_250,POROS  KEPHALLINIA(1071),20.747,38.135,macroseismic,0.023189,0.8059,,407.0,inferred,404.0
+obs_278,KASTOREIO  LAKONIA(753),22.32,37.165,macroseismic,0.023188,0.8059,,666.71,inferred,686.0
+obs_331,PEIRAIAS  PIREAS(182671),23.656,37.946,macroseismic,0.023165,0.8059,,251.73,inferred,389.0
+obs_281,SELASSIA  LAKONIA(487),22.405,37.164,macroseismic,0.023142,0.8059,,579.22,inferred,685.0
+OBS_48,Ano Liosia,23.7,38.07,macroseismic,0.023121,0.8059,,517.7,inferred,585.0
+obs_298,KYPARISSIA  MESSINIA(5149),21.673,37.239,macroseismic,0.023084,0.8059,,900.0,inferred,594.0
+obs_214,AIGALEO  ATHINA(78.563),23.678,37.984,macroseismic,0.023084,0.8059,,337.79,inferred,314.0
+obs_290,VOLOS  MAGNISIA(77192),22.924,39.349,macroseismic,0.02304,0.8059,,446.29,inferred,353.0
+OBS_30,Aigaleo,23.683,37.983,macroseismic,0.023029,0.8059,,296.8,inferred,351.0
+obs_217,KAMATERO  ATHINA(17.41),23.706,38.055,macroseismic,0.023018,0.8059,,513.77,inferred,455.0
+OBS_239,Mavrommation,21.7,39.417,macroseismic,0.023017,0.8059,,900.0,inferred,589.0
+OBS_149,Kamateron,23.7,38.03,macroseismic,0.023008,0.8059,,382.06,inferred,386.0
+obs_291,ARPHARA  MESSINIA(1247),22.107,37.159,macroseismic,0.022944,0.8059,,707.57,inferred,591.0
+obs_247,MAVROMMATI  KARDITSA(1683),21.7,39.423,macroseismic,0.022941,0.8059,,701.7,inferred,503.0
+OBS_16,Agios Konstantinos,20.87,38.87,macroseismic,0.022902,0.8059,,275.93,inferred,129.0
+OBS_259,Nea Ionia,22.917,39.367,macroseismic,0.022852,0.8059,,299.1,inferred,333.0
+obs_196,VONITSA  AITOLOAKARNANIA(4.353),20.874,38.891,macroseismic,0.022811,0.8059,,834.33,inferred,609.0
+obs_249,ITHAKI  KEPHALLINIA(1715),20.693,38.352,macroseismic,0.022768,0.8059,,900.0,inferred,638.0
+OBS_28,Agnanteron,21.85,39.47,macroseismic,0.02274,0.8059,,212.29,inferred,261.0
+OBS_383,Veanitsa,20.883,38.917,macroseismic,0.022729,0.8059,,310.78,inferred,348.0
+OBS_59,Arfara,22.03,37.15,macroseismic,0.022717,0.8059,,357.88,inferred,439.0
+OBS_258,Nea Filadelfeia,23.734,38.034,macroseismic,0.022673,0.8059,,347.66,inferred,366.0
+obs_219,NEA-PHILADELPHIA  ATHINA(25.261),23.738,38.037,macroseismic,0.022641,0.8059,,415.79,inferred,579.0
+OBS_381,Volos,22.967,39.367,macroseismic,0.022635,0.8059,,449.36,inferred,413.0
+OBS_105,Eretria,23.783,38.383,macroseismic,0.022602,0.8059,,600.0,inferred,600.0
+obs_302,PLATY  MESSINIA(520),22.005,37.142,macroseismic,0.02258,0.8059,,337.7,inferred,442.0
+obs_289,NEA-IONIA  MAGNISIA(28537),22.914,39.394,macroseismic,0.022544,0.8059,,568.6,inferred,424.0
+obs_244,AGNANTERO  KARDITSA(2129),21.842,39.485,macroseismic,0.022534,0.8059,,208.72,inferred,377.0
+OBS_117,Galatsion,23.75,38.02,macroseismic,0.022474,0.8059,,512.71,inferred,584.0
+obs_187,PLAGIA  AITOLOAKARNANIA(950),20.791,38.817,macroseismic,0.022464,0.8059,,900.0,inferred,615.0
+obs_251,SAMI  KEPHALLINIA(928),20.661,38.25,macroseismic,0.022443,0.8059,,900.0,inferred,601.0
+obs_216,GALATSI  ATHINA(57.23),23.755,38.019,macroseismic,0.022423,0.8059,,540.6,inferred,586.0
+obs_213,AGIOS-DIMITRIOS  ATHINA(57.574),23.729,37.933,macroseismic,0.022389,0.8059,,393.28,inferred,432.0
+OBS_4,Agia Anna,23.78,38.57,macroseismic,0.022362,0.8059,,321.08,inferred,419.0
+OBS_322,Sami,20.65,38.25,macroseismic,0.022334,0.8059,,900.0,inferred,601.0
+OBS_292,Plagia,20.767,38.8,macroseismic,0.022328,0.8059,,636.71,inferred,593.0
+OBS_297,Platy,22.0,37.12,macroseismic,0.022297,0.8059,,333.45,inferred,542.0
+OBS_215,Lithakia,20.833,37.717,macroseismic,0.022233,0.8059,,732.79,inferred,460.0
+OBS_107,Eva,21.95,37.12,macroseismic,0.022231,0.8059,,430.74,inferred,485.0
+obs_220,PEFKI  ATHINA(17.987),23.79,38.058,macroseismic,0.022186,0.8059,,366.62,inferred,529.0
+obs_237,ERETRIA  EVIA(4987),23.824,38.429,macroseismic,0.022168,0.8059,,611.83,inferred,494.0
+obs_351,LITHAKIA  ZAKYNTHOS(916),20.831,37.708,macroseismic,0.022161,0.8059,,813.81,inferred,495.0
+obs_296,EVA  MESSINIA(689),21.975,37.111,macroseismic,0.022154,0.8059,,329.95,inferred,306.0
+OBS_3,Afidnai,23.82,38.2,macroseismic,0.022137,0.8059,,555.9,inferred,587.0
+obs_352,SKOULIKADO  ZAKYNTHOS(497),20.771,37.795,macroseismic,0.022135,0.8059,,900.0,inferred,495.0
+OBS_334,Skoulikado,20.767,37.8,macroseismic,0.022126,0.8059,,900.0,inferred,610.0
+obs_199,APHIDNES  ANATOLIKI-ATTIKI(1504),23.82,38.19,macroseismic,0.022124,0.8059,,566.65,inferred,526.0
+OBS_280,Pefki,23.8,38.05,macroseismic,0.022072,0.8059,,422.82,inferred,475.0
+obs_218,NEA-ERYTHRAIA  ATHINA(12.993),23.82,38.093,macroseismic,0.021975,0.8059,,475.18,inferred,479.0
+OBS_362,Thouria,22.05,37.083,macroseismic,0.021915,0.8059,,485.75,inferred,485.0
+OBS_342,Sparti,22.417,37.067,macroseismic,0.021899,0.8059,,345.23,inferred,313.0
+obs_304,THOURIA  MESSINIA(1140),22.042,37.082,macroseismic,0.021893,0.8059,,315.2,inferred,273.0
+obs_283,SPARTI  LAKONIA(14084),22.429,37.053,macroseismic,0.021726,0.8059,,320.46,inferred,413.0
+OBS_249,Mikromani,22.02,37.07,macroseismic,0.021725,0.8059,,233.08,inferred,328.0
+obs_301,MIKROMANI  MESSINIA(735),22.034,37.067,macroseismic,0.021708,0.8059,,239.73,inferred,331.0
+OBS_151,Kapandrition,23.87,38.22,macroseismic,0.021693,0.8059,,533.54,inferred,527.0
+obs_198,AGIOS-STEPHANOS  ANATOLIKI-ATTIKI(5333),23.859,38.141,macroseismic,0.021693,0.8059,,284.65,inferred,510.0
+OBS_205,Lefkas,20.7,38.817,macroseismic,0.021667,0.8059,,468.37,inferred,579.0
+obs_201,KAPANDRITI  ANATOLIKI-ATTIKI(1838),23.886,38.216,macroseismic,0.021544,0.8059,,530.99,inferred,522.0
+obs_288,LEFKADA  LEVKADA(6721),20.691,38.831,macroseismic,0.021532,0.8059,,283.23,inferred,274.0
+obs_203,VOULIAGMENI  ANATOLIKI-ATTIKI(3450),23.772,37.813,macroseismic,0.021518,0.8059,,414.35,inferred,414.0
+OBS_246,Messini,22.004,37.052,macroseismic,0.0215,0.8059,,334.49,inferred,415.0
+OBS_40,Amyklai,22.433,37.033,macroseismic,0.021494,0.8059,,347.66,inferred,393.0
+obs_287,AGIOS-PETROS  LEVKADA(647),20.603,38.656,macroseismic,0.021395,0.8059,,900.0,inferred,560.0
+OBS_19,Agios Petros,20.6,38.65,macroseismic,0.021385,0.8059,,900.0,inferred,571.0
+obs_273,AMYKLES  LAKONIA(871),22.446,37.024,macroseismic,0.021383,0.8059,,360.39,inferred,354.0
+obs_300,MESSINI  MESSINIA(6519),22.002,37.04,macroseismic,0.021364,0.8059,,347.34,inferred,335.0
+OBS_67,Avlona,23.92,38.12,macroseismic,0.021126,0.8059,,624.89,inferred,591.0
+obs_292,AVRAMIO  MESSINIA(628),21.94,37.023,macroseismic,0.021105,0.8059,,346.35,inferred,512.0
+OBS_68,Avramion,21.92,37.02,macroseismic,0.02105,0.8059,,438.24,inferred,560.0
+obs_293,CHORA  MESSINIA(3135),21.727,37.049,macroseismic,0.021036,0.8059,,474.06,inferred,523.0
+OBS_234,Marathon,23.95,38.12,macroseismic,0.020874,0.8059,,900.0,inferred,609.0
+obs_276,GERAKI  LAKONIA(1393),22.692,36.987,macroseismic,0.020661,0.8059,,436.62,inferred,435.0
+obs_202,MARATHONAS  ANATOLIKI-ATTIKI(12979),23.986,38.16,macroseismic,0.020631,0.8059,,533.14,inferred,586.0
+OBS_122,Gerakion,22.7,36.983,macroseismic,0.020606,0.8059,,455.32,inferred,401.0
+obs_274,DAPHNI  LAKONIA(375),22.461,36.945,macroseismic,0.020533,0.8059,,743.44,inferred,593.0
+obs_282,SKALA  LAKONIA(3.291),22.632,36.947,macroseismic,0.020365,0.8059,,389.5,inferred,482.0
+OBS_186,Kremmydia,21.77,36.97,macroseismic,0.020327,0.8059,,405.27,inferred,479.0
+obs_303,PYLOS  MESSINIA(2473),21.706,36.964,macroseismic,0.020154,0.8059,,580.51,inferred,542.0
+OBS_76,Chora,22.27,36.9,macroseismic,0.020135,0.8059,,900.0,inferred,579.0
+OBS_255,Mytikas,24.07,38.37,macroseismic,0.0201,0.8059,,889.62,inferred,650.0
+OBS_191,Krokeai,22.52,36.87,macroseismic,0.019767,0.8059,,550.0,inferred,540.0
+obs_279,KROKEES  LAKONIA(1384),22.541,36.87,macroseismic,0.019748,0.8059,,423.99,inferred,584.0
+OBS_308,Pylos,21.7,36.92,macroseismic,0.019741,0.8059,,587.44,inferred,523.0
+obs_285,VLACHIOTIS  LAKONIA(2.33),22.718,36.87,macroseismic,0.019524,0.8059,,492.04,inferred,463.0
+OBS_154,Karyes,22.45,36.82,macroseismic,0.019368,0.8059,,697.45,inferred,592.0
+OBS_380,Vlachiotis,22.7,36.83,macroseismic,0.01921,0.8059,,238.36,inferred,270.0
+obs_297,KORONI  MESSINIA(1794),21.939,36.793,macroseismic,0.018946,0.8059,,457.47,inferred,424.0
+obs_284,SYKIA  LAKONIA(1042),22.923,36.778,macroseismic,0.018427,0.8059,,338.71,inferred,350.0
+OBS_329,Skala,22.42,36.68,macroseismic,0.018248,0.8059,,655.08,inferred,535.0
+obs_272,AGIOS-IOANNIS  LAKONIA(508),23.022,36.755,macroseismic,0.018069,0.8059,,826.68,inferred,597.0
+obs_280,PAPPADIANIKA  LAKONIA(1.484),22.859,36.696,macroseismic,0.01795,0.8059,,686.91,inferred,593.0
+OBS_275,Pappadianika,22.45,36.55,macroseismic,0.017324,0.8059,,613.62,inferred,661.0
+OBS_355,Sykea,22.92,36.57,macroseismic,0.017041,0.8059,,600.0,inferred,600.0
+OBS_81,Dafni,22.92,36.5,macroseismic,0.016626,0.8059,,600.0,inferred,600.0
+OBS_15,Agios Ioannis,23.07,36.47,macroseismic,0.016259,0.8059,,600.0,inferred,600.0

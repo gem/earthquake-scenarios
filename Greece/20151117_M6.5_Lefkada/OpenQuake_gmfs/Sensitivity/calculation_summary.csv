@@ -1,0 +1,109 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+20,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",7, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.098569,-0.08,0.089,0.08
+21,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",8, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.1783356,-0.109,0.089,0.109
+20,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",7, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.098569,-0.172,0.089,0.172
+19,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22144109,-0.198,0.089,0.198
+21,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",8, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.1783356,-0.205,0.089,0.205
+19,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22144109,-0.304,0.089,0.304
+20,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",7, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.098569,-0.531,0.089,0.531
+21,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",8, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.1783356,-0.56,0.089,0.56
+19,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22144109,-0.649,0.089,0.649
+20,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",7, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.098569,-0.891,0.089,0.891
+21,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",8, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.1783356,-0.915,0.089,0.915
+20,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",7, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.098569,-0.982,0.089,0.982
+19,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22144109,-0.993,0.089,0.993
+21,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",8, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.1783356,-1.011,0.089,1.011
+19,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",9, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22144109,-1.1,0.089,1.1
+23,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",4, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.098569,-1.653,0.08,1.653
+24,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.098569,-1.654,0.08,1.654
+23,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",4, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.098569,-1.66,0.088,1.66
+24,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.098569,-1.665,0.088,1.665
+22,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.098569,-1.716,0.088,1.716
+22,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.098569,-1.726,0.08,1.726
+23,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",4, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.098569,-1.839,0.086,1.839
+24,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",5, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.098569,-1.856,0.086,1.856
+22,"20151117_M6.5_Lefkada median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",5, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.098569,-1.908,0.086,1.908
+13,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.4219826,,,
+13,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.44069535,,,
+13,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.40406442,,,
+13,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.2606913,,,
+13,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.68306583,,,
+14,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.09491661,,,
+14,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.094887234,,,
+14,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.094946004,,,
+14,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.058637332,,,
+14,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.1536421,,,
+15,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.31035843,,,
+15,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.32241613,,,
+15,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.29875165,,,
+15,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.1917324,,,
+15,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.5023791,,,
+16,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.4483291,,,
+16,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.33436358,,,
+16,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.53529197,,,
+17,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.08714102,,,
+17,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.09389652,,,
+17,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.16928224,,,
+18,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.30689633,,,
+18,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.27647936,,,
+18,"20151117_M6.5_Lefkada median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.4524023,,,

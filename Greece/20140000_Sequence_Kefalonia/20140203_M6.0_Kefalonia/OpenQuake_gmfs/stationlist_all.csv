@@ -1,0 +1,66 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+ARG2,Prefecture Argostoli Cephalonia Ionian Islands,20.4878,38.1783,seismic,0.256891,0.0,B (inferred from topography),435.0,inferred_USGS,435.0
+VAS2,HealthCenter Vassiliki Lefkas Island,20.608081,38.630558,seismic,0.057042,0.0,C (inferred from topography),560.0,inferred_USGS,560.0
+VLMS,VOLIMES,20.66284,37.87659,seismic,0.038036,0.0,B (inferred from topography),513.0,inferred_USGS,513.0
+MGNA,MEGANISSI,20.79116,38.65606,seismic,0.019441,0.0,B (inferred from topography),519.0,inferred_USGS,519.0
+MSL1,Prefecture Mesologgi Western Greece,21.4243,38.3727,seismic,0.015481,0.0,C (inferred from topography),317.0,inferred_USGS,317.0
+KRI1,Town Hall Keri Zakynthos Ionian Islands,20.8172,37.6621,seismic,0.01362,0.0,A (inferred from topography),573.0,inferred_USGS,573.0
+KLV1,Health Center Kalavryta Achaea Peloponnese,22.10797,38.03256,seismic,0.005149,0.0,B (inferred from topography),449.0,inferred_USGS,449.0
+RIOA,Rio Greece,21.79118,38.29585,seismic,0.004753,0.0,B (inferred from topography),445.0,inferred_USGS,445.0
+KRK1,Prefecture Veterinary Corfu Ionian Islands,19.9202,39.618861,seismic,0.003273,0.0,B (inferred from topography),311.0,inferred_USGS,311.0
+ART2,Hospital Arta Epirus,20.9937,39.1474,seismic,0.002309,0.0,A (inferred from topography),586.0,inferred_USGS,586.0
+JAN,Ioannina  Greece,20.84874,39.65616,seismic,0.00178,0.0,B (inferred from topography),525.0,inferred_USGS,525.0
+KASA,KASSIOPI,19.93542,39.74628,seismic,0.001316,0.0,A (inferred from topography),784.0,inferred_USGS,784.0
+ITM,Ithomi Messinia Greece,21.92522,37.17872,seismic,0.001174,0.0,A (inferred from topography),595.0,inferred_USGS,595.0
+DLFA,Delfoi  Greece,22.49583,38.47836,seismic,0.001016,0.0,A (inferred from topography),597.0,inferred_USGS,597.0
+LSK,Leskovik  Albania,20.5987,40.149899,seismic,0.000883,0.0,A,818.0,A,667.0
+YDRA,Ydra Island  Greece,23.46525,37.34923,seismic,0.000795,0.0,A (inferred from topography),594.0,inferred_USGS,594.0
+NPS1,HealthCenter Neapoli Laconia Peloponnese,23.06248,36.51263,seismic,0.000736,0.0,B (inferred from topography),456.0,inferred_USGS,456.0
+VLO,Vlore  Albania,19.495501,40.468601,seismic,0.000693,0.0,B,375.0,B,420.0
+VOL2,Prefecture Volos Magnesia Thessaly,22.9506,39.366,seismic,0.000646,0.0,B (inferred from topography),311.0,inferred_USGS,311.0
+BERA1,BERATI PRIVATE BUILDING,19.945463,40.708161,seismic,0.000616,0.0,A,1007.0,A,541.0
+SRN,Sarande  Albania,20.0005,39.880001,seismic,0.000528,0.0,A,1512.0,A,843.0
+PYL1,TownHall Pylos Messenia Peloponnese,21.695161,36.914188,seismic,0.000524,0.0,B (inferred from topography),600.0,inferred_USGS,600.0
+NOAC,NOA Athens Greece,23.71767,37.97384,seismic,0.000471,0.0,B (inferred from topography),530.0,inferred_USGS,530.0
+KTHA,NOA GEOFON Station Kythira  Greece,23.0621,36.2566,seismic,0.000421,0.0,B (inferred from topography),587.0,inferred_USGS,587.0
+CAR1,CAROLEI,16.2114,39.2534,seismic,0.000353,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+LMS2,TownHall Laimos Florina Western Macedonia,21.141815,40.834985,seismic,0.000288,0.0,B (inferred from topography),605.0,inferred_USGS,605.0
+MNVA,Monemvasia  Greece,23.03734,36.68709,seismic,0.00028,0.0,B (inferred from topography),598.0,inferred_USGS,598.0
+ALNA,ALONNISSOS,23.86669,39.14804,seismic,0.000258,0.0,C (inferred from topography),605.0,inferred_USGS,605.0
+CH01,Prefecture Technical Services  Chania Crete,24.0208,35.517,seismic,0.000241,0.0,B (inferred from topography),385.0,inferred_USGS,385.0
+KBN,Korce  Albania,20.7874,40.6236,seismic,0.00024,0.0,B,742.0,B,493.0
+ANKY,Antikythira Island  Greece,23.30117,35.86704,seismic,0.000239,0.0,B (inferred from topography),536.0,inferred_USGS,536.0
+SKO1,TownHall Skopelos Skopelos Island,23.728705,39.123383,seismic,0.000211,0.0,A (inferred from topography),629.0,inferred_USGS,629.0
+PIPA,Pietrapaola,16.8158,39.48514,seismic,0.000197,0.0,B (inferred from geology),994.0,inferred_USGS,994.0
+JOPP,Joppolo,15.8856,38.6068,seismic,0.00019,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+CEL,Celeste  Italy,15.8939,38.2603,seismic,0.000169,0.0,B (inferred from geology),794.0,inferred_USGS,794.0
+SKY1,TownHall Skyros Skyros Island,24.564572,38.904483,seismic,0.000154,0.0,B (inferred from topography),491.0,inferred_USGS,491.0
+PLAC,Placanica,16.4383,38.4494,seismic,0.000147,0.0,A (inferred from geology),999.0,inferred_USGS,999.0
+T0721,Laino Castello  CS,15.976946,39.936913,seismic,0.000146,0.0,A (inferred from geology),183.0,inferred_USGS,183.0
+TNSA,Tinos Island  Greece,25.1631,37.53942,seismic,0.00014,0.0,B (inferred from topography),678.0,inferred_USGS,678.0
+SALB,San Lorenzo Bellizzi,16.3459,39.8772,seismic,0.000138,0.0,B (inferred from geology),603.0,inferred_USGS,603.0
+KKS,KUKESI SEISM. STATION,20.4113,42.0756,seismic,0.000122,0.0,B,745.0,B,425.0
+SIRI,Monte Sirino   Moliterno,15.8675,40.1821,seismic,0.000109,0.0,B (inferred from geology),994.0,inferred_USGS,994.0
+SDA,SHKODER SEISM. STATION,19.5022,42.0505,seismic,0.000102,0.0,A,1118.0,A,318.0
+T0701,Mormanno,16.116141,39.98617,seismic,9.7e-05,0.0,B (inferred from geology),677.0,inferred_USGS,677.0
+PLG,Poligiros Chalkidiki Greece,23.44443,40.37328,seismic,9.7e-05,0.0,B (inferred from topography),579.0,inferred_USGS,579.0
+CUC,Castrocucco  Italy,15.8155,39.9938,seismic,8.2e-05,0.0,A (inferred from geology),825.0,inferred_USGS,825.0
+TIP,Timpagrande  Italy,16.7583,39.1794,seismic,6.8e-05,0.0,B (inferred from geology),997.0,inferred_USGS,997.0
+AGG,"Station Agios Georgios, Greece",22.336,39.0211,seismic,0.001392,0.0,,760.0,inferred,588.0
+LIT,Stasrv: unknown station,22.489,40.1003,seismic,0.001,0.0,,760.0,inferred,601.0
+SCTE,Santa Cesarea Terme,18.4675,40.0724,seismic,0.000768,0.0,,760.0,inferred,714.0
+WDD,"Wield Dalam, Malta",14.5242,35.8373,seismic,0.000376,0.0,,760.0,inferred,544.0
+ACER,Acerenza,15.9427,40.7867,seismic,0.000289,0.0,,760.0,inferred,990.0
+FNA,"Station Florina, Greece",21.3835,40.7818,seismic,0.000273,0.0,,760.0,inferred,621.0
+TIR,"Tirana, Albania",19.8631,41.3472,seismic,0.000214,0.0,,760.0,inferred,525.0
+SGRT,San Giovanni Rotondo,15.7437,41.7546,seismic,0.000176,0.0,,760.0,inferred,987.0
+MANT,"Manisa, Turkey",28.5578,38.4908,seismic,0.000103,0.0,,760.0,inferred,464.0
+PDG,"Podgorica, Crna Gora",19.2608,42.4297,seismic,9.9e-05,0.0,,760.0,inferred,267.0
+SANT,"Santorini, Notion Aiyaion, Greece",25.459,36.371,seismic,8.6e-05,0.0,,760.0,inferred,590.0
+INTR,INTRODACQUA,13.9046,42.01154,seismic,6.6e-05,0.0,,760.0,inferred,606.0
+CLTB,"Caltabellotta, Sicilia, Italy",13.21562,37.57857,seismic,6.3e-05,0.0,,760.0,inferred,1000.0
+PAOL,Paolisi,14.567486,41.031206,seismic,6.2e-05,0.0,,760.0,inferred,231.0
+KARP,"NOA/RUB/GEOFON Station Karpathos, Greece",27.1612,35.5472,seismic,4.7e-05,0.0,,760.0,inferred,636.0
+CORL,Corleone (Palermo),13.3038,37.8943,seismic,4.5e-05,0.0,,760.0,inferred,994.0
+VTS,Stasrv: unknown station,23.235,42.618,seismic,2e-05,0.0,,760.0,inferred,788.0
+ALN,"Station Alexandroupolis, Greece",26.0497,40.8957,seismic,8e-06,0.0,,760.0,inferred,468.0

@@ -1,0 +1,23 @@
+job_id: 48
+job_description: 19950513_M6.5_KozaniGrevena median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Greece/19950513_M6.5_KozaniGrevena/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 1935731884 (total size 301.39 KB)
+Entering SLOW MODE. You have 2.8 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=3997 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Greece/19950513_M6.5_KozaniGrevena/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias mean: -0.028, Nominal bias stddev: 0.176
+GMM: CauzziEtAl2014, IMT: PGA, Nominal bias mean: -0.291, Nominal bias stddev: 0.183
+GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias mean: -0.823, Nominal bias stddev: 0.166
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '281.86 KB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 18 seconds from event_based
+Stored 140.64 KB of GMFs
+Exposing the outputs to the database
+Stored 864.29 KB on /Users/chago/oqdata/calc_48.hdf5 in 19 seconds
