@@ -1,0 +1,23 @@
+[2022-12-01 11:46:44.24 #238 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-USGS_seismic.ini [--hc=None]
+[2022-12-01 11:46:44.32 #238 INFO] Using engine version 3.16.0
+[2022-12-01 11:46:45.17 #238 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-12-01 11:46:45.20 #238 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-12-01 11:46:45.24 #238 INFO] Checksum of the inputs: 2920649731 (total size 518.39 KB)
+[2022-12-01 11:46:45.25 #238 INFO] Extracting the hazard sites from the site model
+[2022-12-01 11:46:45.36 #238 INFO] Read N=9523 hazard sites and L=1 hazard levels
+[2022-12-01 11:46:45.43 #238 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\stationlist_seismic.csv
+[2022-12-01 11:46:45.47 #238 INFO] min_iml=[1.e-10]
+[2022-12-01 11:46:45.54 #238 INFO] There are 4 realization(s)
+[2022-12-01 11:46:45.57 #238 INFO] Reordering the ruptures and storing the events
+[2022-12-01 11:46:45.63 #238 INFO] Reading 1 ruptures
+[2022-12-01 11:46:46.24 #238 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 1.285
+[2022-12-01 11:48:43.24 #238 INFO] GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.828
+[2022-12-01 11:50:40.13 #238 INFO] GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 1.131
+[2022-12-01 11:53:00.03 #238 INFO] GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): 1.208
+[2022-12-01 11:55:47.20 #238 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-12-01 11:55:47.21 #238 INFO] Received {'gmfdata': '893.68 KB', 'sig_eps': '365 B', 'times': '309 B', 'hcurves': '5 B'} in 541 seconds from event_based
+[2022-12-01 11:55:47.25 #238 INFO] Stored 446.5 KB of GMFs
+[2022-12-01 11:55:51.44 #238 INFO] Checking stored GMFs
+[2022-12-01 11:55:51.50 #238 WARNING] 
+[2022-12-01 11:55:51.58 #238 INFO] Exposing the outputs to the database
+[2022-12-01 11:55:51.62 #238 INFO] Stored 1.4 MB on C:\Users\Maria Camila\oqdata/calc_238.hdf5 in 546 seconds

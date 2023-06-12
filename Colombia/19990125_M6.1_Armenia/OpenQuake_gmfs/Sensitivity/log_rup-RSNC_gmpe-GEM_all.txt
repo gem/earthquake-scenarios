@@ -1,0 +1,29 @@
+[2022-12-02 13:00:52.63 #260 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19990125_M6.1_Armenia\OpenQuake_gmfs\Sensitivity\job_rup-RSNC_gmpe-GEM_all.ini [--hc=None]
+[2022-12-02 13:00:52.70 #260 INFO] Using engine version 3.16.0
+[2022-12-02 13:00:53.46 #260 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-12-02 13:00:53.48 #260 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-12-02 13:00:53.54 #260 INFO] Checksum of the inputs: 3647073371 (total size 524.87 KB)
+[2022-12-02 13:00:53.57 #260 INFO] Extracting the hazard sites from the site model
+[2022-12-02 13:00:53.66 #260 CRITICAL] 
+[2022-12-02 13:00:53.67 #260 CRITICAL] Traceback (most recent call last):
+  File "C:\Users\Maria Camila\oq-engine\openquake\engine\engine.py", line 279, in run_calc
+    calc.run(shutdown=True)
+  File "C:\Users\Maria Camila\oq-engine\openquake\calculators\base.py", line 240, in run
+    self.pre_execute()
+  File "C:\Users\Maria Camila\oq-engine\openquake\calculators\base.py", line 642, in pre_execute
+    self.read_inputs()
+  File "C:\Users\Maria Camila\oq-engine\openquake\calculators\base.py", line 477, in read_inputs
+    self._read_risk_data()
+  File "C:\Users\Maria Camila\oq-engine\openquake\calculators\base.py", line 802, in _read_risk_data
+    haz_sitecol = readinput.get_site_collection(oq, self.datastore)
+  File "C:\Users\Maria Camila\oq-engine\openquake\commonlib\readinput.py", line 535, in get_site_collection
+    mesh = get_mesh(oqparam, h5)
+  File "C:\Users\Maria Camila\oq-engine\openquake\commonlib\readinput.py", line 426, in get_mesh
+    sm = get_site_model(oqparam)
+  File "C:\Users\Maria Camila\oq-engine\openquake\commonlib\readinput.py", line 506, in get_site_model
+    return numpy.concatenate(arrays)
+  File "<__array_function__ internals>", line 180, in concatenate
+  File "C:\Users\Maria Camila\openquake\lib\site-packages\numpy\core\_internal.py", line 458, in _promote_fields
+    raise TypeError("invalid type promotion")
+TypeError: invalid type promotion
+

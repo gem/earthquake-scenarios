@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Global Hazard Mosaic - SAM  -->
+<!-- https://gitlab.openquake.org/hazard/mosaic/SAM/-/blob/e64882eacdcb36faf268d372de23b543ef7992e1/in/gmmLTrisk.xml -->
+
+
+<!-- Logic Tree for Active Shallow Crust -->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Active Shallow Crust">
+
+                <logicTreeBranch branchID="b51">
+                    <uncertaintyModel>AbrahamsonEtAl2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+                
+                <logicTreeBranch branchID="b52">
+                    <uncertaintyModel>BooreEtAl2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b53">
+                    <uncertaintyModel>CampbellBozorgnia2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+                
+                <logicTreeBranch branchID="b54">
+                    <uncertaintyModel>ChiouYoungs2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>                 
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

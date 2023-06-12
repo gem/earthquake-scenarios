@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1999
+Country,Colombia
+Region,Armenia
+Event_Name,Armenia_1999
+Local_Date,25/01/1999
+Local_Time,13:19:00
+Latitude,4.432
+Longitude,-75.703
+Depth_(km),15
+Mw,6.1
+Max_Intensity_(MMI),IX
+Fault_mechanism,Strike-Slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,1000-2000
+Injured,4000-10000
+Displaced_Population,67539-250000
+Affected_Population,200000-1534500
+Affected_Units,45019-90474 Units
+Damaged_Units,20000-61859 Units
+Collapsed_Units,15000-35972 Units
+Economic_Losses,1500-2630 M USD
+Insured_Losses,100-150 M USD
+Induced_Effects,Landslides
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp00091q3/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1994_P%C3%A1ez_River_earthquake

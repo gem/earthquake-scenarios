@@ -1,0 +1,11 @@
+ID_1,NAME_1,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+63,Quindio,,,,24720,,,,19081,,Shaking,Takao_Hashimoto_et_al_2008,
+66,Risaralda,,,,3161,,,,1399,,Shaking,Takao_Hashimoto_et_al_2008,
+76,Valle del Cauca,,,,2671,,,,278,,Shaking,Takao_Hashimoto_et_al_2008,
+17,Caldas,,,,1428,,,,396,,Shaking,Takao_Hashimoto_et_al_2008,
+73,Tolima,,,,107,,,,24,,Shaking,Takao_Hashimoto_et_al_2008,
+17,Caldas,,,,154,,,,21,,Shaking,CEPAL_1999,
+63,Quindio,,,,31743,,,,16459,,Shaking,CEPAL_1999,
+66,Risaralda,,,,7444,,,,859,,Shaking,CEPAL_1999,
+73,Tolima,,,,1097,,,,83,,Shaking,CEPAL_1999,
+76,Valle del Cauca,,,,3036,,,,129,,Shaking,CEPAL_1999,

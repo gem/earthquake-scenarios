@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -75.688,
+                        4.499,
+                        1.0
+                     ],
+                     [
+                        -75.698,
+                        4.439,
+                        1.0
+                     ],
+                     [
+                        -75.698,
+                        4.439,
+                        19.0
+                     ],
+                     [
+                        -75.688,
+                        4.499,
+                        19.0
+                     ],
+                     [
+                        -75.688,
+                        4.499,
+                        1.0
+                     ]
+                  ]
+               ]
+            ]
+         },
+         "properties":{
+            "rupture type":"rupture extent"
+         }
+      }
+   ],
+   "metadata":{
+      "reference":"Servicio Geol\u00f3gico Colombiano, INGEOMINAS. Red Sismol\u00f3gica Nacional de Colombia, http://seisan.ingeominas.gov.co/ (hypocenter) and http://bdrsnc.ingeominas.gov.co/boletines/1999/Semestrales/Bol_Sism_I-1999.pdf (FFM)",
+      "locstring":"Colombia",
+      "mag":6.1,
+      "network":"USGS National Earthquake Information Center, PDE",
+      "depth":17.0,
+      "lat":4.461,
+      "rake":0.0,
+      "time":"1999-01-25T18:19:16.000000Z",
+      "netid":"us",
+      "lon":-75.724,
+      "id":"usp00091q3",
+      "mech":"ALL",
+      "productcode":"usp00091q3"
+   }
+}

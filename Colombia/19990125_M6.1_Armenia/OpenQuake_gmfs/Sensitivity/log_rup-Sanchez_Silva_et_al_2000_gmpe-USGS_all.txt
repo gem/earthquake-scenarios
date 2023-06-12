@@ -1,0 +1,23 @@
+[2022-11-25 16:28:29.06 #159 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19990125_M6.1_Armenia\OpenQuake_gmfs\Sensitivity\job_rup-Sanchez_Silva_et_al_2000_gmpe-USGS_all.ini [--hc=None]
+[2022-11-25 16:28:29.13 #159 INFO] Using engine version 3.16.0
+[2022-11-25 16:28:29.83 #159 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-25 16:28:29.86 #159 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-25 16:28:29.90 #159 INFO] Checksum of the inputs: 1682818974 (total size 308.98 KB)
+[2022-11-25 16:28:29.94 #159 INFO] Extracting the hazard sites from the site model
+[2022-11-25 16:28:30.04 #159 INFO] Read N=9579 hazard sites and L=1 hazard levels
+[2022-11-25 16:28:30.09 #159 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19990125_M6.1_Armenia\OpenQuake_gmfs\stationlist_all.csv
+[2022-11-25 16:28:30.11 #159 INFO] min_iml=[1.e-10]
+[2022-11-25 16:28:30.15 #159 INFO] There are 4 realization(s)
+[2022-11-25 16:28:30.18 #159 INFO] Reordering the ruptures and storing the events
+[2022-11-25 16:28:30.21 #159 INFO] Reading 1 ruptures
+[2022-11-25 16:28:30.86 #159 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.394
+[2022-11-25 16:30:25.24 #159 INFO] GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.566
+[2022-11-25 16:32:17.86 #159 INFO] GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 0.177
+[2022-11-25 16:34:11.11 #159 INFO] GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): 0.467
+[2022-11-25 16:35:57.82 #159 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-25 16:35:57.85 #159 INFO] Received {'gmfdata': '454.23 KB', 'sig_eps': '365 B', 'times': '309 B', 'hcurves': '5 B'} in 447 seconds from event_based
+[2022-11-25 16:35:57.86 #159 INFO] Stored 226.78 KB of GMFs
+[2022-11-25 16:36:00.70 #159 INFO] Checking stored GMFs
+[2022-11-25 16:36:00.79 #159 WARNING] Your results are expected to have a large dependency from the rupture seed: 91%
+[2022-11-25 16:36:00.91 #159 INFO] Exposing the outputs to the database
+[2022-11-25 16:36:00.97 #159 INFO] Stored 1.31 MB on C:\Users\Maria Camila\oqdata/calc_159.hdf5 in 451 seconds

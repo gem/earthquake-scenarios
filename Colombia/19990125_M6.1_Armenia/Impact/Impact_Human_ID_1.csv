@@ -1,0 +1,13 @@
+ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
+63,Quindio,1033.0,1033.0,3744.0,,,Shaking,Takao_Hashimoto_et_al_2008,
+66,Risaralda,51.0,51.0,761.0,,,Shaking,Takao_Hashimoto_et_al_2008,
+76,Valle del Cauca,85.0,85.0,240.0,,,Shaking,Takao_Hashimoto_et_al_2008,
+73,Tolima,2.0,2.0,50.0,,,Shaking,Takao_Hashimoto_et_al_2008,
+17,Caldas,0.0,0.0,0.0,,,Shaking,Takao_Hashimoto_et_al_2008,
+63,Quindio,1110.0,1110.0,7166.0,143670.0,950908.0,Shaking,CEPAL_1999,
+66,Risaralda,68.0,68.0,1218.0,12621.0,312111.0,Shaking,CEPAL_1999,
+73,Tolima,3.0,3.0,23.0,1412.0,207969.0,Shaking,CEPAL_1999,
+76,Valle del Cauca,3.0,3.0,108.0,2490.0,369178.0,Shaking,CEPAL_1999,
+17,Caldas,1.0,1.0,8.0,200.0,5599.0,Shaking,CEPAL_1999,
+11,"Bogotá, D.C.",,,,,50000.0,Shaking,CEPAL_1999,
+5,Antioquia,,,,,200000.0,Shaking,CEPAL_1999,

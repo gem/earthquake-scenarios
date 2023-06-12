@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Source: NEIC (2004) based on aftershock distribution",
+      "mech":"ALL",
+      "lon":-77.508,
+      "network":"USGS National Earthquake Information Center, PDE",
+      "rake":0.0,
+      "lat":4.695,
+      "id":"usp000d8gx",
+      "netid":"us",
+      "depth":15.0,
+      "locstring":"near the west coast of Colombia",
+      "mag":7.2,
+      "time":"2004-11-15T09:06:56.000000Z",
+      "productcode":"usp000d8gx"
+   },
+   "features":[
+      {
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -77.86687,
+                        4.53189,
+                        1.27148
+                     ],
+                     [
+                        -77.65282,
+                        5.05998,
+                        1.27148
+                     ],
+                     [
+                        -77.02291,
+                        4.80631,
+                        22.86308
+                     ],
+                     [
+                        -77.23697,
+                        4.27821,
+                        22.86308
+                     ],
+                     [
+                        -77.86687,
+                        4.53189,
+                        1.27148
+                     ]
+                  ]
+               ]
+            ]
+         },
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         }
+      }
+   ]
+}

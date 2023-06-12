@@ -1,0 +1,23 @@
+[2022-11-24 15:39:58.31 #115 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20041115_M7.2_Pizarro\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-GEM_seismic.ini [--hc=None]
+[2022-11-24 15:39:58.36 #115 INFO] Using engine version 3.16.0
+[2022-11-24 15:39:58.64 #115 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-24 15:39:58.66 #115 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-24 15:39:58.71 #115 INFO] Checksum of the inputs: 1579284365 (total size 520.7 KB)
+[2022-11-24 15:39:58.74 #115 WARNING] Entering SLOW MODE. You have 3.3 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+[2022-11-24 15:39:58.78 #115 INFO] Extracting the hazard sites from the site model
+[2022-11-24 15:39:58.93 #115 INFO] Read N=9531 hazard sites and L=1 hazard levels
+[2022-11-24 15:39:58.99 #115 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20041115_M7.2_Pizarro\OpenQuake_gmfs\stationlist_seismic.csv
+[2022-11-24 15:39:59.05 #115 INFO] min_iml=[1.e-10]
+[2022-11-24 15:39:59.24 #115 INFO] There are 3 realization(s)
+[2022-11-24 15:39:59.27 #115 INFO] Reordering the ruptures and storing the events
+[2022-11-24 15:39:59.34 #115 INFO] Reading 1 ruptures
+[2022-11-24 15:39:59.73 #115 INFO] GMM: AbrahamsonEtAl2015SInter, IMT: PGA, Nominal bias (mean): -0.090
+[2022-11-24 15:41:45.88 #115 INFO] GMM: MontalvaEtAl2016SInter, IMT: PGA, Nominal bias (mean): -0.284
+[2022-11-24 15:43:37.11 #115 INFO] GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): 0.325
+[2022-11-24 15:45:27.89 #115 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-24 15:45:27.90 #115 INFO] Received {'gmfdata': '671.05 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 328 seconds from event_based
+[2022-11-24 15:45:27.91 #115 INFO] Stored 335.16 KB of GMFs
+[2022-11-24 15:45:31.34 #115 INFO] Checking stored GMFs
+[2022-11-24 15:45:31.45 #115 WARNING] Your results are expected to have a large dependency from the rupture seed: 43%
+[2022-11-24 15:45:31.49 #115 INFO] Exposing the outputs to the database
+[2022-11-24 15:45:31.60 #115 INFO] Stored 1.39 MB on C:\Users\Maria Camila\oqdata/calc_115.hdf5 in 332 seconds

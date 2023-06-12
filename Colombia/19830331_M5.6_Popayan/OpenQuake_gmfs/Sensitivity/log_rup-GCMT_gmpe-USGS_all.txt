@@ -1,0 +1,23 @@
+[2022-11-28 12:41:25.46 #201 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19830331_M5.6_Popayan\OpenQuake_gmfs\Sensitivity\job_rup-GCMT_gmpe-USGS_all.ini [--hc=None]
+[2022-11-28 12:41:25.52 #201 INFO] Using engine version 3.16.0
+[2022-11-28 12:41:25.81 #201 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-28 12:41:25.82 #201 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-28 12:41:25.85 #201 INFO] Checksum of the inputs: 1752999130 (total size 503.73 KB)
+[2022-11-28 12:41:25.88 #201 INFO] Extracting the hazard sites from the site model
+[2022-11-28 12:41:26.02 #201 INFO] Read N=9278 hazard sites and L=1 hazard levels
+[2022-11-28 12:41:26.06 #201 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19830331_M5.6_Popayan\OpenQuake_gmfs\stationlist_all.csv
+[2022-11-28 12:41:26.11 #201 INFO] min_iml=[1.e-10]
+[2022-11-28 12:41:26.18 #201 INFO] There are 4 realization(s)
+[2022-11-28 12:41:26.20 #201 INFO] Reordering the ruptures and storing the events
+[2022-11-28 12:41:26.23 #201 INFO] Reading 1 ruptures
+[2022-11-28 12:41:27.17 #201 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.997
+[2022-11-28 12:43:16.71 #201 INFO] GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.505
+[2022-11-28 12:45:06.02 #201 INFO] GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 0.617
+[2022-11-28 12:46:58.30 #201 INFO] GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): 0.181
+[2022-11-28 12:48:49.14 #201 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-28 12:48:49.15 #201 INFO] Received {'gmfdata': '870.71 KB', 'sig_eps': '365 B', 'times': '309 B', 'hcurves': '5 B'} in 442 seconds from event_based
+[2022-11-28 12:48:49.16 #201 INFO] Stored 435.02 KB of GMFs
+[2022-11-28 12:48:52.13 #201 INFO] Checking stored GMFs
+[2022-11-28 12:48:52.19 #201 WARNING] Your results are expected to have a large dependency from the rupture seed: 38%
+[2022-11-28 12:48:52.22 #201 INFO] Exposing the outputs to the database
+[2022-11-28 12:48:52.28 #201 INFO] Stored 1.36 MB on C:\Users\Maria Camila\oqdata/calc_201.hdf5 in 446 seconds

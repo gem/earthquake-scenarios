@@ -1,0 +1,12 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+COL,Colombia,6,6,,,,,,,,,,,Landslides,,NOAA,
+COL,Colombia,11,11,54,1700.0,1754.0,,,,,10000000.0,,USD,Landslides,,EM-DAT,GEO Locations: Meta (Adm1). Quetame (Adm2).
+COL,Colombia,6,6,,,,,,,,,,,Landslides,,USGS,
+COL,Colombia,6,6,,,,,,,,,,,Landslides,,UTSU,
+COL,Colombia,11,11,304,,,,160.0,47.0,Buildings,,,,Landslides,,Reliefweb,
+COL,Colombia,11-33,11-33,50-4181,,10000.0,,,,,,,,Landslides,,Wikipedia,
+COL,Colombia,8,8,32,,,,2316.0,1234.0,Buildings,,,,,,Desinventar,
+COL,Colombia,11,11,54,,5000.0,,,,,,,,,,BBC,
+COL,Colombia,6,6,65,9000.0,,,,,,,,,,,Dicelis_et_al_2016,
+COL,Colombia,5,5,69,,2127.0,,1270.0,312.0,Buildings,,,,,,MoraPaez_et_al_2015,AFFECTED_POPULATION value refers to families affected.
+COL,Colombia,6,6,65,9000.0,,,,,,,,,,,OCHA_Full_Report,

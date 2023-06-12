@@ -1,0 +1,22 @@
+[2022-11-28 14:07:00.07 #206 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19940606_M6.8_Cauca\OpenQuake_gmfs\Sensitivity\job_rup-GCMT_gmpe-GEM_all.ini [--hc=None]
+[2022-11-28 14:07:00.11 #206 INFO] Using engine version 3.16.0
+[2022-11-28 14:07:00.37 #206 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-28 14:07:00.39 #206 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-28 14:07:00.53 #206 INFO] Checksum of the inputs: 4097129252 (total size 510.32 KB)
+[2022-11-28 14:07:00.55 #206 INFO] Extracting the hazard sites from the site model
+[2022-11-28 14:07:00.94 #206 INFO] Read N=9359 hazard sites and L=1 hazard levels
+[2022-11-28 14:07:01.10 #206 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\19940606_M6.8_Cauca\OpenQuake_gmfs\stationlist_all.csv
+[2022-11-28 14:07:01.18 #206 INFO] min_iml=[1.e-10]
+[2022-11-28 14:07:01.30 #206 INFO] There are 3 realization(s)
+[2022-11-28 14:07:01.36 #206 INFO] Reordering the ruptures and storing the events
+[2022-11-28 14:07:01.46 #206 INFO] Reading 1 ruptures
+[2022-11-28 14:07:02.41 #206 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.872
+[2022-11-28 14:10:53.01 #206 INFO] GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias (mean): 1.098
+[2022-11-28 14:14:50.60 #206 INFO] GMM: CauzziEtAl2014, IMT: PGA, Nominal bias (mean): 1.068
+[2022-11-28 14:18:53.38 #206 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-28 14:18:53.41 #206 INFO] Received {'gmfdata': '658.95 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 711 seconds from event_based
+[2022-11-28 14:18:53.43 #206 INFO] Stored 329.12 KB of GMFs
+[2022-11-28 14:19:00.78 #206 INFO] Checking stored GMFs
+[2022-11-28 14:19:00.95 #206 WARNING] 
+[2022-11-28 14:19:01.36 #206 INFO] Exposing the outputs to the database
+[2022-11-28 14:19:01.44 #206 INFO] Stored 1.32 MB on C:\Users\Maria Camila\oqdata/calc_206.hdf5 in 721 seconds

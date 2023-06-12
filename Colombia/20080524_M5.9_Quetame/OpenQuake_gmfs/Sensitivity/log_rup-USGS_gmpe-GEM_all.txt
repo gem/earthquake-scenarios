@@ -1,0 +1,23 @@
+[2022-12-01 11:08:33.67 #235 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-GEM_all.ini [--hc=None]
+[2022-12-01 11:08:33.71 #235 INFO] Using engine version 3.16.0
+[2022-12-01 11:08:34.74 #235 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-12-01 11:08:34.75 #235 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-12-01 11:08:34.84 #235 INFO] Checksum of the inputs: 1510119118 (total size 518.43 KB)
+[2022-12-01 11:08:34.86 #235 WARNING] Entering SLOW MODE. You have 3.4 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+[2022-12-01 11:08:34.90 #235 INFO] Extracting the hazard sites from the site model
+[2022-12-01 11:08:35.25 #235 INFO] Read N=9523 hazard sites and L=1 hazard levels
+[2022-12-01 11:08:35.34 #235 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\stationlist_all.csv
+[2022-12-01 11:08:35.39 #235 INFO] min_iml=[1.e-10]
+[2022-12-01 11:08:35.50 #235 INFO] There are 3 realization(s)
+[2022-12-01 11:08:35.55 #235 INFO] Reordering the ruptures and storing the events
+[2022-12-01 11:08:35.62 #235 INFO] Reading 1 ruptures
+[2022-12-01 11:08:36.53 #235 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 1.290
+[2022-12-01 11:12:36.87 #235 INFO] GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias (mean): 1.273
+[2022-12-01 11:16:45.35 #235 INFO] GMM: CauzziEtAl2014, IMT: PGA, Nominal bias (mean): 1.130
+[2022-12-01 11:20:53.53 #235 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-12-01 11:20:53.59 #235 INFO] Received {'gmfdata': '670.48 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 737 seconds from event_based
+[2022-12-01 11:20:53.62 #235 INFO] Stored 334.88 KB of GMFs
+[2022-12-01 11:21:00.56 #235 INFO] Checking stored GMFs
+[2022-12-01 11:21:00.70 #235 WARNING] Your results are expected to have a large dependency from the rupture seed: 13%
+[2022-12-01 11:21:00.92 #235 INFO] Exposing the outputs to the database
+[2022-12-01 11:21:00.98 #235 INFO] Stored 1.35 MB on C:\Users\Maria Camila\oqdata/calc_235.hdf5 in 746 seconds

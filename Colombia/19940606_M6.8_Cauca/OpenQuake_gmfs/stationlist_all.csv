@@ -1,0 +1,51 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+CBOG1,BOGOTA,-74.08,4.641,seismic,0.03484,0.0
+CPENS,PENSILVANIA,-75.161,5.393,seismic,0.03385,0.0
+CVHER,VILLAHERMOSA,-75.12,5.032,seismic,0.02986,0.0
+CROSA,EL ROSAL,-74.321,4.848,seismic,0.02489,0.0
+obs_2,Mosoco (Intensity IX),-76.14,2.73,macroseismic,1.43185,0.8059
+obs_9,Inza (Intensity IX),-76.06,2.55,macroseismic,1.43185,0.8059
+obs_1,Paez (Intensity IX),-75.99,2.65,macroseismic,1.32963,0.8059
+obs_3,Toribio (Intensity IX),-76.27,2.96,macroseismic,1.10804,0.8059
+obs_6,Jambalo (Intensity IX),-76.33,2.78,macroseismic,1.09094,0.8059
+obs_8,Totoro (Intensity IX),-76.4,2.5,macroseismic,1.0526,0.8059
+obs_7,Loma Redonda (Intensity IX),-76.33,2.94,macroseismic,1.05222,0.8059
+obs_5,Mondomo (Intensity IX),-76.55,2.89,macroseismic,0.90324,0.8059
+obs_10,Taravira (Intensity VIII),-76.08,2.79,macroseismic,0.76847,0.8059
+obs_4,San Francisco (Intensity VIII),-76.28,2.92,macroseismic,0.59961,0.8059
+obs_13,Silvia (Intensity VIII),-76.38,2.61,macroseismic,0.5754,0.8059
+obs_18,Rio Negro (Intensity VIII),-75.8,2.71,macroseismic,0.55535,0.8059
+obs_12,Caloto (Intensity VIII),-76.41,3.03,macroseismic,0.51497,0.8059
+obs_11,Vitanco (Intensity VII),-76.12,2.76,macroseismic,0.41244,0.8059
+obs_14,Guambia (Intensity VII),-76.3,2.61,macroseismic,0.34144,0.8059
+obs_23,La Plata (Intensity VII),-75.89,2.39,macroseismic,0.29924,0.8059
+obs_17,Riochiquito (Intensity VII),-75.8,2.67,macroseismic,0.29588,0.8059
+obs_16,Piendamo (Intensity VII),-76.52,2.62,macroseismic,0.27404,0.8059
+obs_15,Caldono (Intensity VII),-76.5,2.8,macroseismic,0.27115,0.8059
+obs_22,Iquira (Intensity VII),-75.64,2.65,macroseismic,0.26287,0.8059
+obs_21,Usenda (Intensity VI),-76.41,2.61,macroseismic,0.16086,0.8059
+obs_20,Santander de Quilichao (Intensity VI),-76.48,3.01,macroseismic,0.14291,0.8059
+obs_19,Popayan (Intensity VI),-76.58,2.5,macroseismic,0.14176,0.8059
+obs_27,Cali (Intensity VI),-76.52,3.43,macroseismic,0.12544,0.8059
+obs_24,Ricaurte (Intensity V),-75.96,2.52,macroseismic,0.09926,0.8059
+obs_28,Ibague (Intensity VI),-75.23,4.44,macroseismic,0.09894,0.8059
+obs_26,Tesalia (Intensity V),-75.73,2.49,macroseismic,0.07852,0.8059
+obs_25,Pacarni (Intensity V),-75.7,2.61,macroseismic,0.0782,0.8059
+OBS_9,Popayan,-76.659,2.438,macroseismic,0.07245,0.8059
+obs_32,Yaguara (Intensity V),-75.52,2.66,macroseismic,0.07176,0.8059
+obs_34,Gigante (Intensity V),-75.54,2.39,macroseismic,0.07005,0.8059
+obs_33,Hobo (Intensity V),-75.45,2.58,macroseismic,0.06856,0.8059
+OBS_8,Neiva,-75.324,2.915,macroseismic,0.06811,0.8059
+OBS_6,Ibague,-75.301,4.444,macroseismic,0.05335,0.8059
+OBS_5,Armenia,-75.719,4.579,macroseismic,0.05332,0.8059
+OBS_4,Pereira,-75.748,4.822,macroseismic,0.0514,0.8059
+OBS_3,Manizales,-75.539,5.127,macroseismic,0.04913,0.8059
+obs_29,Bogota (Intensity V),-74.18,4.25,macroseismic,0.04902,0.8059
+OBS_7,Cali,-76.569,3.445,macroseismic,0.03224,0.8059
+OBS_10,Florencia,-75.645,1.602,macroseismic,0.02572,0.8059
+CBOG1,Bogota,-74.08,4.64,seismic,0.02268,0.0
+OBS_11,Mocoa,-76.66,1.152,macroseismic,0.02058,0.8059
+obs_30,Pasto (Intensity IV),-77.28,1.21,macroseismic,0.01843,0.8059
+obs_31,Ipiales (Intensity IV),-77.65,0.83,macroseismic,0.0155,0.8059
+OBS_2,Santa Fe de Bogota D.C.,-74.107,4.651,macroseismic,0.01449,0.8059
+CROSA,El Rosal,-74.33,4.85,seismic,0.00723,0.0

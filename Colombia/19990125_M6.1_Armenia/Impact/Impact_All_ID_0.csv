@@ -1,0 +1,34 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+COL,Colombia,1185,1185,4750,,,,,,,1857366000.0,,USD,Landslides,,NOAA,
+COL,Colombia,1186,1186,8563,,1205933.0,,,,,1857366000.0,100000000.0,USD,Landslides,,EM-DAT,
+COL,Colombia,1900,1900,4750,,,,,,,,,,,,UTSU,
+COL,Colombia,1185,1185,4750,,,,,,,,,,Landslides,,USGS,
+COL,Colombia,1171,1171,4765,,425000.0,,45000.0,,Buildings,,,,,,Reliefweb,The Colombian Red Cross reports that 45000 houses were either destroyed or damaged.
+COL,Colombia,1185-1900,1185-1900,4000,,,,,,,,,,Landslides,,Wikipedia,
+COL,Colombia,1185,1185,4370,,,,,,,,,,,,Alberto_Vargas_Jimenez_et_al_2009,
+COL,Colombia,858,858,5237,,,,,,,,,,,,Armando_Rodriguez_Salva_et_al_2005,The information referred to Quindío.
+COL,Colombia,1200,1200,5000,200000.0,,,50000.0,,Buildings,2000000000.0,,USD,,,Asfura_et_al_1999,"Approximately 90,000 families were displaced by the earthquake."
+COL,Colombia,1000,1000,4000,200000.0,,,,,,1800000000.0,,USD,,,BBC,
+COL,Colombia,1230,1230,5300,200000.0,,,,,,,,,,,Cardona_2000,
+COL,Colombia,2000,2000,10000,,,,20000.0,15000.0,Buildings,,,,,,Chavez_Garcia_et_al_2020,Statistics are related to the city of Armenia.
+COL,Colombia,1200,1200,,,,,,,,,,,,,Escallon_et_al_2000,Statistics are related to the Province of Quindío.
+COL,Colombia,1171,1171,5000,250000.0,,,,,,1500000000.0,,USD,,,Field_Report_by_EEFIT_2000,More  than 50000 structures were destroyed.
+COL,Colombia,1185,1185,8523,67539.0,,79446.0,,17551.0,Buildings,,,,,,Garcia_2000,"Of BUILDINGS_AFFECTED,43,474 had minor to moderate damage, and 35, 972 were severely damaged."
+COL,Colombia,1185,1185,8523,,,,,,,,,,,,CEPAL_1999,
+COL,Colombia,1230,1230,5300,200000.0,,,50000.0,,Buildings,,,,,,ISDR,
+COL,Colombia,1230-2000,1230-2000,5300,,200000.0,,50000.0,,Buildings,,,,,,Jessica_Chara_Varanzeta_blog,BUILDINGS_DAMAGED refers to the coffee zone.
+COL,Colombia,800,800,2300,,,30000.0,,,Buildings,,,,,,Jhonsoncastellanossk,Statistics are related to the city of Armenia.
+COL,Colombia,1185,1185,,,,,,,,,,,,,WorldData,
+COL,Colombia,1184,1184,>5000,,,,,,,,,,,,Restrepo_2000,
+COL,Colombia,1171,1171,8523,,400483.0,90474.0,,35972.0,Buildings,2630800000.0,149900000.0,USD,,,Sanchez_Silva_et_al_2000,"43476 buildings were damaged partially, and 18420 were demolished."
+COL,Colombia,1185,1185,8536,,,,,35972.0,Buildings,2700000000.0,,MXN,Landslides,,sgs_earthquake19990125,
+COL,Colombia,1185-1900,1185-1900,8523,,,,,,,1857000000.0,150000000.0,USD,Landslides,,GEM,
+COL,Colombia,1187,1187,8523,,,,61859.0,17551.0,Buildings,1900000000.0,,USD,,,Villar_Vega_and_Silva_2017,BUILDINGS_COLLAPSED and BUILDINGS_DAMAGED refer to houses.
+COL,Colombia,1171,1171,4795,,,,,21178.0,Buildings,2000000000.0,,USD,,,Takao_Hashimoto_et_al_2008,32000 buildings collapsed partially.
+COL,Colombia,1185,1185,4370,,,,,,,,,,,,Vargas_et_al_2008,
+COL,Colombia,1185-1900,1185-1900,4370,,,,,,,,,,,,Vargas_Monsalve_2009,
+COL,Colombia,2000,2000,10000,,,,20000.0,15000.0,Buildings,,,,,,Chavez_Garcia_et_al_Part1_2018,
+COL,Colombia,1171,1171,4765,,,,45019.0,17500.0,Buildings,1600000000.0,,MXN,,,Eltiempo_2019,
+COL,Colombia,,,,,,50000.0,,,Buildings,,,,,,Aquiar_1999,BUILDINGS_AFFECTED only refers to the Department of Quindío.
+COL,Colombia,1185,1185,8523,160393.0,2095765.0,79446.0,43474.0,17551.0,Buildings,,,,,,CEPAL_1999,
+COL,Colombia,1171,1171,4765,,,45019.0,,,Buildings,2000000000.0,,USD,,,Sarabia_and_Cifuentes_2010,

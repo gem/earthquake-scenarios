@@ -1,0 +1,13 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+obs_2,Julumito (Intensity IX),-76.65,2.45,macroseismic,1.080771,0.8059,soil,338.79,inferred,236.0
+obs_10,Buenaventura (Intensity IV),-77.06,3.89,macroseismic,0.015083,0.8059,soil,760.0,inferred,136.0
+OBS_2,La Mercedes,-76.7,2.533,macroseismic,0.305788,0.8059,soil,486.74,inferred,345.0
+obs_6,El Zarzal (Intensity IX),-76.73,2.45,macroseismic,1.077716,0.8059,soil,322.89,inferred,149.0
+OBS_3,Cajibio,-76.633,2.633,macroseismic,0.280177,0.8059,soil,327.44,inferred,287.0
+obs_8,Olaya Herrera (Intensity VIII),-76.53,2.36,macroseismic,0.519297,0.8059,soil,841.25,inferred,864.0
+OBS_6,Timbio,-76.645,2.344,macroseismic,0.084818,0.8059,soil,500.03,inferred,333.0
+OBS_4,Piendamo,-76.517,2.638,macroseismic,0.142213,0.8059,soil,638.32,inferred,349.0
+OBS_7,Cajete,-76.652,2.466,macroseismic,0.311688,0.8059,soil,367.77,inferred,318.0
+OBS_5,El Tambo,-76.769,2.416,macroseismic,0.161772,0.8059,soil,466.39,inferred,335.0
+OBS_1,Popayan,-76.607,2.442,macroseismic,0.163299,0.8059,soil,325.89,inferred,234.0
+obs_9,Mondomo (Intensity VII),-76.55,2.89,macroseismic,0.230206,0.8059,soil,293.53,inferred,281.0

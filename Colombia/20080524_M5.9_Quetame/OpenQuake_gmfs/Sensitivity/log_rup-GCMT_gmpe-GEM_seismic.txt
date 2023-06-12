@@ -1,0 +1,22 @@
+[2022-11-28 15:59:01.41 #221 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\Sensitivity\job_rup-GCMT_gmpe-GEM_seismic.ini [--hc=None]
+[2022-11-28 15:59:01.45 #221 INFO] Using engine version 3.16.0
+[2022-11-28 15:59:01.63 #221 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-28 15:59:01.66 #221 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-28 15:59:01.72 #221 INFO] Checksum of the inputs: 3002749660 (total size 518.17 KB)
+[2022-11-28 15:59:01.75 #221 INFO] Extracting the hazard sites from the site model
+[2022-11-28 15:59:01.88 #221 INFO] Read N=9523 hazard sites and L=1 hazard levels
+[2022-11-28 15:59:01.93 #221 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\stationlist_seismic.csv
+[2022-11-28 15:59:01.97 #221 INFO] min_iml=[1.e-10]
+[2022-11-28 15:59:02.02 #221 INFO] There are 3 realization(s)
+[2022-11-28 15:59:02.06 #221 INFO] Reordering the ruptures and storing the events
+[2022-11-28 15:59:02.12 #221 INFO] Reading 1 ruptures
+[2022-11-28 15:59:02.84 #221 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.994
+[2022-11-28 16:01:00.91 #221 INFO] GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias (mean): 1.256
+[2022-11-28 16:02:59.96 #221 INFO] GMM: CauzziEtAl2014, IMT: PGA, Nominal bias (mean): 1.133
+[2022-11-28 16:04:59.03 #221 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-28 16:04:59.04 #221 INFO] Received {'gmfdata': '670.48 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 356 seconds from event_based
+[2022-11-28 16:04:59.05 #221 INFO] Stored 334.88 KB of GMFs
+[2022-11-28 16:05:02.15 #221 INFO] Checking stored GMFs
+[2022-11-28 16:05:02.21 #221 WARNING] Your results are expected to have a large dependency from the rupture seed: 14%
+[2022-11-28 16:05:02.28 #221 INFO] Exposing the outputs to the database
+[2022-11-28 16:05:02.35 #221 INFO] Stored 1.35 MB on C:\Users\Maria Camila\oqdata/calc_221.hdf5 in 360 seconds

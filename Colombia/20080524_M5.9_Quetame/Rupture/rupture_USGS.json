@@ -1,0 +1,34 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Origin",
+      "id":"usp000g7p6",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"usp000g7p6",
+      "time":"2008-05-24T19:20:42.000000Z",
+      "lat":4.33,
+      "lon":-73.764,
+      "depth":8.9,
+      "mag":5.9,
+      "locstring":"Colombia",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -73.764,
+               4.33,
+               8.9
+            ]
+         }
+      }
+   ]
+}

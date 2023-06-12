@@ -1,0 +1,15 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+COL,Colombia,250,250,,,,,,,,380000000.0,40000000.0,USD,,,Brez_1988,
+COL,Colombia,350,350,,,,,,,,,,,,,WorldData,
+COL,Colombia,350,350,1200,,,,,,,410900000.0,,USD,,,NOAA,
+COL,Colombia,250,250,1200,,36200.0,,,,,410900000.0,,USD,Landslides,,EM-DAT,
+COL,Colombia,241,241,1500,,,,,,,,,,,,UTSU,
+COL,Colombia,250-350,250-350,,,,,,,,,,,,,USGS,
+COL,Colombia,267-300,267-300,>7500,,10000.0,,14000.0,2470.0,Buildings,500000000.0,,USD,Landslides,,Wikipedia,"In total, 14,000 buildings were damaged, the majority of them in the city's historic centre. 6,885 of them suffered damage greater than 50% to the structure and a further 4,500 minor damage. 2,470 houses collapsed."
+COL,Colombia,250-300,250-300,1500,10000,,,,2500.0,Buildings,400000000.0,,USD,,,GEM,
+COL,Colombia,200,200,1500,30000,,,,,,500000000.0,,USD,,,Lomnitz_et_al_1985,
+COL,Colombia,300,300,7500,>10000,,,14000.0,2470.0,Buildings,,,,,,ContrerasMojica_2018,
+COL,Colombia,250,250,1508,,,,,,,,,,,,Garcia_1984,
+COL,Colombia,>200,>200,,,,,,,,400000000.0,,USD,,,Sarria_et_al_1992,
+COL,Colombia,250,250,1500,30000,,,13796.0,4964.0,Buildings,400000000.0,,USD,Landslides,,INFORME_V2,
+COL,Colombia,287,287,7428,,,,13650.0,2470.0,Buildings,,,,,,Gros_1987,

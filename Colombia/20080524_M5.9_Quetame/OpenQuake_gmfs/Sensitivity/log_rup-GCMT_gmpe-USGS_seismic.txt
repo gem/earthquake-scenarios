@@ -1,0 +1,23 @@
+[2022-11-28 16:13:25.74 #223 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\Sensitivity\job_rup-GCMT_gmpe-USGS_seismic.ini [--hc=None]
+[2022-11-28 16:13:25.80 #223 INFO] Using engine version 3.16.0
+[2022-11-28 16:13:25.98 #223 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2022-11-28 16:13:26.01 #223 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2022-11-28 16:13:26.03 #223 INFO] Checksum of the inputs: 3109262602 (total size 518.4 KB)
+[2022-11-28 16:13:26.06 #223 INFO] Extracting the hazard sites from the site model
+[2022-11-28 16:13:26.18 #223 INFO] Read N=9523 hazard sites and L=1 hazard levels
+[2022-11-28 16:13:26.23 #223 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\latam\Colombia\20080524_M5.9_Quetame\OpenQuake_gmfs\stationlist_seismic.csv
+[2022-11-28 16:13:26.27 #223 INFO] min_iml=[1.e-10]
+[2022-11-28 16:13:26.33 #223 INFO] There are 4 realization(s)
+[2022-11-28 16:13:26.36 #223 INFO] Reordering the ruptures and storing the events
+[2022-11-28 16:13:26.40 #223 INFO] Reading 1 ruptures
+[2022-11-28 16:13:26.97 #223 INFO] GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.994
+[2022-11-28 16:15:39.09 #223 INFO] GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.810
+[2022-11-28 16:17:47.06 #223 INFO] GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 0.766
+[2022-11-28 16:19:47.16 #223 INFO] GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): 1.010
+[2022-11-28 16:21:58.65 #223 INFO] event_based 100% [1 submitted, 0 queued]
+[2022-11-28 16:21:58.67 #223 INFO] Received {'gmfdata': '893.68 KB', 'sig_eps': '365 B', 'times': '309 B', 'hcurves': '5 B'} in 512 seconds from event_based
+[2022-11-28 16:21:58.68 #223 INFO] Stored 446.5 KB of GMFs
+[2022-11-28 16:22:01.86 #223 INFO] Checking stored GMFs
+[2022-11-28 16:22:01.95 #223 WARNING] Your results are expected to have a large dependency from the rupture seed: 5%
+[2022-11-28 16:22:02.01 #223 INFO] Exposing the outputs to the database
+[2022-11-28 16:22:02.06 #223 INFO] Stored 1.4 MB on C:\Users\Maria Camila\oqdata/calc_223.hdf5 in 516 seconds
