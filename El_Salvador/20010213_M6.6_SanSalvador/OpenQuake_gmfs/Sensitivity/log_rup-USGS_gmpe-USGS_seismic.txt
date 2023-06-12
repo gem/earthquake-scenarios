@@ -1,0 +1,26 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\El_Salvador\20010213_M6.6_SanSalvador\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-USGS_seismic.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 3915029501 (total size 51.3 KB)
+Extracting the hazard sites from the site model
+Read N=874 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\El_Salvador\20010213_M6.6_SanSalvador\OpenQuake_gmfs\stationlist_seismic.csv
+min_iml=[1.e-10]
+There are 7 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.805
+GMM: AbrahamsonEtAl2015SInter, IMT: PGA, Nominal bias (mean): 1.022
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias (mean): 1.125
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.829
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 0.768
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): 0.728
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): 0.332
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '144.28 KB', 'sig_eps': '407 B', 'times': '309 B', 'hcurves': '5 B'} in 2 seconds from event_based
+Stored 71.8 KB of GMFs
+Checking stored GMFs
+
+Exposing the outputs to the database
+Stored 267.48 KB on C:\Users\Luis Martins\oqdata/calc_404.hdf5 in 6 seconds

@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"source: Vallee, M., M. Bouchon, and S.Y. Schwartz (2003). The 13 January 2001 El Salvador earthquake: a multidata analysis, J. Geophys. Res. 108, 2203, doi:10.1029/2002JB001922.",
+      "id":"usp000a7m5",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"usp000a7m5",
+      "time":"2001-01-13T17:33:32.000000Z",
+      "lat":13.049,
+      "lon":-88.66,
+      "depth":60.0,
+      "mag":7.7,
+      "locstring":"offshore El Salvador",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -89.385,
+                        12.914,
+                        30.0
+                     ],
+                     [
+                        -88.812,
+                        12.627,
+                        30.0
+                     ],
+                     [
+                        -88.663,
+                        12.919,
+                        70.0
+                     ],
+                     [
+                        -89.235,
+                        13.201,
+                        70.0
+                     ],
+                     [
+                        -89.385,
+                        12.914,
+                        30.0
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

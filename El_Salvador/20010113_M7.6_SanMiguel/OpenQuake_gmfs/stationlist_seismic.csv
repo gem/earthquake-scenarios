@@ -1,0 +1,20 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+CSBR,CSBR,-89.706,13.704,seismic,0.195,0.0
+ESJO,ESJO,-89.207,13.707,seismic,0.2949,0.0
+HSRF,HSRF,-89.279,13.671,seismic,0.4856,0.0
+HSRT,HSRT,-88.869,13.517,seismic,0.3076,0.0
+UARM,UARM,-89.501,13.744,seismic,0.5887,0.0
+ULLB,ULLB,-89.327,13.486,seismic,1.0907,0.0
+UPAN,UPAN,-89.179,13.614,seismic,0.173,0.0
+USPN,USPN,-88.927,13.602,seismic,0.5688,0.0
+UTON,UTON,-89.114,13.778,seismic,0.2577,0.0
+AH,Ahuachapan,-89.805,13.925,seismic,0.200116,0.0
+CA,Acajutia Cepa,-89.833,13.567,seismic,0.110559,0.0
+DB,Ciudadela Don Bosco,-89.15,13.733,seismic,0.241088,0.0
+MG,San Miguel,-88.183,13.475,seismic,0.132592,0.0
+OB,Observatorio,-89.198,13.681,seismic,0.430375,0.0
+QC,Presa 15 De Septiembre Dam,-88.55,13.616,seismic,0.186557,0.0
+SE,Sensuntepeque,-88.663,13.867,seismic,0.089868,0.0
+SM,Santiago de Maria,-88.471,13.486,seismic,0.888257,0.0
+SS,Sem. San Jose de la Montana,-89.225,13.705,seismic,0.277022,0.0
+ST,Santa Tecia,-89.3,13.675,seismic,0.768421,0.0

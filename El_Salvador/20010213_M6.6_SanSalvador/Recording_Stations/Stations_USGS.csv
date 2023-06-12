@@ -1,0 +1,19 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,VS30_TYPE,REFERENCES
+BER,Berlin (ciudad),-88.53,13.5,seismic,587.85,5.1,0.63,0.0,0.07,0.0,6.0,inferred,Stations_USGS
+DUA,San Salvador Viveros Direccion de Urbanismo y Arquitectura,-89.209,13.737,seismic,379.46,5.6,0.63,0.0,0.077,0.0,8.2,inferred,Stations_USGS
+EX,San Salvador (Colegio Externado de San Jose),-89.201,13.707,seismic,394.27,6.6,0.63,0.0,0.124,0.0,18.3,inferred,Stations_USGS
+RE,San Salvador Ministerio de Relaciones Exteriores,-89.25,13.692,seismic,455.77,5.5,0.63,0.0,0.0634,0.0,8.19,inferred,Stations_USGS
+15S,Presa 15 de Septiembre,-88.55,13.616,seismic,511.49,5.1,0.63,0.0,0.026,0.0,5.0,inferred,Stations_USGS
+DB,San Salvador Ciudadela Don Bosco,-89.15,13.733,seismic,332.8,6.3,0.63,0.0,0.1,0.0,14.8,inferred,Stations_USGS
+SEM,San Salvador San Jose de la Montana Seminary,-89.225,13.705,seismic,459.06,5.9,0.63,0.0,0.071,0.0,10.8,inferred,Stations_USGS
+UCA,San Salvador Universidad Centroamericana,-89.236,13.677,seismic,547.07,5.5,0.63,0.0,0.058,0.0,8.5,inferred,Stations_USGS
+LI,La Libertad,-89.327,13.486,seismic,401.42,4.7,0.63,0.0,0.093,0.0,4.5,inferred,Stations_USGS
+OBS,San Salvador Observatorio Sismologico,-89.198,13.681,seismic,463.98,6.2,0.63,0.0,0.107,0.0,6.7,inferred,Stations_USGS
+TO,Tonacatepeque,-89.114,13.778,seismic,506.0,7.3,0.63,0.0,0.345,0.0,30.0,inferred,Stations_USGS
+AR,Armenia,-89.501,13.744,seismic,531.63,4.5,0.63,0.0,0.037,0.0,2.3,inferred,Stations_USGS
+CIG,San Salvador Centro de Investigaciones Geotecnicas (CIG),-89.173,13.698,seismic,325.93,6.7,0.63,0.0,0.138,0.0,19.9,inferred,Stations_USGS
+BA,San Bartolo,-89.106,13.705,seismic,430.09,7.1,0.63,0.0,0.141,0.0,22.3,inferred,Stations_USGS
+ZA,Zacatecoluca,-88.869,13.517,seismic,500.16,6.7,0.63,0.0,0.408,0.0,20.1,inferred,Stations_USGS
+TE,Santa Tecla,-89.279,13.671,seismic,416.74,5.1,0.63,0.0,0.047,0.0,6.4,inferred,Stations_USGS
+PA,Panchimalco,-89.179,13.614,seismic,686.88,5.7,0.63,0.0,0.185,0.0,9.4,inferred,Stations_USGS
+TE2,Santa Tecla,-89.3,13.675,seismic,514.79,5.3,0.63,0.0,0.042,0.0,7.4,inferred,Stations_USGS

@@ -1,0 +1,18 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+SLV,El Salvador,844,844,4723,,1329806.0,,,,,1500000000.0,290000000.0,USD,Landslides,,EM_DAT,"Geo Locations: Ahuachapan, Cabanas, Chalatenango, La Liberta,  La Paz, La Unio, Moraza, San Miguel, San Salvador, San Vicent, Santa Ana, Sonsonate, Usulutan (Adm1).  ECONOMIC_LOSSES indicates direct and indirect economic loss."
+SLV,El Salvador,844,844,4723,,,,169632,108226,Buildings,753000000.0,,USD,"Landslides, Tsunami",,NOAA,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct economic loss.
+SLV,El Salvador,844,844,4723,,,,150000,108226,Buildings,,,,Landslides,,USGS,About 585 of the deaths were caused by large landslides in Nueva San Salvador and Comasagua. BUILDINGS_COLLAPSED refers to homes.
+SLV,El Salvador,944,944,5565,68777.0,1364160.0,,150000-277953,108261,Buildings,1255400000.0,,USD,,,Wikipedia,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,844,844,4723,,1329806.0,,169632,108226,Buildings,1255400000.0,,USD,,,Reliefweb,BUILDINGS_COLLAPSED refers to homes. ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,944,944,,,,,,,,,,,,,Vallee_et_al_2003,
+SLV,El Salvador,944,944,,,,,,108671,Buildings,,,,,,MARN,BUILDINGS_COLLAPSED refers to homes and churches.
+SLV,El Salvador,800,800,,,,,,,,1280000000.0,,USD,,,Learning_from_Earthquakes,ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,844,844,4723,,1329806.0,,,,,1255400000.0,,USD,,,Guevara_et_al_2005,ECONOMIC_LOSSES indicates direct and indirect economic loss.
+SLV,El Salvador,,,5645,,,,,108261,Buildings,,,,,,Diario_ElSalvador,
+SLV,El Salvador,683,683,3440,,,,84682,38628,Buildings,,,,,,AUST,
+SLV,El Salvador,844,844,4723,,,,,,,,,,,,Keppler_et_al_2001,
+SLV,El Salvador,1500,1500,,,1500000.0,,,,,2000000000.0,,USD,,,SWI,
+SLV,El Salvador,704-844,704-844,4055-4723,45857.0,,,105618,70401-75000,Buildings,,,,,,Yushimura_et_al_2001,
+SLV,El Salvador,943,943,5264,81486.0,1692942.0,,157053,102684,Buildings,,,,,,Desinventar,
+SLV,El Salvador,944,944,5565,68777.0,1364160.0,,172046,108261,Buildings,,,,,,ProteccionCivil,
+SLV,El Salvador,827,827,4520,,1160316.0,222773.0,130005,92768,Buildings,1255500000.0,,USD,,,CEPAL,ECONOMIC_LOSSES indicates direct and indirect economic loss.

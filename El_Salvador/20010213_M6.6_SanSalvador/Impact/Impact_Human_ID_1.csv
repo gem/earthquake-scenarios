@@ -1,0 +1,8 @@
+ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
+SV02,Cabañas,,,,,2638.0,Shaking,ProteccionCivil,
+SV04,Cuscatlán,165.0,165.0,1372.0,,109836.0,Shaking,ProteccionCivil,
+SV06,La Paz,58.0,58.0,806.0,,94496.0,Shaking,ProteccionCivil,
+SV08,Morazán,1.0,1.0,,,,Shaking,ProteccionCivil,
+SV09,San Miguel,,,,,230.0,Shaking,ProteccionCivil,
+SV11,San Vicente,87.0,87.0,1220.0,,66443.0,Shaking,ProteccionCivil,
+SV14,Usulután,,,1.0,,,Shaking,ProteccionCivil,
