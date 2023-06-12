@@ -1,0 +1,11 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,PGA_VALUE,PGA_LN_SIGMA,VS30,VS30_TYPE
+Ab-Bar,Ab-Bar,36.92,48.95,seismic,Rastgoo_et_al_2018,0.648,0,660,measured
+Lahijan,Lahijan,37.21,50.03,seismic,Rastgoo_et_al_2018,0.192,0,250,measured
+Roodsar,Roodsar,37.13,50.3,seismic,Rastgoo_et_al_2018,0.091,0,170,measured
+Qazvin,Qazvin,36.26,50,seismic,Rastgoo_et_al_2018,0.188,0,,measured
+Zanjan,Zanjan,36.66,48.5,seismic,Rastgoo_et_al_2018,0.135,0,,measured
+Abhar,Abhar,36.09,49.22,seismic,Rastgoo_et_al_2018,0.219,0,300,measured
+Tonekabon,Tonekabon,36.81,50.88,seismic,Rastgoo_et_al_2018,0.134,0,200,measured
+Eshtehard,Eshtehard,35.72,50.37,seismic,Rastgoo_et_al_2018,0.076,0,,measured
+Robat-Karim,Robat-Karim,35.46,51.07,seismic,Rastgoo_et_al_2018,0.066,0,,measured
+Kahrizak,Kahrizak,35.5,51.37,seismic,Rastgoo_et_al_2018,0.049,0,323,measured

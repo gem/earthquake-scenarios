@@ -1,0 +1,225 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+439,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Donner_et_al_2015
+",29, Seismic, USGS, Donner_et_al_2015,AbrahamsonEtAl2014,PGA,0.75810504,0.007,0.088,0.007
+431,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",29, Seismic, GEM, JMA,CampbellBozorgnia2014,PGA,0.5643028,-0.008,0.082,0.008
+438,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",33, Seismic, USGS, JMA,CampbellBozorgnia2014,PGA,0.5643028,-0.008,0.082,0.008
+437,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Momeni_et_al_2019
+",32, Seismic, USGS, Momeni_et_al_2019,BooreEtAl2014,PGA,0.5570851,-0.017,0.085,0.017
+430,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Momeni_et_al_2019
+",29, Seismic, GEM, Momeni_et_al_2019,BooreEtAl2014,PGA,0.5570851,-0.017,0.085,0.017
+438,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",33, Seismic, USGS, JMA,ChiouYoungs2014,PGA,0.7015311,0.022,0.084,0.022
+439,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Donner_et_al_2015
+",29, Seismic, USGS, Donner_et_al_2015,ChiouYoungs2014,PGA,0.6071613,-0.03,0.084,0.03
+438,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",33, Seismic, USGS, JMA,AbrahamsonEtAl2014,PGA,0.6707612,0.033,0.088,0.033
+431,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",29, Seismic, GEM, JMA,ZhaoEtAl2006Asc,PGA,0.6724973,0.034,0.099,0.034
+437,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Momeni_et_al_2019
+",32, Seismic, USGS, Momeni_et_al_2019,ChiouYoungs2014,PGA,0.7348699,-0.035,0.082,0.035
+431,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",29, Seismic, GEM, JMA,BooreEtAl2014,PGA,0.8319771,-0.04,0.086,0.04
+438,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",33, Seismic, USGS, JMA,BooreEtAl2014,PGA,0.8319771,-0.04,0.086,0.04
+437,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Momeni_et_al_2019
+",32, Seismic, USGS, Momeni_et_al_2019,CampbellBozorgnia2014,PGA,0.6262449,0.043,0.082,0.043
+430,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Momeni_et_al_2019
+",29, Seismic, GEM, Momeni_et_al_2019,CampbellBozorgnia2014,PGA,0.6262449,0.043,0.082,0.043
+439,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Donner_et_al_2015
+",29, Seismic, USGS, Donner_et_al_2015,CampbellBozorgnia2014,PGA,0.7500926,-0.058,0.081,0.058
+432,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Donner_et_al_2015
+",30, Seismic, GEM, Donner_et_al_2015,CampbellBozorgnia2014,PGA,0.7500926,-0.058,0.081,0.058
+428,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",29, Seismic, GEM, GFZ,ZhaoEtAl2006Asc,PGA,0.54189074,-0.058,0.099,0.058
+426,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",31, Seismic, GEM, IRSC,AkkarEtAlRjb2014,PGA,0.60104644,0.066,0.103,0.066
+427,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",29, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.64905053,0.067,0.103,0.067
+435,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",31, Seismic, USGS, GFZ,AbrahamsonEtAl2014,PGA,0.51749355,-0.07,0.088,0.07
+435,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",31, Seismic, USGS, GFZ,ChiouYoungs2014,PGA,0.5475284,-0.07,0.084,0.07
+430,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Momeni_et_al_2019
+",29, Seismic, GEM, Momeni_et_al_2019,AkkarEtAlRjb2014,PGA,0.61326116,0.071,0.103,0.071
+429,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Copley_et_al_2013
+",29, Seismic, GEM, Copley_et_al_2013,ZhaoEtAl2006Asc,PGA,0.50983196,-0.081,0.099,0.081
+436,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Copley_et_al_2013
+",30, Seismic, USGS, Copley_et_al_2013,ChiouYoungs2014,PGA,0.5398054,-0.089,0.084,0.089
+436,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Copley_et_al_2013
+",30, Seismic, USGS, Copley_et_al_2013,AbrahamsonEtAl2014,PGA,0.51403034,-0.093,0.087,0.093
+432,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Donner_et_al_2015
+",30, Seismic, GEM, Donner_et_al_2015,ZhaoEtAl2006Asc,PGA,0.5476339,-0.101,0.099,0.101
+428,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",29, Seismic, GEM, GFZ,CampbellBozorgnia2014,PGA,0.53137815,-0.11,0.081,0.11
+435,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",31, Seismic, USGS, GFZ,CampbellBozorgnia2014,PGA,0.53137815,-0.11,0.081,0.11
+433,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",33, Seismic, USGS, IRSC,AbrahamsonEtAl2014,PGA,0.5780981,-0.114,0.087,0.114
+436,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Copley_et_al_2013
+",30, Seismic, USGS, Copley_et_al_2013,CampbellBozorgnia2014,PGA,0.49434218,-0.133,0.081,0.133
+429,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Copley_et_al_2013
+",29, Seismic, GEM, Copley_et_al_2013,CampbellBozorgnia2014,PGA,0.49434218,-0.133,0.081,0.133
+433,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",33, Seismic, USGS, IRSC,ChiouYoungs2014,PGA,0.61189294,-0.135,0.082,0.135
+437,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Momeni_et_al_2019
+",32, Seismic, USGS, Momeni_et_al_2019,AbrahamsonEtAl2014,PGA,0.67960083,0.137,0.088,0.137
+435,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",31, Seismic, USGS, GFZ,BooreEtAl2014,PGA,0.5533846,-0.139,0.085,0.139
+428,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",29, Seismic, GEM, GFZ,BooreEtAl2014,PGA,0.5533846,-0.139,0.085,0.139
+429,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Copley_et_al_2013
+",29, Seismic, GEM, Copley_et_al_2013,BooreEtAl2014,PGA,0.5978149,-0.156,0.085,0.156
+436,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Copley_et_al_2013
+",30, Seismic, USGS, Copley_et_al_2013,BooreEtAl2014,PGA,0.5978149,-0.156,0.085,0.156
+432,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Donner_et_al_2015
+",30, Seismic, GEM, Donner_et_al_2015,AkkarEtAlRjb2014,PGA,0.62557423,0.165,0.103,0.165
+427,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",29, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.48765,-0.178,0.099,0.178
+433,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",33, Seismic, USGS, IRSC,CampbellBozorgnia2014,PGA,0.52624035,-0.184,0.081,0.184
+426,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",31, Seismic, GEM, IRSC,CampbellBozorgnia2014,PGA,0.52624035,-0.184,0.081,0.184
+430,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Momeni_et_al_2019
+",29, Seismic, GEM, Momeni_et_al_2019,ZhaoEtAl2006Asc,PGA,0.73836267,-0.191,0.099,0.191
+439,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Donner_et_al_2015
+",29, Seismic, USGS, Donner_et_al_2015,BooreEtAl2014,PGA,0.6308068,-0.193,0.085,0.193
+432,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Donner_et_al_2015
+",30, Seismic, GEM, Donner_et_al_2015,BooreEtAl2014,PGA,0.6308068,-0.193,0.085,0.193
+426,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",31, Seismic, GEM, IRSC,ZhaoEtAl2006Asc,PGA,0.6270917,-0.194,0.099,0.194
+429,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Copley_et_al_2013
+",29, Seismic, GEM, Copley_et_al_2013,AkkarEtAlRjb2014,PGA,0.6610254,0.203,0.103,0.203
+428,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",29, Seismic, GEM, GFZ,AkkarEtAlRjb2014,PGA,0.63707656,0.213,0.103,0.213
+427,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",29, Seismic, GEM, GCMT,BooreEtAl2014,PGA,0.6140545,-0.245,0.085,0.245
+434,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",32, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.6140545,-0.245,0.085,0.245
+426,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",31, Seismic, GEM, IRSC,BooreEtAl2014,PGA,0.6226985,-0.246,0.085,0.246
+433,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",33, Seismic, USGS, IRSC,BooreEtAl2014,PGA,0.6226985,-0.246,0.085,0.246
+431,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",29, Seismic, GEM, JMA,AkkarEtAlRjb2014,PGA,0.7735341,0.296,0.103,0.296
+434,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",32, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.48765,-0.342,0.082,0.342
+427,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",29, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.48765,-0.374,0.081,0.374
+434,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",32, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.48765,-0.374,0.081,0.374
+434,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",32, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.48765,-0.449,0.087,0.449
+412,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",5, None, GEM, IRSC,AkkarEtAlRjb2014,PGA,0.4451177,,,
+412,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",5, None, GEM, IRSC,BooreEtAl2014,PGA,0.50551075,,,
+412,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",5, None, GEM, IRSC,CampbellBozorgnia2014,PGA,0.4693546,,,
+412,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",5, None, GEM, IRSC,ZhaoEtAl2006Asc,PGA,0.511035,,,
+413,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.4361407,,,
+413,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,BooreEtAl2014,PGA,0.5299921,,,
+413,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.3399306,,,
+413,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",5, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.293005,,,
+414,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",5, None, GEM, GFZ,AkkarEtAlRjb2014,PGA,0.39008856,,,
+414,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",5, None, GEM, GFZ,BooreEtAl2014,PGA,0.42909238,,,
+414,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",5, None, GEM, GFZ,CampbellBozorgnia2014,PGA,0.42672342,,,
+414,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",5, None, GEM, GFZ,ZhaoEtAl2006Asc,PGA,0.32238555,,,
+415,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Copley_et_al_2013
+",5, None, GEM, Copley_et_al_2013,AkkarEtAlRjb2014,PGA,0.4112779,,,
+415,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Copley_et_al_2013
+",5, None, GEM, Copley_et_al_2013,BooreEtAl2014,PGA,0.524528,,,
+415,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Copley_et_al_2013
+",5, None, GEM, Copley_et_al_2013,CampbellBozorgnia2014,PGA,0.40431586,,,
+415,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Copley_et_al_2013
+",5, None, GEM, Copley_et_al_2013,ZhaoEtAl2006Asc,PGA,0.4030398,,,
+416,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Momeni_et_al_2019
+",6, None, GEM, Momeni_et_al_2019,AkkarEtAlRjb2014,PGA,0.41087312,,,
+416,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Momeni_et_al_2019
+",6, None, GEM, Momeni_et_al_2019,BooreEtAl2014,PGA,0.3355338,,,
+416,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Momeni_et_al_2019
+",6, None, GEM, Momeni_et_al_2019,CampbellBozorgnia2014,PGA,0.4178197,,,
+416,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Momeni_et_al_2019
+",6, None, GEM, Momeni_et_al_2019,ZhaoEtAl2006Asc,PGA,0.5840042,,,
+417,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,AkkarEtAlRjb2014,PGA,0.4154493,,,
+417,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,BooreEtAl2014,PGA,0.5044167,,,
+417,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,CampbellBozorgnia2014,PGA,0.4169707,,,
+417,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",5, None, GEM, JMA,ZhaoEtAl2006Asc,PGA,0.39367518,,,
+418,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Donner_et_al_2015
+",5, None, GEM, Donner_et_al_2015,AkkarEtAlRjb2014,PGA,0.4166452,,,
+418,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Donner_et_al_2015
+",5, None, GEM, Donner_et_al_2015,BooreEtAl2014,PGA,0.4930596,,,
+418,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Donner_et_al_2015
+",5, None, GEM, Donner_et_al_2015,CampbellBozorgnia2014,PGA,0.60326046,,,
+418,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:GEM, Rupture:Donner_et_al_2015
+",5, None, GEM, Donner_et_al_2015,ZhaoEtAl2006Asc,PGA,0.424828,,,
+419,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",5, None, USGS, IRSC,AbrahamsonEtAl2014,PGA,0.47000447,,,
+419,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",5, None, USGS, IRSC,BooreEtAl2014,PGA,0.50551075,,,
+419,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",5, None, USGS, IRSC,CampbellBozorgnia2014,PGA,0.4693546,,,
+419,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",5, None, USGS, IRSC,ChiouYoungs2014,PGA,0.48619178,,,
+420,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.3839771,,,
+420,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,BooreEtAl2014,PGA,0.5299921,,,
+420,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.3399306,,,
+420,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",5, None, USGS, GCMT,ChiouYoungs2014,PGA,0.3719697,,,
+421,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",5, None, USGS, GFZ,AbrahamsonEtAl2014,PGA,0.38113683,,,
+421,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",5, None, USGS, GFZ,BooreEtAl2014,PGA,0.42909238,,,
+421,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",5, None, USGS, GFZ,CampbellBozorgnia2014,PGA,0.42672342,,,
+421,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",5, None, USGS, GFZ,ChiouYoungs2014,PGA,0.3611382,,,
+422,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Copley_et_al_2013
+",5, None, USGS, Copley_et_al_2013,AbrahamsonEtAl2014,PGA,0.4205504,,,
+422,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Copley_et_al_2013
+",5, None, USGS, Copley_et_al_2013,BooreEtAl2014,PGA,0.524528,,,
+422,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Copley_et_al_2013
+",5, None, USGS, Copley_et_al_2013,CampbellBozorgnia2014,PGA,0.40431586,,,
+422,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Copley_et_al_2013
+",5, None, USGS, Copley_et_al_2013,ChiouYoungs2014,PGA,0.4397994,,,
+423,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Momeni_et_al_2019
+",5, None, USGS, Momeni_et_al_2019,AbrahamsonEtAl2014,PGA,0.4007333,,,
+423,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Momeni_et_al_2019
+",5, None, USGS, Momeni_et_al_2019,BooreEtAl2014,PGA,0.3355338,,,
+423,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Momeni_et_al_2019
+",5, None, USGS, Momeni_et_al_2019,CampbellBozorgnia2014,PGA,0.4178197,,,
+423,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Momeni_et_al_2019
+",5, None, USGS, Momeni_et_al_2019,ChiouYoungs2014,PGA,0.50714654,,,
+424,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,AbrahamsonEtAl2014,PGA,0.41371047,,,
+424,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,BooreEtAl2014,PGA,0.5044167,,,
+424,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,CampbellBozorgnia2014,PGA,0.4169707,,,
+424,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",5, None, USGS, JMA,ChiouYoungs2014,PGA,0.4226229,,,
+425,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Donner_et_al_2015
+",5, None, USGS, Donner_et_al_2015,AbrahamsonEtAl2014,PGA,0.5677075,,,
+425,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Donner_et_al_2015
+",5, None, USGS, Donner_et_al_2015,BooreEtAl2014,PGA,0.4930596,,,
+425,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Donner_et_al_2015
+",5, None, USGS, Donner_et_al_2015,CampbellBozorgnia2014,PGA,0.60326046,,,
+425,"20120811_M6.4_Ahar-Varzaghan median gmf, Stations:None, gmlt:USGS, Rupture:Donner_et_al_2015
+",5, None, USGS, Donner_et_al_2015,ChiouYoungs2014,PGA,0.45517635,,,

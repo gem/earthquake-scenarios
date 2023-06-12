@@ -1,0 +1,64 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+mz1752/02,Rivash,58.47,35.48,seismic,419.14,2.9,0.63,0.0,0.01241,0.0,0.47,null,,null,,null,,inferred,Stations_USGS
+mz1742,Gonabad,58.68,34.37,seismic,296.47,4.9,0.63,0.0,0.03501,0.0,5.65,null,,null,,null,,inferred,Stations_USGS
+mz1761,Bajestan,58.18,34.52,seismic,365.18,3.6,0.63,0.0,0.03112,0.0,1.42,null,,null,,null,,inferred,Stations_USGS
+mz1897,Zabol,61.5,31.03,seismic,190.95,5.0,0.63,0.0,0.01749,0.0,6.07,null,,null,,null,,inferred,Stations_USGS
+mz1763,Roshtkhar,59.62,34.97,seismic,317.99,4.9,0.63,0.0,0.04685,0.0,5.66,null,,null,,null,,inferred,Stations_USGS
+mz1740,Khezri,58.81,34.02,seismic,354.81,4.2,0.63,0.0,0.02181,0.0,3.52,null,,null,,null,,inferred,Stations_USGS
+mz1745,Mashhad1,59.56,36.31,seismic,279.32,3.8,0.63,0.0,0.01088,0.0,1.96,null,,null,,null,,inferred,Stations_USGS
+mz1753,Sangan,60.25,34.4,seismic,329.48,4.1,0.63,0.0,0.12083,0.0,3.03,null,,null,,null,,inferred,Stations_USGS
+mz1747,Neyshaboor,58.78,36.2,seismic,302.76,5.3,0.63,0.0,0.01227,0.0,8.02,null,,null,,null,,inferred,Stations_USGS
+mz1737,Birjand,59.21,32.88,seismic,377.44,5.5,0.63,0.0,0.04967,0.0,7.85,null,,null,,null,,inferred,Stations_USGS
+mz1746,Mashhad2,59.59,36.28,seismic,318.22,3.9,0.63,0.0,0.01292,0.0,2.42,null,,null,,null,,inferred,Stations_USGS
+mz1757,Kerman 2,57.07,30.29,seismic,216.28,4.0,0.63,0.0,0.01025,0.0,2.65,null,,null,,null,,inferred,Stations_USGS
+mz1739,Bosk Abad,58.72,34.03,seismic,478.79,4.7,0.63,0.0,0.02759,0.0,5.03,null,,null,,null,,inferred,Stations_USGS
+mz1855/01,Fath Abad,58.39,34.12,seismic,448.46,4.2,0.63,0.0,0.01333,0.0,3.46,null,,null,,null,,inferred,Stations_USGS
+mz1736,Baghestan,58.28,34.09,seismic,399.08,4.1,0.63,0.0,0.01323,0.0,2.83,null,,null,,null,,inferred,Stations_USGS
+1757,Kerman2Station,57.07,30.28,seismic,216.28,null,null,0.0,0.01056,0.0,2.8912,null,,null,,null,,inferred,Stations_USGS
+mz1750/02,Marak,59.43,32.92,seismic,471.8,5.7,0.63,0.0,0.0564,0.0,7.33,null,,null,,null,,inferred,Stations_USGS
+mz1754/01,Qasem Abad,59.86,34.35,seismic,292.72,6.1,0.63,0.0,0.18725,0.0,13.71,null,,null,,null,,inferred,Stations_USGS
+mz1738,Bardeskan,57.97,35.27,seismic,389.45,3.9,0.63,0.0,0.01208,0.0,1.79,null,,null,,null,,inferred,Stations_USGS
+mz1759,Khaf,60.14,34.57,seismic,422.05,4.4,0.63,0.0,0.10624,0.0,4.01,null,,null,,null,,inferred,Stations_USGS
+mz1744,Mohammad Abad,61.45,30.88,seismic,197.89,4.7,0.63,0.0,0.01649,0.0,4.61,null,,null,,null,,inferred,Stations_USGS
+mz1741,Feyz Abad,58.78,35.01,seismic,281.16,3.6,0.63,0.0,0.01513,0.0,0.99,null,,null,,null,,inferred,Stations_USGS
+mz1771,Shahid Yaqoobi Dam1,59.41,35.16,seismic,290.6,2.9,0.63,0.0,0.01367,0.0,0.67,null,,null,,null,,inferred,Stations_USGS
+mz1770,Moosaviyeh,58.91,33.29,seismic,246.54,5.4,0.63,0.0,0.02529,0.0,8.22,null,,null,,null,,inferred,Stations_USGS
+mz1748,Sarayan,58.53,33.86,seismic,413.34,4.5,0.63,0.0,0.01996,0.0,4.38,null,,null,,null,,inferred,Stations_USGS
+mz1751,Mood,59.52,32.71,seismic,381.69,5.3,0.63,0.0,0.04076,0.0,6.68,null,,null,,null,,inferred,Stations_USGS
+mz1743,Khosf,58.89,32.78,seismic,304.41,4.1,0.63,0.0,0.01149,0.0,3.04,null,,null,,null,,inferred,Stations_USGS
+mz1758,Torbate Heiydaryeh,59.22,35.27,seismic,366.75,4.4,0.63,0.0,0.05235,0.0,4.01,null,,null,,null,,inferred,Stations_USGS
+MZOBS_5,Taibad (Intensity V),60.7756,34.74,macroseismic,292.21,5.0,0.3,0.8059,0.062928,0.875,6.2912,1.0131,0.126655,1.0822,0.09182,1.4737,0.018959,inferred,Stations_USGS
+OBS_8,Yazdan (Intensity VI),60.91,33.5,macroseismic,264.19,6.0,0.3,0.8059,0.135128,0.875,13.0374,1.0131,0.277944,1.0822,0.186205,1.4737,0.036957,inferred,Stations_USGS
+OBS_7,Afin (Intensity VII),59.76,33.62,macroseismic,325.97,7.0,0.3,0.8059,0.363239,0.875,27.0175,1.0131,0.587739,1.0822,0.329047,1.4737,0.061742,inferred,Stations_USGS
+OBS_15,Gonabad (Intensity V),58.6808,34.3666,macroseismic,296.47,5.0,0.3,0.8059,0.064695,0.875,6.2912,1.0131,0.131254,1.0822,0.090275,1.4737,0.018601,inferred,Stations_USGS
+MWOBS_2,Abiz (Intensity IX),59.8736,33.5985,macroseismic,335.93,8.5,0.3,0.8059,1.105952,0.875,80.5989,1.0131,1.487929,1.0822,0.969632,1.4737,0.171886,inferred,Stations_USGS
+OBS_10,Birjand (Intensity V),59.2206,32.8841,macroseismic,377.44,5.0,0.3,0.8059,0.066704,0.875,6.2912,1.0131,0.136525,1.0822,0.088599,1.4737,0.018215,inferred,Stations_USGS
+MZOBS_8,Garmab (Intensity VIII),59.7047,33.8817,macroseismic,393.32,8.0,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
+MZOBS_4,Khaf (Intensity VI),60.136,34.571,macroseismic,422.05,5.5,0.3,0.8059,0.10003,0.875,9.0565,1.0131,0.211622,1.0822,0.124396,1.4737,0.025031,inferred,Stations_USGS
+MZOBS_12,Birjand (Intensity VI),59.2,32.8667,macroseismic,377.42,5.5,0.3,0.8059,0.090392,0.875,9.0565,1.0131,0.200645,1.0822,0.132366,1.4737,0.026835,inferred,Stations_USGS
+MZOBS_11,Avaz (Intensity IX),60.26,32.9492,macroseismic,369.32,8.5,0.3,0.8059,0.937338,0.875,80.5989,1.0131,1.364,1.0822,1.073097,1.4737,0.192571,inferred,Stations_USGS
+OBS_13,Bosk Abad (Intensity V),58.7078,34.0223,macroseismic,560.0,5.0,0.3,0.8059,0.066361,0.875,6.2912,1.0131,0.135623,1.0822,0.088879,1.4737,0.018279,inferred,Stations_USGS
+OBS_3,Pishbar (Intensity VIII),59.9789,33.3886,macroseismic,572.32,8.0,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
+OBS_18,Ahangaran (Intensity VIII),60.1706,33.4153,macroseismic,449.55,8.0,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
+OBS_16,Sangan (Intensity VI),60.245,34.4024,macroseismic,329.48,6.0,0.3,0.8059,0.142174,0.875,13.0374,1.0131,0.285471,1.0822,0.180494,1.4737,0.035689,inferred,Stations_USGS
+MZOBS_6,Hajiabad (Intensity X),60.0,33.6,macroseismic,389.77,9.5,0.3,0.8059,2.060662,0.875,167.0263,1.0131,2.594945,1.0822,2.145035,1.4737,0.369375,inferred,Stations_USGS
+MZOBS_7,Khatibi (Intensity IX),59.7769,33.5736,macroseismic,344.3,9.0,0.3,0.8059,1.265603,0.875,116.0264,1.0131,1.791013,1.0822,1.606771,1.4737,0.284417,inferred,Stations_USGS
+OBS_11,Khoosf (Intensity V),58.868,32.7625,macroseismic,288.43,5.0,0.3,0.8059,0.061286,0.875,6.2912,1.0131,0.122414,1.0822,0.093321,1.4737,0.019306,inferred,Stations_USGS
+OBS_6,Gazik (Intensity VII),59.48,33.03,macroseismic,621.75,7.0,0.3,0.8059,0.255069,0.875,27.0175,1.0131,0.488054,1.0822,0.40866,1.4737,0.078713,inferred,Stations_USGS
+MWOBS_3,Qain (Intensity VI),59.0817,33.5488,macroseismic,455.56,5.5,0.3,0.8059,0.09798,0.875,9.0565,1.0131,0.20933,1.0822,0.125985,1.4737,0.02539,inferred,Stations_USGS
+OBS_9,Mood (Intensity V),59.513,32.7088,macroseismic,381.69,5.0,0.3,0.8059,0.069637,0.875,6.2912,1.0131,0.144306,1.0822,0.086292,1.4737,0.017684,inferred,Stations_USGS
+OBS_4,Garmab (Intensity VII),59.71,33.88,macroseismic,536.26,7.0,0.3,0.8059,0.434842,0.875,27.0175,1.0131,0.646046,1.0822,0.29469,1.4737,0.054564,inferred,Stations_USGS
+MWOBS_1,Ardekul (Intensity IX),60.0865,33.3711,macroseismic,686.14,9.0,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
+MZOBS_1,Ardekul (Intensity X),60.05,33.48,macroseismic,489.27,9.5,0.3,0.8059,2.060662,0.875,167.0263,1.0131,2.594945,1.0822,2.145035,1.4737,0.369375,inferred,Stations_USGS
+OBS_2,Abiz (Intensity VIII),59.95,33.7,macroseismic,589.1,8.0,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
+MWOBS_4,Birjand (Intensity V),59.0347,32.7035,macroseismic,440.84,5.0,0.3,0.8059,0.062663,0.875,6.2912,1.0131,0.125969,1.0822,0.092058,1.4737,0.019014,inferred,Stations_USGS
+HOBS_1,Esfeden (Intensity VIII),59.7778,33.6456,macroseismic,263.63,8.0,0.3,0.8059,0.701042,0.875,55.9888,1.0131,1.044153,1.0822,0.712392,1.4737,0.129511,inferred,Stations_USGS
+OBS_12,Moosieh (Intensity V),58.884,33.3083,macroseismic,239.67,5.0,0.3,0.8059,0.065493,0.875,6.2912,1.0131,0.133343,1.0822,0.089599,1.4737,0.018445,inferred,Stations_USGS
+OBS_5,Estand (Intensity VII),59.85,33.85,macroseismic,451.03,7.0,0.3,0.8059,0.434842,0.875,27.0175,1.0131,0.646046,1.0822,0.29469,1.4737,0.054564,inferred,Stations_USGS
+OBS_14,Khezri (Intensity V),58.7731,34.0591,macroseismic,562.35,5.0,0.3,0.8059,0.067481,0.875,6.2912,1.0131,0.138577,1.0822,0.087972,1.4737,0.01807,inferred,Stations_USGS
+OBS_1,Ardekul (Intensity IX),60.05,33.48,macroseismic,489.27,9.0,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
+OBS_17,Qasem Abad (Intensity VI),59.8529,34.3651,macroseismic,304.52,6.0,0.3,0.8059,0.159394,0.875,13.0374,1.0131,0.303155,1.0822,0.168279,1.4737,0.032993,inferred,Stations_USGS
+MZOBS_3,Gonabad (Intensity V),56.6808,34.3666,macroseismic,237.48,5.0,0.3,0.8059,0.049531,0.875,6.2912,1.0131,0.093053,1.0822,0.106331,1.4737,0.022347,inferred,Stations_USGS
+MZOBS_9,Baymargh (Intensity VIII),59.801,33.33,macroseismic,375.7,8.0,0.3,0.8059,0.61692,0.875,55.9888,1.0131,0.97629,1.0822,0.770451,1.4737,0.141397,inferred,Stations_USGS
+MWOBS_5,Mashad (Intensity IV),59.4362,36.3245,macroseismic,465.16,4.0,0.3,0.8059,0.017394,0.875,2.6996,1.0131,0.024788,1.0822,0.047167,1.4737,0.010181,inferred,Stations_USGS
+MZOBS_2,Ghaen (Intensity VI),59.1844,33.7267,macroseismic,301.01,6.0,0.3,0.8059,0.142881,0.875,13.0374,1.0131,0.286217,1.0822,0.179945,1.4737,0.035567,inferred,Stations_USGS

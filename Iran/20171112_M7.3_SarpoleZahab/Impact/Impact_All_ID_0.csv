@@ -1,0 +1,26 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+IRN,Iran,620,620,6603,70000,,,15000,12000,Buildings,,,,,,USGS,"At least 10 people killed and 500 injured in Halabjah, Iraq. "
+IRN,Iran,630,630,7103,,,,,,,,,,,,UTSU,
+IRN,Iran,630,630,12900,,,,14500,15500,Buildings,750000000,,USD,,,NOAA_Earthquake,
+IRN,Iran,620-630,620-630,7000-9388,70000,,,15000-50000,12000-18000,Buildings,5000000000,,EUR,,,Wikipedia,
+IRN,Iran,,,,,,,,,,3000000000000-3500000000000,,IRR,,,Wikipedia,
+IRN,Iran,629,629,15249,200000,,,79000,16000,Buildings,,,,,,EID,
+IRN,Iran,444,444,9000,,200000,,,,,740000000,,USD,,,EM-DAT,"Geo Locations: Eslamabad-e gharb, Eylam, Gilan-e gharb, Javanrud, Kermanshah, Mehran, Qasr-e shirin, Sar-e pol-e zahab (Adm2)."
+IRN,Iran,621,621,7817,,1645450,,,,,,,,,,MScThesis_Tabasian,
+IRN,Iran,620,620,12386,,,,,,,,,,,,IRNA,
+IRN,Iran,436,436,,,,,,,,,,,,,Alavi_et_al_2018,
+IRN,Iran,621,621,9388,70000,,,90000,,Buildings,,,,,,Ashayeri_et_al_2020,
+IRN,Iran,572,572,,,,,,,,,,,,,BHRC_Report_3,
+IRN,Iran,440,440,>9400,,400000,,30000,,Buildings,,,,,,DRES_Report,
+IRN,Iran,620,620,,,,,,,,,,,,,Firuzi_et_al_2020,
+IRN,Iran,630,630,,,,,,,,,,,,,Gombert_et_al_2019,
+IRN,Iran,620-630,620-630,7000,,,,,,,,,,,,IIEES_Report_AminiHosseini_et_al_2018,
+IRN,Iran,,,,,,,,,,,,,"Landslides, Rockfalls, Liquefaction",,IIEES_Report_earthquake_Chapter_2,
+IRN,Iran,620,620,7000,70000,,,,2000,Buildings,,,,,,JSPS_karimzadeh_2018,Around 2000 residential units (mainly in Sarpole-Zahab) were totally collapsed in urban areas.
+IRN,Iran,600,600,,7000,,,,,,,,,,,Zafarani_et_al_2020,
+IRN,Iran,530,530,>7200,,,,,,,,,,Landslides,,Yin_et_al_2019,
+IRN,Iran,660,660,,,,,31000,17000,Buildings,84000000,,USD,,,Saffarzadeh_et_al_2019,"Of 660 death, 518 were from the city of Sarpol Zahab."
+IRN,Iran,,,,,,,,,,26000000000000,,IRR,,,Saffarzadeh_et_al_2019,
+IRN,Iran,530,530,7460,,,,,,,,,,,,NYTIMES,
+IRN,Iran,>600,>600,,,,,,,,,,,,,Mahani_et_al_2018,
+IRN,Iran,620,620,7000,70000,,,,,,,,,"Landslides, Rockfalls, Liquefaction",,Miyajima_et_al_2018,

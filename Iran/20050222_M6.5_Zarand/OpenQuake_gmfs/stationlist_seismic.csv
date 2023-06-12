@@ -1,0 +1,50 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+3697/01,Shirinrood Dam1,57.031,30.811,seismic,0.51997,0.0
+3671/01,Zarand,56.577,30.81,seismic,0.3294,0.0
+3689/01,Qadrooni Dam,56.819,30.962,seismic,0.22311,0.0
+3661,Ravar,56.791,31.263,seismic,0.12329,0.0
+3688,Horjand,57.154,30.675,seismic,0.069,0.0
+3660/01,Chatrood,56.911,30.605,seismic,0.05788,0.0
+3702,Davaran,56.189,30.582,seismic,0.05692,0.0
+3679,Deh-Loulou,57.289,30.529,seismic,0.05275,0.0
+3686,Dasht-e-Khak,56.555,31.066,seismic,0.05155,0.0
+3662,Kerman 1,57.066,30.295,seismic,0.03375,0.0
+3663,Baghin,56.815,30.191,seismic,0.02698,0.0
+3665,Tarz,56.498,31.398,seismic,0.02548,0.0
+3687,Kerman 2,57.072,30.288,seismic,0.02495,0.0
+3673,Rafsanjan,55.993,30.411,seismic,0.02405,0.0
+3674,Anar,55.271,30.866,seismic,0.01873,0.0
+3784,Saadat Abad,55.822,29.648,seismic,0.01843,0.0
+3789,NayBand,57.828,32.381,seismic,0.01496,0.0
+3685,ShahreBabak,55.124,30.107,seismic,0.01429,0.0
+3678,Molea Esmaeel,55.952,32.037,seismic,0.01364,0.0
+3672,Sirch,57.557,30.203,seismic,0.0134,0.0
+3669,Bahabad,56.015,31.872,seismic,0.01278,0.0
+3677,Koohbanan,56.276,31.421,seismic,0.01252,0.0
+3684,Pariz,55.746,29.87,seismic,0.01244,0.0
+3667,Bardsir,56.576,29.913,seismic,0.0124,0.0
+3777,Jiroft Dam2,57.466,28.86,seismic,0.01148,0.0
+3668,Bafgh,55.421,31.629,seismic,0.01129,0.0
+3675,Cheshmeh sabz,56.418,29.465,seismic,0.01058,0.0
+3670,Bayaz,55.446,30.701,seismic,0.01023,0.0
+3666,Bahadoran,54.914,31.327,seismic,0.00973,0.0
+3664,Mehriz,54.431,31.574,seismic,0.00803,0.0
+3772,Darmazar,57.33,29.238,seismic,0.0076,0.0
+Zarand,Zarand,56.57,30.81,seismic,0.28604,0.0
+Ravar,Ravar,56.79,31.26,seismic,0.09816,0.0
+Chatrood,Chatrood,56.91,30.6,seismic,0.08128,0.0
+Kerman_1,Kerman_1,57.04,30.29,seismic,0.04333,0.0
+Tarz,Tarz,56.49,31.39,seismic,0.04333,0.0
+Baghin,Baghin,56.81,30.19,seismic,0.0382,0.0
+Rafsanjan,Rafsanjan,55.99,30.41,seismic,0.03587,0.0
+Anar,Anar,55.27,30.87,seismic,0.0297,0.0
+Molea_Esmaeel,Molea_Esmaeel,55.95,32.04,seismic,0.0297,0.0
+Bahabad,Bahabad,56.02,31.87,seismic,0.02619,0.0
+Bafgh,Bafgh,55.42,31.62,seismic,0.0246,0.0
+Bahadoran,Bahadoran,54.95,31.3,seismic,0.0246,0.0
+Koohbanan,Koohbanan,56.27,31.42,seismic,0.0231,0.0
+Sirch,Sirch,57.55,30.2,seismic,0.0231,0.0
+Bardsir,Bardsir,56.57,29.92,seismic,0.0231,0.0
+Cheshmeh_sabz,Cheshmeh_sabz,56.42,29.46,seismic,0.0231,0.0
+Mehriz,Mehriz,54.43,31.57,seismic,0.02169,0.0
+Bayaz,Bayaz,55.44,30.7,seismic,0.02169,0.0

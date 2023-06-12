@@ -1,0 +1,65 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+407,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",325, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.51997,0.016,0.091,0.016
+406,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",334, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.52286196,-0.022,0.097,0.022
+406,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",334, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,0.5648862,-0.022,0.091,0.022
+408,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",330, Seismic, GEM, Nicknam_et_al_2010,CampbellBozorgnia2014,PGA,0.51997,0.054,0.092,0.054
+408,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",330, Seismic, GEM, Nicknam_et_al_2010,BooreEtAl2014,PGA,0.5298885,-0.073,0.097,0.073
+406,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",334, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.66385746,-0.078,0.112,0.078
+407,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",325, Seismic, GEM, GCMT,BooreEtAl2014,PGA,0.52902323,-0.081,0.096,0.081
+409,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Talebian_et_al_2006
+",328, Seismic, GEM, Talebian_et_al_2006,BooreEtAl2014,PGA,0.51997,-0.097,0.096,0.097
+408,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",330, Seismic, GEM, Nicknam_et_al_2010,ZhaoEtAl2006Asc,PGA,0.51997,-0.1,0.112,0.1
+407,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",325, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.51997,-0.103,0.112,0.103
+409,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Talebian_et_al_2006
+",328, Seismic, GEM, Talebian_et_al_2006,ZhaoEtAl2006Asc,PGA,0.5884128,-0.131,0.112,0.131
+409,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Talebian_et_al_2006
+",328, Seismic, GEM, Talebian_et_al_2006,CampbellBozorgnia2014,PGA,0.60839075,0.161,0.092,0.161
+409,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Talebian_et_al_2006
+",328, Seismic, GEM, Talebian_et_al_2006,AkkarEtAlRjb2014,PGA,0.51997,0.202,0.117,0.202
+407,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",325, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.55310357,0.206,0.117,0.206
+408,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",330, Seismic, GEM, Nicknam_et_al_2010,AkkarEtAlRjb2014,PGA,0.5595221,0.209,0.117,0.209
+406,"20050222_M6.5_Zarand median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",334, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.5683438,0.261,0.117,0.261
+402,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.4137868,,,
+402,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,BooreEtAl2014,PGA,0.45970353,,,
+402,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.5976422,,,
+402,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.69453776,,,
+403,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.4412251,,,
+403,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,BooreEtAl2014,PGA,0.5083826,,,
+403,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.42313397,,,
+403,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.37239617,,,
+404,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",8, None, GEM, Nicknam_et_al_2010,AkkarEtAlRjb2014,PGA,0.43024755,,,
+404,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",8, None, GEM, Nicknam_et_al_2010,BooreEtAl2014,PGA,0.4876876,,,
+404,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",8, None, GEM, Nicknam_et_al_2010,CampbellBozorgnia2014,PGA,0.43695852,,,
+404,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Nicknam_et_al_2010
+",8, None, GEM, Nicknam_et_al_2010,ZhaoEtAl2006Asc,PGA,0.41847032,,,
+405,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Talebian_et_al_2006
+",8, None, GEM, Talebian_et_al_2006,AkkarEtAlRjb2014,PGA,0.4412251,,,
+405,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Talebian_et_al_2006
+",8, None, GEM, Talebian_et_al_2006,BooreEtAl2014,PGA,0.5083826,,,
+405,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Talebian_et_al_2006
+",8, None, GEM, Talebian_et_al_2006,CampbellBozorgnia2014,PGA,0.5382557,,,
+405,"20050222_M6.5_Zarand median gmf, Stations:None, gmlt:GEM, Rupture:Talebian_et_al_2006
+",8, None, GEM, Talebian_et_al_2006,ZhaoEtAl2006Asc,PGA,0.6948076,,,

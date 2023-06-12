@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <complexFaultRupture>
+        <magnitude>7.4</magnitude>
+        <rake>-9</rake>
+        <hypocenter lat="36.957" lon="49.409" depth="18.5"/>
+        <complexFaultGeometry>
+            <faultTopEdge>
+                <gml:LineString>
+                    <gml:posList>
+                        48.99514  36.97126  0.0
+                        49.08926  36.93103  0.0 
+                        49.13293  36.88793  0.0 
+                        49.33542  36.84195 0.0 
+                        49.3715  36.84482  0.0 
+                        49.44022  36.82758  0.0
+                        49.48006  36.81034  0.0 
+                        49.6101  36.79885  0.0 
+                        49.69345  36.75574  0.0 
+                        49.7766  36.7385  0.0 
+                        49.87076  36.69827  0.0
+                    </gml:posList>
+                </gml:LineString>
+            </faultTopEdge>
+            <faultBottomEdge>
+                <gml:LineString>
+                    <gml:posList>
+                        48.99514  36.97126 20.0 
+                        49.08926  36.93103  20.0 
+                        49.13293  36.88793  20.0
+                        49.33542  36.84195  20.0 
+                        49.3715  36.84482  20.0 
+                        49.44022  36.82758 20.0 
+                        49.48006  36.81034  20.0 
+                        49.6101  36.79885  20.0
+                        49.69345  36.75574  20.0 
+                        49.7766  36.7385  20.0 
+                        49.87076  36.69827 20.0 
+                    </gml:posList>
+                </gml:LineString>
+            </faultBottomEdge>
+        </complexFaultGeometry>
+    </complexFaultRupture>
+</nrml>

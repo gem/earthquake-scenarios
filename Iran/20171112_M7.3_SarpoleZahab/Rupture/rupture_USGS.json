@@ -1,0 +1,60 @@
+{
+   "metadata":{
+      "rake":0.0,
+      "mag":7.3,
+      "network":"USGS National Earthquake Information Center, PDE",
+      "time":"2017-11-12T18:18:17.000000Z",
+      "locstring":"29km S of Halabjah, Iraq",
+      "lat":34.9109,
+      "depth":19.0,
+      "reference":"Source: Hayes, personal communication",
+      "lon":45.9592,
+      "mech":"ALL",
+      "netid":"us",
+      "id":"us2000bmcg",
+      "productcode":"us2000bmcg"
+   },
+   "features":[
+      {
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "coordinates":[
+               [
+                  [
+                     [
+                        45.85,
+                        34.77,
+                        22.24
+                     ],
+                     [
+                        45.81,
+                        34.97,
+                        22.24
+                     ],
+                     [
+                        46.02,
+                        35.0,
+                        27.75
+                     ],
+                     [
+                        46.06,
+                        34.79,
+                        27.75
+                     ],
+                     [
+                        45.85,
+                        34.77,
+                        22.24
+                     ]
+                  ]
+               ]
+            ],
+            "type":"MultiPolygon"
+         },
+         "type":"Feature"
+      }
+   ],
+   "type":"FeatureCollection"
+}

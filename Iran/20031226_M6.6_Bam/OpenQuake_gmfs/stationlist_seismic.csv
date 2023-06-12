@@ -1,0 +1,48 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+3168/02,Bam1,58.35,29.09,seismic,1.00765,0.0
+3176/01,Abaragh,57.229,28.099,seismic,0.17443,0.0
+3162/01,Mohammad Abad-e-Mask,57.888,28.908,seismic,0.12591,0.0
+3170/02,Jiroft,57.736,28.671,seismic,0.04111,0.0
+3164,Andoohjerd,57.752,30.231,seismic,0.03267,0.0
+3161,Sirch,57.557,30.203,seismic,0.03173,0.0
+3155/02,Golbaf,57.731,29.887,seismic,0.03137,0.0
+3156,Joshan,57.61,30.124,seismic,0.02548,0.0
+3169,Cheshmeh sabz,56.418,29.465,seismic,0.02384,0.0
+3188,Jiroft Dam1,57.465,28.86,seismic,0.02228,0.0
+3163,Ghale Ganj,57.881,27.523,seismic,0.02145,0.0
+3165,Shahdad,57.689,30.414,seismic,0.02089,0.0
+3160,Nosrat Abad,59.983,29.857,seismic,0.02017,0.0
+3175,Kerman 2,57.072,30.288,seismic,0.01961,0.0
+3288,Qadrooni Dam,56.819,30.962,seismic,0.01933,0.0
+3157,Kerman 1,57.066,30.295,seismic,0.01912,0.0
+3167/02,Rayen,57.44,29.59,seismic,0.01599,0.0
+3172,Bardsir,56.576,29.913,seismic,0.01424,0.0
+3290,Baft,56.603,29.234,seismic,0.01413,0.0
+3180,Laleh Zar,56.812,29.524,seismic,0.01329,0.0
+3159,Mahan,57.289,30.065,seismic,0.01295,0.0
+3203/02,Hasan Langi,56.862,27.386,seismic,0.01275,0.0
+3173,Ravar,56.791,31.263,seismic,0.01271,0.0
+3187,Zarand,56.577,30.81,seismic,0.01245,0.0
+3166,Kahnooj,57.7,27.94,seismic,0.01123,0.0
+3154,Bolvard,56.052,29.416,seismic,0.0103,0.0
+3174/01,Horjand,57.154,30.675,seismic,0.00681,0.0
+3176-1,AbaraghStation,57.94,29.34,seismic,0.17442,0.0
+3162-1,MohammadAbad-e-MaskoonStation,57.89,28.9,seismic,0.12593,0.0
+3170-2,JiroftStation,57.74,28.67,seismic,0.0411,0.0
+3156,JoshanStation,57.6,30.12,seismic,0.03735,0.0
+3161,SirchStation,57.55,30.2,seismic,0.03173,0.0
+3175,Kerman2Station,57.07,30.28,seismic,0.03123,0.0
+3157,Kerman1Station,57.04,30.29,seismic,0.02551,0.0
+3163,GhaleGanjStation,57.87,27.52,seismic,0.02547,0.0
+3160,NosratAbadStation,59.984,29.858,seismic,0.02437,0.0
+3169,CheshmehsabzStation,56.42,29.46,seismic,0.02384,0.0
+3165,ShahdadStation,57.69,30.41,seismic,0.02089,0.0
+3290,BaftStation,56.6,29.23,seismic,0.01456,0.0
+3172,BardsirStation,56.57,29.92,seismic,0.01424,0.0
+3159,MahanStation,57.29,30.06,seismic,0.01351,0.0
+3180,LalehZarStation,56.81,29.52,seismic,0.01328,0.0
+3187,ZarandStation,56.57,30.81,seismic,0.01287,0.0
+3173,RavarStation,56.79,31.26,seismic,0.01286,0.0
+3203-2,HasanLangiStation,56.85,27.35,seismic,0.01276,0.0
+3174-1,HorjandStation,57.15,30.67,seismic,0.0124,0.0
+3154,BolvardStation,56.05,29.42,seismic,0.01066,0.0

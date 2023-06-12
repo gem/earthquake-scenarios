@@ -1,0 +1,10 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,PGA_VALUE,PGA_LN_SIGMA,PGA_VALUE_1,PGA_VALUE_2,PGA_VALUE_V
+Deyhook,Deyhook,33.3,57.43,seismic,Shoja-Taheri_And_Anderson_1988,0.393,0,0.366,0.393,0.185
+Boshrooyeh,Boshrooyeh,33.88,57.43,seismic,Shoja-Taheri_And_Anderson_1988,0.104,0,0.104,0.084,0.076
+Tabas,Tabas,33.6,56.92,seismic,Shoja-Taheri_And_Anderson_1988,0.911,0,0.867,0.911,0.732
+Sedeh,Sedeh,33.33,59.23,seismic,Shoja-Taheri_And_Anderson_1988,0.0268,0,0.0255,0.0268,0.0234
+Bajestan,Bajestan,34.51,58.18,seismic,Shoja-Taheri_And_Anderson_1988,0.0893,0,0.0893,0.0668,0.0297
+Khezri,Khezri,34.03,58.81,seismic,Shoja-Taheri_And_Anderson_1988,0.0257,0,0.0257,0.024,0.0234
+Birjand,Birjand,32.86,59.2,seismic,Shoja-Taheri_And_Anderson_1988,0.0184,0,,0.0184,0.016
+Kashmar,Kashmar,35.3,58.45,seismic,Shoja-Taheri_And_Anderson_1988,0.0353,0,0.0329,0.0353,0.031
+Ferdows,Ferdows,34.03,58.173,seismic,Shoja-Taheri_And_Anderson_1988,0.104,0,0.097,0.104,0.052

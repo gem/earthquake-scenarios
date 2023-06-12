@@ -1,0 +1,85 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+219,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",244, Seismic, USGS, Hartzell_And_Mendoza_1991,ChiouYoungs2014,PGA,1.1466858,0.002,0.131,0.002
+216,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",336, Seismic, GEM, Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,PGA,1.10204,-0.044,0.163,0.044
+218,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",340, Seismic, GEM, Niazi_And_Kanamori_1981,BooreEtAl2014,PGA,1.10204,0.066,0.144,0.066
+218,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",340, Seismic, GEM, Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,PGA,1.10204,0.112,0.172,0.112
+216,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",336, Seismic, GEM, Hartzell_And_Mendoza_1991,BooreEtAl2014,PGA,1.10204,0.125,0.144,0.125
+220,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",242, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,1.10204,0.146,0.131,0.146
+218,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",340, Seismic, GEM, Niazi_And_Kanamori_1981,CampbellBozorgnia2014,PGA,1.10204,0.161,0.133,0.161
+221,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",243, Seismic, USGS, Niazi_And_Kanamori_1981,CampbellBozorgnia2014,PGA,1.10204,0.161,0.133,0.161
+216,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",336, Seismic, GEM, Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,PGA,1.10204,0.163,0.172,0.163
+217,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",331, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,1.1055567,0.172,0.163,0.172
+219,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",244, Seismic, USGS, Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,PGA,1.10204,0.173,0.145,0.173
+218,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",340, Seismic, GEM, Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,PGA,1.10204,-0.202,0.163,0.202
+219,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",244, Seismic, USGS, Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,PGA,1.2024099,0.261,0.133,0.261
+216,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",336, Seismic, GEM, Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,PGA,1.2024099,0.261,0.133,0.261
+220,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",242, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,1.10204,0.319,0.146,0.319
+217,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",331, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,1.10204,0.387,0.172,0.387
+217,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",331, Seismic, GEM, GCMT,BooreEtAl2014,PGA,1.10204,0.427,0.147,0.427
+221,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",243, Seismic, USGS, Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,PGA,1.10204,-0.434,0.142,0.434
+221,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",243, Seismic, USGS, Niazi_And_Kanamori_1981,ChiouYoungs2014,PGA,1.10204,-0.484,0.128,0.484
+217,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",331, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,1.10204,0.506,0.135,0.506
+220,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",242, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,1.10204,0.506,0.135,0.506
+210,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",9, None, GEM, Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,PGA,0.58327556,,,
+210,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",9, None, GEM, Hartzell_And_Mendoza_1991,BooreEtAl2014,PGA,0.55397123,,,
+210,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",9, None, GEM, Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,PGA,0.7670014,,,
+210,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991
+",9, None, GEM, Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,PGA,0.9760479,,,
+211,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.58925736,,,
+211,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,BooreEtAl2014,PGA,0.56812674,,,
+211,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.5674909,,,
+211,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.8047314,,,
+212,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",9, None, GEM, Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,PGA,0.59513015,,,
+212,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",9, None, GEM, Niazi_And_Kanamori_1981,BooreEtAl2014,PGA,0.5725846,,,
+212,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",9, None, GEM, Niazi_And_Kanamori_1981,CampbellBozorgnia2014,PGA,0.2318056,,,
+212,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981
+",9, None, GEM, Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,PGA,0.4503487,,,
+213,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",9, None, USGS, Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,PGA,0.6967746,,,
+213,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",9, None, USGS, Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,PGA,0.7670014,,,
+213,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991
+",9, None, USGS, Hartzell_And_Mendoza_1991,ChiouYoungs2014,PGA,0.9461719,,,
+214,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",9, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.64563483,,,
+214,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",9, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.5674909,,,
+214,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",9, None, USGS, GCMT,ChiouYoungs2014,PGA,0.70723855,,,
+215,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",8, None, USGS, Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,PGA,0.46921468,,,
+215,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",8, None, USGS, Niazi_And_Kanamori_1981,CampbellBozorgnia2014,PGA,0.2318056,,,
+215,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981
+",8, None, USGS, Niazi_And_Kanamori_1981,ChiouYoungs2014,PGA,0.518536,,,

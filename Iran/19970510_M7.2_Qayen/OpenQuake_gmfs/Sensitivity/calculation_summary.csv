@@ -1,0 +1,129 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+278,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",92, Seismic, GEM, Sudhaus_And_Jonsson_et_al_2010,ZhaoEtAl2006Asc,PGA,0.80255336,-0.0,0.12,0.0
+277,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",90, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.45050046,-0.006,0.1,0.006
+281,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",89, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.45050046,-0.006,0.1,0.006
+282,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",91, Seismic, USGS, Sudhaus_And_Jonsson_et_al_2010,ChiouYoungs2014,PGA,0.67719764,0.01,0.1,0.01
+277,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",90, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.5392822,0.019,0.126,0.019
+276,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",97, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,0.5537489,-0.021,0.099,0.021
+280,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",94, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.5537489,-0.021,0.099,0.021
+277,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",90, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.4993355,-0.022,0.12,0.022
+280,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",94, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.5299814,-0.027,0.107,0.027
+278,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",92, Seismic, GEM, Sudhaus_And_Jonsson_et_al_2010,AkkarEtAlRjb2014,PGA,0.55887854,0.036,0.126,0.036
+281,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",89, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.5954485,0.04,0.107,0.04
+277,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",90, Seismic, GEM, GCMT,BooreEtAl2014,PGA,0.5954485,0.04,0.107,0.04
+282,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",91, Seismic, USGS, Sudhaus_And_Jonsson_et_al_2010,BooreEtAl2014,PGA,0.595199,0.061,0.107,0.061
+278,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",92, Seismic, GEM, Sudhaus_And_Jonsson_et_al_2010,BooreEtAl2014,PGA,0.595199,0.061,0.107,0.061
+276,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",97, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.48201767,-0.109,0.126,0.109
+279,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Zarei_et_al_2019
+",91, Seismic, GEM, Zarei_et_al_2019,AkkarEtAlRjb2014,PGA,0.4774584,-0.109,0.126,0.109
+280,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",94, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.51076704,-0.125,0.106,0.125
+276,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",97, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.51076704,-0.125,0.106,0.125
+283,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Zarei_et_al_2019
+",91, Seismic, USGS, Zarei_et_al_2019,CampbellBozorgnia2014,PGA,0.4377293,-0.128,0.099,0.128
+279,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Zarei_et_al_2019
+",91, Seismic, GEM, Zarei_et_al_2019,CampbellBozorgnia2014,PGA,0.4377293,-0.128,0.099,0.128
+279,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Zarei_et_al_2019
+",91, Seismic, GEM, Zarei_et_al_2019,BooreEtAl2014,PGA,0.47300622,-0.143,0.105,0.143
+283,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Zarei_et_al_2019
+",91, Seismic, USGS, Zarei_et_al_2019,BooreEtAl2014,PGA,0.47300622,-0.143,0.105,0.143
+280,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",94, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.56100214,-0.175,0.099,0.175
+282,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",91, Seismic, USGS, Sudhaus_And_Jonsson_et_al_2010,AbrahamsonEtAl2014,PGA,0.6644468,0.181,0.107,0.181
+279,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Zarei_et_al_2019
+",91, Seismic, GEM, Zarei_et_al_2019,ZhaoEtAl2006Asc,PGA,0.46637535,-0.195,0.12,0.195
+276,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",97, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.6559421,-0.198,0.12,0.198
+281,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",89, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.42297408,-0.201,0.107,0.201
+281,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",89, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.42116433,-0.225,0.099,0.225
+282,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",91, Seismic, USGS, Sudhaus_And_Jonsson_et_al_2010,CampbellBozorgnia2014,PGA,0.6733301,0.248,0.1,0.248
+278,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",92, Seismic, GEM, Sudhaus_And_Jonsson_et_al_2010,CampbellBozorgnia2014,PGA,0.6733301,0.248,0.1,0.248
+283,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Zarei_et_al_2019
+",91, Seismic, USGS, Zarei_et_al_2019,AbrahamsonEtAl2014,PGA,0.40010405,-0.28,0.107,0.28
+283,"19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Zarei_et_al_2019
+",91, Seismic, USGS, Zarei_et_al_2019,ChiouYoungs2014,PGA,0.40950853,-0.314,0.099,0.314
+268,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.5316228,,,
+268,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,BooreEtAl2014,PGA,0.5773999,,,
+268,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.5655686,,,
+268,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.775088,,,
+269,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",7, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.51414865,,,
+269,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",7, None, GEM, GCMT,BooreEtAl2014,PGA,0.560619,,,
+269,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",7, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.4519879,,,
+269,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",7, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.5102201,,,
+270,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",7, None, GEM, Sudhaus_And_Jonsson_et_al_2010,AkkarEtAlRjb2014,PGA,0.5341849,,,
+270,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",7, None, GEM, Sudhaus_And_Jonsson_et_al_2010,BooreEtAl2014,PGA,0.5368593,,,
+270,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",7, None, GEM, Sudhaus_And_Jonsson_et_al_2010,CampbellBozorgnia2014,PGA,0.52628,,,
+270,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",7, None, GEM, Sudhaus_And_Jonsson_et_al_2010,ZhaoEtAl2006Asc,PGA,0.792184,,,
+271,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Zarei_et_al_2019
+",7, None, GEM, Zarei_et_al_2019,AkkarEtAlRjb2014,PGA,0.53136635,,,
+271,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Zarei_et_al_2019
+",7, None, GEM, Zarei_et_al_2019,BooreEtAl2014,PGA,0.5436048,,,
+271,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Zarei_et_al_2019
+",7, None, GEM, Zarei_et_al_2019,CampbellBozorgnia2014,PGA,0.4939274,,,
+271,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:GEM, Rupture:Zarei_et_al_2019
+",7, None, GEM, Zarei_et_al_2019,ZhaoEtAl2006Asc,PGA,0.56714803,,,
+272,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",7, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.5337264,,,
+272,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",7, None, USGS, USGS,BooreEtAl2014,PGA,0.5773999,,,
+272,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",7, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.5655686,,,
+272,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",7, None, USGS, USGS,ChiouYoungs2014,PGA,0.6557721,,,
+273,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.49489486,,,
+273,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,BooreEtAl2014,PGA,0.560619,,,
+273,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.4519879,,,
+273,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",7, None, USGS, GCMT,ChiouYoungs2014,PGA,0.51584107,,,
+274,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",6, None, USGS, Sudhaus_And_Jonsson_et_al_2010,AbrahamsonEtAl2014,PGA,0.5580102,,,
+274,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",6, None, USGS, Sudhaus_And_Jonsson_et_al_2010,BooreEtAl2014,PGA,0.5368593,,,
+274,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",6, None, USGS, Sudhaus_And_Jonsson_et_al_2010,CampbellBozorgnia2014,PGA,0.52628,,,
+274,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010
+",6, None, USGS, Sudhaus_And_Jonsson_et_al_2010,ChiouYoungs2014,PGA,0.641439,,,
+275,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Zarei_et_al_2019
+",6, None, USGS, Zarei_et_al_2019,AbrahamsonEtAl2014,PGA,0.5272297,,,
+275,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Zarei_et_al_2019
+",6, None, USGS, Zarei_et_al_2019,BooreEtAl2014,PGA,0.5436048,,,
+275,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Zarei_et_al_2019
+",6, None, USGS, Zarei_et_al_2019,CampbellBozorgnia2014,PGA,0.4939274,,,
+275,"19970510_M7.2_Qayen median gmf, Stations:None, gmlt:USGS, Rupture:Zarei_et_al_2019
+",6, None, USGS, Zarei_et_al_2019,ChiouYoungs2014,PGA,0.53257227,,,

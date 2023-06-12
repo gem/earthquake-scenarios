@@ -1,0 +1,65 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+463,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",202, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,1.0223293,0.194,0.096,0.194
+463,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",202, Seismic, GEM, GCMT,BooreEtAl2014,PGA,1.0349042,0.225,0.102,0.225
+464,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2006
+",201, Seismic, GEM, Jackson_et_al_2006,BooreEtAl2014,PGA,1.0912768,0.288,0.102,0.288
+463,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",202, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,1.00765,0.312,0.116,0.312
+464,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2006
+",201, Seismic, GEM, Jackson_et_al_2006,ZhaoEtAl2006Asc,PGA,1.0930958,0.342,0.116,0.342
+463,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",202, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,1.0314208,0.375,0.121,0.375
+465,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",201, Seismic, GEM, SCARDEC,BooreEtAl2014,PGA,1.1145129,0.391,0.102,0.391
+462,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",209, Seismic, GEM, USGS,BooreEtAl2014,PGA,1.0602019,0.417,0.103,0.417
+464,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2006
+",201, Seismic, GEM, Jackson_et_al_2006,AkkarEtAlRjb2014,PGA,1.0726496,0.421,0.121,0.421
+462,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",209, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,1.0714144,0.446,0.116,0.446
+465,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",201, Seismic, GEM, SCARDEC,ZhaoEtAl2006Asc,PGA,1.0768119,0.466,0.116,0.466
+464,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2006
+",201, Seismic, GEM, Jackson_et_al_2006,CampbellBozorgnia2014,PGA,1.125467,0.47,0.097,0.47
+462,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",209, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,1.1319103,0.511,0.097,0.511
+462,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",209, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,1.0550486,0.515,0.121,0.515
+465,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",201, Seismic, GEM, SCARDEC,CampbellBozorgnia2014,PGA,1.0929061,0.548,0.097,0.548
+465,"20031226_M6.6_Bam median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",201, Seismic, GEM, SCARDEC,AkkarEtAlRjb2014,PGA,1.072943,0.565,0.121,0.565
+458,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.40208682,,,
+458,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,BooreEtAl2014,PGA,0.46359575,,,
+458,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.4215153,,,
+458,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.5748687,,,
+459,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.47349963,,,
+459,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,BooreEtAl2014,PGA,0.52959675,,,
+459,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.36074707,,,
+459,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.30371574,,,
+460,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2006
+",7, None, GEM, Jackson_et_al_2006,AkkarEtAlRjb2014,PGA,0.45039463,,,
+460,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2006
+",7, None, GEM, Jackson_et_al_2006,BooreEtAl2014,PGA,0.5309675,,,
+460,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2006
+",7, None, GEM, Jackson_et_al_2006,CampbellBozorgnia2014,PGA,0.62076277,,,
+460,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2006
+",7, None, GEM, Jackson_et_al_2006,ZhaoEtAl2006Asc,PGA,0.49161124,,,
+461,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",7, None, GEM, SCARDEC,AkkarEtAlRjb2014,PGA,0.4301685,,,
+461,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",7, None, GEM, SCARDEC,BooreEtAl2014,PGA,0.5241205,,,
+461,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",7, None, GEM, SCARDEC,CampbellBozorgnia2014,PGA,0.45505455,,,
+461,"20031226_M6.6_Bam median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",7, None, GEM, SCARDEC,ZhaoEtAl2006Asc,PGA,0.5276343,,,

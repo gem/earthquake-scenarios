@@ -1,0 +1,70 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Talebian, M., J. Biggs, M. Bolourchi, A. Copley, A. Ghassemi, M. Ghorashi, J. Hollingsworth, J. Jackson, E. Nissen, B. Oveisi, B. Parsons, K. Priestley, and A. Saiidi (2006). The Dahuiyeh (Zarand) earthquake of 2005 February 22 in central Iran: reactivation of an intramountain reverse fault, Geophys. J. Int. 164, 137-148.",
+      "mag":6.4,
+      "mech":"ALL",
+      "lat":30.754,
+      "depth":14.0,
+      "locstring":"central Iran",
+      "id":"usp000dgpx",
+      "time":"2005-02-22T02:25:22.000000Z",
+      "rake":0.0,
+      "network":"USGS National Earthquake Information Center, PDE",
+      "lon":56.816,
+      "netid":"us",
+      "productcode":"usp000dgpx"
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "coordinates":[
+               [
+                  [
+                     [
+                        56.71733,
+                        30.78382,
+                        0.1
+                     ],
+                     [
+                        56.81676,
+                        30.78197,
+                        0.1
+                     ],
+                     [
+                        56.87632,
+                        30.77805,
+                        0.1
+                     ],
+                     [
+                        56.87632,
+                        30.87805,
+                        10.1
+                     ],
+                     [
+                        56.81676,
+                        30.88197,
+                        10.1
+                     ],
+                     [
+                        56.71733,
+                        30.88382,
+                        10.1
+                     ],
+                     [
+                        56.71733,
+                        30.78382,
+                        0.1
+                     ]
+                  ]
+               ]
+            ],
+            "type":"MultiPolygon"
+         }
+      }
+   ]
+}

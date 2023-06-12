@@ -1,0 +1,23 @@
+job_id: 217
+job_description: 19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Iran\DRAFT_19780916_M7.3_Tabas\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2335370769 (total size 455.41 KB)
+Extracting the hazard sites from the site model
+Read N=8354 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Iran\DRAFT_19780916_M7.3_Tabas\OpenQuake_gmfs\stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias mean: 0.387, Nominal bias stddev: 0.172
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.427, Nominal bias stddev: 0.147
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.506, Nominal bias stddev: 0.135
+GMM: ZhaoEtAl2006Asc, IMT: PGA, Nominal bias mean: 0.172, Nominal bias stddev: 0.163
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '784.08 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 324 seconds from event_based
+Stored 391.71 KB of GMFs
+Exposing the outputs to the database
+Stored 1.25 MB on C:\Users\zkarimzadeh\oqdata/calc_217.hdf5 in 331 seconds

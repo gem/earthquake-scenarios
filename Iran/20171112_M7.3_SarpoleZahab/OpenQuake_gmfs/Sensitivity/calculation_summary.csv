@@ -1,0 +1,193 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+383,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",369, Seismic, USGS, GFZ,ChiouYoungs2014,PGA,0.69768,-0.03,0.065,0.03
+383,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",369, Seismic, USGS, GFZ,AbrahamsonEtAl2014,PGA,0.69768,0.038,0.068,0.038
+375,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",340, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.876907,0.054,0.078,0.054
+377,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",333, Seismic, GEM, GFZ,ZhaoEtAl2006Asc,PGA,0.6978079,0.055,0.078,0.055
+375,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",340, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.71931225,0.061,0.081,0.061
+379,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IPGP
+",331, Seismic, GEM, IPGP,ZhaoEtAl2006Asc,PGA,0.8436754,0.076,0.078,0.076
+379,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IPGP
+",331, Seismic, GEM, IPGP,AkkarEtAlRjb2014,PGA,0.717723,0.082,0.081,0.082
+376,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",326, Seismic, GEM, IRSC,AkkarEtAlRjb2014,PGA,0.8132674,0.089,0.081,0.089
+377,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",333, Seismic, GEM, GFZ,AkkarEtAlRjb2014,PGA,0.76614946,0.135,0.081,0.135
+376,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",326, Seismic, GEM, IRSC,ZhaoEtAl2006Asc,PGA,1.1809174,0.138,0.078,0.138
+385,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IPGP
+",353, Seismic, USGS, IPGP,ChiouYoungs2014,PGA,0.7204963,0.139,0.065,0.139
+381,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",350, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.7603521,0.142,0.065,0.142
+374,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",351, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.7842904,0.18,0.081,0.18
+380,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",334, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.69768,-0.212,0.068,0.212
+380,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",334, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.69768,-0.235,0.064,0.235
+374,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",351, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.7359831,0.237,0.078,0.237
+384,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",370, Seismic, USGS, JMA,ChiouYoungs2014,PGA,0.69768,0.247,0.065,0.247
+378,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",331, Seismic, GEM, JMA,AkkarEtAlRjb2014,PGA,0.7964594,0.275,0.081,0.275
+375,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",340, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.91160125,0.305,0.064,0.305
+381,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",350, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.91160125,0.305,0.064,0.305
+379,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IPGP
+",331, Seismic, GEM, IPGP,CampbellBozorgnia2014,PGA,0.82280743,0.305,0.064,0.305
+385,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IPGP
+",353, Seismic, USGS, IPGP,CampbellBozorgnia2014,PGA,0.82280743,0.305,0.064,0.305
+378,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",331, Seismic, GEM, JMA,ZhaoEtAl2006Asc,PGA,0.8539265,0.312,0.078,0.312
+377,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",333, Seismic, GEM, GFZ,CampbellBozorgnia2014,PGA,0.69768,0.317,0.064,0.317
+383,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",369, Seismic, USGS, GFZ,CampbellBozorgnia2014,PGA,0.69768,0.317,0.064,0.317
+382,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",371, Seismic, USGS, IRSC,ChiouYoungs2014,PGA,1.0837743,0.337,0.065,0.337
+385,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IPGP
+",353, Seismic, USGS, IPGP,AbrahamsonEtAl2014,PGA,0.7853225,0.355,0.068,0.355
+384,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",370, Seismic, USGS, JMA,AbrahamsonEtAl2014,PGA,0.7082461,0.373,0.068,0.373
+381,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",350, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.8409879,0.377,0.068,0.377
+380,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",334, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.69768,0.45,0.064,0.45
+374,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",351, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,0.69768,0.45,0.064,0.45
+384,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",370, Seismic, USGS, JMA,CampbellBozorgnia2014,PGA,0.7287001,0.544,0.064,0.544
+378,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",331, Seismic, GEM, JMA,CampbellBozorgnia2014,PGA,0.7287001,0.544,0.064,0.544
+381,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",350, Seismic, USGS, GCMT,BooreEtAl2014,PGA,1.0537255,0.613,0.07,0.613
+375,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",340, Seismic, GEM, GCMT,BooreEtAl2014,PGA,1.0537255,0.613,0.07,0.613
+379,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IPGP
+",331, Seismic, GEM, IPGP,BooreEtAl2014,PGA,1.0550884,0.649,0.07,0.649
+385,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IPGP
+",353, Seismic, USGS, IPGP,BooreEtAl2014,PGA,1.0550884,0.649,0.07,0.649
+382,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",371, Seismic, USGS, IRSC,CampbellBozorgnia2014,PGA,1.1161158,0.66,0.064,0.66
+376,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",326, Seismic, GEM, IRSC,CampbellBozorgnia2014,PGA,1.1161158,0.66,0.064,0.66
+382,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",371, Seismic, USGS, IRSC,BooreEtAl2014,PGA,1.1609249,0.668,0.07,0.668
+376,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:IRSC
+",326, Seismic, GEM, IRSC,BooreEtAl2014,PGA,1.1609249,0.668,0.07,0.668
+382,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:IRSC
+",371, Seismic, USGS, IRSC,AbrahamsonEtAl2014,PGA,1.1237853,0.669,0.068,0.669
+383,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:GFZ
+",369, Seismic, USGS, GFZ,BooreEtAl2014,PGA,1.0650784,0.678,0.07,0.678
+377,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:GFZ
+",333, Seismic, GEM, GFZ,BooreEtAl2014,PGA,1.0650784,0.678,0.07,0.678
+380,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",334, Seismic, USGS, USGS,BooreEtAl2014,PGA,1.1569968,0.77,0.071,0.77
+374,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",351, Seismic, GEM, USGS,BooreEtAl2014,PGA,1.1569968,0.77,0.071,0.77
+384,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",370, Seismic, USGS, JMA,BooreEtAl2014,PGA,1.3730084,0.934,0.071,0.934
+378,"20171112_M7.3_SarpoleZahab median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",331, Seismic, GEM, JMA,BooreEtAl2014,PGA,1.3730084,0.934,0.071,0.934
+362,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",9, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.5903334,,,
+362,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",9, None, GEM, USGS,BooreEtAl2014,PGA,0.55799586,,,
+362,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",9, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.24943359,,,
+362,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",9, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.39378977,,,
+363,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.59027505,,,
+363,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,BooreEtAl2014,PGA,0.5704365,,,
+363,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.6306849,,,
+363,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",8, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.83117723,,,
+364,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",8, None, GEM, IRSC,AkkarEtAlRjb2014,PGA,0.5911519,,,
+364,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",8, None, GEM, IRSC,BooreEtAl2014,PGA,0.5729174,,,
+364,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",8, None, GEM, IRSC,CampbellBozorgnia2014,PGA,0.548757,,,
+364,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IRSC
+",8, None, GEM, IRSC,ZhaoEtAl2006Asc,PGA,0.98262423,,,
+365,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",8, None, GEM, GFZ,AkkarEtAlRjb2014,PGA,0.59029853,,,
+365,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",8, None, GEM, GFZ,BooreEtAl2014,PGA,0.55799586,,,
+365,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",8, None, GEM, GFZ,CampbellBozorgnia2014,PGA,0.38760233,,,
+365,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:GFZ
+",8, None, GEM, GFZ,ZhaoEtAl2006Asc,PGA,0.59632444,,,
+366,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",8, None, GEM, JMA,AkkarEtAlRjb2014,PGA,0.5912674,,,
+366,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",8, None, GEM, JMA,BooreEtAl2014,PGA,0.559542,,,
+366,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",8, None, GEM, JMA,CampbellBozorgnia2014,PGA,0.43805128,,,
+366,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",8, None, GEM, JMA,ZhaoEtAl2006Asc,PGA,0.6304795,,,
+367,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",8, None, GEM, IPGP,AkkarEtAlRjb2014,PGA,0.59375054,,,
+367,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",8, None, GEM, IPGP,BooreEtAl2014,PGA,0.5716912,,,
+367,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",8, None, GEM, IPGP,CampbellBozorgnia2014,PGA,0.61107594,,,
+367,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:GEM, Rupture:IPGP
+",8, None, GEM, IPGP,ZhaoEtAl2006Asc,PGA,0.8013875,,,
+368,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.50598836,,,
+368,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,BooreEtAl2014,PGA,0.55799586,,,
+368,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.24943359,,,
+368,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",8, None, USGS, USGS,ChiouYoungs2014,PGA,0.48098463,,,
+369,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",8, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.57027364,,,
+369,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",8, None, USGS, GCMT,BooreEtAl2014,PGA,0.5704365,,,
+369,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",8, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.6306849,,,
+369,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",8, None, USGS, GCMT,ChiouYoungs2014,PGA,0.64336854,,,
+370,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",8, None, USGS, IRSC,AbrahamsonEtAl2014,PGA,0.53840035,,,
+370,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",8, None, USGS, IRSC,BooreEtAl2014,PGA,0.5729174,,,
+370,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",8, None, USGS, IRSC,CampbellBozorgnia2014,PGA,0.548757,,,
+370,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IRSC
+",8, None, USGS, IRSC,ChiouYoungs2014,PGA,0.7060178,,,
+371,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",8, None, USGS, GFZ,AbrahamsonEtAl2014,PGA,0.5058567,,,
+371,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",8, None, USGS, GFZ,BooreEtAl2014,PGA,0.55799586,,,
+371,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",8, None, USGS, GFZ,CampbellBozorgnia2014,PGA,0.38760233,,,
+371,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:GFZ
+",8, None, USGS, GFZ,ChiouYoungs2014,PGA,0.5233204,,,
+372,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",8, None, USGS, JMA,AbrahamsonEtAl2014,PGA,0.5042818,,,
+372,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",8, None, USGS, JMA,BooreEtAl2014,PGA,0.559542,,,
+372,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",8, None, USGS, JMA,CampbellBozorgnia2014,PGA,0.43805128,,,
+372,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",8, None, USGS, JMA,ChiouYoungs2014,PGA,0.5482167,,,
+373,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",8, None, USGS, IPGP,AbrahamsonEtAl2014,PGA,0.5589077,,,
+373,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",8, None, USGS, IPGP,BooreEtAl2014,PGA,0.5716912,,,
+373,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",8, None, USGS, IPGP,CampbellBozorgnia2014,PGA,0.61107594,,,
+373,"20171112_M7.3_SarpoleZahab median gmf, Stations:None, gmlt:USGS, Rupture:IPGP
+",8, None, USGS, IPGP,ChiouYoungs2014,PGA,0.64799666,,,

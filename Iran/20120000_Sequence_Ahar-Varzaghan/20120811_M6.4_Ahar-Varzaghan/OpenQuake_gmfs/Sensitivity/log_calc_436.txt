@@ -1,0 +1,23 @@
+job_id: 436
+job_description: 20120811_M6.4_Ahar-Varzaghan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Copley_et_al_2013
+
+zkarimzadeh@DESKTOP-JUBCJA6 running d:\GEM_Git_Repo\Clear_Repo\ecd\Iran\DRAFT_20120000_Sequence_Ahar-Varzaghan\DRAFT_20120811_M6.4_Ahar-Varzaghan\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git682716910d
+Using 8 cores on DESKTOP-JUBCJA6
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 1150782063 (total size 179.22 KB)
+Extracting the hazard sites from the site model
+Read N=3245 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repo\Clear_Repo\ecd\Iran\DRAFT_20120000_Sequence_Ahar-Varzaghan\DRAFT_20120811_M6.4_Ahar-Varzaghan\OpenQuake_gmfs\stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: -0.093, Nominal bias stddev: 0.087
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: -0.156, Nominal bias stddev: 0.085
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: -0.133, Nominal bias stddev: 0.081
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: -0.089, Nominal bias stddev: 0.084
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '305.11 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 26 seconds from event_based
+Stored 152.23 KB of GMFs
+Exposing the outputs to the database
+Stored 589.4 KB on C:\Users\zkarimzadeh\oqdata/calc_436.hdf5 in 30 seconds

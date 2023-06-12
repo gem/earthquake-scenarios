@@ -1,0 +1,60 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+5588/01,Satarkhan Dam 3,46.899,38.456,seismic,0.48765,0.0
+5579/01,Varzaqan,46.64,38.507,seismic,0.43507,0.0
+5587/01,Satarkhan Dam 2,46.915,38.457,seismic,0.27288,0.0
+5547/01,Khajeh,46.589,38.154,seismic,0.22078,0.0
+5585/01,Nahand Dam 3,46.481,38.224,seismic,0.21621,0.0
+5586/01,Satarkhan Dam 1,46.9,38.455,seismic,0.19999,0.0
+5520/01,Ahar,47.059,38.474,seismic,0.19808,0.0
+5558/01,Nahand,46.47,38.248,seismic,0.19455,0.0
+5584/01,Nahand Dam 2,46.479,38.224,seismic,0.1779,0.0
+5583/01,Nahand Dam 1,46.479,38.223,seismic,0.15325,0.0
+5533/01,Douzal,46.229,38.86,seismic,0.11283,0.0
+5545/01,Kaleibar,47.039,38.87,seismic,0.10561,0.0
+5532/01,Damirchi,47.373,38.123,seismic,0.09373,0.0
+5546/01,Kharvanagh,46.166,38.688,seismic,0.07333,0.0
+5544/01,Hoorand,47.369,38.858,seismic,0.06733,0.0
+5540/01,Haris,47.119,38.247,seismic,0.05955,0.0
+5602/01,Meshkin Shahr,47.667,38.394,seismic,0.05895,0.0
+5573/01,Tabriz 5,46.327,38.102,seismic,0.04939,0.0
+5528/01,Basmanj,46.471,37.996,seismic,0.04887,0.0
+5572/01,Tabriz 4,46.298,38.078,seismic,0.04603,0.0
+5538/01,Hadi Shahr,45.662,38.839,seismic,0.0457,0.0
+5550/01,Liqvan,46.432,37.833,seismic,0.03506,0.0
+5570/01,Soofiyan,45.98,38.284,seismic,0.03055,0.0
+5571/01,Seyedtajedin,45.039,38.361,seismic,0.03046,0.0
+5581/01,Zanjireh,45.366,38.456,seismic,0.02927,0.0
+5601/01,Khomarloo,47.031,39.153,seismic,0.02924,0.0
+5567/01,Shabestar,45.708,38.176,seismic,0.02907,0.0
+5574/01,Tabriz 6,46.388,38.017,seismic,0.02604,0.0
+5604/01,Ziveh,47.648,39.114,seismic,0.02502,0.0
+5523/01,Amand,46.156,38.231,seismic,0.02336,0.0
+5565/01,Sharabiyan,47.101,37.887,seismic,0.02208,0.0
+5639/01,Tazeh Kandi,47.744,39.046,seismic,0.02007,0.0
+5575/01,Tasooj,45.361,38.314,seismic,0.01857,0.0
+5582/01,Zenooz,45.834,38.585,seismic,0.0183,0.0
+5554/01,Marand,45.774,38.445,seismic,0.01689,0.0
+5522/01,Ajab Shir,45.891,37.485,seismic,0.01626,0.0
+5561/01,Orumiyeh 1,45.063,37.544,seismic,0.01617,0.0
+5551/01,Lahrood,47.826,38.507,seismic,0.01554,0.0
+5569/01,Salmas1,44.848,38.201,seismic,0.01539,0.0
+5577/01,Tikmedash,46.953,37.731,seismic,0.01494,0.0
+5531/01,Bostan Abad,46.837,37.846,seismic,0.01445,0.0
+5556/01,Nazarkahrizi,46.75,37.35,seismic,0.01441,0.0
+5576/01,Torkmanchay,47.391,37.579,seismic,0.01325,0.0
+5599/01,Aras Dam3,45.398,39.088,seismic,0.01273,0.0
+5535/01,Qareh Qeshlaq,44.954,38.207,seismic,0.01257,0.0
+5541,Qareziaoddin,45.02,38.888,seismic,0.01253,0.0
+5564/01,Sarab,47.541,37.935,seismic,0.0118,0.0
+5530/01,Boran-e-olya,47.522,39.317,seismic,0.01117,0.0
+5557/01,Naqadeh,45.373,36.962,seismic,0.01101,0.0
+5580/01,Yekan Kahriz,45.403,38.672,seismic,0.01093,0.0
+5562/01,Parsabad,47.924,39.655,seismic,0.01089,0.0
+5529/01,Band,44.999,37.498,seismic,0.01044,0.0
+5566/01,Sharafkhaneh,45.487,38.174,seismic,0.01031,0.0
+5539/01,Hashtrood,47.05,37.475,seismic,0.00921,0.0
+5590,Shoot,44.771,39.221,seismic,0.0082,0.0
+5536/01,Qooshchi,45.036,37.989,seismic,0.00795,0.0
+5568/01,Seylab,44.764,38.313,seismic,0.00762,0.0
+5526/01,Avin,47.801,37.734,seismic,0.00663,0.0
+UTM:(38S 108 396 10000),UTM:(38S 108 396 10000),51.4584,35.6555,macroseismic,0.28843,0.8059

@@ -1,0 +1,44 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+3157,Kerman1Station,57.04,30.29,seismic,225.59,null,null,0.0,0.02551,0.0,2.9831,null,,null,,null,,inferred,Stations_USGS
+3203-2,HasanLangiStation,56.85,27.35,seismic,220.45,null,null,0.0,0.01276,0.0,2.1898,null,,null,,null,,inferred,Stations_USGS
+3160,NosratAbadStation,59.984,29.858,seismic,331.89,null,null,0.0,0.02437,0.0,2.7631,null,,null,,null,,inferred,Stations_USGS
+3164,AndoohjerdStation,57.75,30.23,seismic,400.59,null,null,0.0,0.03504,0.0,2.0752,null,,null,,null,,inferred,Stations_USGS
+3176-1,AbaraghStation,57.94,29.34,seismic,324.73,null,null,0.0,0.17442,0.0,4.4748,null,,null,,null,,inferred,Stations_USGS
+3159,MahanStation,57.29,30.06,seismic,351.91,null,null,0.0,0.01351,0.0,1.1046,null,,null,,null,,inferred,Stations_USGS
+3156,JoshanStation,57.6,30.12,seismic,665.88,null,null,0.0,0.03735,0.0,3.1093,null,,null,,null,,inferred,Stations_USGS
+3169,CheshmehsabzStation,56.42,29.46,seismic,389.47,null,null,0.0,0.02384,0.0,1.2909,null,,null,,null,,inferred,Stations_USGS
+3170-2,JiroftStation,57.74,28.67,seismic,306.46,null,null,0.0,0.0411,0.0,5.4297,null,,null,,null,,inferred,Stations_USGS
+3187,ZarandStation,56.57,30.81,seismic,269.84,null,null,0.0,0.01287,0.0,2.8087,null,,null,,null,,inferred,Stations_USGS
+3166,KahnoojStation,57.7,27.94,seismic,321.55,null,null,0.0,0.01123,0.0,0.8199,null,,null,,null,,inferred,Stations_USGS
+3175,Kerman2Station,57.07,30.28,seismic,216.28,null,null,0.0,0.03123,0.0,3.6519,null,,null,,null,,inferred,Stations_USGS
+3173,RavarStation,56.79,31.26,seismic,285.82,null,null,0.0,0.01286,0.0,1.7074,null,,null,,null,,inferred,Stations_USGS
+3167-2,RayenStation,57.44,29.59,seismic,436.91,null,null,0.0,0.01601,0.0,4.7005,null,,null,,null,,inferred,Stations_USGS
+3155-2,GolbafStation,57.72,29.88,seismic,527.01,null,null,0.0,0.03137,0.0,2.0245,null,,null,,null,,inferred,Stations_USGS
+3154,BolvardStation,56.05,29.42,seismic,395.41,null,null,0.0,0.01066,0.0,1.1088,null,,null,,null,,inferred,Stations_USGS
+3180,LalehZarStation,56.81,29.52,seismic,465.81,null,null,0.0,0.01328,0.0,1.8459,null,,null,,null,,inferred,Stations_USGS
+3162-1,MohammadAbad-e-MaskoonStation,57.89,28.9,seismic,647.3,null,null,0.0,0.12593,0.0,12.8523,null,,null,,null,,inferred,Stations_USGS
+3165,ShahdadStation,57.69,30.41,seismic,386.96,null,null,0.0,0.02089,0.0,2.7336,null,,null,,null,,inferred,Stations_USGS
+3290,BaftStation,56.6,29.23,seismic,432.32,null,null,0.0,0.01456,0.0,1.7784,null,,null,,null,,inferred,Stations_USGS
+3161,SirchStation,57.55,30.2,seismic,470.09,null,null,0.0,0.03173,0.0,2.3994,null,,null,,null,,inferred,Stations_USGS
+3168-2,BamStation,58.35,29.09,seismic,325.89,null,null,0.0,1.00762,0.0,34.415,null,,null,,null,,inferred,Stations_USGS
+3163,GhaleGanjStation,57.87,27.52,seismic,235.28,null,null,0.0,0.02547,0.0,2.5304,null,,null,,null,,inferred,Stations_USGS
+3174-1,HorjandStation,57.15,30.67,seismic,621.49,null,null,0.0,0.0124,0.0,1.5179,null,,null,,null,,inferred,Stations_USGS
+3172,BardsirStation,56.57,29.92,seismic,334.97,null,null,0.0,0.01424,0.0,2.1349,null,,null,,null,,inferred,Stations_USGS
+OBS_8,St6 (Intensity IX),58.404,29.07,macroseismic,376.94,8.5,0.3,0.8059,1.027009,0.875,73.5285,1.0131,1.487929,1.0822,0.825291,1.4737,0.153605,inferred,Stations_USGS
+HOBS_2,Andoohjerd,57.75,30.23,macroseismic,400.59,5.0,0.3,0.8059,0.056268,0.875,5.7393,1.0131,0.120635,1.0822,0.079984,1.4737,0.017388,inferred,Stations_USGS
+OBS_6,St3 (Intensity VIII),58.353,29.08,macroseismic,334.38,8.0,0.3,0.8059,0.752383,0.875,51.0773,1.0131,1.126702,1.0822,0.554872,1.4737,0.104783,inferred,Stations_USGS
+OBS_2,St2 (Intensity X),58.358,29.106,macroseismic,295.38,9.5,0.3,0.8059,1.913571,0.875,152.3742,1.0131,2.594945,1.0822,1.825721,1.4737,0.330088,inferred,Stations_USGS
+OBS_1,St1 (Intensity IX),58.367,29.112,macroseismic,295.05,9.0,0.3,0.8059,1.401875,0.875,105.8482,1.0131,1.964966,1.0822,1.227498,1.4737,0.225173,inferred,Stations_USGS
+OBS_3,St5 (Intensity X),58.324,29.107,macroseismic,314.12,9.5,0.3,0.8059,1.913571,0.875,152.3742,1.0131,2.594945,1.0822,1.825721,1.4737,0.330088,inferred,Stations_USGS
+HOBS_10,Nosrat Abad,59.97,29.85,macroseismic,391.2,null,null,,,,,,,,,,,inferred,Stations_USGS
+OBS_4,St8 (Intensity IX),58.343,29.108,macroseismic,307.84,8.5,0.3,0.8059,1.027009,0.875,73.5285,1.0131,1.487929,1.0822,0.825291,1.4737,0.153605,inferred,Stations_USGS
+OBS_7,St7 (Intensity IX),58.355,29.095,macroseismic,325.97,8.5,0.3,0.8059,1.027009,0.875,73.5285,1.0131,1.487929,1.0822,0.825291,1.4737,0.153605,inferred,Stations_USGS
+HOBS_6,Hasan Langi,56.85,27.35,macroseismic,220.45,null,null,,,,,,,,,,,inferred,Stations_USGS
+HOBS_5,Golbaf,57.72,29.88,macroseismic,527.01,5.0,0.3,0.8059,0.060495,0.875,5.7393,1.0131,0.13243,1.0822,0.076511,1.4737,0.016544,inferred,Stations_USGS
+HOBS_8,Kerman 2,57.07,30.28,macroseismic,216.28,4.0,0.3,0.8059,0.01842,0.875,2.216,1.0131,0.028124,1.0822,0.031539,1.4737,0.006656,inferred,Stations_USGS
+OBS_5,St4 (Intensity IX),58.374,29.008,macroseismic,373.99,9.0,0.3,0.8059,1.401875,0.875,105.8482,1.0131,1.964966,1.0822,1.227498,1.4737,0.225173,inferred,Stations_USGS
+HOBS_1,Abaraq,57.94,29.34,macroseismic,324.73,5.0,0.3,0.8059,0.075019,0.875,5.7393,1.0131,0.168673,1.0822,0.067057,1.4737,0.014271,inferred,Stations_USGS
+HOBS_4,Bolvard,56.05,29.42,macroseismic,395.41,null,null,,,,,,,,,,,inferred,Stations_USGS
+HOBS_9,Mohamad Abad,57.89,28.9,macroseismic,647.3,5.0,0.3,0.8059,0.075756,0.875,5.7393,1.0131,0.169542,1.0822,0.066657,1.4737,0.014175,inferred,Stations_USGS
+HOBS_7,Kerman 1,57.04,30.29,macroseismic,225.59,4.0,0.3,0.8059,0.018235,0.875,2.216,1.0131,0.027972,1.0822,0.031697,1.4737,0.006705,inferred,Stations_USGS
+HOBS_3,Bam,58.35,29.09,macroseismic,325.89,8.0,0.3,0.8059,0.752383,0.875,51.0773,1.0131,1.126702,1.0822,0.554872,1.4737,0.104783,inferred,Stations_USGS

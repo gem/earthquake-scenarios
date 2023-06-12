@@ -1,0 +1,76 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+5520/03,Ahar,47.059,38.474,seismic,0.01747,0
+5522/02,Ajab Shir,45.891,37.485,seismic,0.01911,0
+5523/02,Amand,46.156,38.231,seismic,0.02088,0
+5524,Ardebil 2,48.258,38.222,seismic,0.01085,0
+5525,Astara,48.869,38.422,seismic,0.01192,0
+5526/02,Avin,47.801,37.734,seismic,0.01887,0
+5527,Azarshahr,45.969,37.771,seismic,0.01491,0
+5528/02,Basmanj,46.471,37.996,seismic,0.04126,0
+5529/02,Band,44.999,37.498,seismic,0.02169,0
+5530/02,Boran-e-olya,47.522,39.317,seismic,0.00919,0
+5531/02,Bostan Abad,46.837,37.846,seismic,0.00744,0
+5532/03,Damirchi,47.373,38.123,seismic,0.17172,0
+5533/02,Douzal,46.229,38.86,seismic,0.08105,0
+5534,Gangechin,44.666,37.759,seismic,0.01427,0
+5535/02,Qareh Qeshlaq,44.954,38.207,seismic,0.01329,0
+5536/02,Qooshchi,45.036,37.989,seismic,0.01506,0
+5537,Germi,48.057,39.05,seismic,0.01335,0
+5538/02,Hadi Shahr,45.662,38.839,seismic,0.03346,0
+5539/02,Hashtrood,47.05,37.475,seismic,0.01664,0
+5540/03,Haris,47.119,38.247,seismic,0.10724,0
+5542,Helabad,48.425,37.936,seismic,0.0115,0
+5543,Talesh,48.897,37.839,seismic,0.01017,0
+5544/03,Hoorand,47.369,38.858,seismic,0.11815,0
+5545/03,Kaleibar,47.039,38.87,seismic,0.10547,0
+5546/02,Kharvanagh,46.166,38.688,seismic,0.06964,0
+5547/03,Khajeh,46.589,38.154,seismic,0.17959,0
+5548,Kariq,48.062,37.918,seismic,0.02254,0
+5549,Koraiem,48.237,37.957,seismic,0.00664,0
+5550/02,Liqvan,46.432,37.833,seismic,0.03913,0
+5551/02,Lahrood,47.826,38.507,seismic,0.03642,0
+5552,Maraqeh,46.24,37.396,seismic,0.01477,0
+5553,Myandoab,46.105,36.966,seismic,0.01506,0
+5554/02,Marand,45.774,38.445,seismic,0.0208,0
+5555,Namin,48.477,38.423,seismic,0.01156,0
+5556/02,Nazarkahrizi,46.75,37.35,seismic,0.01841,0
+5557/02,Naqadeh,45.373,36.962,seismic,0.01884,0
+5558/03,Nahand,46.47,38.248,seismic,0.12684,0
+5559,Nir,47.993,38.032,seismic,0.01661,0
+5560,Odloo,48.158,39.302,seismic,0.01628,0
+5561/02,Orumiyeh 1,45.063,37.544,seismic,0.02268,0
+5562/02,Parsabad,47.924,39.655,seismic,0.01853,0
+5563,Rashakan,45.299,37.321,seismic,0.01329,0
+5564/02,Sarab,47.541,37.935,seismic,0.0303,0
+5565/02,Sharabiyan,47.101,37.887,seismic,0.04464,0
+5566/02,Sharafkhaneh,45.487,38.174,seismic,0.03584,0
+5567/02,Shabestar,45.708,38.176,seismic,0.03263,0
+5568/02,Seylab,44.764,38.313,seismic,0.01037,0
+5569/02,Salmas1,44.848,38.201,seismic,0.01099,0
+5570/02,Soofiyan,45.98,38.284,seismic,0.02294,0
+5571/02,Seyedtajedin,45.039,38.361,seismic,0.01884,0
+5572/02,Tabriz 4,46.298,38.078,seismic,0.06803,0
+5573/02,Tabriz 5,46.327,38.102,seismic,0.0513,0
+5574/02,Tabriz 6,46.388,38.017,seismic,0.03549,0
+5575/02,Tasooj,45.361,38.314,seismic,0.01557,0
+5576/02,Torkmanchay,47.391,37.579,seismic,0.02522,0
+5577/02,Tikmedash,46.953,37.731,seismic,0.01643,0
+5578,Taleb-e-Qeshlaqi,48.206,38.403,seismic,0.01509,0
+5579/03,Varzaqan,46.64,38.507,seismic,0.00459,0
+5580/02,Yekan Kahriz,45.403,38.672,seismic,0.01535,0
+5581/02,Zanjireh,45.366,38.456,seismic,0.02135,0
+5582/02,Zenooz,45.834,38.585,seismic,0.02673,0
+5583/03,Nahand Dam 1,46.479,38.223,seismic,0.11957,0
+5584/03,Nahand Dam 2,46.479,38.224,seismic,0.30824,0
+5585/03,Nahand Dam 3,46.481,38.224,seismic,0.23919,0
+5586/03,Satarkhan Dam 1,46.9,38.455,seismic,0.03627,0
+5587/04,Satarkhan Dam 2,46.915,38.457,seismic,0.0213,0
+5588/05,Satarkhan Dam 3,46.899,38.456,seismic,0.02976,0
+5599/02,Aras Dam3,45.398,39.088,seismic,0.0107,0
+5600,Eslam-Abad,47.944,38.126,seismic,0.01358,0
+5601/02,Khomarloo,47.031,39.153,seismic,0.03669,0
+5602/03,Meshkin Shahr,47.667,38.394,seismic,0.08443,0
+5603,Qoorichay Dam1,48.296,38.074,seismic,0.01006,0
+5604/02,Ziveh,47.648,39.114,seismic,0.05707,0
+5639/02,Tazeh Kandi,47.744,39.046,seismic,0.0342,0
+5938,Hassanloo Dam,45.502,37.029,seismic,0.01734,0
