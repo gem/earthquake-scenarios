@@ -1,0 +1,23 @@
+job_id: 17
+job_description: 19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Cyprus/19961009_M6.8_Cyprus/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3392270255 (total size 50.11 KB)
+Entering SLOW MODE. You have 1.6 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=625 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Cyprus/19961009_M6.8_Cyprus/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias mean: 0.102, Nominal bias stddev: 0.274
+GMM: CauzziEtAl2014, IMT: PGA, Nominal bias mean: 0.104, Nominal bias stddev: 0.322
+GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias mean: 0.105, Nominal bias stddev: 0.277
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '44.75 KB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 22.03 KB of GMFs
+Exposing the outputs to the database
+Stored 255.62 KB on /Users/chago/oqdata/calc_17.hdf5 in 0 seconds

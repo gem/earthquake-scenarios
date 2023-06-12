@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1996
+Country,Cyprus
+Region,Cyprus
+Event_Name,Cyprus
+Local_Date,09/10/1996
+Local_Time,13:10:52
+Latitude,34.556
+Longitude,32.126
+Depth_(km),33
+Mw,6.8
+Max_Intensity_(MMI),VI
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,0-2
+Injured,0-5
+Displaced_Population,
+Affected_Population,
+Affected_Units,
+Damaged_Units,570.0 Buildings
+Collapsed_Units,70.0 Buildings
+Economic_Losses,0-4.34 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0007r4u/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2020_Petrinja_earthquake

@@ -1,0 +1,109 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+18,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",0, Seismic, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.21014388,0.06,0.277,0.06
+16,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",0, Seismic, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.22786172,0.063,0.277,0.063
+16,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",0, Seismic, USGS, USGS,AkkarEtAlRjb2014,PGA,0.19558428,0.088,0.274,0.088
+18,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",0, Seismic, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.16033566,0.093,0.274,0.093
+17,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",0, Seismic, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.1507632,0.102,0.274,0.102
+17,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",0, Seismic, USGS, GCMT,CauzziEtAl2014,PGA,0.1351538,0.104,0.322,0.104
+17,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",0, Seismic, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.2367593,0.105,0.277,0.105
+16,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",0, Seismic, USGS, USGS,CauzziEtAl2014,PGA,0.11858817,0.105,0.322,0.105
+18,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",0, Seismic, USGS, EFEHR,CauzziEtAl2014,PGA,0.112492196,0.111,0.322,0.111
+15,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",1, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19004853,0.265,0.274,0.265
+13,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22189905,0.269,0.274,0.269
+14,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18298572,0.282,0.274,0.282
+15,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",1, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19004853,0.342,0.274,0.342
+13,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22189905,0.345,0.274,0.345
+14,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18298572,0.358,0.274,0.358
+15,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",1, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19004853,0.452,0.274,0.452
+13,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22189905,0.456,0.274,0.456
+14,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18298572,0.469,0.274,0.469
+15,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",1, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19004853,0.562,0.274,0.562
+13,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22189905,0.567,0.274,0.567
+14,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18298572,0.581,0.274,0.581
+15,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:EFEHR
+",1, Seismic, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.19004853,0.639,0.274,0.639
+13,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",1, Seismic, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.22189905,0.643,0.274,0.643
+14,"19961009_M6.8_Cyprus median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",1, Seismic, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.18298572,0.656,0.274,0.656
+10,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.17909239,,,
+10,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CauzziEtAl2014,PGA,0.10693069,,,
+10,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016Asc,PGA,0.21641655,,,
+11,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.13603994,,,
+11,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CauzziEtAl2014,PGA,0.12206947,,,
+11,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016Asc,PGA,0.21602419,,,
+12,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.14606513,,,
+12,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.100812614,,,
+12,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016Asc,PGA,0.1999757,,,
+7,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.14140986,,,
+7,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.14582297,,,
+7,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.1394913,,,
+7,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.08735981,,,
+7,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.22890101,,,
+8,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.11492888,,,
+8,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.11575763,,,
+8,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.11410607,,,
+8,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.07100046,,,
+8,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.18603608,,,
+9,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.12150419,,,
+9,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = -1",PGA,0.12260664,,,
+9,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+c3_epsilon = 1",PGA,0.12041165,,,
+9,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = -1",PGA,0.075062536,,,
+9,"19961009_M6.8_Cyprus median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",0, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.19667958,,,
