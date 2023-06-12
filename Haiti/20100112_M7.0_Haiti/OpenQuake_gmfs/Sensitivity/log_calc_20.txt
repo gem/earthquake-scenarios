@@ -1,0 +1,23 @@
+job_id: 20
+job_description: 20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Haiti/20100112_M7.0_Haiti/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 2988731874 (total size 147.5 KB)
+Extracting the hazard sites from the site model
+Read N=2666 hazard sites and L=1 hazard levels
+Reading station data from /Users/martina.caruso/Documents/wip/ecd/Haiti/20100112_M7.0_Haiti/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 0.153, Nominal bias stddev: 0.211
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.119, Nominal bias stddev: 0.221
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: -0.010, Nominal bias stddev: 0.195
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.002, Nominal bias stddev: 0.181
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '250.76 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 7 seconds from event_based
+Stored 125.12 KB of GMFs
+Exposing the outputs to the database
+Stored 516.74 KB on /Users/martina.caruso/oqdata/calc_20.hdf5 in 7 seconds

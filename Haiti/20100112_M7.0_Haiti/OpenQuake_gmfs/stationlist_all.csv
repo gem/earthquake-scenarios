@@ -1,0 +1,159 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+MTDJ,MTDJ,-77.5249,18.2259,seismic,0.0031,0.0
+GRTK,GRTK,-71.1338,21.5111,seismic,0.00131,0.0
+GTBY,GTBY,-75.1108,19.9268,seismic,0.005,0.0
+SDDR,SDDR,-71.288,18.9817,seismic,0.01153,0.0
+OBS_94,Saniago de los Caballeros DR,-70.667,19.417,macroseismic,0.0523,0.8059
+MMI_10,Aquin (Intensity VI),-73.395,18.28,macroseismic,0.14473,0.8059
+OBS_63,San Pedro de Macoris DR,-69.3,18.467,macroseismic,0.01463,0.8059
+OBS_130,Malpasse Haiti,-71.9,18.5,macroseismic,0.2602,0.8059
+OBS_58,Puerto Plata DR,-70.683,19.8,macroseismic,0.0173,0.8059
+OBS_124,Bainet Haiti,-72.85,18.25,macroseismic,0.34566,0.8059
+MMI_16,Jean Rabel (Intensity VI),-73.196,19.869,macroseismic,0.10618,0.8059
+OBS_150,Leogane Haiti,-72.63389,18.51083,macroseismic,0.78491,0.8059
+MMI_7,Mirebalais (Intensity VI),-72.105,18.835,macroseismic,0.14351,0.8059
+OBS_109,Bois Verna Gonave Haiti,-73.036,18.75918,macroseismic,0.15884,0.8059
+OBS_68,Oracabessa Jamaica,-76.95,18.4,macroseismic,0.01463,0.8059
+OBS_52,Jarabacoa DR,-70.65,19.15,macroseismic,0.01898,0.8059
+OBS_114,Port Salut Haiti,-73.91667,18.07639,macroseismic,0.11673,0.8059
+MMI_18,Desdunes (Intensity V),-72.642,19.289,macroseismic,0.06696,0.8059
+OBS_108,Anse a Pitre Haiti,-71.75,18.05,macroseismic,0.12446,0.8059
+OBS_74,Matthew Town T/C/B,-73.67185,20.95306,macroseismic,0.01523,0.8059
+OBS_129,Latanier Haiti,-72.82387,19.51583,macroseismic,0.21613,0.8059
+OBS_158,Croix-des-Bouquets Haiti,-72.23058,18.58128,macroseismic,0.60896,0.8059
+OBS_75,azua DR,-70.733,18.45,macroseismic,0.05464,0.8059
+OBS_81,Jaquimeyes DR,-71.16667,18.31667,macroseismic,0.05909,0.8059
+MMI_2,Tiburon (Intensity VI),-74.4,18.33,macroseismic,0.10634,0.8059
+OBS_156,Canape Vert Haiti,-72.31705,18.53591,macroseismic,0.70464,0.8059
+OBS_138,Desarmes Haiti,-72.38333,19.0,macroseismic,0.4905,0.8059
+OBS_53,Laguna Salada DR,-69.817,18.55,macroseismic,0.01541,0.8059
+MMI_11,Cavillon (Intensity VI),-73.655,18.3,macroseismic,0.12902,0.8059
+OBS_65,Sosua DR,-70.5,19.76667,macroseismic,0.01667,0.8059
+OBS_105,Neyba DR,-71.417,18.467,macroseismic,0.11721,0.8059
+OBS_83,Las Matas de Farfan DR,-71.52139,18.87361,macroseismic,0.06329,0.8059
+OBS_66,Tamboril DR,-70.6,19.48333,macroseismic,0.01787,0.8059
+OBS_101,Mombin-Crchu Haiti,-71.98333,19.36667,macroseismic,0.06341,0.8059
+OBS_162,Pacot Haiti,-72.33851,18.53296,macroseismic,0.73601,0.8059
+MMI_3,Port-au-Prince  Hotel Montana (Intensity VIII),-72.297,18.527,macroseismic,0.685,0.8059
+MMI_22,San Souci Palace (Milot) (Intensity VI),-72.219,19.605,macroseismic,0.11364,0.8059
+1,"Baní, Dominican Republic (Intensity IV, 4 responses)",-70.33,18.29,macroseismic,0.03725,0.8059
+OBS_142,La Source Haiti,-71.96533,18.49964,macroseismic,0.50221,0.8059
+OBS_127,Hinche Haiti,-72.01667,19.15,macroseismic,0.23448,0.8059
+OBS_61,San Jose de las Matas DR,-70.93333,19.33333,macroseismic,0.02026,0.8059
+OBS_153,Bois Patate Haiti,-72.32001,18.5319,macroseismic,0.71085,0.8059
+OBS_51,Imbert DR,-70.83333,19.75,macroseismic,0.01812,0.8059
+OBS_160,Turgeau Haiti,-72.32996,18.53214,macroseismic,0.72424,0.8059
+OBS_151,Pettionville Montana Haiti,-72.29951,18.53088,macroseismic,0.68621,0.8059
+OBS_64,Santo Domingo DR,-69.9,18.483,macroseismic,0.01574,0.8059
+OBS_77,Barahona DR,-71.1,18.2,macroseismic,0.05803,0.8059
+OBS_148,Saint-Marc Haiti,-72.7,19.11667,macroseismic,0.46096,0.8059
+OBS_59,Rincon La Vega DR,-70.41332,19.08961,macroseismic,0.01775,0.8059
+OBS_126,Ennery Haiti,-72.48333,19.48333,macroseismic,0.21991,0.8059
+OBS_95,Tamayo DR,-71.2,18.4,macroseismic,0.05963,0.8059
+OBS_144,Petit Goave Haiti,-72.86144,18.4335,macroseismic,0.78491,0.8059
+OBS_119,Jimani DR,-71.85083,18.49083,macroseismic,0.2541,0.8059
+MMI_24,Petionville  Union School (Intensity IX),-72.299,18.518,macroseismic,1.28723,0.8059
+OBS_143,Mirebalais Haiti,-72.09615,18.82643,macroseismic,0.49819,0.8059
+MMI_23,Leogone  UNIH University (Intensity VIII),-72.575,18.528,macroseismic,0.78491,0.8059
+MMI_8,Delmas 31  Haiti Bureau of Mines (Intensity VIII),-72.303,18.555,macroseismic,0.67764,0.8059
+OBS_116,Saint-Rapahel Haiti,-72.18333,19.38333,macroseismic,0.12018,0.8059
+OBS_120,Pedro Garcia DR,-70.65,19.6,macroseismic,0.17897,0.8059
+OBS_86,Moca DR,-70.51667,19.4,macroseismic,0.05142,0.8059
+OBS_85,Mao DR,-71.083,19.567,macroseismic,0.05438,0.8059
+OBS_118,Duverge DR,-71.5,18.3,macroseismic,0.22234,0.8059
+21,"Santiago, Dominican Republic (Intensity IV, 80 responses)",-70.69,19.48,macroseismic,0.03826,0.8059
+MMI_14,Les Anglais (Intensity VI),-74.219,18.306,macroseismic,0.11022,0.8059
+OBS_93,San Juan de la Maguana DR,-71.233,18.8,macroseismic,0.05954,0.8059
+OBS_132,Miragoane Haiti,-73.1,18.45,macroseismic,0.36556,0.8059
+OBS_92,San Francisco de Macoris DR,-70.267,19.317,macroseismic,0.05019,0.8059
+OBS_110,Cerca-la-source Haiti,-71.78333,19.16667,macroseismic,0.11966,0.8059
+OBS_115,Saint-Michel-de-l'Atalaye Haiti,-72.33333,19.36667,macroseismic,0.12193,0.8059
+OBS_139,Gonaives Haiti,-72.68333,19.45,macroseismic,0.41159,0.8059
+OBS_46,Santiago de Cuba Cuba,-75.81676,20.01658,macroseismic,0.01463,0.8059
+OBS_106,Pedernales DR,-71.75,18.033,macroseismic,0.12405,0.8059
+OBS_125,Cabaret Haiti,-73.00732,19.87377,macroseismic,0.1985,0.8059
+OBS_54,Luperon DR,-70.95,19.9,macroseismic,0.01805,0.8059
+MMI_5,Leogane (Intensity IX),-72.633,18.511,macroseismic,1.46247,0.8059
+OBS_135,Pettite Riviere de Nippes Haiti,-73.25,18.48333,macroseismic,0.30344,0.8059
+OBS_112,Les Cayes Haiti,-73.75,18.2,macroseismic,0.12379,0.8059
+OBS_55,Monte Llano DR,-70.60085,19.73417,macroseismic,0.01717,0.8059
+OBS_72,Raisinier Ile Tortue Haiti,-72.94561,20.05314,macroseismic,0.02109,0.8059
+MMI_15,Gonaives (Intensity VI),-72.689,19.45,macroseismic,0.11854,0.8059
+OBS_69,Mole Saint-Nicholas Haiti,-73.38333,19.8,macroseismic,0.02286,0.8059
+OBS_49,Cotui DR,-70.15,19.05,macroseismic,0.01653,0.8059
+MMI_6,Canape Verte (Intensity VIII),-72.316,18.536,macroseismic,0.70327,0.8059
+OBS_99,Fort Liberte Haiti,-71.83972,19.66778,macroseismic,0.0585,0.8059
+OBS_48,Constanza DR,-70.75,18.417,macroseismic,0.02056,0.8059
+MMI_17,Mole Saint-Nicolas (Intensity VI),-73.372,19.804,macroseismic,0.1067,0.8059
+OBS_62,San Jose de Ocoa DR,-70.5,18.55,macroseismic,0.01878,0.8059
+OBS_117,Vieux Bourg d'Acquin Haiti,-73.35,18.3,macroseismic,0.14916,0.8059
+OBS_98,Fonds Verretes Haiti,-71.85694,18.39139,macroseismic,0.07317,0.8059
+OBS_134,Pettionville Berthe Haiti,-72.27771,18.51012,macroseismic,0.35901,0.8059
+OBS_154,Bois Vernat Haiti,-72.33257,18.53818,macroseismic,0.7234,0.8059
+OBS_79,El Factor DR,-69.88333,19.31667,macroseismic,0.04824,0.8059
+OBS_149,Carrefour Haiti,-72.40804,18.52952,macroseismic,0.78491,0.8059
+OBS_71,Port-de-Paix Haiti,-72.83333,19.95,macroseismic,0.02216,0.8059
+OBS_91,San Cristobal DR,-70.117,18.4,macroseismic,0.05019,0.8059
+OBS_57,Otra Banda DR,-68.65857,18.64885,macroseismic,0.01463,0.8059
+OBS_131,Marigot Haiti,-72.3135,18.2358,macroseismic,0.31127,0.8059
+OBS_88,Navarrete DR,-70.88333,19.56667,macroseismic,0.05308,0.8059
+OBS_90,Sabana Yegua DR,-70.83277,18.46063,macroseismic,0.05556,0.8059
+13,"La Vega, Dominican Republic (Intensity V, 8 responses)",-70.53,19.22,macroseismic,0.04885,0.8059
+OBS_78,Cabo Rojo DR,-71.6725,17.90417,macroseismic,0.06375,0.8059
+MMI_9,Dufort  south of  in mountains (Intensity VIII),-72.639,18.441,macroseismic,0.78491,0.8059
+OBS_82,La Vega DR,-70.517,19.233,macroseismic,0.05187,0.8059
+OBS_136,Tiburon Haiti,-74.4,18.33333,macroseismic,0.19815,0.8059
+2,"Bonao, Dominican Republic (Intensity IV, 4 responses)",-70.41,18.95,macroseismic,0.03768,0.8059
+OBS_60,Sabana Iglesia DR,-70.75,19.33333,macroseismic,0.01911,0.8059
+OBS_157,Cite Soleil Haiti,-72.33555,18.57849,macroseismic,0.69276,0.8059
+18,"Port-de-Paix, Haiti (Intensity IV, 3 responses)",-72.84,19.94,macroseismic,0.02582,0.8059
+MMI_20,Hinche (Intensity VI),-72.003,19.143,macroseismic,0.12577,0.8059
+OBS_140,Grand Goave Haiti,-72.77056,18.42889,macroseismic,0.78491,0.8059
+OBS_100,Jeremie Haiti,-74.11316,18.6492,macroseismic,0.06045,0.8059
+OBS_128,Kenscoff Haiti,-72.28694,18.45056,macroseismic,0.36542,0.8059
+OBS_102,Ouanamithe Haiti,-71.73333,19.55,macroseismic,0.05912,0.8059
+MMI_21,Citadelle La Ferriere (Intensity V),-72.243,19.573,macroseismic,0.06154,0.8059
+OBS_123,Anse a Veau Haiti,-73.35,18.51667,macroseismic,0.28026,0.8059
+OBS_137,Arcahaie Haiti,-72.51306,18.77034,macroseismic,0.57324,0.8059
+OBS_155,Bourdon Haiti,-72.31631,18.54085,macroseismic,0.70071,0.8059
+MMI_4,Jacmel (Intensity VIII),-72.54,18.24,macroseismic,0.6097,0.8059
+OBS_97,Cap Haitien Haiti,-72.20417,19.75778,macroseismic,0.05887,0.8059
+OBS_133,Petit Trou de Nippes Haiti,-73.51667,18.53333,macroseismic,0.25543,0.8059
+OBS_67,Villa Mella DR,-69.9,18.55,macroseismic,0.01574,0.8059
+15,"Moca, Dominican Republic (Intensity V, 5 responses)",-70.53,19.4,macroseismic,0.0515,0.8059
+OBS_104,Elias Pina DR,-71.583,19.0,macroseismic,0.11784,0.8059
+OBS_121,Postrer Rio DR,-71.61667,18.56667,macroseismic,0.23143,0.8059
+OBS_159,La Saline Haiti,-72.34813,18.5661,macroseismic,0.71724,0.8059
+OBS_84,Licey al Medio DR,-70.6,19.43333,macroseismic,0.05183,0.8059
+OBS_80,Esperanza DR,-70.98738,19.58037,macroseismic,0.05368,0.8059
+OBS_152,Babiole Haiti,-72.32452,18.53017,macroseismic,0.71798,0.8059
+OBS_147,Plaissance Haiti,-72.47168,19.59864,macroseismic,0.39738,0.8059
+OBS_73,Villa Isabela Haiti,-71.07372,19.88465,macroseismic,0.01863,0.8059
+OBS_50,Enriquillo DR,-71.23333,17.9,macroseismic,0.02383,0.8059
+OBS_76,Bani DR,-70.367,18.267,macroseismic,0.05171,0.8059
+OBS_145,Petitie Anse Gonave Haiti,-72.80545,18.75835,macroseismic,0.56458,0.8059
+OBS_56,Nagua DR,-69.833,19.383,macroseismic,0.01493,0.8059
+20,"San Cristóbal, Dominican Republic (Intensity V, 9 responses)",-70.11,18.42,macroseismic,0.05338,0.8059
+OBS_141,Jacmel Haiti,-72.53472,18.23417,macroseismic,0.60508,0.8059
+OBS_89,Paraiso Barahona DR,-71.17126,17.98489,macroseismic,0.05804,0.8059
+OBS_146,Pettionville downtown Haiti,-72.28523,18.51353,macroseismic,0.67626,0.8059
+OBS_107,Salcedo DR,-70.417,19.383,macroseismic,0.09481,0.8059
+MMI_13,Port Salut (Intensity VII),-73.926,18.094,macroseismic,0.21737,0.8059
+OBS_87,Monte Cristi DR,-71.65,19.85,macroseismic,0.05575,0.8059
+OBS_111,La Cayenne Gonave Haiti,-73.01667,18.9,macroseismic,0.14516,0.8059
+OBS_103,Banica DR,-71.61667,19.03333,macroseismic,0.11819,0.8059
+OBS_70,Pignon Haiti,-72.11667,19.33333,macroseismic,0.03093,0.8059
+OBS_47,Bonao DR,-70.417,18.933,macroseismic,0.01799,0.8059
+MMI_19,Saint Raphael (Intensity VI),-72.199,19.439,macroseismic,0.11846,0.8059
+MMI_12,Les Cayes regional airport (Intensity VI),-73.784,18.272,macroseismic,0.12319,0.8059
+OBS_96,Baie-de-Henne Haiti,-73.20944,19.66278,macroseismic,0.05942,0.8059
+OBS_122,Anse a Galets Gonave Haiti,-72.86417,18.83167,macroseismic,0.28508,0.8059
+OBS_161,Bolosse Haiti,-72.34844,18.5294,macroseismic,0.75475,0.8059
+UTM:(18Q 041 221 10000),,-75.8127,20.0299,macroseismic,0.01463,0.8059
+UTM:(18Q 072 220 10000),,-72.8504,19.9284,macroseismic,0.06427,0.8059
+UTM:(18Q 077 205 10000),,-72.3946,18.5678,macroseismic,0.36251,0.8059
+UTM:(18Q 078 205 10000),,-72.2998,18.5664,macroseismic,0.48938,0.8059
+UTM:(18Q 081 210 10000),,-72.0079,19.0134,macroseismic,0.12292,0.8059
+UTM:(18Q 083 202 10000),,-71.8316,18.2884,macroseismic,0.91791,0.8059
+UTM:(18Q 099 202 10000),,-70.3214,18.2574,macroseismic,0.02376,0.8059
+UTM:(18Q 101 204 10000),,-70.1278,18.4327,macroseismic,0.04723,0.8059

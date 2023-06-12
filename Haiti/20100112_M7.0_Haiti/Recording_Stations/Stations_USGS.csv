@@ -1,0 +1,235 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+MTDJ,MTDJ,-77.5249,18.2259,seismic,760.0,3.0,0.66,0.0,0.003103,,,,,,,,,inferred,Stations_USGS
+GRTK,GRTK,-71.1338,21.5111,seismic,600.0,2.4,0.66,0.0,0.001307,,,,,,,,,inferred,Stations_USGS
+GTBY,GTBY,-75.1108,19.9268,seismic,403.26,3.2,0.66,0.0,0.005003,,,,,,,,,inferred,Stations_USGS
+SDDR,SDDR,-71.288,18.9817,seismic,599.51,3.5,0.66,0.0,0.011532,,,,,,,,,inferred,Stations_USGS
+OBS_94,Saniago de los Caballeros DR,-70.667,19.417,macroseismic,295.84,5.0,0.3,0.8059,0.052296,0.875,6.0485,1.0131,0.103958,1.0822,0.094136,1.4737,0.020073,inferred,Stations_USGS
+MMI_10,Aquin (Intensity VI),-73.395,18.28,macroseismic,467.95,6.0,0.3,0.8059,0.144734,0.875,12.5343,1.0131,0.29301,1.0822,0.163404,1.4737,0.032871,inferred,Stations_USGS
+11,"Higüey, Dominican Republic (Intensity II, 3 responses)",-68.71,18.62,macroseismic,301.46,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_63,San Pedro de Macoris DR,-69.3,18.467,macroseismic,281.34,4.0,0.3,0.8059,0.014633,0.875,2.4806,1.0131,0.023522,1.0822,0.04432,1.4737,0.009977,inferred,Stations_USGS
+9,"Guantánamo, Cuba (Intensity II, 22 responses)",-75.22,20.15,macroseismic,274.05,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_130,Malpasse Haiti,-71.9,18.5,macroseismic,734.62,7.0,0.3,0.8059,0.260197,0.875,25.9751,1.0131,0.501487,1.0822,0.3695,1.4737,0.072395,inferred,Stations_USGS
+OBS_58,Puerto Plata DR,-70.683,19.8,macroseismic,600.0,4.0,0.3,0.8059,0.017305,0.875,2.4806,1.0131,0.025751,1.0822,0.040802,1.4737,0.008862,inferred,Stations_USGS
+OBS_19,Constant Spring Jamaica,-76.8,18.05,macroseismic,508.72,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_43,Caracol Haiti,-72.0179,19.69261111,macroseismic,600.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_45,Cockburn Harbor T/C/B,-71.52697222,21.49949167,macroseismic,244.77,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_124,Bainet Haiti,-72.85,18.25,macroseismic,515.4,7.0,0.3,0.8059,0.345665,0.875,25.9751,1.0131,0.582249,1.0822,0.310463,1.4737,0.059563,inferred,Stations_USGS
+OBS_12,Bayahibe DR,-68.833333,18.366667,macroseismic,301.04,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+MMI_16,Jean Rabel (Intensity VI),-73.196,19.869,macroseismic,487.68,6.0,0.3,0.8059,0.106185,0.875,12.5343,1.0131,0.248983,1.0822,0.197562,1.4737,0.040663,inferred,Stations_USGS
+OBS_150,Leogane Haiti,-72.633889,18.510833,macroseismic,274.53,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+MMI_7,Mirebalais (Intensity VI),-72.105,18.835,macroseismic,428.54,6.0,0.3,0.8059,0.143511,0.875,12.5343,1.0131,0.291706,1.0822,0.164256,1.4737,0.033063,inferred,Stations_USGS
+OBS_109,Bois Verna Gonave Haiti,-73.03600278,18.75918056,macroseismic,900.0,6.0,0.3,0.8059,0.158838,0.875,12.5343,1.0131,0.30769,1.0822,0.154351,1.4737,0.030837,inferred,Stations_USGS
+OBS_68,Oracabessa Jamaica,-76.95,18.4,macroseismic,760.0,4.0,0.3,0.8059,0.014633,0.875,2.4806,1.0131,0.023522,1.0822,0.04432,1.4737,0.009977,inferred,Stations_USGS
+OBS_52,Jarabacoa DR,-70.65,19.15,macroseismic,482.92,4.0,0.3,0.8059,0.018981,0.875,2.4806,1.0131,0.027067,1.0822,0.038984,1.4737,0.008276,inferred,Stations_USGS
+OBS_114,Port Salut Haiti,-73.916667,18.076389,macroseismic,499.29,6.0,0.3,0.8059,0.116734,0.875,12.5343,1.0131,0.261695,1.0822,0.18642,1.4737,0.038102,inferred,Stations_USGS
+MMI_18,Desdunes (Intensity V),-72.642,19.289,macroseismic,209.78,5.0,0.3,0.8059,0.066964,0.875,6.0485,1.0131,0.142935,1.0822,0.080899,1.4737,0.016938,inferred,Stations_USGS
+22,"Santo Domingo, Dominican Republic (Intensity IV, 304 responses)",-69.91,18.48,macroseismic,250.2,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_108,Anse a Pitre Haiti,-71.75,18.05,macroseismic,346.54,6.0,0.3,0.8059,0.124458,0.875,12.5343,1.0131,0.270659,1.0822,0.179241,1.4737,0.036462,inferred,Stations_USGS
+OBS_74,Matthew Town T/C/B,-73.67185,20.95305833,macroseismic,204.01,4.0,0.3,0.8059,0.015234,0.875,2.4806,1.0131,0.024039,1.0822,0.043449,1.4737,0.009739,inferred,Stations_USGS
+OBS_39,Ocho Rios Jamaica,-77.116667,18.416667,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_129,Latanier Haiti,-72.82386667,19.51582778,macroseismic,513.81,7.0,0.3,0.8059,0.216129,0.875,25.9751,1.0131,0.454875,1.0822,0.414009,1.4737,0.082237,inferred,Stations_USGS
+OBS_158,Croix-des-Bouquets Haiti,-72.230575,18.581275,macroseismic,288.83,8.0,0.3,0.8059,0.608959,0.875,53.8285,1.0131,0.985961,1.0822,0.710811,1.4737,0.13302,inferred,Stations_USGS
+OBS_75,azua DR,-70.733,18.45,macroseismic,365.32,5.0,0.3,0.8059,0.054643,0.875,6.0485,1.0131,0.110005,1.0822,0.091637,1.4737,0.019477,inferred,Stations_USGS
+OBS_81,Jaquimeyes DR,-71.166667,18.316667,macroseismic,180.0,5.0,0.3,0.8059,0.059088,0.875,6.0485,1.0131,0.121661,1.0822,0.087348,1.4737,0.018458,inferred,Stations_USGS
+MMI_2,Tiburon (Intensity VI),-74.4,18.33,macroseismic,564.67,6.0,0.3,0.8059,0.106341,0.875,12.5343,1.0131,0.249175,1.0822,0.197385,1.4737,0.040623,inferred,Stations_USGS
+6,"Cockburn Town, Turks and Caicos Islands (Intensity II, 6 responses)",-71.13,21.48,macroseismic,235.47,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_40,Port Antonio Jamaica,-76.466667,18.183333,macroseismic,563.81,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_156,Canape Vert Haiti,-72.31705278,18.53591111,macroseismic,571.44,8.0,0.3,0.8059,0.704635,0.875,53.8285,1.0131,1.064579,1.0822,0.649995,1.4737,0.120332,inferred,Stations_USGS
+OBS_138,Desarmes Haiti,-72.383333,19.0,macroseismic,377.15,8.0,0.3,0.8059,0.4905,0.875,53.8285,1.0131,0.879973,1.0822,0.81159,1.4737,0.154331,inferred,Stations_USGS
+OBS_16,Las Galeras DR,-69.2,19.3,macroseismic,239.46,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_53,Laguna Salada DR,-69.817,18.55,macroseismic,296.56,4.0,0.3,0.8059,0.015407,0.875,2.4806,1.0131,0.024186,1.0822,0.043207,1.4737,0.009658,inferred,Stations_USGS
+MMI_11,Cavillon (Intensity VI),-73.655,18.3,macroseismic,531.54,6.0,0.3,0.8059,0.12902,0.875,12.5343,1.0131,0.27583,1.0822,0.17533,1.4737,0.035571,inferred,Stations_USGS
+OBS_27,Guantanamo Baracoa Cuba,-74.49824722,20.35026389,macroseismic,600.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_23,Montego Jamaica,-77.916667,18.466667,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_28,Guantanamo Cuba,-75.209167,20.144444,macroseismic,274.05,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_65,Sosua DR,-70.5,19.766667,macroseismic,421.6,4.0,0.3,0.8059,0.01667,0.875,2.4806,1.0131,0.025236,1.0822,0.041561,1.4737,0.009111,inferred,Stations_USGS
+OBS_15,Higuey DR,-68.7,18.617,macroseismic,239.88,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_105,Neyba DR,-71.417,18.467,macroseismic,290.41,6.0,0.3,0.8059,0.117211,0.875,12.5343,1.0131,0.262257,1.0822,0.185955,1.4737,0.037995,inferred,Stations_USGS
+OBS_83,Las Matas de Farfan DR,-71.521389,18.873611,macroseismic,291.66,5.0,0.3,0.8059,0.063286,0.875,6.0485,1.0131,0.132908,1.0822,0.083749,1.4737,0.017608,inferred,Stations_USGS
+OBS_66,Tamboril DR,-70.6,19.483333,macroseismic,499.98,4.0,0.3,0.8059,0.017873,0.875,2.4806,1.0131,0.026203,1.0822,0.040157,1.4737,0.008653,inferred,Stations_USGS
+OBS_101,Mombin-Crchu Haiti,-71.983333,19.366667,macroseismic,456.74,5.0,0.3,0.8059,0.063409,0.875,6.0485,1.0131,0.13324,1.0822,0.083649,1.4737,0.017585,inferred,Stations_USGS
+OBS_162,Pacot Haiti,-72.338513,18.532962,macroseismic,531.11,8.0,0.3,0.8059,0.736013,0.875,53.8285,1.0131,1.089243,1.0822,0.632868,1.4737,0.116785,inferred,Stations_USGS
+MMI_3,Port-au-Prince  Hotel Montana (Intensity VIII),-72.297,18.527,macroseismic,542.39,8.0,0.3,0.8059,0.684995,0.875,53.8285,1.0131,1.048875,1.0822,0.661355,1.4737,0.122692,inferred,Stations_USGS
+MMI_22,San Souci Palace (Milot) (Intensity VI),-72.219,19.605,macroseismic,604.42,6.0,0.3,0.8059,0.113637,0.875,12.5343,1.0131,0.258021,1.0822,0.189518,1.4737,0.038812,inferred,Stations_USGS
+1,"Baní, Dominican Republic (Intensity IV, 4 responses)",-70.33,18.29,macroseismic,307.52,4.5,0.3,0.8059,0.037248,0.875,4.2016,1.0131,0.05155,1.0822,0.063902,1.4737,0.013842,inferred,Stations_USGS
+OBS_34,Miches DR,-69.05,18.983,macroseismic,339.45,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_142,La Source Haiti,-71.965325,18.49963611,macroseismic,600.0,8.0,0.3,0.8059,0.502209,0.875,53.8285,1.0131,0.890954,1.0822,0.79994,1.4737,0.15185,inferred,Stations_USGS
+OBS_36,Sabana de la Mar DR,-69.383,19.033,macroseismic,303.54,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_21,Gordon Town Jamaica,-76.716667,18.033333,macroseismic,647.26,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_127,Hinche Haiti,-72.016667,19.15,macroseismic,194.72,7.0,0.3,0.8059,0.234482,0.875,25.9751,1.0131,0.474789,1.0822,0.393835,1.4737,0.077759,inferred,Stations_USGS
+OBS_61,San Jose de las Matas DR,-70.933333,19.333333,macroseismic,469.09,4.0,0.3,0.8059,0.020259,0.875,2.4806,1.0131,0.028036,1.0822,0.037751,1.4737,0.007886,inferred,Stations_USGS
+OBS_153,Bois Patate Haiti,-72.320013,18.531901,macroseismic,571.44,8.0,0.3,0.8059,0.71085,0.875,53.8285,1.0131,1.069505,1.0822,0.646506,1.4737,0.119609,inferred,Stations_USGS
+OBS_51,Imbert DR,-70.833333,19.75,macroseismic,344.29,4.0,0.3,0.8059,0.018125,0.875,2.4806,1.0131,0.026402,1.0822,0.039881,1.4737,0.008563,inferred,Stations_USGS
+OBS_160,Turgeau Haiti,-72.329959,18.53214,macroseismic,531.11,8.0,0.3,0.8059,0.724236,0.875,53.8285,1.0131,1.080046,1.0822,0.639155,1.4737,0.118086,inferred,Stations_USGS
+OBS_2,Humacao PR,-65.819726,18.15451,macroseismic,760.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_151,Pettionville Montana Haiti,-72.29950556,18.53088333,macroseismic,542.39,8.0,0.3,0.8059,0.686208,0.875,53.8285,1.0131,1.049851,1.0822,0.660638,1.4737,0.122543,inferred,Stations_USGS
+OBS_41,Port Maria Jamaica,-76.9,18.366667,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_64,Santo Domingo DR,-69.9,18.483,macroseismic,266.53,4.0,0.3,0.8059,0.015739,0.875,2.4806,1.0131,0.024465,1.0822,0.042756,1.4737,0.009507,inferred,Stations_USGS
+OBS_77,Barahona DR,-71.1,18.2,macroseismic,490.57,5.0,0.3,0.8059,0.058031,0.875,6.0485,1.0131,0.118868,1.0822,0.088319,1.4737,0.018688,inferred,Stations_USGS
+OBS_148,Saint-Marc Haiti,-72.7,19.116667,macroseismic,457.35,8.0,0.3,0.8059,0.460962,0.875,53.8285,1.0131,0.851704,1.0822,0.843081,1.4737,0.161058,inferred,Stations_USGS
+OBS_59,Rincon La Vega DR,-70.41331944,19.08961111,macroseismic,244.58,4.0,0.3,0.8059,0.017751,0.875,2.4806,1.0131,0.026107,1.0822,0.040292,1.4737,0.008696,inferred,Stations_USGS
+OBS_126,Ennery Haiti,-72.483333,19.483333,macroseismic,272.72,7.0,0.3,0.8059,0.219914,0.875,25.9751,1.0131,0.459046,1.0822,0.409627,1.4737,0.081262,inferred,Stations_USGS
+OBS_95,Tamayo DR,-71.2,18.4,macroseismic,229.87,5.0,0.3,0.8059,0.05963,0.875,6.0485,1.0131,0.123102,1.0822,0.08686,1.4737,0.018343,inferred,Stations_USGS
+16,"Mona, Jamaica (Intensity II, 15 responses)",-76.73,18.0,macroseismic,808.22,2.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_25,Cockburn Town T/C/B,-71.13633889,21.46072778,macroseismic,222.24,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_144,Petit Goave Haiti,-72.86143611,18.43350278,macroseismic,372.61,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+OBS_119,Jimani DR,-71.850833,18.490833,macroseismic,445.71,7.0,0.3,0.8059,0.254102,0.875,25.9751,1.0131,0.495277,1.0822,0.374907,1.4737,0.073583,inferred,Stations_USGS
+MMI_24,Petionville  Union School (Intensity IX),-72.299,18.518,macroseismic,855.01,9.0,0.3,0.8059,1.28723,0.875,111.5497,1.0131,1.837443,1.0822,1.455444,1.4737,0.262121,inferred,Stations_USGS
+OBS_13,Consuelo DR,-69.29659722,18.55975278,macroseismic,367.54,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_143,Mirebalais Haiti,-72.09615278,18.82643056,macroseismic,428.54,8.0,0.3,0.8059,0.498187,0.875,53.8285,1.0131,0.887196,1.0822,0.803892,1.4737,0.152691,inferred,Stations_USGS
+MMI_23,Leogone  UNIH University (Intensity VIII),-72.575,18.528,macroseismic,279.82,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+MMI_8,Delmas 31  Haiti Bureau of Mines (Intensity VIII),-72.303,18.555,macroseismic,458.76,8.0,0.3,0.8059,0.677636,0.875,53.8285,1.0131,1.042935,1.0822,0.665748,1.4737,0.123606,inferred,Stations_USGS
+OBS_116,Saint-Rapahel Haiti,-72.183333,19.383333,macroseismic,224.74,6.0,0.3,0.8059,0.120181,0.875,12.5343,1.0131,0.265729,1.0822,0.183125,1.4737,0.037348,inferred,Stations_USGS
+23,"Sosúa, Dominican Republic (Intensity IV, 36 responses)",-70.52,19.75,macroseismic,458.42,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+5,"Cockburn Harbour, Turks and Caicos Islands (Intensity III, 4 responses)",-71.52,21.5,macroseismic,208.69,2.7,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_8,Catano PR,-66.139425,18.445414,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+14,"Luperón, Dominican Republic (Intensity IV, 6 responses)",-70.95,19.9,macroseismic,248.16,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_120,Pedro Garcia DR,-70.65,19.6,macroseismic,723.99,null,null,0.8059,0.178973,0.875,25.9751,1.0131,0.411929,1.0822,0.464754,1.4737,0.093615,inferred,Stations_USGS
+OBS_30,Cabarete DR,-71.3,19.716667,macroseismic,289.95,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_86,Moca DR,-70.516667,19.4,macroseismic,292.01,5.0,0.3,0.8059,0.051423,0.875,6.0485,1.0131,0.10173,1.0822,0.095111,1.4737,0.020307,inferred,Stations_USGS
+OBS_85,Mao DR,-71.083,19.567,macroseismic,280.87,5.0,0.3,0.8059,0.054376,0.875,6.0485,1.0131,0.109313,1.0822,0.091912,1.4737,0.019543,inferred,Stations_USGS
+OBS_118,Duverge DR,-71.5,18.3,macroseismic,816.56,null,null,0.8059,0.222345,0.875,25.9751,1.0131,0.461706,1.0822,0.406876,1.4737,0.080651,inferred,Stations_USGS
+12,"Kingston, Jamaica (Intensity II, 4 responses)",-76.8,17.99,macroseismic,367.51,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+21,"Santiago, Dominican Republic (Intensity IV, 80 responses)",-70.69,19.48,macroseismic,298.25,4.5,0.3,0.8059,0.038257,0.875,4.2016,1.0131,0.052505,1.0822,0.063346,1.4737,0.013707,inferred,Stations_USGS
+MMI_14,Les Anglais (Intensity VI),-74.219,18.306,macroseismic,270.21,6.0,0.3,0.8059,0.110219,0.875,12.5343,1.0131,0.253912,1.0822,0.193099,1.4737,0.039635,inferred,Stations_USGS
+OBS_93,San Juan de la Maguana DR,-71.233,18.8,macroseismic,278.72,5.0,0.3,0.8059,0.059538,0.875,6.0485,1.0131,0.122858,1.0822,0.086942,1.4737,0.018362,inferred,Stations_USGS
+OBS_132,Miragoane Haiti,-73.1,18.45,macroseismic,465.48,7.0,0.3,0.8059,0.365558,0.875,25.9751,1.0131,0.599631,1.0822,0.299996,1.4737,0.057317,inferred,Stations_USGS
+OBS_92,San Francisco de Macoris DR,-70.267,19.317,macroseismic,304.37,5.0,0.3,0.8059,0.050192,0.875,6.0485,1.0131,0.098603,1.0822,0.096535,1.4737,0.020648,inferred,Stations_USGS
+OBS_10,Ponce PR,-66.609061,17.987145,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+7,"Constant Spring, Jamaica (Intensity II, 4 responses)",-76.78,18.05,macroseismic,476.43,2.1,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_110,Cerca-la-source Haiti,-71.783333,19.166667,macroseismic,429.35,6.0,0.3,0.8059,0.119664,0.875,12.5343,1.0131,0.265128,1.0822,0.183609,1.4737,0.037459,inferred,Stations_USGS
+OBS_115,Saint-Michel-de-l'Atalaye Haiti,-72.333333,19.366667,macroseismic,309.44,6.0,0.3,0.8059,0.12193,0.875,12.5343,1.0131,0.267755,1.0822,0.18151,1.4737,0.036979,inferred,Stations_USGS
+OBS_139,Gonaives Haiti,-72.683333,19.45,macroseismic,265.15,8.0,0.3,0.8059,0.411587,0.875,53.8285,1.0131,0.802456,1.0822,0.903706,1.4737,0.174093,inferred,Stations_USGS
+OBS_46,Santiago de Cuba Cuba,-75.81676111,20.01658056,macroseismic,250.4,4.0,0.3,0.8059,0.014633,0.875,2.4806,1.0131,0.023522,1.0822,0.04432,1.4737,0.009977,inferred,Stations_USGS
+OBS_106,Pedernales DR,-71.75,18.033,macroseismic,319.2,6.0,0.3,0.8059,0.124053,0.875,12.5343,1.0131,0.270196,1.0822,0.1796,1.4737,0.036543,inferred,Stations_USGS
+OBS_125,Cabaret Haiti,-73.00731944,19.87377222,macroseismic,351.7,7.0,0.3,0.8059,0.198501,0.875,25.9751,1.0131,0.434977,1.0822,0.436171,1.4737,0.087187,inferred,Stations_USGS
+OBS_54,Luperon DR,-70.95,19.9,macroseismic,248.16,4.0,0.3,0.8059,0.018046,0.875,2.4806,1.0131,0.026339,1.0822,0.039967,1.4737,0.008591,inferred,Stations_USGS
+10,"Half Way Tree, Jamaica (Intensity II, 6 responses)",-76.79,18.0,macroseismic,361.18,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_5,Saint John USVI,-64.79358611,18.33152778,macroseismic,760.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+MMI_5,Leogane (Intensity IX),-72.633,18.511,macroseismic,274.53,9.0,0.3,0.8059,1.462473,0.875,111.5497,1.0131,1.964966,1.0822,1.345924,1.4737,0.240118,inferred,Stations_USGS
+4,"Caracas, Venezuela (Intensity II, 9 responses)",-66.93,10.54,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_135,Pettite Riviere de Nippes Haiti,-73.25,18.483333,macroseismic,600.0,7.0,0.3,0.8059,0.303443,0.875,25.9751,1.0131,0.543707,1.0822,0.336269,1.4737,0.065139,inferred,Stations_USGS
+OBS_112,Les Cayes Haiti,-73.75,18.2,macroseismic,259.94,6.0,0.3,0.8059,0.123793,0.875,12.5343,1.0131,0.269898,1.0822,0.179831,1.4737,0.036596,inferred,Stations_USGS
+OBS_55,Monte Llano DR,-70.60085278,19.73416667,macroseismic,236.34,4.0,0.3,0.8059,0.017167,0.875,2.4806,1.0131,0.025639,1.0822,0.040964,1.4737,0.008915,inferred,Stations_USGS
+OBS_18,San Rafael de Yuma DR,-68.667,18.433,macroseismic,239.41,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_24,Negril Jamaica,-78.35,18.266667,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_72,Raisinier Ile Tortue Haiti,-72.94561111,20.05313889,macroseismic,354.75,4.0,0.3,0.8059,0.021094,0.875,2.4806,1.0131,0.028654,1.0822,0.037006,1.4737,0.007654,inferred,Stations_USGS
+MMI_15,Gonaives (Intensity VI),-72.689,19.45,macroseismic,265.15,6.0,0.3,0.8059,0.118536,0.875,12.5343,1.0131,0.263811,1.0822,0.184678,1.4737,0.037703,inferred,Stations_USGS
+OBS_69,Mole Saint-Nicholas Haiti,-73.383333,19.8,macroseismic,492.14,4.0,0.3,0.8059,0.022857,0.875,2.4806,1.0131,0.029922,1.0822,0.03557,1.4737,0.007212,inferred,Stations_USGS
+OBS_49,Cotui DR,-70.15,19.05,macroseismic,376.44,4.0,0.3,0.8059,0.016527,0.875,2.4806,1.0131,0.025119,1.0822,0.041738,1.4737,0.009169,inferred,Stations_USGS
+MMI_6,Canape Verte (Intensity VIII),-72.316,18.536,macroseismic,571.44,8.0,0.3,0.8059,0.703269,0.875,53.8285,1.0131,1.063493,1.0822,0.650769,1.4737,0.120493,inferred,Stations_USGS
+OBS_113,Nant Fort Haiti,-71.965325,18.49963611,macroseismic,600.0,6.0,0.3,0.8059,0.144658,0.875,12.5343,1.0131,0.29293,1.0822,0.163457,1.4737,0.032882,inferred,Stations_USGS
+OBS_99,Fort Liberte Haiti,-71.839722,19.667778,macroseismic,600.0,5.0,0.3,0.8059,0.058498,0.875,6.0485,1.0131,0.1201,1.0822,0.087887,1.4737,0.018586,inferred,Stations_USGS
+OBS_29,Bavaro DR,-68.45,18.716667,macroseismic,600.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_48,Constanza DR,-70.75,18.417,macroseismic,280.44,4.0,0.3,0.8059,0.020557,0.875,2.4806,1.0131,0.028258,1.0822,0.03748,1.4737,0.007801,inferred,Stations_USGS
+OBS_9,Guaynabo PR,-66.114343,18.386438,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+MMI_17,Mole Saint-Nicolas (Intensity VI),-73.372,19.804,macroseismic,551.5,6.0,0.3,0.8059,0.1067,0.875,12.5343,1.0131,0.249617,1.0822,0.196978,1.4737,0.040529,inferred,Stations_USGS
+OBS_26,Mayaguez PR,-67.143361,18.203568,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_62,San Jose de Ocoa DR,-70.5,18.55,macroseismic,251.16,4.0,0.3,0.8059,0.01878,0.875,2.4806,1.0131,0.026912,1.0822,0.039189,1.4737,0.008341,inferred,Stations_USGS
+OBS_117,Vieux Bourg d'Acquin Haiti,-73.35,18.3,macroseismic,272.32,6.0,0.3,0.8059,0.149155,0.875,12.5343,1.0131,0.297681,1.0822,0.160419,1.4737,0.032198,inferred,Stations_USGS
+OBS_98,Fonds Verretes Haiti,-71.856944,18.391389,macroseismic,645.63,5.0,0.3,0.8059,0.073171,0.875,6.0485,1.0131,0.160223,1.0822,0.076621,1.4737,0.015937,inferred,Stations_USGS
+OBS_3,Saint Thomas USVI,-64.93077778,18.34202778,macroseismic,760.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_134,Pettionville Berthe Haiti,-72.27770833,18.510125,macroseismic,574.87,7.0,0.3,0.8059,0.35901,0.875,25.9751,1.0131,0.59396,1.0822,0.303338,1.4737,0.058033,inferred,Stations_USGS
+OBS_154,Bois Vernat Haiti,-72.33257222,18.53818056,macroseismic,531.11,8.0,0.3,0.8059,0.723398,0.875,53.8285,1.0131,1.079388,1.0822,0.639609,1.4737,0.11818,inferred,Stations_USGS
+OBS_79,El Factor DR,-69.883333,19.316667,macroseismic,296.14,5.0,0.3,0.8059,0.048241,0.875,6.0485,1.0131,0.093695,1.0822,0.09891,1.4737,0.021218,inferred,Stations_USGS
+OBS_1,Fajardo PR,-65.659686,18.335017,macroseismic,760.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_149,Carrefour Haiti,-72.40804444,18.52952222,macroseismic,505.81,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+OBS_71,Port-de-Paix Haiti,-72.833333,19.95,macroseismic,600.0,4.0,0.3,0.8059,0.022162,0.875,2.4806,1.0131,0.029427,1.0822,0.036116,1.4737,0.007379,inferred,Stations_USGS
+OBS_33,Las Terrenas DR,-69.533333,19.316667,macroseismic,367.3,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+19,"Puerto Plata, Dominican Republic (Intensity IV, 23 responses)",-70.7,19.8,macroseismic,286.9,3.7,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_7,Carolina PR,-65.981091,18.408384,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_91,San Cristobal DR,-70.117,18.4,macroseismic,377.62,5.0,0.3,0.8059,0.050192,0.875,6.0485,1.0131,0.098603,1.0822,0.096535,1.4737,0.020648,inferred,Stations_USGS
+OBS_57,Otra Banda DR,-68.65857222,18.64885,macroseismic,351.52,4.0,0.3,0.8059,0.014633,0.875,2.4806,1.0131,0.023522,1.0822,0.04432,1.4737,0.009977,inferred,Stations_USGS
+OBS_131,Marigot Haiti,-72.3135,18.23580278,macroseismic,555.27,7.0,0.3,0.8059,0.311273,0.875,25.9751,1.0131,0.551037,1.0822,0.33106,1.4737,0.064009,inferred,Stations_USGS
+OBS_88,Navarrete DR,-70.883333,19.566667,macroseismic,287.86,5.0,0.3,0.8059,0.05308,0.875,6.0485,1.0131,0.105972,1.0822,0.09328,1.4737,0.019869,inferred,Stations_USGS
+OBS_90,Sabana Yegua DR,-70.83277222,18.46062778,macroseismic,434.18,5.0,0.3,0.8059,0.055558,0.875,6.0485,1.0131,0.112383,1.0822,0.090709,1.4737,0.019256,inferred,Stations_USGS
+13,"La Vega, Dominican Republic (Intensity V, 8 responses)",-70.53,19.22,macroseismic,280.07,4.9,0.3,0.8059,0.048851,0.875,5.6234,1.0131,0.09003,1.0822,0.087266,1.4737,0.018671,inferred,Stations_USGS
+OBS_38,Kingston Jamaica,-76.8,18.0,macroseismic,374.66,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_78,Cabo Rojo DR,-71.6725,17.904167,macroseismic,233.92,5.0,0.3,0.8059,0.063754,0.875,6.0485,1.0131,0.134174,1.0822,0.083372,1.4737,0.017519,inferred,Stations_USGS
+MMI_9,Dufort  south of  in mountains (Intensity VIII),-72.639,18.441,macroseismic,640.32,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+OBS_82,La Vega DR,-70.517,19.233,macroseismic,236.13,5.0,0.3,0.8059,0.051872,0.875,6.0485,1.0131,0.102874,1.0822,0.094607,1.4737,0.020186,inferred,Stations_USGS
+OBS_136,Tiburon Haiti,-74.4,18.333333,macroseismic,564.67,null,null,0.8059,0.19815,0.875,25.9751,1.0131,0.434573,1.0822,0.436644,1.4737,0.087292,inferred,Stations_USGS
+2,"Bonao, Dominican Republic (Intensity IV, 4 responses)",-70.41,18.95,macroseismic,291.04,4.5,0.3,0.8059,0.037684,0.875,4.2016,1.0131,0.051874,1.0822,0.063712,1.4737,0.013795,inferred,Stations_USGS
+OBS_6,Aguada PR,-67.187814,18.382156,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_60,Sabana Iglesia DR,-70.75,19.333333,macroseismic,522.94,4.0,0.3,0.8059,0.019106,0.875,2.4806,1.0131,0.027164,1.0822,0.038857,1.4737,0.008235,inferred,Stations_USGS
+OBS_37,Half Way Tree Jamaica,-76.8,18.0,macroseismic,374.66,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_157,Cite Soleil Haiti,-72.335553,18.57849,macroseismic,259.1,8.0,0.3,0.8059,0.692759,0.875,53.8285,1.0131,1.055108,1.0822,0.656802,1.4737,0.121746,inferred,Stations_USGS
+18,"Port-de-Paix, Haiti (Intensity IV, 3 responses)",-72.84,19.94,macroseismic,430.45,4.1,0.3,0.8059,0.02582,0.875,2.9012,1.0131,0.033799,1.0822,0.041978,1.4737,0.008956,inferred,Stations_USGS
+OBS_22,Mona Jamaica,-76.766667,18.0,macroseismic,635.42,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_32,La Romana DR,-68.967,18.417,macroseismic,316.95,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_35,Punta Cana DR,-68.4055,18.56551111,macroseismic,271.26,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+MMI_20,Hinche (Intensity VI),-72.003,19.143,macroseismic,318.45,6.0,0.3,0.8059,0.125768,0.875,12.5343,1.0131,0.272154,1.0822,0.178095,1.4737,0.0362,inferred,Stations_USGS
+OBS_140,Grand Goave Haiti,-72.770556,18.428889,macroseismic,600.0,8.0,0.3,0.8059,0.784906,0.875,53.8285,1.0131,1.126702,1.0822,0.608405,1.4737,0.111737,inferred,Stations_USGS
+OBS_100,Jeremie Haiti,-74.11315556,18.64920278,macroseismic,600.0,5.0,0.3,0.8059,0.060454,0.875,6.0485,1.0131,0.125296,1.0822,0.086133,1.4737,0.018171,inferred,Stations_USGS
+OBS_128,Kenscoff Haiti,-72.286944,18.450556,macroseismic,900.0,7.0,0.3,0.8059,0.36542,0.875,25.9751,1.0131,0.599512,1.0822,0.300065,1.4737,0.057332,inferred,Stations_USGS
+OBS_102,Ouanamithe Haiti,-71.733333,19.55,macroseismic,249.94,5.0,0.3,0.8059,0.059124,0.875,6.0485,1.0131,0.121758,1.0822,0.087315,1.4737,0.018451,inferred,Stations_USGS
+MMI_21,Citadelle La Ferriere (Intensity V),-72.243,19.573,macroseismic,589.31,5.0,0.3,0.8059,0.061539,0.875,6.0485,1.0131,0.1282,1.0822,0.085199,1.4737,0.01795,inferred,Stations_USGS
+OBS_14,Hato Mayor DR,-69.25,18.767,macroseismic,319.6,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_123,Anse a Veau Haiti,-73.35,18.516667,macroseismic,600.0,7.0,0.3,0.8059,0.280261,0.875,25.9751,1.0131,0.521458,1.0822,0.353054,1.4737,0.068793,inferred,Stations_USGS
+OBS_137,Arcahaie Haiti,-72.51306111,18.77033889,macroseismic,303.8,8.0,0.3,0.8059,0.573241,0.875,53.8285,1.0131,0.955123,1.0822,0.737639,1.4737,0.13866,inferred,Stations_USGS
+OBS_155,Bourdon Haiti,-72.31631389,18.54085,macroseismic,571.44,8.0,0.3,0.8059,0.700713,0.875,53.8285,1.0131,1.061459,1.0822,0.652222,1.4737,0.120795,inferred,Stations_USGS
+OBS_31,Cabrera DR,-69.9,19.633333,macroseismic,460.57,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_17,Samana DR,-69.317,19.217,macroseismic,402.62,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+MMI_4,Jacmel (Intensity VIII),-72.54,18.24,macroseismic,421.25,8.0,0.3,0.8059,0.609699,0.875,53.8285,1.0131,0.986591,1.0822,0.710282,1.4737,0.132909,inferred,Stations_USGS
+OBS_97,Cap Haitien Haiti,-72.204167,19.757778,macroseismic,600.0,5.0,0.3,0.8059,0.058872,0.875,6.0485,1.0131,0.121089,1.0822,0.087544,1.4737,0.018505,inferred,Stations_USGS
+OBS_20,Ewarton Jamaica,-77.083333,18.183333,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_11,San Juan PR,-66.064425,18.45,macroseismic,760.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_133,Petit Trou de Nippes Haiti,-73.516667,18.533333,macroseismic,600.0,7.0,0.3,0.8059,0.255428,0.875,25.9751,1.0131,0.496633,1.0822,0.373714,1.4737,0.073321,inferred,Stations_USGS
+OBS_67,Villa Mella DR,-69.9,18.55,macroseismic,228.56,4.0,0.3,0.8059,0.015736,0.875,2.4806,1.0131,0.024463,1.0822,0.04276,1.4737,0.009508,inferred,Stations_USGS
+15,"Moca, Dominican Republic (Intensity V, 5 responses)",-70.53,19.4,macroseismic,314.77,5.0,0.3,0.8059,0.051503,0.875,6.0485,1.0131,0.101934,1.0822,0.095021,1.4737,0.020285,inferred,Stations_USGS
+OBS_104,Elias Pina DR,-71.583,19.0,macroseismic,406.01,6.0,0.3,0.8059,0.117839,0.875,12.5343,1.0131,0.262994,1.0822,0.185347,1.4737,0.037856,inferred,Stations_USGS
+OBS_121,Postrer Rio DR,-71.616667,18.566667,macroseismic,617.93,7.0,0.3,0.8059,0.231426,0.875,25.9751,1.0131,0.471527,1.0822,0.397014,1.4737,0.078463,inferred,Stations_USGS
+3,"Cabrera, Dominican Republic (Intensity III, 4 responses)",-69.9,19.63,macroseismic,460.57,3.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_4,Saint Criox USVI,-64.70317778,17.74655556,macroseismic,760.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_159,La Saline Haiti,-72.348132,18.566098,macroseismic,600.0,8.0,0.3,0.8059,0.717242,0.875,53.8285,1.0131,1.074549,1.0822,0.642969,1.4737,0.118876,inferred,Stations_USGS
+OBS_84,Licey al Medio DR,-70.6,19.433333,macroseismic,285.4,5.0,0.3,0.8059,0.051826,0.875,6.0485,1.0131,0.102757,1.0822,0.094658,1.4737,0.020198,inferred,Stations_USGS
+OBS_80,Esperanza DR,-70.98737778,19.58036944,macroseismic,367.19,5.0,0.3,0.8059,0.053678,0.875,6.0485,1.0131,0.10751,1.0822,0.092643,1.4737,0.019717,inferred,Stations_USGS
+OBS_152,Babiole Haiti,-72.32451944,18.53016944,macroseismic,571.44,8.0,0.3,0.8059,0.717982,0.875,53.8285,1.0131,1.075132,1.0822,0.642562,1.4737,0.118791,inferred,Stations_USGS
+OBS_147,Plaissance Haiti,-72.471675,19.59864444,macroseismic,529.78,null,null,0.8059,0.397384,0.875,53.8285,1.0131,0.787777,1.0822,0.923368,1.4737,0.178344,inferred,Stations_USGS
+OBS_73,Villa Isabela Haiti,-71.07371667,19.88465278,macroseismic,430.74,4.0,0.3,0.8059,0.018634,0.875,2.4806,1.0131,0.026799,1.0822,0.03934,1.4737,0.008389,inferred,Stations_USGS
+OBS_50,Enriquillo DR,-71.233333,17.9,macroseismic,571.01,4.0,0.3,0.8059,0.023827,0.875,2.4806,1.0131,0.0306,1.0822,0.034849,1.4737,0.006994,inferred,Stations_USGS
+OBS_76,Bani DR,-70.367,18.267,macroseismic,301.37,5.0,0.3,0.8059,0.051713,0.875,6.0485,1.0131,0.10247,1.0822,0.094784,1.4737,0.020228,inferred,Stations_USGS
+OBS_145,Petitie Anse Gonave Haiti,-72.80545278,18.75835,macroseismic,600.0,8.0,0.3,0.8059,0.564576,0.875,53.8285,1.0131,0.947505,1.0822,0.744557,1.4737,0.140118,inferred,Stations_USGS
+OBS_56,Nagua DR,-69.833,19.383,macroseismic,600.0,4.0,0.3,0.8059,0.014926,0.875,2.4806,1.0131,0.023776,1.0822,0.043889,1.4737,0.009921,inferred,Stations_USGS
+20,"San Cristóbal, Dominican Republic (Intensity V, 9 responses)",-70.11,18.42,macroseismic,380.37,5.1,0.3,0.8059,0.053375,0.875,6.5057,1.0131,0.112889,1.0822,0.10456,1.4737,0.0223,inferred,Stations_USGS
+OBS_141,Jacmel Haiti,-72.534722,18.234167,macroseismic,421.25,8.0,0.3,0.8059,0.605078,0.875,53.8285,1.0131,0.982653,1.0822,0.713602,1.4737,0.133606,inferred,Stations_USGS
+OBS_89,Paraiso Barahona DR,-71.17125556,17.98489167,macroseismic,485.34,5.0,0.3,0.8059,0.058045,0.875,6.0485,1.0131,0.118903,1.0822,0.088307,1.4737,0.018686,inferred,Stations_USGS
+OBS_146,Pettionville downtown Haiti,-72.28523,18.513529,macroseismic,574.87,8.0,0.3,0.8059,0.67626,0.875,53.8285,1.0131,1.041822,1.0822,0.666578,1.4737,0.123778,inferred,Stations_USGS
+OBS_107,Salcedo DR,-70.417,19.383,macroseismic,337.85,6.0,0.3,0.8059,0.094811,0.875,12.5343,1.0131,0.234586,1.0822,0.21177,1.4737,0.043955,inferred,Stations_USGS
+MMI_13,Port Salut (Intensity VII),-73.926,18.094,macroseismic,466.32,7.0,0.3,0.8059,0.217367,0.875,25.9751,1.0131,0.456243,1.0822,0.412562,1.4737,0.081915,inferred,Stations_USGS
+OBS_87,Monte Cristi DR,-71.65,19.85,macroseismic,332.69,5.0,0.3,0.8059,0.055747,0.875,6.0485,1.0131,0.112875,1.0822,0.09052,1.4737,0.019211,inferred,Stations_USGS
+OBS_111,La Cayenne Gonave Haiti,-73.016667,18.9,macroseismic,600.0,6.0,0.3,0.8059,0.145156,0.875,12.5343,1.0131,0.293459,1.0822,0.163113,1.4737,0.032805,inferred,Stations_USGS
+OBS_44,Milot Haiti,-72.216667,19.616667,macroseismic,576.84,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_103,Banica DR,-71.616667,19.033333,macroseismic,362.36,6.0,0.3,0.8059,0.118187,0.875,12.5343,1.0131,0.263402,1.0822,0.185012,1.4737,0.03778,inferred,Stations_USGS
+OBS_70,Pignon Haiti,-72.116667,19.333333,macroseismic,418.89,4.0,0.3,0.8059,0.03093,0.875,2.4806,1.0131,0.035225,1.0822,0.030642,1.4737,0.005765,inferred,Stations_USGS
+OBS_47,Bonao DR,-70.417,18.933,macroseismic,289.23,4.0,0.3,0.8059,0.017989,0.875,2.4806,1.0131,0.026295,1.0822,0.040029,1.4737,0.008611,inferred,Stations_USGS
+MMI_19,Saint Raphael (Intensity VI),-72.199,19.439,macroseismic,443.11,6.0,0.3,0.8059,0.118462,0.875,12.5343,1.0131,0.263724,1.0822,0.184749,1.4737,0.03772,inferred,Stations_USGS
+MMI_12,Les Cayes regional airport (Intensity VI),-73.784,18.272,macroseismic,294.82,6.0,0.3,0.8059,0.123187,0.875,12.5343,1.0131,0.269203,1.0822,0.180372,1.4737,0.036719,inferred,Stations_USGS
+8,"Cotuí, Dominican Republic (Intensity III, 3 responses)",-70.15,19.06,macroseismic,302.28,3.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_96,Baie-de-Henne Haiti,-73.209444,19.662778,macroseismic,437.25,5.0,0.3,0.8059,0.059423,0.875,6.0485,1.0131,0.122553,1.0822,0.087045,1.4737,0.018387,inferred,Stations_USGS
+OBS_42,Spanish Town Jamaica,-76.95,17.983333,macroseismic,760.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_122,Anse a Galets Gonave Haiti,-72.864167,18.831667,macroseismic,495.07,7.0,0.3,0.8059,0.285084,0.875,25.9751,1.0131,0.526157,1.0822,0.349381,1.4737,0.067992,inferred,Stations_USGS
+MMI_1,Port-de-Paix (Intensity VII),-72.84,19.94,macroseismic,430.45,null,null,0.8059,0.196622,0.875,25.9751,1.0131,0.432808,1.0822,0.438721,1.4737,0.087758,inferred,Stations_USGS
+OBS_161,Bolosse Haiti,-72.34844167,18.52939722,macroseismic,503.88,8.0,0.3,0.8059,0.754747,0.875,53.8285,1.0131,1.103732,1.0822,0.623193,1.4737,0.114785,inferred,Stations_USGS
+UTM:(18Q 031 199 10000),,-76.7476,18.0356,macroseismic,826.89,2.6,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 041 221 10000),,-75.8127,20.0299,macroseismic,326.04,4.0,0.3,0.8059,0.014633,0.875,2.4806,1.0131,0.023522,1.0822,0.04432,1.4737,0.009977,inferred,Stations_USGS
+UTM:(18Q 047 222 10000),,-75.2391,20.1219,macroseismic,251.58,2.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 072 220 10000),,-72.8504,19.9284,macroseismic,329.22,5.2,0.3,0.8059,0.064271,0.875,6.9974,1.0131,0.151675,1.0822,0.104946,1.4737,0.022115,inferred,Stations_USGS
+UTM:(18Q 077 205 10000),,-72.3946,18.5678,macroseismic,600.0,6.8,0.3,0.8059,0.362508,0.875,22.4526,1.0131,0.570268,1.0822,0.238369,1.4737,0.045415,inferred,Stations_USGS
+UTM:(18Q 078 205 10000),,-72.2998,18.5664,macroseismic,404.93,7.5,0.3,0.8059,0.489383,0.875,37.3925,1.0131,0.783824,1.0822,0.451548,1.4737,0.085152,inferred,Stations_USGS
+UTM:(18Q 081 210 10000),,-72.0079,19.0134,macroseismic,490.19,5.9,0.3,0.8059,0.122919,0.875,11.6535,1.0131,0.262806,1.0822,0.160584,1.4737,0.032641,inferred,Stations_USGS
+UTM:(18Q 083 202 10000),,-71.8316,18.2884,macroseismic,637.53,null,null,0.8059,0.917911,0.875,119.9814,1.0131,1.573821,1.0822,2.013971,1.4737,0.372536,inferred,Stations_USGS
+UTM:(18Q 086 118 10000),,-71.6639,10.702,macroseismic,760.0,3.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 093 218 10000),,-70.8517,19.7127,macroseismic,454.79,3.6,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 098 210 10000),,-70.3964,18.9804,macroseismic,543.57,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 099 202 10000),,-70.3214,18.2574,macroseismic,293.77,4.2,0.3,0.8059,0.023764,0.875,3.3766,1.0131,0.034185,1.0822,0.050407,1.4737,0.011015,inferred,Stations_USGS
+UTM:(18Q 101 204 10000),,-70.1278,18.4327,macroseismic,379.58,4.9,0.3,0.8059,0.04723,0.875,5.6234,1.0131,0.086201,1.0822,0.089089,1.4737,0.019108,inferred,Stations_USGS
+UTM:(18Q 101 211 10000),,-70.1097,19.0631,macroseismic,326.8,3.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 103 205 10000),,-69.9366,18.5178,macroseismic,256.22,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 104 215 10000),,-69.8144,19.4154,macroseismic,600.0,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 105 137 10000),,-69.9004,12.3901,macroseismic,760.0,2.6,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 107 214 10000),,-69.5329,19.3171,macroseismic,367.3,2.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 113 204 10000),,-68.9968,18.4002,macroseismic,180.0,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 127 113 10000),,-67.9413,10.1909,macroseismic,760.0,2.3,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 138 117 10000),,-66.9366,10.526,macroseismic,760.0,2.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(18Q 144 206 10000),,-66.0787,18.4644,macroseismic,760.0,2.2,0.3,,,,,,,,,,,inferred,Stations_USGS

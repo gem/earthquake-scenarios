@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2010
+Country,Haiti
+Region,Port-au-Prince
+Event_Name,Haiti
+Local_Date,01/12/2010
+Local_Time,16:53:10
+Longitude,-72.571
+Latitude,18.443
+Depth_(km),13
+Mw,7
+Max_Intensity_(MMI),IX
+Fault_mechanism,Strike slip
+Tectonic_region_type,Active Shallow Crustal
+Fatalities,158679-316000
+Injured,300000
+Displaced_Population,1269110-1800000
+Affected_Population,3000000-3700000
+Affected_Units,
+Damaged_Units,285677-317289
+Collapsed_Units,105000-188383
+Economic_Losses,7000-8000 M USD
+Insured_Losses,200 M USD
+Induced_Effects,Liquefaction
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000h60h/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2010_Haiti_earthquake

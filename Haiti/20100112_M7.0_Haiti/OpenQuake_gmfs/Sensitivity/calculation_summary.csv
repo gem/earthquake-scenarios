@@ -1,0 +1,29 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+20,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",7, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.6699511,0.002,0.181,0.002
+20,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",7, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.67254144,-0.01,0.195,0.01
+20,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",7, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.636663,0.119,0.221,0.119
+19,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",5, Seismic, GEM, USGS,AbrahamsonEtAl2014,PGA,0.7030544,0.153,0.211,0.153
+20,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",7, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.7030544,0.153,0.211,0.153
+19,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",5, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.3551344,-0.397,0.232,0.397
+19,"20100112_M7.0_Haiti median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",5, Seismic, GEM, USGS,CauzziEtAl2014,PGA,0.37456945,-0.637,0.256,0.637
+18,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.6078047,,,
+18,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,BooreEtAl2014,PGA,0.54133576,,,
+18,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.67906296,,,
+18,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ChiouYoungs2014,PGA,0.6405644,,,
+17,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,AbrahamsonEtAl2014,PGA,0.6078047,,,
+17,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.52824366,,,
+17,"20100112_M7.0_Haiti median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,CauzziEtAl2014,PGA,0.6085458,,,

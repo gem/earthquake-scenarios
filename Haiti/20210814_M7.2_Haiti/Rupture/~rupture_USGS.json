@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -73.40,
+                                18.39,
+                                6.4
+                            ],
+                            [
+                                -73.78,
+                                18.36,
+                                6.4
+                            ],
+                            [
+                                -73.79,
+                                18.52,
+                                27.59
+                            ],
+                            [
+                                -73.41,
+                                18.54,
+                                27.59
+                            ],
+                            [
+                                -73.40,
+                                18.39,
+                                6.4
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            }
+        }
+    ],
+    "metadata": {
+        "mag": 7.2,
+        "lon": 73.482,
+        "netid": "us",
+        "id": "6000f65h",
+        "lat": 18.434,
+        "depth": 10.0,
+        "reference": "USGS FFM",
+        "mech": "ALL",
+        "rake": 0.0
+    }
+}

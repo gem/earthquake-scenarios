@@ -1,0 +1,18 @@
+job_id: 17
+job_description: 20100112_M7.0_Haiti median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Haiti/20100112_M7.0_Haiti/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 3156839334 (total size 136.71 KB)
+Extracting the hazard sites from the site model
+Read N=2508 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '177.17 KB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 88.29 KB of GMFs
+Exposing the outputs to the database
+Stored 427.22 KB on /Users/martina.caruso/oqdata/calc_17.hdf5 in 0 seconds

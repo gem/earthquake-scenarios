@@ -1,0 +1,9 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+R50D4,Raspberry Shake Citizen Science Station,-73.61282,18.22523,seismic,0.34727,0.0
+STHB,"Stoney Hill, Jamaica",-76.80939,18.07737,seismic,0.16727,0.0
+NQUSE,"US Embassy, Port au Prince, Haiti ",-72.248,18.564,seismic,0.02957,0.0
+MTDJ,"Mount Denham, Jamaica",-77.5345,18.2261,seismic,0.00277,0.0
+SDDR,"Presa de Sabenta, Dominican Republic",-71.2878,18.9821,seismic,0.00406,0.0
+KCTB,KCTB JM,-76.8169,17.9835,seismic,0.00875,0.0
+GTBY,"Guantanamo Bay, Cuba",-75.1108,19.9268,seismic,0.00951,0.0
+GRTK,"Grand Turk, Turks and Caicos Islands",-71.1327,21.5115,seismic,0.02334,0.0
