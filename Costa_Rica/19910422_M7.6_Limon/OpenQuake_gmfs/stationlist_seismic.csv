@@ -1,0 +1,33 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+CCTG,CCTG,-83.892,9.867,seismic,0.256,0
+SISD,SISD,-83.705,9.373,seismic,0.19,0
+SCMA,SCMA,-84.053,9.387,seismic,0.188,0
+CCCH,CCCH,-83.806,9.843,seismic,0.138,0
+SHTO,SHTO,-84.099,9.916,seismic,0.118,0
+AALJ,AALJ,-84.217,10.02,seismic,0.108,0
+SGTS,SGTS,-84.038,9.871,seismic,0.102,0
+ASRM,ASRM,-84.485,10.087,seismic,0.0922,0
+SBN1,SBN1,-84.082,9.936,seismic,0.0742,0
+SAU1,SAU1,-84.077,9.938,seismic,0.0725,0
+CTG,Parque Central de Cartago,-83.92,9.864,seismic,0.2608,0
+ISD,Oficinas del INS en San Isidro de El General,-83.70292,9.37241,seismic,0.1927,0
+CMA,"Biblioteca Carlos Monge Alfaro, UCR",-84.05,9.935,seismic,0.1909,0
+HTO,"Hatillo, San José",-84.1041,9.91855,seismic,0.1199,0
+GTS,"Guatuso de Patarrá, Desamparados",-84.036,9.869,seismic,0.1049,0
+ICE,Edificio del ICE,-84.07826,9.93327,seismic,0.092,0
+BNC,Banco Nacional,-84.08,9.935,seismic,0.0779,0
+AUR,Hotel Aurola Holiday INN,-84.075,9.936,seismic,0.0739,0
+GLF,Golfito,-83.171,8.635,seismic,0.056,0
+QPS,Quepos,-84.166,9.432,seismic,0.036,0
+INS,INS San José,-84.07605,9.93584,seismic,0.0279,0
+HIST_4,"Cartago, Costa Rica",-83.925,9.867,seismic,0.26174,0
+HIST_6,"San Jose, Costa Rica",-84.054,9.937,seismic,0.19367,0
+HIST_3,"Cachi, Costa Rica",-83.805,9.842,seismic,0.14378,0
+HIST_9,"Alajuela, Costa Rica",-84.22,10.019,seismic,0.11459,0
+HIST_5,"Guatuso, Costa Rica",-84.038,9.87,seismic,0.10531,0
+HIST_8,"San Jose, Costa Rica",-84.078,9.938,seismic,0.10235,0
+HIST_13,"San Ramon, Costa Rica",-84.482,10.088,seismic,0.09408,0
+HIST_1,"Puriscal, Costa Rica",-83.314,9.848,seismic,0.0901,0
+HIST_10,"San Jose, Costa Rica",-84.083,9.937,seismic,0.07398,0
+HIST_7,"Golfito, Costa Rica",-83.172,8.645,seismic,0.05857,0
+HIST_12,"Quepos, Costa Rica",-84.166,9.431,seismic,0.03847,0

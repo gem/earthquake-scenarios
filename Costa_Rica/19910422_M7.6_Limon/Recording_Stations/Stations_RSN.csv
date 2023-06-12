@@ -1,0 +1,15 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,MAX_ACC_(CM/S2),VS30,VS30_TYPE,STATION_STATUS
+ALJ,"CIPET, Alajuela. Actual Museo Juan Santamaría",10.02,-84.217,seismic,RSN - https://www.lis.ucr.ac.cr/75,S4,0.1099,0,107.8,180,measured,INAC
+AUR,Hotel Aurola Holiday INN,9.936,-84.075,seismic,RSN - https://www.lis.ucr.ac.cr/81,N.A,0.0739,0,72.5,N.A,measured,INAC
+BNC,Banco Nacional,9.935,-84.08,seismic,RSN - https://www.lis.ucr.ac.cr/82,N.A,0.0779,0,76.4,N.A,measured,INAC
+CCH,Represa Cachí,9.843,-83.806,seismic,RSN - https://www.lis.ucr.ac.cr/77,S1,0.1409,0,138.2,760,measured,INAC
+CMA,"Biblioteca Carlos Monge Alfaro, UCR",9.935,-84.05,seismic,RSN - https://www.lis.ucr.ac.cr/83,N.A,0.1909,0,187.2,N.A,measured,INAC
+CTG,Parque Central de Cartago,9.864,-83.92,seismic,RSN - https://www.lis.ucr.ac.cr/78,N.A,0.2608,0,255.8,N.A,measured,INAC
+GLF,Golfito,8.635,-83.171,seismic,RSN - https://www.lis.ucr.ac.cr/79,S1,0.056,0,54.9,760,measured,INAC
+GTS,"Guatuso de Patarrá, Desamparados",9.869,-84.036,seismic,RSN - https://www.lis.ucr.ac.cr/84,S3,0.1049,0,102.9,265,measured,ACTI
+HTO,"Hatillo, San José",9.918546,-84.104102,seismic,RSN - https://www.lis.ucr.ac.cr/85,N.A,0.1199,0,117.6,N.A,measured,INAC
+ICE,Edificio del ICE,9.933267,-84.078264,seismic,RSN - https://www.lis.ucr.ac.cr/86,N.A,0.092,0,90.2,N.A,measured,INAC
+INS,INS San José,9.93584,-84.07605,seismic,RSN - https://www.lis.ucr.ac.cr/87,N.A,0.0279,0,27.4,N.A,measured,INAC
+ISD,Oficinas del INS en San Isidro de El General,9.37241,-83.702925,seismic,RSN - https://www.lis.ucr.ac.cr/88,N.A,0.1927,0,189,N.A,measured,INAC
+QPS,Quepos,9.432,-84.166,seismic,RSN - https://www.lis.ucr.ac.cr/80,S2,0.036,0,35.3,555,measured,INAC
+SRM,San Ramón UCR,10.087,-84.485,seismic,RSN - https://www.lis.ucr.ac.cr/76,S4,0.0939,0,92.1,180,measured,ACTI

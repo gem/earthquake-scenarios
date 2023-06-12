@@ -1,0 +1,57 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+76,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",52, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.8743779,-0.001,0.137,0.001
+77,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",52, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.5294335,0.015,0.145,0.015
+76,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",52, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.777629,0.042,0.144,0.042
+74,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",39, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.6380384,0.07,0.187,0.07
+74,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",39, Seismic, GEM, USGS,AbrahamsonEtAl2014,PGA,0.7728177,0.086,0.152,0.086
+76,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",52, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.7728177,0.086,0.152,0.086
+75,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",39, Seismic, GEM, GCMT,CauzziEtAl2014,PGA,0.5409517,0.214,0.196,0.214
+74,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",39, Seismic, GEM, USGS,CauzziEtAl2014,PGA,0.61521906,-0.232,0.196,0.232
+77,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",52, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.78321326,0.265,0.139,0.265
+75,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",39, Seismic, GEM, GCMT,AbrahamsonEtAl2014,PGA,0.72548187,0.407,0.155,0.407
+77,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",52, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.72548187,0.407,0.155,0.407
+76,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",52, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.38113979,-0.419,0.143,0.419
+77,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",52, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.7496482,0.446,0.147,0.446
+75,"19910422_M7.6_Limon median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",39, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.93043494,0.506,0.187,0.506
+70,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,AbrahamsonEtAl2014,PGA,0.7280692,,,
+70,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.6013207,,,
+70,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,CauzziEtAl2014,PGA,0.91868687,,,
+71,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,AbrahamsonEtAl2014,PGA,0.5177914,,,
+71,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.5942321,,,
+71,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,CauzziEtAl2014,PGA,0.46234855,,,
+72,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.7280692,,,
+72,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,BooreEtAl2014,PGA,0.58720267,,,
+72,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.7957433,,,
+72,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ChiouYoungs2014,PGA,0.9597142,,,
+73,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.5177914,,,
+73,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,BooreEtAl2014,PGA,0.53691113,,,
+73,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.52204496,,,
+73,"19910422_M7.6_Limon median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ChiouYoungs2014,PGA,0.63846534,,,

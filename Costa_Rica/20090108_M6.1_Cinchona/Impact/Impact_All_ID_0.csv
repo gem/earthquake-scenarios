@@ -1,0 +1,9 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_SEVERE,INJURIES_SERIOUSLY,EXTREMA_GRAVEDAD,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DAMAGED_OR_DESTROYED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,INJURIES_LIGHT,INJURIES_CRITICAL,HOMELESS,SHELTERED,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,TAXONOMY,GEM_TAXONOMY,OCCUPANCY
+CRI,Costa Rica,40,,100,,,,,,,518,,518,Buildings,,,,,,USGS,Many of the casualties were caused by landslides. ,,,,,,,,,,,
+CRI,Costa Rica,40,,100,,,,,128527,,,518,,Buildings,,,,,,NOAA,,,,,,,,,,,,
+CRI,Costa Rica,31,,91,,,,,,,,,,,200000000,100000000,USD,,,EM-DAT,"Geo Locations: Alajuela, Alfaro Ruiz, Barva, Grecia, Heredia, Poas, Santa Barbara, Sarapiqui, Valverde Vega (Adm2).",,,,,,,,,,,
+CRI,Costa Rica,23,,100,,,,,,,,,,,,,,,,UTSU,,,,,,,,,,,,
+CRI,Costa Rica,47-98,,91,91,,91,1244,,,,,,,,,,,,Wikipedia,,,,,,,,,,,,
+CRI,Costa Rica,23,,,,,,,,,,,,,,,,,,Worlddata,,,,,,,,,,,,
+CRI,Costa Rica,40,,91,91,91,,2326,,,267,251,,Dwellings (Single-Family),100000000,,USD,,,Learnig_From_Earthqauke,Losses estimated in US$ 100 million in an area that covers 180 square km.,,,,,,,,,,,
+CRI,Costa Rica,27,,,,,,,,,,,,,,,,,,Damage_Cinchona_RSN_ICE_UCR,National Seismological Network (ucr.ac.cr) ,,,,,,,,,,,

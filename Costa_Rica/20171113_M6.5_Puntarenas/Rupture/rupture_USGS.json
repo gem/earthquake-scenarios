@@ -1,0 +1,34 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Origin",
+      "id":"us2000bmhe",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"us2000bmhe",
+      "time":"2017-11-13T02:28:23.000000Z",
+      "lat":9.5147,
+      "lon":-84.4865,
+      "depth":19.4,
+      "mag":6.5,
+      "locstring":"18km W of Parrita, Costa Rica",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -84.4865,
+               9.5147,
+               19.4
+            ]
+         }
+      }
+   ]
+}

@@ -1,0 +1,7 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,EVACUATED,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,TAXONOMY,GEM_TAXONOMY,OCCUPANCY
+CRI,Costa Rica,2,,20,,,,,,,,,,,Tsunami,,NOAA,,,,,,,,,,,,,
+CRI,Costa Rica,2,1,>20,,,,,,,,,,,"Tsunami, landslides ",,USGS,One died of a heart attack.,,,,,,,,,,,,
+CRI,Costa Rica,2,,225,,,537,,,,,45000000,32000000,USD,Tsunami,,EM-DAT,"Geo Locations: Abangares, Acosta, Aguirre, Alajuela, Alfaro Ruiz, Atenas, Carrillo, Garabito, Grecia, Hojancha, Liberia, Limon, Nandayure, Naranjo, Nicoya, Poas, Puntarenas, Puriscal, San Carlos, San Jose, San Ramon, Santa Cruz, Upala, Valverde Vega (Adm2).",,,,,,,,,,,,
+CRI,Costa Rica,1,,20,,,,,,,,,,,Tsunami,,UTSU,,,,,,,,,,,,,
+CRI,Costa Rica,2,,,,,,,,,,,,,,,Worlddata,,,,,,,,,,,,,
+CRI,Costa Rica,2,,78,,1474,,,,,,22360000000,,CRC,Tsunami,,Wikipedia,,,,,,,,,,,,,

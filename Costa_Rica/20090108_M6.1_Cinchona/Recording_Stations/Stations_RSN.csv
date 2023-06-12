@@ -1,0 +1,14 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,PGA_STATUS,VS30,VS30_TYPE 
+AALX,AALX,10.013,-84.213,seismic,https://www.lis.ucr.ac.cr/71,S3,0.203,0,INAC,265,measured 
+ASCS,ASCS,10.324,-84.432,seismic,https://www.lis.ucr.ac.cr/71,S2,0.024,0,ACTI,555,measured 
+ASRM,ASRM,10.087,-84.485,seismic,https://www.lis.ucr.ac.cr/71,S4,0.062,0,ACTI,180,measured 
+CCCH,CCCH,9.843,-83.806,seismic,https://www.lis.ucr.ac.cr/71,S1,0.005,0,INAC,760,measured 
+CPAR,CPAR,9.832,-83.871,seismic,https://www.lis.ucr.ac.cr/71,S3,0.022,0,ACTI,265,measured 
+HCPD,HCPD,9.995,-84.036,seismic,https://www.lis.ucr.ac.cr/71,S3,0.115,0,ACTI,265,measured 
+LGPL,LGPL,10.2156,-83.7896,seismic,https://www.lis.ucr.ac.cr/71,S3,0.028,0,ACTI,265,measured 
+PQSP,PQSP,9.43,-84.16,seismic,https://www.lis.ucr.ac.cr/71,S4,0.005,0,INAC,180,measured 
+RALT,RALT,9.894,-83.941,seismic,https://www.lis.ucr.ac.cr/71,S3,0.017,0,INAC,265,measured 
+SFRA,SFRA,9.753,-84.058,seismic,https://www.lis.ucr.ac.cr/71,S2,0.022,0,ACTI,555,measured 
+SGTS,SGTS,9.869,-84.036,seismic,https://www.lis.ucr.ac.cr/71,S3,0.029,0,ACTI,265,measured 
+SPCL,SPCL,9.847,-84.311,seismic,https://www.lis.ucr.ac.cr/71,S3,0.044,0,ACTI,265,measured 
+SSAB,SSAB,9.94,-84.11,seismic,https://www.lis.ucr.ac.cr/71,N.A.,0.179,0,N.A.,N.A.,measured 

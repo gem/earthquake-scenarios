@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2009
+Country,Costa Rica
+Region,Alajuela 
+Event_Name,Cinchona
+Local_Date,08/01/2009
+Local_Time,13:21:00
+Longitude,-84.106
+Latitude,10.116
+Depth_(km),4.6
+Mw,6.2
+Max_Intensity_(MMI),IX in Cinchona e Isla Bonita 
+Fault_mechanism,Strike slip
+Tectonic_region_type,Active shallow crustal 
+Fatalities,23-98
+Injured,91-100
+Displaced_Population,1244-2326
+Affected_Population,128527
+Affected_Units,
+Damaged_Units,518 Buildings
+Collapsed_Units,518 Buildings
+Economic_Losses,100-200 M USD
+Insured_Losses,100 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000gscg/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2009_Cinchona_earthquake

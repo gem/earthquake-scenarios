@@ -1,0 +1,57 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+17,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",4, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.311473,-0.261,0.188,0.261
+16,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",4, Seismic, GEM, SCARDEC,AkkarEtAlRjb2014,PGA,0.3014997,-0.278,0.188,0.278
+16,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",4, Seismic, GEM, SCARDEC,CauzziEtAl2014,PGA,0.179,-0.481,0.197,0.481
+17,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",4, Seismic, GEM, GCMT,CauzziEtAl2014,PGA,0.179,-0.515,0.197,0.515
+19,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",5, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.18632479,-0.562,0.158,0.562
+18,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",5, Seismic, USGS, SCARDEC,ChiouYoungs2014,PGA,0.179,-0.648,0.16,0.648
+19,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",5, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.19801354,-0.696,0.147,0.696
+17,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",4, Seismic, GEM, GCMT,AbrahamsonEtAl2014,PGA,0.179,-0.739,0.165,0.739
+19,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",5, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.179,-0.739,0.165,0.739
+19,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",5, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.2538991,-0.783,0.153,0.783
+18,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",5, Seismic, USGS, SCARDEC,BooreEtAl2014,PGA,0.25675988,-0.822,0.154,0.822
+18,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",5, Seismic, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.179,-0.862,0.145,0.862
+16,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:GEM, Rupture:SCARDEC
+",4, Seismic, GEM, SCARDEC,AbrahamsonEtAl2014,PGA,0.179,-0.883,0.164,0.883
+18,"20090108_M6.1_Cinchona median gmf, Stations:Seismic, gmlt:USGS, Rupture:SCARDEC
+",5, Seismic, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.179,-0.883,0.164,0.883
+12,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",0, None, GEM, SCARDEC,AbrahamsonEtAl2014,PGA,0.24665926,,,
+12,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",0, None, GEM, SCARDEC,AkkarEtAlRjb2014,PGA,0.32213342,,,
+12,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:SCARDEC
+",0, None, GEM, SCARDEC,CauzziEtAl2014,PGA,0.14469849,,,
+13,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,AbrahamsonEtAl2014,PGA,0.31969818,,,
+13,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.34967574,,,
+13,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",0, None, GEM, GCMT,CauzziEtAl2014,PGA,0.22279094,,,
+14,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",0, None, USGS, SCARDEC,AbrahamsonEtAl2014,PGA,0.24665926,,,
+14,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",0, None, USGS, SCARDEC,BooreEtAl2014,PGA,0.4535311,,,
+14,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",0, None, USGS, SCARDEC,CampbellBozorgnia2014,PGA,0.2931016,,,
+14,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:SCARDEC
+",0, None, USGS, SCARDEC,ChiouYoungs2014,PGA,0.2181784,,,
+15,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.31969818,,,
+15,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,BooreEtAl2014,PGA,0.4751892,,,
+15,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.3411483,,,
+15,"20090108_M6.1_Cinchona median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ChiouYoungs2014,PGA,0.29709324,,,

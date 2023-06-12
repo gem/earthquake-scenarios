@@ -1,0 +1,9 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_SEVERE,INJURIES_GRAVELY,DISPLACED_POPULATION,HOMELESS,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DS5_COLLAPSE,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,INJURIES_LIGHT,INJURIES_CRITICAL,HOMELESS,SHELTERED,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,TAXONOMY,GEM_TAXONOMY,OCCUPANCY
+CRI,Costa Rica,47,47,199,,,,3900,6320,,,,,Buildings,,,,Tsunami,,EM-DAT,,,,,,,,,,,,
+CRI,Costa Rica,90,87,895,,,,,,,,,,Buildings,510000000,,USD,Tsunami,,NOAA,3 death because of Tsunami.,,,,,,,,,,,
+CRI,Costa Rica,47,47,109,,,,7439,,,,,,Buildings,43000000,,USD,"Tsunami, landslides",,USGS,"28 people were killed, 454 were injured, 2,400 were homeless, and 866 buildings were destroyed (VII-VIII) in the Guabito-Almirante-Bocas del Toro area, Panama.",,,,,,,,,,,
+CRI,Costa Rica,47-127,47-127,109-759,,,7439-10900,,,,,4452,4452,Buildings,21991900000,,CRC,Tsunami,,Wikipedia,There were 79 dead and 1061 injured in Panamá.,,,,,,,,,,,
+CRI,Costa Rica,75,75,563,,,,,,,,,,Buildings,,,,Tsunami,,UTSU,,,,,,,,,,,,
+CRI,Costa Rica,87,87,,,,,,,,,,,Buildings,,,,,,Worlddata,,,,,,,,,,,,
+CRI,Costa Rica,52,52,600,,,,500,,,,,,Buildings,,,,,,Learnig_From_Earthqauke,,,,,,,,,,,,
+CRI,Costa Rica,48,48,651,651,651,,,,,7869,4452,4452,Buildings,21991900000,,CRC,"Tsunami, landslides, liquefaction",,LIS,www.lis.ucr.ac.cr. There were 79 dead and 1061 injured in Panamá.,,,,,,,,,,,
