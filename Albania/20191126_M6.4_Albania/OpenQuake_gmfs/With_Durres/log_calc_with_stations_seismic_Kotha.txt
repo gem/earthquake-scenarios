@@ -1,0 +1,20 @@
+[2023-02-23 09:36:52.62 #1097 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\job_with_stations_seismic.ini [--hc=None]
+[2023-02-23 09:36:52.68 #1097 INFO] Using engine version 3.16.0
+[2023-02-23 09:36:52.82 #1097 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 09:36:52.86 #1097 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 09:36:52.91 #1097 INFO] Checksum of the inputs: 2834603261 (total size 472.75 KB)
+[2023-02-23 09:36:52.95 #1097 INFO] Extracting the hazard sites from the site model
+[2023-02-23 09:36:53.05 #1097 INFO] Read N=6295 hazard sites and L=1 hazard levels
+[2023-02-23 09:36:53.44 #1097 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\stationlist_seismic.csv
+[2023-02-23 09:36:53.49 #1097 INFO] min_iml=[1.e-10]
+[2023-02-23 09:36:53.54 #1097 INFO] There are 1 realization(s)
+[2023-02-23 09:36:53.57 #1097 INFO] Reordering the ruptures and storing the events
+[2023-02-23 09:36:53.59 #1097 INFO] Reading 1 ruptures
+[2023-02-23 09:36:54.03 #1097 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.008
+[2023-02-23 09:37:25.66 #1097 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 09:37:25.69 #1097 INFO] Received {'gmfdata': '148.4 KB', 'sig_eps': '323 B', 'times': '309 B', 'hcurves': '5 B'} in 32 seconds from event_based
+[2023-02-23 09:37:25.73 #1097 INFO] Stored 73.79 KB of GMFs
+[2023-02-23 09:37:27.42 #1097 INFO] Checking stored GMFs
+[2023-02-23 09:37:27.45 #1097 WARNING] 
+[2023-02-23 09:37:27.50 #1097 INFO] Exposing the outputs to the database
+[2023-02-23 09:37:27.60 #1097 INFO] Stored 1.16 MB on C:\Users\Maria Camila\oqdata/calc_1097.hdf5 in 34 seconds

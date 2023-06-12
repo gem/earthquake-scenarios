@@ -1,0 +1,22 @@
+[2023-02-23 00:44:11.93 #1078 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\Sensitivity\job_rup-ESM_gmpe-USGS_seismic.ini [--hc=None]
+[2023-02-23 00:44:11.98 #1078 INFO] Using engine version 3.16.0
+[2023-02-23 00:44:12.17 #1078 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 00:44:12.18 #1078 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 00:44:12.61 #1078 INFO] Checksum of the inputs: 3562514993 (total size 357.3 KB)
+[2023-02-23 00:44:12.63 #1078 INFO] Extracting the hazard sites from the site model
+[2023-02-23 00:44:12.72 #1078 INFO] Read N=6537 hazard sites and L=1 hazard levels
+[2023-02-23 00:44:13.19 #1078 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\stationlist_seismic.csv
+[2023-02-23 00:44:13.22 #1078 INFO] min_iml=[1.e-10]
+[2023-02-23 00:44:13.64 #1078 INFO] There are 3 realization(s)
+[2023-02-23 00:44:13.67 #1078 INFO] Reordering the ruptures and storing the events
+[2023-02-23 00:44:13.72 #1078 INFO] Reading 1 ruptures
+[2023-02-23 00:44:14.29 #1078 INFO] GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias (mean): -0.920
+[2023-02-23 00:44:55.49 #1078 INFO] GMM: CauzziEtAl2014, IMT: PGA, Nominal bias (mean): -1.279
+[2023-02-23 00:45:35.71 #1078 INFO] GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias (mean): -0.999
+[2023-02-23 00:46:16.04 #1078 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 00:46:16.05 #1078 INFO] Received {'gmfdata': '460.46 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 122 seconds from event_based
+[2023-02-23 00:46:16.51 #1078 INFO] Stored 229.87 KB of GMFs
+[2023-02-23 00:46:18.48 #1078 INFO] Checking stored GMFs
+[2023-02-23 00:46:18.57 #1078 WARNING] Your results are expected to have a large dependency from the rupture seed: 9%
+[2023-02-23 00:46:18.64 #1078 INFO] Exposing the outputs to the database
+[2023-02-23 00:46:18.68 #1078 INFO] Stored 990.66 KB on C:\Users\Maria Camila\oqdata/calc_1078.hdf5 in 126 seconds

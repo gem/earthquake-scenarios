@@ -1,0 +1,22 @@
+[2023-02-23 10:28:36.15 #1100 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\Sensitivity\job_rup-GCMT_gmpe-USGS_seismic.ini [--hc=None]
+[2023-02-23 10:28:36.20 #1100 INFO] Using engine version 3.16.0
+[2023-02-23 10:28:36.39 #1100 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 10:28:36.42 #1100 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 10:28:36.49 #1100 INFO] Checksum of the inputs: 3485883810 (total size 356.92 KB)
+[2023-02-23 10:28:36.52 #1100 INFO] Extracting the hazard sites from the site model
+[2023-02-23 10:28:36.62 #1100 INFO] Read N=6536 hazard sites and L=1 hazard levels
+[2023-02-23 10:28:36.99 #1100 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\stationlist_seismic.csv
+[2023-02-23 10:28:37.03 #1100 INFO] min_iml=[1.e-10]
+[2023-02-23 10:28:37.09 #1100 INFO] There are 3 realization(s)
+[2023-02-23 10:28:37.12 #1100 INFO] Reordering the ruptures and storing the events
+[2023-02-23 10:28:37.16 #1100 INFO] Reading 1 ruptures
+[2023-02-23 10:28:37.63 #1100 INFO] GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias (mean): -0.920
+[2023-02-23 10:29:17.35 #1100 INFO] GMM: CauzziEtAl2014, IMT: PGA, Nominal bias (mean): -1.295
+[2023-02-23 10:29:57.97 #1100 INFO] GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias (mean): -1.026
+[2023-02-23 10:30:38.06 #1100 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 10:30:38.07 #1100 INFO] Received {'gmfdata': '460.39 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 120 seconds from event_based
+[2023-02-23 10:30:38.07 #1100 INFO] Stored 229.83 KB of GMFs
+[2023-02-23 10:30:40.13 #1100 INFO] Checking stored GMFs
+[2023-02-23 10:30:40.20 #1100 WARNING] Your results are expected to have a large dependency from the rupture seed: 8%
+[2023-02-23 10:30:40.27 #1100 INFO] Exposing the outputs to the database
+[2023-02-23 10:30:40.31 #1100 INFO] Stored 990.52 KB on C:\Users\Maria Camila\oqdata/calc_1100.hdf5 in 123 seconds

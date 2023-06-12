@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2019
+Country,Albania
+Region,Durres
+Event_Name,Durres
+Local_Date,26/11/2019
+Local_Time,02:54:12
+Latitude,41.5138
+Longitude,19.5256
+Depth_(km),22
+Mw,6.4
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse
+Tectonic_region_type,Active Shallow Crust
+Fatalities,51
+Injured,913-2000
+Displaced_Population,
+Affected_Population,202913
+Affected_Units,
+Damaged_Units,83000 Buildings
+Collapsed_Units,11000 Buildings
+Economic_Losses,700-1081 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us70006d0m/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2019_Albania_earthquake

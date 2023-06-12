@@ -1,0 +1,25 @@
+[2023-02-23 01:22:42.13 #1087 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-GEM_all.ini [--hc=None]
+[2023-02-23 01:22:42.15 #1087 INFO] Using engine version 3.16.0
+[2023-02-23 01:22:42.80 #1087 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 01:22:42.82 #1087 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 01:22:42.87 #1087 INFO] Checksum of the inputs: 151015291 (total size 479.61 KB)
+[2023-02-23 01:22:42.91 #1087 INFO] Extracting the hazard sites from the site model
+[2023-02-23 01:22:43.24 #1087 INFO] Read N=6295 hazard sites and L=1 hazard levels
+[2023-02-23 01:22:44.16 #1087 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\stationlist_all.csv
+[2023-02-23 01:22:44.20 #1087 INFO] min_iml=[1.e-10]
+[2023-02-23 01:22:44.29 #1087 INFO] There are 5 realization(s)
+[2023-02-23 01:22:44.33 #1087 INFO] Reordering the ruptures and storing the events
+[2023-02-23 01:22:44.41 #1087 INFO] Reading 1 ruptures
+[2023-02-23 01:22:44.71 #1087 WARNING] 1 stations filtered away
+[2023-02-23 01:22:45.19 #1087 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.693
+[2023-02-23 01:24:07.72 #1087 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.972
+[2023-02-23 01:25:31.49 #1087 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.415
+[2023-02-23 01:27:07.72 #1087 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 1.146
+[2023-02-23 01:28:40.86 #1087 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.241
+[2023-02-23 01:30:04.75 #1087 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 01:30:04.76 #1087 INFO] Received {'gmfdata': '738.48 KB', 'sig_eps': '379 B', 'times': '309 B', 'hcurves': '5 B'} in 440 seconds from event_based
+[2023-02-23 01:30:04.77 #1087 INFO] Stored 368.93 KB of GMFs
+[2023-02-23 01:30:11.67 #1087 INFO] Checking stored GMFs
+[2023-02-23 01:30:11.78 #1087 WARNING] 
+[2023-02-23 01:30:11.88 #1087 INFO] Exposing the outputs to the database
+[2023-02-23 01:30:11.94 #1087 INFO] Stored 1.29 MB on C:\Users\Maria Camila\oqdata/calc_1087.hdf5 in 449 seconds

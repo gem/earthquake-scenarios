@@ -1,0 +1,18 @@
+[2023-02-23 12:17:35.99 #1121 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\job_no_stations.ini [--hc=None]
+[2023-02-23 12:17:36.03 #1121 INFO] Using engine version 3.16.0
+[2023-02-23 12:17:36.64 #1121 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 12:17:36.67 #1121 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 12:17:36.68 #1121 INFO] Checksum of the inputs: 2326031585 (total size 462.1 KB)
+[2023-02-23 12:17:36.71 #1121 INFO] Extracting the hazard sites from the site model
+[2023-02-23 12:17:36.82 #1121 INFO] Read N=6203 hazard sites and L=1 hazard levels
+[2023-02-23 12:17:37.33 #1121 INFO] min_iml=[1.e-10]
+[2023-02-23 12:17:37.43 #1121 INFO] There are 1 realization(s)
+[2023-02-23 12:17:37.49 #1121 INFO] Reordering the ruptures and storing the events
+[2023-02-23 12:17:37.59 #1121 INFO] Reading 1 ruptures
+[2023-02-23 12:17:38.29 #1121 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 12:17:38.30 #1121 INFO] Received {'gmfdata': '146.27 KB', 'sig_eps': '323 B', 'times': '309 B', 'hcurves': '5 B'} in 0 seconds from event_based
+[2023-02-23 12:17:38.31 #1121 INFO] Stored 72.73 KB of GMFs
+[2023-02-23 12:17:41.09 #1121 INFO] Checking stored GMFs
+[2023-02-23 12:17:41.14 #1121 WARNING] 
+[2023-02-23 12:17:41.23 #1121 INFO] Exposing the outputs to the database
+[2023-02-23 12:17:41.35 #1121 INFO] Stored 1.1 MB on C:\Users\Maria Camila\oqdata/calc_1121.hdf5 in 4 seconds

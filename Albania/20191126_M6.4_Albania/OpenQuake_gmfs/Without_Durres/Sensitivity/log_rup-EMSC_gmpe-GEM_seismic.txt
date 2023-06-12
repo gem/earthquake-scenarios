@@ -1,0 +1,24 @@
+[2023-02-23 11:10:41.66 #1116 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\Sensitivity\job_rup-EMSC_gmpe-GEM_seismic.ini [--hc=None]
+[2023-02-23 11:10:41.72 #1116 INFO] Using engine version 3.16.0
+[2023-02-23 11:10:41.95 #1116 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-23 11:10:41.99 #1116 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-23 11:10:42.06 #1116 INFO] Checksum of the inputs: 4012010374 (total size 473.35 KB)
+[2023-02-23 11:10:42.09 #1116 INFO] Extracting the hazard sites from the site model
+[2023-02-23 11:10:42.20 #1116 INFO] Read N=6294 hazard sites and L=1 hazard levels
+[2023-02-23 11:10:42.59 #1116 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Albania\DRAFT_20191126_M6.4_Albania\OpenQuake_gmfs\stationlist_seismic.csv
+[2023-02-23 11:10:42.65 #1116 INFO] min_iml=[1.e-10]
+[2023-02-23 11:10:42.69 #1116 INFO] There are 5 realization(s)
+[2023-02-23 11:10:42.73 #1116 INFO] Reordering the ruptures and storing the events
+[2023-02-23 11:10:42.77 #1116 INFO] Reading 1 ruptures
+[2023-02-23 11:10:43.23 #1116 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.171
+[2023-02-23 11:11:14.26 #1116 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.533
+[2023-02-23 11:11:44.57 #1116 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): -0.190
+[2023-02-23 11:12:15.36 #1116 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): 0.604
+[2023-02-23 11:12:45.61 #1116 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): -0.261
+[2023-02-23 11:13:16.26 #1116 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-23 11:13:16.28 #1116 INFO] Received {'gmfdata': '738.36 KB', 'sig_eps': '379 B', 'times': '309 B', 'hcurves': '5 B'} in 153 seconds from event_based
+[2023-02-23 11:13:16.29 #1116 INFO] Stored 368.87 KB of GMFs
+[2023-02-23 11:13:17.96 #1116 INFO] Checking stored GMFs
+[2023-02-23 11:13:18.00 #1116 WARNING] Your results are expected to have a large dependency from the rupture seed: 7%
+[2023-02-23 11:13:18.05 #1116 INFO] Exposing the outputs to the database
+[2023-02-23 11:13:18.12 #1116 INFO] Stored 1.29 MB on C:\Users\Maria Camila\oqdata/calc_1116.hdf5 in 156 seconds

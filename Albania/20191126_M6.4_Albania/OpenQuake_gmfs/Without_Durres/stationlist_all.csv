@@ -1,0 +1,92 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+KKS,Kukesi,20.4017,42.0731,seismic,0.00787,0,A,747,A,631
+TIR1,IGEWE BUILDING,19.8078,41.3357,seismic,0.111443,0,C,311,C,320
+ELBAS,ELBAS,20.0799,41.1161,seismic,0.019657,0,B,403,B,384
+FIER,FIER,19.5669,40.7174,seismic,0.017825,0,B,374,B,363
+BERA1,BERATI PRIVATE BUILDING,19.945463,40.708161,seismic,0.015076,0,A,1007,A,541
+KRK1,Prefecture Veterinary Corfu Ionian Islands,19.9202,39.618861,seismic,0.006216,0,B (inferred from topography),311,inferred_USGS,311
+LMS2,TownHall Laimos Florina Western Macedonia,21.141815,40.834985,seismic,0.004087,0,B (inferred from topography),605,inferred_USGS,605
+MESG,Mesagne,17.850423,40.589408,seismic,0.004038,0,B (inferred from geology),712,inferred_USGS,712
+VAS2,HealthCenter Vassiliki Lefkas Island,20.608081,38.630558,seismic,0.00313,0,C (inferred from topography),560,inferred_USGS,560
+JAN,Ioannina  Greece,20.84874,39.65616,seismic,0.002601,0,B (inferred from topography),525,inferred_USGS,525
+MSL1,Prefecture Mesologgi Western Greece,21.4243,38.3727,seismic,0.002172,0,C (inferred from topography),317,inferred_USGS,317
+LTRZ,LATERZA,16.8191,40.60325,seismic,0.002169,0,B (inferred from geology),999,inferred_USGS,999
+ACER,Acerenza,15.9427,40.7867,seismic,0.001896,0,B,523,B,990
+MNNAM,Montana,23.2262,43.4111,seismic,0.001748,0,B (inferred from topography),334,inferred_USGS,334
+ARG2,Prefecture Argostoli Cephalonia Ionian Islands,20.4878,38.1783,seismic,0.001547,0,B (inferred from topography),435,inferred_USGS,435
+PATC,Patra Greece,21.76001,38.26933,seismic,0.000942,0,B (inferred from topography),476,inferred_USGS,476
+SLCN,SALA CONSILINA,15.63277,40.39,seismic,0.000887,0,B (inferred from geology),825,inferred_USGS,825
+MRN3,Station Marsico Nuovo  PZ   Italy,15.7296,40.4256,seismic,0.000866,0,C (inferred from geology),1000,inferred_USGS,1000
+MCEL,Monticello,15.8019,40.3249,seismic,0.000843,0,A (inferred from geology),411,inferred_USGS,411
+SFL3,Station San Fele  Italy,15.5782,40.7889,seismic,0.000753,0,B (inferred from geology),634,inferred_USGS,634
+BLKB,Belogradchik,22.675,43.6227,seismic,0.000743,0,B (inferred from topography),405,inferred_USGS,405
+PGN3,Station Pignola  Italy,15.7967,40.5722,seismic,0.000658,0,A (inferred from geology),1000,inferred_USGS,1000
+ANX,UPSL NOA AnoXora Greece,21.9209,38.5933,seismic,0.000646,0,A (inferred from topography),622,inferred_USGS,622
+AVG3,Station Avigliano  Italy,15.7251,40.7619,seismic,0.000613,0,B (inferred from geology),1000,inferred_USGS,1000
+CAR1,CAROLEI,16.2114,39.2534,seismic,0.00058,0,B (inferred from geology),1000,inferred_USGS,1000
+ART2,Hospital Arta Epirus,20.9937,39.1474,seismic,0.000557,0,A (inferred from topography),586,inferred_USGS,586
+RIOA,Rio Greece,21.79118,38.29585,seismic,0.00054,0,B (inferred from topography),445,inferred_USGS,445
+PLN1,TownHall Chaniotis Chalkidiki Central Macedonia,23.575,39.998,seismic,0.000533,0,B (inferred from topography),334,inferred_USGS,334
+VOL2,Prefecture Volos Magnesia Thessaly,22.9506,39.366,seismic,0.000283,0,B (inferred from topography),311,inferred_USGS,311
+KLV1,Health Center Kalavryta Achaea Peloponnese,22.10797,38.03256,seismic,0.000231,0,B (inferred from topography),449,inferred_USGS,449
+UTM:(34T 0370 4575 1000),,19.4527,41.3206,macroseismic,0.530991,0.8059,,316.9,inferred,317
+UTM:(34T 0389 4603 1000),,19.6745,41.5755,macroseismic,0.434817,0.8059,,290.22,inferred,290
+UTM:(34T 0398 4576 1000),,19.787,41.3336,macroseismic,0.39558,0.8059,,238.34,inferred,238
+UTM:(34T 0400 4575 1000),,19.8111,41.3248,macroseismic,0.344145,0.8059,,306.35,inferred,306
+UTM:(34T 0401 4574 1000),,19.8232,41.316,macroseismic,0.340947,0.8059,,400.74,inferred,401
+UTM:(34T 0399 4573 1000),,19.7994,41.3067,macroseismic,0.321923,0.8059,,547.61,inferred,548
+UTM:(34T 0399 4575 1000),,19.7991,41.3247,macroseismic,0.253388,0.8059,,309.03,inferred,309
+UTM:(34T 0400 4573 1000),,19.8114,41.3068,macroseismic,0.234747,0.8059,,521.91,inferred,522
+UTM:(34T 0402 4574 1000),,19.8351,41.3161,macroseismic,0.233582,0.8059,,440.87,inferred,441
+UTM:(34T 0400 4576 1000),,19.8109,41.3338,macroseismic,0.223629,0.8059,,319.73,inferred,320
+UTM:(34T 0400 4574 1000),,19.8112,41.3158,macroseismic,0.221604,0.8059,,330.66,inferred,331
+UTM:(34T 0401 4575 1000),,19.823,41.325,macroseismic,0.208154,0.8059,,298.76,inferred,299
+UTM:(34T 0397 4575 1000),,19.7752,41.3245,macroseismic,0.199503,0.8059,,350.62,inferred,351
+UTM:(34T 0401 4576 1000),,19.8228,41.334,macroseismic,0.162994,0.8059,,308.5,inferred,309
+UTM:(34T 0402 4577 1000),,19.8346,41.3431,macroseismic,0.162818,0.8059,,359.47,inferred,359
+UTM:(34T 0371 4481 1000),,19.4841,40.4742,macroseismic,0.140713,0.8059,,331,inferred,331
+UTM:(34T 0412 4506 1000),,19.9642,40.7048,macroseismic,0.122604,0.8059,,545.65,inferred,546
+UTM:(34T 0402 4576 1000),,19.8348,41.3341,macroseismic,0.111622,0.8059,,310.74,inferred,311
+UTM:(34T 0422 4551 1000),,20.0769,41.1111,macroseismic,0.094615,0.8059,,351.45,inferred,351
+UTM:(34T 0342 4662 1000),,19.0953,42.0988,macroseismic,0.075457,0.8059,,274.31,inferred,274
+UTM:(34T 0496 4595 1000),,20.9581,41.5111,macroseismic,0.074869,0.8059,,321.97,inferred,322
+UTM:(34T 0311 4699 1000),,18.7087,42.4249,macroseismic,0.074438,0.8059,,601.45,inferred,601
+UTM:(34T 0514 4722 1000),,21.1769,42.6548,macroseismic,0.070264,0.8059,,441.69,inferred,442
+UTM:(34T 0491 4714 1000),,20.8964,42.5829,macroseismic,0.068413,0.8059,,267.64,inferred,268
+UTM:(34T 0453 4692 1000),,20.4351,42.3834,macroseismic,0.065614,0.8059,,328.19,inferred,328
+UTM:(34T 0321 4684 1000),,18.8348,42.2923,macroseismic,0.064602,0.8059,,826.58,inferred,827
+UTM:(34T 0496 4649 1000),,20.9577,41.9975,macroseismic,0.064475,0.8059,,523.25,inferred,523
+UTM:(34T 0492 4626 1000),,20.9097,41.7903,macroseismic,0.058404,0.8059,,325.08,inferred,325
+UTM:(34T 0316 4699 1000),,18.7694,42.4261,macroseismic,0.058387,0.8059,,600,inferred,600
+UTM:(34T 0355 4700 1000),,19.243,42.4434,macroseismic,0.05328,0.8059,,317.98,inferred,318
+UTM:(34T 0538 4648 1000),,21.4648,41.9876,macroseismic,0.052875,0.8059,,243.31,inferred,243
+UTM:(34T 0492 4627 1000),,20.9097,41.7993,macroseismic,0.051538,0.8059,,306.53,inferred,307
+UTM:(34T 0497 4650 1000),,20.9698,42.0065,macroseismic,0.050124,0.8059,,528.83,inferred,529
+UTM:(34T 0310 4700 1000),,18.6962,42.4337,macroseismic,0.045103,0.8059,,598.1,inferred,598
+UTM:(34U 0500 5787 1000),,21.0073,52.2379,macroseismic,0.04459,0.8059,,760,inferred,412
+UTM:(34T 0442 4723 1000),,20.2984,42.6618,macroseismic,0.043264,0.8059,,348.59,inferred,349
+UTM:(34T 0478 4673 1000),,20.7395,42.2134,macroseismic,0.042007,0.8059,,493.42,inferred,493
+UTM:(34T 0351 4643 1000),,19.2089,41.9295,macroseismic,0.041598,0.8059,,555.54,inferred,556
+UTM:(34T 0533 4650 1000),,21.4045,42.0058,macroseismic,0.041511,0.8059,,238.95,inferred,239
+UTM:(34T 0534 4650 1000),,21.4166,42.0058,macroseismic,0.041444,0.8059,,283.48,inferred,283
+UTM:(34T 0376 4658 1000),,19.5072,42.0689,macroseismic,0.040017,0.8059,,262.61,inferred,263
+UTM:(33T 0690 4481 1000),,17.2469,40.4623,macroseismic,0.0381,0.8059,,384.95,inferred,600
+UTM:(34T 0357 4699 1000),,19.2675,42.4347,macroseismic,0.035154,0.8059,,267.01,inferred,267
+UTM:(34T 0292 4859 1000),,18.418,43.8594,macroseismic,0.033109,0.8059,,760,inferred,445
+UTM:(34T 0483 4551 1000),,20.8035,41.1146,macroseismic,0.032876,0.8059,,238.64,inferred,239
+UTM:(34T 0357 4739 1000),,19.2575,42.7948,macroseismic,0.032875,0.8059,,900,inferred,900
+UTM:(34T 0507 4720 1000),,21.0915,42.6369,macroseismic,0.032868,0.8059,,252.58,inferred,253
+UTM:(33T 0656 4554 1000),,16.8644,41.1267,macroseismic,0.032624,0.8059,,294.13,inferred,680
+UTM:(34T 0513 4724 1000),,21.1648,42.6728,macroseismic,0.032023,0.8059,,421.72,inferred,422
+UTM:(34T 0531 4650 1000),,21.3804,42.0059,macroseismic,0.030221,0.8059,,286.86,inferred,287
+UTM:(34T 0441 4723 1000),,20.2862,42.6617,macroseismic,0.028594,0.8059,,494.81,inferred,495
+UTM:(34T 0532 4649 1000),,21.3924,41.9968,macroseismic,0.025983,0.8059,,454.43,inferred,454
+UTM:(34T 0535 4649 1000),,21.4286,41.9967,macroseismic,0.022139,0.8059,,264.34,inferred,264
+UTM:(34T 0536 4647 1000),,21.4406,41.9786,macroseismic,0.022109,0.8059,,590.91,inferred,591
+UTM:(34T 0537 4648 1000),,21.4527,41.9876,macroseismic,0.021998,0.8059,,284.3,inferred,284
+UTM:(34T 0460 4776 1000),,20.5143,43.1402,macroseismic,0.019697,0.8059,,324.36,inferred,324
+UTM:(34T 0289 4858 1000),,18.3811,43.8496,macroseismic,0.013579,0.8059,,760,inferred,340
+UTM:(34T 0459 4961 1000),,20.4879,44.8058,macroseismic,0.012575,0.8059,,760,inferred,471
+DJES,"Station Derdap-Kladovo, Serbia",22.5197,44.6672,seismic,0.003016,0,,760,inferred,750
+KEK,"Corfu,Greece",19.7962,39.7127,seismic,0.002281,0,,560.23,inferred,579
+LIT,"Litokhoron, Greece",22.4892,40.1033,seismic,0.00046,0,,760,inferred,601
