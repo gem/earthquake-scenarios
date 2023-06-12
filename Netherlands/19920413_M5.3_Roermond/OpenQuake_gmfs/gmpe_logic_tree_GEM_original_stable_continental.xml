@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <logicTree
+    logicTreeID="ESHM20 Logic Tree - 5 Stress Branch"
+    >
+<logicTreeBranchSet
+        applyToTectonicRegionType="Craton"
+        branchSetID="CratonModel"
+        uncertaintyType="gmpeModel"
+        >
+            <logicTreeBranch
+            branchID="CRParamVLowLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-2.856970
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0015043360
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamVLowMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-2.856970
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0059993280
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamVLowHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-2.856970
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0015043360
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamLowLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-1.355630
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0296698880
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamLowMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-1.355630
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.1183242240
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamLowHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-1.355630
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0296698880
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0712515520
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.2841528960
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0712515520
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamHighLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=1.355630
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0296698880
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamHighMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=1.355630
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.1183242240
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamHighHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=1.355630
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0296698880
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamVHighLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=2.856970
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0015043360
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamVHighMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=2.856970
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0059993280
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamVHighHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=2.856970
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0015043360
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRBackboneShalP1SCentralAtt"
+            >
+                <uncertaintyModel>
+                    [KothaEtAl2020ESHM20SlopeGeology]
+sigma_mu_epsilon = 1.73205100
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0444888000
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRBackboneShalP1SSlowAtt"
+            >
+                <uncertaintyModel>
+                    [KothaEtAl2020ESHM20SlopeGeology]
+sigma_mu_epsilon = 1.73205100
+c3_epsilon = 1.73205100
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0887112000
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRBackboneShal0SCentralAtt"
+            >
+                <uncertaintyModel>
+                    KothaEtAl2020ESHM20SlopeGeology
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0223112000
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRBackboneShal0SSlowAtt"
+            >
+                <uncertaintyModel>
+                    [KothaEtAl2020ESHM20SlopeGeology]
+c3_epsilon = 1.73205100
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.0444888000
+                </uncertaintyWeight>
+            </logicTreeBranch>
+        </logicTreeBranchSet>    
+    </logicTree>
+</nrml>

@@ -1,0 +1,181 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+97,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:GCMT
+",417, all, GEM, GCMT,ESHM20Craton,PGA,0.17821899,-0.072,0.071,0.072
+99,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:ISC
+",435, all, GEM, ISC,ESHM20Craton,PGA,0.20663822,-0.155,0.071,0.155
+98,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:EFEHR
+",439, all, GEM, EFEHR,ESHM20Craton,PGA,0.22818574,-0.169,0.071,0.169
+97,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:GCMT
+",417, all, GEM, GCMT,ESHM20Craton,PGA,0.17821899,-0.216,0.071,0.216
+99,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:ISC
+",435, all, GEM, ISC,ESHM20Craton,PGA,0.20663822,-0.299,0.071,0.299
+98,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:EFEHR
+",439, all, GEM, EFEHR,ESHM20Craton,PGA,0.22818574,-0.313,0.071,0.313
+98,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:EFEHR
+",439, all, GEM, EFEHR,ESHM20Craton,PGA,0.22818574,0.446,0.071,0.446
+99,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:ISC
+",435, all, GEM, ISC,ESHM20Craton,PGA,0.20663822,0.459,0.071,0.459
+97,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:GCMT
+",417, all, GEM, GCMT,ESHM20Craton,PGA,0.17821899,0.542,0.071,0.542
+98,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:EFEHR
+",439, all, GEM, EFEHR,ESHM20Craton,PGA,0.22818574,1.06,0.071,1.06
+99,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:ISC
+",435, all, GEM, ISC,ESHM20Craton,PGA,0.20663822,1.073,0.071,1.073
+97,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:GCMT
+",417, all, GEM, GCMT,ESHM20Craton,PGA,0.17821899,1.157,0.071,1.157
+98,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:EFEHR
+",439, all, GEM, EFEHR,ESHM20Craton,PGA,0.22818574,1.204,0.071,1.204
+99,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:ISC
+",435, all, GEM, ISC,ESHM20Craton,PGA,0.20663822,1.217,0.071,1.217
+97,"19920413_M5.3_Roermond median gmf, Stations:all, gmlt:GEM, Rupture:GCMT
+",417, all, GEM, GCMT,ESHM20Craton,PGA,0.17821899,1.301,0.071,1.301
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,ESHM20Craton,PGA,0.5507233,,,
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"ESHM20Craton
+epsilon=-1",PGA,0.2922037,,,
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"ESHM20Craton
+epsilon=1",PGA,1.0379616,,,
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"ESHM20Craton
+site_epsilon=-1",PGA,0.2457302,,,
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"ESHM20Craton
+site_epsilon=1",PGA,1.322354,,,
+73,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.31044716,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,ESHM20Craton,PGA,0.18731917,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"ESHM20Craton
+epsilon=-1",PGA,0.099388115,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"ESHM20Craton
+epsilon=1",PGA,0.353045,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"ESHM20Craton
+site_epsilon=-1",PGA,0.08657515,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"ESHM20Craton
+site_epsilon=1",PGA,0.40529498,,,
+74,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.38817847,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,ESHM20Craton,PGA,0.1837932,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"ESHM20Craton
+epsilon=-1",PGA,0.0975173,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"ESHM20Craton
+epsilon=1",PGA,0.34639946,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"ESHM20Craton
+site_epsilon=-1",PGA,0.087561056,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"ESHM20Craton
+site_epsilon=1",PGA,0.38578725,,,
+75,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.35925975,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,ESHM20Craton,PGA,0.13110828,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,"ESHM20Craton
+epsilon=-1",PGA,0.06956364,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,"ESHM20Craton
+epsilon=1",PGA,0.24710293,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,"ESHM20Craton
+site_epsilon=-1",PGA,0.06257143,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,"ESHM20Craton
+site_epsilon=1",PGA,0.28073725,,,
+76,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:ISC
+",1, None, GEM, ISC,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.40648103,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,ESHM20Craton,PGA,0.18122335,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,"ESHM20Craton
+epsilon=-1",PGA,0.09615378,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,"ESHM20Craton
+epsilon=1",PGA,0.341556,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,"ESHM20Craton
+site_epsilon=-1",PGA,0.08640133,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,"ESHM20Craton
+site_epsilon=1",PGA,0.38010877,,,
+77,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Camelbeecketal1994
+",1, None, GEM, Camelbeecketal1994,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.41618517,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,ESHM20Craton,PGA,0.20094825,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,"ESHM20Craton
+epsilon=-1",PGA,0.106619455,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,"ESHM20Craton
+epsilon=1",PGA,0.37873203,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,"ESHM20Craton
+site_epsilon=-1",PGA,0.09525606,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,"ESHM20Craton
+site_epsilon=1",PGA,0.4239122,,,
+78,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:GEM, Rupture:Ahorneretal1994
+",1, None, GEM, Ahorneretal1994,"KothaEtAl2020ESHM20SlopeGeology
+sigma_mu_epsilon = 1",PGA,0.35925975,,,
+79,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AkkarEtAlRjb2014,PGA,0.21447504,,,
+79,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,Campbell2003SHARE,PGA,0.6182025,,,
+79,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,CauzziEtAl2014,PGA,0.44947022,,,
+79,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,ToroEtAl2002SHARE,PGA,0.1967075,,,
+80,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,AkkarEtAlRjb2014,PGA,0.19145556,,,
+80,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,Campbell2003SHARE,PGA,0.16567232,,,
+80,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,CauzziEtAl2014,PGA,0.1255858,,,
+80,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",1, None, USGS, GCMT,ToroEtAl2002SHARE,PGA,0.1867881,,,
+81,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",1, None, USGS, EFEHR,AkkarEtAlRjb2014,PGA,0.20013054,,,
+81,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",1, None, USGS, EFEHR,Campbell2003SHARE,PGA,0.15167588,,,
+81,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",1, None, USGS, EFEHR,CauzziEtAl2014,PGA,0.10914646,,,
+81,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",1, None, USGS, EFEHR,ToroEtAl2002SHARE,PGA,0.1867881,,,
+82,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,AkkarEtAlRjb2014,PGA,0.1790934,,,
+82,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,Campbell2003SHARE,PGA,0.1027126,,,
+82,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,CauzziEtAl2014,PGA,0.08754081,,,
+82,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:ISC
+",1, None, USGS, ISC,ToroEtAl2002SHARE,PGA,0.17940372,,,
+83,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Camelbeecketal1994
+",1, None, USGS, Camelbeecketal1994,AkkarEtAlRjb2014,PGA,0.21222065,,,
+83,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Camelbeecketal1994
+",1, None, USGS, Camelbeecketal1994,Campbell2003SHARE,PGA,0.14468504,,,
+83,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Camelbeecketal1994
+",1, None, USGS, Camelbeecketal1994,CauzziEtAl2014,PGA,0.10780703,,,
+83,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Camelbeecketal1994
+",1, None, USGS, Camelbeecketal1994,ToroEtAl2002SHARE,PGA,0.1967075,,,
+84,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Ahorneretal1994
+",1, None, USGS, Ahorneretal1994,AkkarEtAlRjb2014,PGA,0.20013054,,,
+84,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Ahorneretal1994
+",1, None, USGS, Ahorneretal1994,Campbell2003SHARE,PGA,0.17059527,,,
+84,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Ahorneretal1994
+",1, None, USGS, Ahorneretal1994,CauzziEtAl2014,PGA,0.1194509,,,
+84,"19920413_M5.3_Roermond median gmf, Stations:None, gmlt:USGS, Rupture:Ahorneretal1994
+",1, None, USGS, Ahorneretal1994,ToroEtAl2002SHARE,PGA,0.1867881,,,

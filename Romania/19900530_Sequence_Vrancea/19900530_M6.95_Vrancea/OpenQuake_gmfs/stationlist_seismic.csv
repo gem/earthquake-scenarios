@@ -1,0 +1,70 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+A39,Bucharest-Building Research Institute,26.161,44.441,seismic,0.052206,0.0,D (inferred from geology),256.0,inferred_USGS,256.0
+VRI,Vrancioaia,26.7277,45.8657,seismic,0.029884,0.0,B (inferred from topography),409.0,inferred_USGS,409.0
+A1855,Birlad,27.626,46.266,seismic,0.027002,0.0,B (inferred from topography),625.0,inferred_USGS,625.0
+A1856,Istrita,26.545,45.138,seismic,0.018819,0.0,A (inferred from topography),634.0,inferred_USGS,634.0
+CMN1,Campina-Centru,25.736,45.119,seismic,0.27612,0.0,,369.69,inferred,336.0
+ONS,Onesti,26.762,46.25,seismic,0.24653,0.0,,356.85,inferred,280.0
+PRS,Peris,26.019,44.676,seismic,0.24633,0.0,,221.91,inferred,207.0
+BLV,Bolintin Vale,25.757,44.444,seismic,0.22276,0.0,,228.62,inferred,225.0
+CMN2,Campina-Meteo,25.733,45.141,seismic,0.20918,0.0,,369.69,inferred,405.0
+BUZ,Buzau,26.809,45.147,seismic,0.20031,0.0,,237.94,inferred,214.0
+CHI2,Chisinau-Iss2,28.86,46.989,seismic,0.19204,0.0,,891.52,inferred,890.0
+CFR,Carcaliu,28.136,45.178,seismic,0.16736,0.0,,199.03,inferred,208.0
+RMS1,Rmn. Sarat Prim.,27.047,45.377,seismic,0.16367,0.0,,389.33,inferred,302.0
+RMS2,Rmn. Sarat-Scoala,27.039,45.38,seismic,0.15908,0.0,,389.33,inferred,318.0
+GLT1,Galati I1 Tiglina,28.028,45.427,seismic,0.15816,0.0,,313.9,inferred,315.0
+BIR,Barlad,27.666,46.228,seismic,0.155,0.0,,571.88,inferred,554.0
+PND,Buc.-Panduri,26.065,44.426,seismic,0.15418,0.0,,282.37,inferred,272.0
+VLM,Valeni de Munte,26.038,45.183,seismic,0.15122,0.0,,347.17,inferred,400.0
+CHI3,Chisinau-Iss3,28.856,47.0,seismic,0.14663,0.0,,891.52,inferred,870.0
+BRN,Branesti,26.329,44.46,seismic,0.1451,0.0,,245.52,inferred,266.0
+SLB,Slobozia,27.35,44.565,seismic,0.14194,0.0,,253.29,inferred,208.0
+IAS1,Iasi-Copou,27.576,47.169,seismic,0.13837,0.0,,764.37,inferred,769.0
+CAH,Cahul,28.2,45.905,seismic,0.13816,0.0,,511.57,inferred,394.0
+VLS,Vaslui,27.733,46.637,seismic,0.13633,0.0,,423.43,inferred,423.0
+HIST_1,Bacau,26.9,46.567,seismic,0.134694,0.0,,281.84,inferred,282.0
+IAS2,Iasi-Centru,27.57,47.16,seismic,0.12878,0.0,,764.37,inferred,590.0
+FOC2,Focsani-Project SA,27.192,45.693,seismic,0.12031,0.0,,254.73,inferred,252.0
+CRL,Buc.-Carlton,26.102,44.436,seismic,0.11704,0.0,,289.92,inferred,290.0
+TRM,Turnu Magurele,24.875,43.765,seismic,0.115,0.0,,261.79,inferred,271.0
+DRS,Buc.-Dr.Sarii/Ghencea,26.059,44.419,seismic,0.1148,0.0,,282.37,inferred,219.0
+RUS,Russe,26.014,43.864,seismic,0.11473,0.0,,342.7,inferred,293.0
+CLS,Calarasi,27.33,44.189,seismic,0.11408,0.0,,215.09,inferred,240.0
+GRG1,Giurgiu,25.982,43.893,seismic,0.11071,0.0,,239.69,inferred,234.0
+CVD2,Cernavoda-FP,28.03,44.34,seismic,0.10929,0.0,,294.83,inferred,433.0
+CVD,CVD,28.02,44.21,seismic,0.1092,0.0,,376.84,inferred,426.0
+IAS3,Iasi,27.562,47.193,seismic,0.10857,0.0,,771.03,inferred,769.0
+FET,Fetesti,27.859,44.413,seismic,0.10316,0.0,,422.32,inferred,237.0
+INC1,Buc.-INCERC,26.161,44.442,seismic,0.10093,0.0,,199.13,inferred,256.0
+GLT2,Galati,28.058,45.43,seismic,0.09946,0.0,,288.16,inferred,400.0
+SDR,Surduc,26.377,45.489,seismic,0.09922,0.0,,759.53,inferred,658.0
+HIST_5,Bucharest-Magurele,26.03,44.347,seismic,0.091429,0.0,,227.45,inferred,267.0
+ADJ,Adjud,27.181,46.095,seismic,0.09142,0.0,,260.46,inferred,258.0
+BUC,BUC,26.02,44.21,seismic,0.0914,0.0,,222.1,inferred,250.0
+BAA,Baia-Tulcea,28.679,44.723,seismic,0.0911,0.0,,371.54,inferred,264.0
+TLC2,Tulcea-Prim.,28.804,45.176,seismic,0.09082,0.0,,417.41,inferred,443.0
+MLT,Buc.-Militari,26.028,44.431,seismic,0.08564,0.0,,234.25,inferred,196.0
+MTR,Buc.-Metrou IMGB-1,26.144,44.367,seismic,0.08442,0.0,,216.77,inferred,203.0
+PLS,Ploiesti-Vest,26.02,44.93,seismic,0.08307,0.0,,277.67,inferred,267.0
+CHI4,Chisinau-Iss4,28.874,47.061,seismic,0.08263,0.0,,464.98,inferred,694.0
+BRL1,Braila,27.966,45.269,seismic,0.08124,0.0,,262.45,inferred,262.0
+MET,Buc.-Metalurgiei/Berceni,26.119,44.376,seismic,0.07647,0.0,,216.77,inferred,244.0
+HIST_3,Bucharest Armeneasca,26.09,44.4,seismic,0.075408,0.0,,241.47,inferred,228.0
+TLC1,Tulcea-Sc.,28.8,45.167,seismic,0.07086,0.0,,417.41,inferred,417.0
+BLA,Buc.-Balta Alba,26.169,44.413,seismic,0.06907,0.0,,231.11,inferred,270.0
+TIT,Buc.-Titulescu,26.08,44.452,seismic,0.06882,0.0,,222.57,inferred,253.0
+MLR,Muntele Rosu,25.944,45.492,seismic,0.06696,0.0,,880.31,inferred,874.0
+CRV,Craiova,23.798,44.321,seismic,0.06368,0.0,,281.01,inferred,298.0
+BOZ,Bozveli,27.479,43.105,seismic,0.06143,0.0,,502.99,inferred,328.0
+BRS1,Brasov,25.652,46.656,seismic,0.04998,0.0,,900.0,inferred,642.0
+CNT,Constanta,28.65,44.181,seismic,0.04989,0.0,,400.6,inferred,396.0
+PRV,Provadia,27.472,43.131,seismic,0.04916,0.0,,487.7,inferred,331.0
+PIT,Pitesti-Nord,24.883,44.868,seismic,0.0481,0.0,,347.2,inferred,231.0
+CMP,Campulung Muscel,25.046,45.272,seismic,0.04735,0.0,,592.04,inferred,384.0
+KAV,Kavarna,28.338,43.433,seismic,0.03694,0.0,,317.61,inferred,323.0
+VRN,Varna,28.021,43.244,seismic,0.03431,0.0,,600.0,inferred,436.0
+ARM,Buc.-Armeneasca,26.11,44.437,seismic,0.03221,0.0,,289.92,inferred,267.0
+ARR,Arges,24.633,45.368,seismic,0.02513,0.0,,525.81,inferred,526.0
+CER,Cernavoda,28.032,44.314,seismic,0.019388,0.0,,483.62,inferred,457.0
+SHB,Shabla,28.535,43.536,seismic,0.00874,0.0,,266.86,inferred,267.0

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <logicTree
+    logicTreeID="ESHM20 Logic Tree - 5 Stress Branch"
+    >
+<logicTreeBranchSet
+        applyToTectonicRegionType="Craton"
+        branchSetID="CratonModel"
+        uncertaintyType="gmpeModel"
+        >
+            <logicTreeBranch
+            branchID="CRParamLowMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=-1.355630
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.15
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidLowSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+site_epsilon=-1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.10
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.39
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamMidHighSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+site_epsilon=1.732051
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.10
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRParamHighMidSite"
+            >
+                <uncertaintyModel>
+                    [ESHM20Craton]
+epsilon=1.355630
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.15
+                </uncertaintyWeight>
+            </logicTreeBranch>
+            <logicTreeBranch
+            branchID="CRBackboneShalP1SSlowAtt"
+            >
+                <uncertaintyModel>
+                    [KothaEtAl2020ESHM20SlopeGeology]
+sigma_mu_epsilon = 1.73205100
+c3_epsilon = 1.73205100
+                </uncertaintyModel>
+                <uncertaintyWeight>
+                    0.11
+                </uncertaintyWeight>
+            </logicTreeBranch>
+        </logicTreeBranchSet>    
+    </logicTree>
+</nrml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Logic Tree for Stable Continental -->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Stable Shallow Crust">
+
+                <logicTreeBranch branchID="b51">
+                    <uncertaintyModel>AkkarEtAlRjb2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+                
+                <logicTreeBranch branchID="b52">
+                    <uncertaintyModel>CauzziEtAl2014</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="b53">
+                    <uncertaintyModel>ToroEtAl2002SHARE</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+                
+                <logicTreeBranch branchID="b53">
+                    <uncertaintyModel>Campbell2003SHARE</uncertaintyModel>
+                    <uncertaintyWeight>0.25</uncertaintyWeight>
+                </logicTreeBranch>
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

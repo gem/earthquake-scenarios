@@ -1,0 +1,113 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+37,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",44, Seismic, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.087985806,-0.225,0.222,0.225
+37,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",44, Seismic, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.07239067,-0.354,0.27,0.354
+39,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",44, Seismic, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.0580768,-0.491,0.222,0.491
+38,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",44, Seismic, USGS, EFEHR,AtkinsonBoore2003SSlab,PGA,0.0575112,-0.545,0.222,0.545
+39,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",44, Seismic, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.048654206,-0.591,0.27,0.591
+38,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",44, Seismic, USGS, EFEHR,AbrahamsonEtAl2015SSlab,PGA,0.0473427,-0.603,0.27,0.603
+40,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:Ganasetal2010
+",44, Seismic, USGS, Ganasetal2010,AtkinsonBoore2003SSlab,PGA,0.06526009,-0.622,0.222,0.622
+37,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",44, Seismic, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.07310502,-0.679,0.272,0.679
+40,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:Ganasetal2010
+",44, Seismic, USGS, Ganasetal2010,AbrahamsonEtAl2015SSlab,PGA,0.053012114,-0.708,0.27,0.708
+39,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",44, Seismic, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.049355622,-0.946,0.272,0.946
+38,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:EFEHR
+",44, Seismic, USGS, EFEHR,ZhaoEtAl2016SSlab,PGA,0.04800001,-0.974,0.272,0.974
+40,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:USGS, Rupture:Ganasetal2010
+",44, Seismic, USGS, Ganasetal2010,ZhaoEtAl2016SSlab,PGA,0.05157707,-1.071,0.272,1.071
+25,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"BCHydroESHM20SSlab
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.09028082,,,
+25,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"BCHydroESHM20SSlab
+sigma_mu_epsilon = -1",PGA,0.05986716,,,
+25,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"BCHydroESHM20SSlab
+sigma_mu_epsilon = 1",PGA,0.1361452,,,
+25,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"BCHydroESHM20SSlab
+theta_6_adjustment = -0",PGA,0.09028082,,,
+25,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,"BCHydroESHM20SSlab
+theta_6_adjustment = 0",PGA,0.09028082,,,
+26,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"BCHydroESHM20SSlab
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.077590294,,,
+26,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"BCHydroESHM20SSlab
+sigma_mu_epsilon = -1",PGA,0.0514518,,,
+26,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"BCHydroESHM20SSlab
+sigma_mu_epsilon = 1",PGA,0.11700765,,,
+26,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"BCHydroESHM20SSlab
+theta_6_adjustment = -0",PGA,0.077590294,,,
+26,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:EFEHR
+",1, None, GEM, EFEHR,"BCHydroESHM20SSlab
+theta_6_adjustment = 0",PGA,0.077590294,,,
+27,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"BCHydroESHM20SSlab
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.08123729,,,
+27,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"BCHydroESHM20SSlab
+sigma_mu_epsilon = -1",PGA,0.053870197,,,
+27,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"BCHydroESHM20SSlab
+sigma_mu_epsilon = 1",PGA,0.122507386,,,
+27,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"BCHydroESHM20SSlab
+theta_6_adjustment = -0",PGA,0.08123729,,,
+27,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",1, None, GEM, USGS,"BCHydroESHM20SSlab
+theta_6_adjustment = 0",PGA,0.08123729,,,
+28,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:Ganasetal2010
+",0, None, GEM, Ganasetal2010,"BCHydroESHM20SSlab
+faba_taper_model = ""SFunc""
+a = -100",PGA,0.100984685,,,
+28,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:Ganasetal2010
+",0, None, GEM, Ganasetal2010,"BCHydroESHM20SSlab
+sigma_mu_epsilon = -1",PGA,0.06696512,,,
+28,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:Ganasetal2010
+",0, None, GEM, Ganasetal2010,"BCHydroESHM20SSlab
+sigma_mu_epsilon = 1",PGA,0.15228684,,,
+28,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:Ganasetal2010
+",0, None, GEM, Ganasetal2010,"BCHydroESHM20SSlab
+theta_6_adjustment = -0",PGA,0.100984685,,,
+28,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:GEM, Rupture:Ganasetal2010
+",0, None, GEM, Ganasetal2010,"BCHydroESHM20SSlab
+theta_6_adjustment = 0",PGA,0.100984685,,,
+29,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AbrahamsonEtAl2015SSlab,PGA,0.10368487,,,
+29,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AtkinsonBoore2003SSlab,PGA,0.11077207,,,
+29,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016SSlab,PGA,0.14529406,,,
+30,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AbrahamsonEtAl2015SSlab,PGA,0.0900084,,,
+30,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,AtkinsonBoore2003SSlab,PGA,0.109183535,,,
+30,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:EFEHR
+",0, None, USGS, EFEHR,ZhaoEtAl2016SSlab,PGA,0.1427243,,,
+31,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.092951275,,,
+31,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.10555587,,,
+31,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",1, None, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.1447329,,,
+32,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:Ganasetal2010
+",1, None, USGS, Ganasetal2010,AbrahamsonEtAl2015SSlab,PGA,0.11421354,,,
+32,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:Ganasetal2010
+",1, None, USGS, Ganasetal2010,AtkinsonBoore2003SSlab,PGA,0.13319018,,,
+32,"19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:None, gmlt:USGS, Rupture:Ganasetal2010
+",1, None, USGS, Ganasetal2010,ZhaoEtAl2016SSlab,PGA,0.165762,,,

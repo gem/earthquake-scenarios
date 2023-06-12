@@ -1,0 +1,27 @@
+job_id: 97
+job_description: 19920413_M5.3_Roermond median gmf, Stations:All, gmlt:GEM, Rupture:GCMT
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Netherlands/19920413_M5.3_Roermond/OpenQuake_gmfs/job_stations_all.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 68270249 (total size 694.37 KB)
+Entering SLOW MODE. You have 1.7 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=8790 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Netherlands/19920413_M5.3_Roermond/OpenQuake_gmfs/stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+1 stations filtered away
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 0.542, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 1.157, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: -0.072, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 1.301, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: -0.216, Nominal bias stddev: 0.071
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.729, Nominal bias stddev: 0.067
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.11 MB', 'sig_eps': '393 B', 'times': '332 B', 'hcurves': '5 B'} in 416 seconds from event_based
+Stored 569.47 KB of GMFs
+Exposing the outputs to the database
+Stored 1.88 MB on /Users/chago/oqdata/calc_97.hdf5 in 417 seconds

@@ -1,0 +1,25 @@
+job_id: 36
+job_description: 19900530_Sequence_Vrancea/19900531_M6.31_Vrancea median gmf, Stations:Seismic, gmlt:GEM, Rupture:Ganasetal2010
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Romania/19900530_Sequence_Vrancea/19900531_M6.31_Vrancea/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 350295496 (total size 405.23 KB)
+Entering SLOW MODE. You have 3.2 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=5350 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Romania/19900530_Sequence_Vrancea/19900531_M6.31_Vrancea/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: BCHydroESHM20SSlab, IMT: PGA, Nominal bias mean: -0.578, Nominal bias stddev: 0.270
+GMM: BCHydroESHM20SSlab, IMT: PGA, Nominal bias mean: -0.329, Nominal bias stddev: 0.270
+GMM: BCHydroESHM20SSlab, IMT: PGA, Nominal bias mean: -0.827, Nominal bias stddev: 0.270
+GMM: BCHydroESHM20SSlab, IMT: PGA, Nominal bias mean: -0.578, Nominal bias stddev: 0.270
+GMM: BCHydroESHM20SSlab, IMT: PGA, Nominal bias mean: -0.578, Nominal bias stddev: 0.270
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '627.79 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 71 seconds from event_based
+Stored 313.66 KB of GMFs
+Exposing the outputs to the database
+Stored 1.13 MB on /Users/chago/oqdata/calc_36.hdf5 in 72 seconds

@@ -1,0 +1,4 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+A1855,Birlad,27.626,46.266,seismic,0.015868,0,B (inferred from topography),625.0,inferred_USGS,625.0
+CER,Cernavoda,28.032,44.314,seismic,0.011895,0,B (inferred from topography),457.0,inferred_USGS,457.0
+VRI,Vrancioaia,26.7277,45.8657,seismic,0.018983,0,B (inferred from topography),409.0,inferred_USGS,409.0

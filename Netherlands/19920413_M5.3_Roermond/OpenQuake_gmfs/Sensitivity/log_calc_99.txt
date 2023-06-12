@@ -1,0 +1,26 @@
+job_id: 99
+job_description: 19920413_M5.3_Roermond median gmf, Stations:All, gmlt:GEM, Rupture:ISC
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Netherlands/19920413_M5.3_Roermond/OpenQuake_gmfs/job_stations_all.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 322026188 (total size 694.38 KB)
+Extracting the hazard sites from the site model
+Read N=8790 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Netherlands/19920413_M5.3_Roermond/OpenQuake_gmfs/stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+1 stations filtered away
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 0.459, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 1.073, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: -0.155, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: 1.217, Nominal bias stddev: 0.071
+GMM: ESHM20Craton, IMT: PGA, Nominal bias mean: -0.299, Nominal bias stddev: 0.071
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 0.642, Nominal bias stddev: 0.067
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.13 MB', 'sig_eps': '393 B', 'times': '332 B', 'hcurves': '5 B'} in 434 seconds from event_based
+Stored 578.89 KB of GMFs
+Exposing the outputs to the database
+Stored 1.89 MB on /Users/chago/oqdata/calc_99.hdf5 in 435 seconds
