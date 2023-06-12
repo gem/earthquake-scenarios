@@ -1,0 +1,26 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\Ecuador\20160416_M7.8_Pedernales\OpenQuake_gmfs\Sensitivity\job_rup-SCARDEC_gmpe-USGS_seismic.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 2543728140 (total size 170.68 KB)
+Extracting the hazard sites from the site model
+Read N=3063 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\Ecuador\20160416_M7.8_Pedernales\OpenQuake_gmfs\stationlist_seismic.csv
+min_iml=[1.e-10]
+There are 7 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias (mean): 0.140
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias (mean): -0.396
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias (mean): 0.192
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias (mean): 0.044
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias (mean): -0.145
+GMM: MontalvaEtAl2017SInter, IMT: PGA, Nominal bias (mean): -0.535
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): 0.427
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '503.42 KB', 'sig_eps': '407 B', 'times': '309 B', 'hcurves': '5 B'} in 94 seconds from event_based
+Stored 251.45 KB of GMFs
+Checking stored GMFs
+Your results are expected to have a large dependency from the rupture seed: 40%
+Exposing the outputs to the database
+Stored 608.46 KB on C:\Users\Luis Martins\oqdata/calc_388.hdf5 in 98 seconds

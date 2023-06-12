@@ -1,0 +1,20 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ECU,Ecuador,663,663,6274,,,,26672,6998.0,Buildings,3300000000,,USD,"Landslides, Tsunami",,NOAA,
+ECU,Ecuador,672,672,6274,,383090,,,,,2000000000,560000000.0,USD,,,EM-DAT,"Geo Locations: Los Rios, Santa Elena, Santo Domingo de los Tsachilas (Adm1). Guayaquil, Muisne, Portoviejo (Adm2)."
+ECU,Ecuador,672,672,6277,386985.0,,,,36149.0,Buildings,,,,Tsunami,,EID,671 people were killed in Ecuador and 1 in Colombia.
+ECU,Ecuador,,,,,,,,,,,,,,,Verisk,
+ECU,Ecuador,668,668,27732,,,,,7000.0,Buildings,,,,"Landslides, Tsunami",,USGS,
+ECU,Ecuador,663,663,6274,,>1000000000,,,35000.0,Buildings,,,,,,Reliefweb,
+ECU,Ecuador,700,700,>6000,,,,,35000.0,Buildings,2000000000-3000000000,,USD,,,World_Vision,
+ECU,Ecuador,663-668,663-668,6274,28775.0,,,,,,,,,,,Wikipedia,
+ECU,Ecuador,660,660,230000,,,,,,,,,,,,USAID,
+ECU,Ecuador,663-668,663-668,6274,28775.0,,,,35000.0,Buildings,,,,,,MDREC012_EFR,
+ECU,Ecuador,660,660,,33757.0,,,9180,,Buildings,,,,,,ECDM_20160510_Ecuador_EQ_FINAL,
+ECU,Ecuador,700,700,>7000,,,,,,,3000000000,,USD,,,IGEPN,
+ECU,Ecuador,670,670,17674,29301.0,,,,6998.0,Buildings,,,,,,EcuRed,
+ECU,Ecuador,700,700,,,,,,,,,,,Tsunami,,Courboulex_et_al_2022,
+ECU,Ecuador,650,650,17600,,,,>10000,,Buildings,,,,,,RMS,
+ECU,Ecuador,663,663,6274,28775.0,,,,,,,,,,,Goretti_et_al_2017,
+ECU,Ecuador,668,668,6274,28775.0,,,,,,1300000000,,USD,,,EERI,
+ECU,Ecuador,661,661,6274,28678.0,,,,,,,,,,,SGR_Report,
+ECU,Ecuador,662,662,6998,,,,,,,,,,,,GEER_Report,

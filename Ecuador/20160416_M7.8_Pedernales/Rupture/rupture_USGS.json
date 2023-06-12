@@ -1,0 +1,60 @@
+{
+   "features":[
+      {
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "coordinates":[
+               [
+                  [
+                     [
+                        -80.685,
+                        -0.5196,
+                        10.0
+                     ],
+                     [
+                        -80.157,
+                        0.93912,
+                        10.0
+                     ],
+                     [
+                        -79.46,
+                        0.6078,
+                        30.0
+                     ],
+                     [
+                        -79.989,
+                        -0.79827,
+                        30.0
+                     ],
+                     [
+                        -80.685,
+                        -0.5196,
+                        10.0
+                     ]
+                  ]
+               ]
+            ],
+            "type":"MultiPolygon"
+         },
+         "type":"Feature"
+      }
+   ],
+   "metadata":{
+      "network":"USGS National Earthquake Information Center, PDE",
+      "depth":20.6,
+      "netid":"us",
+      "locstring":"27km SSE of Muisne, Ecuador",
+      "lat":0.3819,
+      "mag":7.8,
+      "mech":"ALL",
+      "reference":" IRIS Backprojection stack 0.25-1.0 hz",
+      "lon":-79.9218,
+      "rake":0.0,
+      "time":"2016-04-16T23:58:36.000000Z",
+      "id":"us20005j32",
+      "productcode":"us20005j32"
+   },
+   "type":"FeatureCollection"
+}

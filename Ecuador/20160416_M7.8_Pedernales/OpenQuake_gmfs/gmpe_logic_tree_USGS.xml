@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="Subduction Interface">
+
+        <logicTreeBranch branchID='b0'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.025904028326292426</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b1'>
+            <uncertaintyModel>
+                BooreEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.025904028326292426</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b2'>
+            <uncertaintyModel>
+                CampbellBozorgnia2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.025904028326292426</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                ChiouYoungs2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.025904028326292426</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b4'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.295806682609294</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b5'>
+            <uncertaintyModel>
+                ZhaoEtAl2016SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.295806682609294</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b6'>
+            <uncertaintyModel>
+                MontalvaEtAl2017SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.30477052147624234</uncertaintyWeight>
+        </logicTreeBranch>
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>
