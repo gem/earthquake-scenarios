@@ -1,0 +1,311 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+VZZ,VZZ,14.7547,37.1636,seismic,599.57,4.5,0.63,0.0,0.07231,null,null,0.0,0.13253,0.0,0.05561,0.0,0.00638,inferred,Stations_USGS
+NOT,NOT,15.0683,36.9,seismic,503.95,null,null,0.0,0.0905,null,null,0.0,0.16156,0.0,0.06972,0.0,0.00587,inferred,Stations_USGS
+LCT,Licata,13.928,37.109,seismic,425.09,4.4,0.63,0.0,0.040306,0.0,3.05,0.0,0.098673,0.0,0.019592,0.0,0.003531,inferred,Stations_USGS
+CAT,CAT,15.0467,37.4469,seismic,262.87,6.2,0.63,,,,,,,,,,,inferred,Stations_USGS
+GRR,GRR,15.1628,37.7261,seismic,537.47,null,null,0.0,0.03871,0.0,2.0719,0.0,0.07129,0.0,0.02098,0.0,0.00249,inferred,Stations_USGS
+SRT,SRT,15.0303,37.1628,seismic,402.57,5.4,0.63,0.0,0.10783,0.0,6.9099,0.0,0.10001,0.0,0.10573,0.0,0.00809,inferred,Stations_USGS
+VTT,VTT,14.5186,36.9478,seismic,293.61,4.0,0.63,0.0,0.03079,0.0,1.7421,0.0,0.05633,0.0,0.03136,0.0,0.00165,inferred,Stations_USGS
+PCH,PCH,15.0911,36.7108,seismic,411.71,4.2,0.63,0.0,0.04563,null,null,0.0,0.05744,0.0,0.00741,0.0,0.00071,inferred,Stations_USGS
+OBS_184,Pietraperzia,14.137,37.419,macroseismic,464.62,4.0,0.3,0.8059,0.019662,0.875,1.6716,1.0131,0.033384,1.0822,0.017328,1.4737,0.003479,inferred,Stations_USGS
+OBS_144,Mazzarino,14.217,37.305,macroseismic,537.54,4.5,0.3,0.8059,0.040171,0.875,3.4968,1.0131,0.067661,1.0822,0.036297,1.4737,0.008992,inferred,Stations_USGS
+OBS_282,Gratteri,13.973,37.965,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_244,Scilla,15.717,38.253,macroseismic,900.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_10,Francofonte,14.881,37.23,macroseismic,591.98,null,null,0.8059,0.173297,0.875,15.017,1.0131,0.390437,1.0822,0.174235,1.4737,0.038033,inferred,Stations_USGS
+OBS_297,Sclafani Bagni,13.855,37.82,macroseismic,847.46,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_137,Graniti,15.225,37.889,macroseismic,605.83,4.5,0.3,0.8059,0.045745,0.875,3.4968,1.0131,0.079987,1.0822,0.031149,1.4737,0.007147,inferred,Stations_USGS
+OBS_56,Aci Sant'Antonio,15.126,37.606,macroseismic,487.79,5.5,0.3,0.8059,0.096464,0.875,7.2465,1.0131,0.22821,1.0822,0.077019,1.4737,0.01726,inferred,Stations_USGS
+OBS_37,Monterosso Almo,14.763,37.089,macroseismic,490.02,6.0,0.3,0.8059,0.118286,0.875,10.4317,1.0131,0.284857,1.0822,0.122335,1.4737,0.027236,inferred,Stations_USGS
+OBS_6,Mineo,14.691,37.266,macroseismic,463.83,null,null,0.8059,0.218536,0.875,21.6177,1.0131,0.494581,1.0822,0.272042,1.4737,0.058871,inferred,Stations_USGS
+OBS_265,Benestare,16.139,38.184,macroseismic,605.34,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_83,Al Terme,15.423,38.004,macroseismic,420.81,5.0,0.3,0.8059,0.060041,0.875,5.0338,1.0131,0.150297,1.0822,0.057222,1.4737,0.013169,inferred,Stations_USGS
+OBS_213,Montedoro,13.815,37.454,macroseismic,380.9,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_272,Castel di Lucio,14.312,37.887,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_291,Roccaforte del Greco,15.9,38.045,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_161,Sinagra,14.849,38.083,macroseismic,456.16,4.5,0.3,0.8059,0.040901,0.875,3.4968,1.0131,0.069249,1.0822,0.035536,1.4737,0.00871,inferred,Stations_USGS
+OBS_163,Taormina,15.286,37.852,macroseismic,846.32,4.5,0.3,0.8059,0.046798,0.875,3.4968,1.0131,0.082366,1.0822,0.030325,1.4737,0.006865,inferred,Stations_USGS
+OBS_292,San Fratello,14.597,38.016,macroseismic,470.91,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_182,Oliveri,15.061,38.124,macroseismic,575.19,4.0,0.3,0.8059,0.022079,0.875,1.6716,1.0131,0.03554,1.0822,0.016365,1.4737,0.003193,inferred,Stations_USGS
+OBS_31,Grammichele,14.636,37.214,macroseismic,420.1,6.0,0.3,0.8059,0.114717,0.875,10.4317,1.0131,0.280306,1.0822,0.124654,1.4737,0.027816,inferred,Stations_USGS
+OBS_25,Cassaro,14.949,37.106,macroseismic,519.09,6.0,0.3,0.8059,0.128058,0.875,10.4317,1.0131,0.296995,1.0822,0.116526,1.4737,0.025791,inferred,Stations_USGS
+OBS_189,Sant'Angelo di Brolo,14.884,38.113,macroseismic,799.3,4.0,0.3,0.8059,0.021312,0.875,1.6716,1.0131,0.034868,1.0822,0.016653,1.4737,0.003278,inferred,Stations_USGS
+OBS_76,San Cono,14.367,37.291,macroseismic,484.5,5.5,0.3,0.8059,0.077664,0.875,7.2465,1.0131,0.20363,1.0822,0.087963,1.4737,0.020032,inferred,Stations_USGS
+OBS_109,Santa Teresa di Riva,15.367,37.945,macroseismic,472.64,5.0,0.3,0.8059,0.061478,0.875,5.0338,1.0131,0.154945,1.0822,0.056399,1.4737,0.012957,inferred,Stations_USGS
+OBS_47,Santa Croce Camerina,14.525,36.828,macroseismic,393.6,null,null,0.8059,0.105456,0.875,10.4317,1.0131,0.268172,1.0822,0.131254,1.4737,0.029471,inferred,Stations_USGS
+OBS_93,Mazzarr Sant'Andrea,15.133,38.088,macroseismic,499.66,5.0,0.3,0.8059,0.057434,0.875,5.0338,1.0131,0.141944,1.0822,0.058801,1.4737,0.013577,inferred,Stations_USGS
+OBS_293,San Marco d'Alunzio,14.699,38.074,macroseismic,752.09,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_206,Longi,14.753,38.026,macroseismic,900.0,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_70,Niscemi,14.389,37.147,macroseismic,456.99,5.5,0.3,0.8059,0.077738,0.875,7.2465,1.0131,0.203731,1.0822,0.087912,1.4737,0.020019,inferred,Stations_USGS
+OBS_88,Centuripe,14.741,37.621,macroseismic,439.45,5.0,0.3,0.8059,0.061689,0.875,5.0338,1.0131,0.155631,1.0822,0.05628,1.4737,0.012926,inferred,Stations_USGS
+OBS_173,Camporotondo Etneo,15.005,37.566,macroseismic,492.65,4.0,0.3,0.8059,0.035346,0.875,1.6716,1.0131,0.04581,1.0822,0.012976,1.4737,0.002254,inferred,Stations_USGS
+OBS_35,Modica,14.761,36.858,macroseismic,345.84,6.0,0.3,0.8059,0.11215,0.875,10.4317,1.0131,0.276991,1.0822,0.126395,1.4737,0.028251,inferred,Stations_USGS
+OBS_32,Ispica,14.91,36.786,macroseismic,548.68,null,null,0.8059,0.113703,0.875,10.4317,1.0131,0.279001,1.0822,0.125334,1.4737,0.027986,inferred,Stations_USGS
+OBS_270,Campofranco,13.714,37.511,macroseismic,551.01,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_241,Mammola,16.24,38.362,macroseismic,532.53,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_212,Montebello Ionico,15.758,37.982,macroseismic,566.46,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_89,Floresta,14.91,37.988,macroseismic,366.94,5.0,0.3,0.8059,0.057815,0.875,5.0338,1.0131,0.143158,1.0822,0.058563,1.4737,0.013515,inferred,Stations_USGS
+OBS_160,Saponara,15.434,38.193,macroseismic,565.41,4.5,0.3,0.8059,0.041134,0.875,3.4968,1.0131,0.069758,1.0822,0.035298,1.4737,0.008623,inferred,Stations_USGS
+OBS_11,Mascalucia,15.05,37.574,macroseismic,484.37,null,null,0.8059,0.177455,0.875,15.017,1.0131,0.395334,1.0822,0.171721,1.4737,0.037418,inferred,Stations_USGS
+OBS_196,Capo d'Orlando,14.745,38.16,macroseismic,482.39,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_276,Chiaravalle Centrale,16.412,38.68,macroseismic,478.63,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_159,Sant'Eufemia d'Aspromonte,15.857,38.263,macroseismic,607.15,4.5,0.3,0.8059,0.039637,0.875,3.4968,1.0131,0.066506,1.0822,0.036873,1.4737,0.009207,inferred,Stations_USGS
+OBS_30,Giarratana,14.794,37.048,macroseismic,549.54,6.0,0.3,0.8059,0.11863,0.875,10.4317,1.0131,0.285292,1.0822,0.122118,1.4737,0.027182,inferred,Stations_USGS
+OBS_166,Ucria,14.881,38.046,macroseismic,900.0,4.5,0.3,0.8059,0.041484,0.875,3.4968,1.0131,0.070525,1.0822,0.034948,1.4737,0.008495,inferred,Stations_USGS
+OBS_236,Castrofilippo,13.75,37.348,macroseismic,259.92,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_172,Bompietro,14.099,37.744,macroseismic,510.18,4.0,0.3,0.8059,0.018376,0.875,1.6716,1.0131,0.032188,1.0822,0.017916,1.4737,0.003658,inferred,Stations_USGS
+OBS_19,Aci Castello,15.147,37.555,macroseismic,640.33,6.0,0.3,0.8059,0.136662,0.875,10.4317,1.0131,0.307324,1.0822,0.111973,1.4737,0.024664,inferred,Stations_USGS
+OBS_256,Isnello,14.006,37.943,macroseismic,559.93,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_195,Calanna,15.724,38.183,macroseismic,881.45,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_164,Terme Vigliatore (Castroreale Terme),15.17,38.135,macroseismic,448.36,4.5,0.3,0.8059,0.041553,0.875,3.4968,1.0131,0.070674,1.0822,0.03488,1.4737,0.00847,inferred,Stations_USGS
+OBS_228,Spadafora,15.375,38.221,macroseismic,600.0,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_226,Santo Stefano di Camastra,14.351,38.015,macroseismic,521.55,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_202,Collesano,13.938,37.921,macroseismic,749.61,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_98,Pagliara,15.36,37.985,macroseismic,588.89,5.0,0.3,0.8059,0.060439,0.875,5.0338,1.0131,0.151581,1.0822,0.056991,1.4737,0.013109,inferred,Stations_USGS
+OBS_122,Brolo,14.829,38.157,macroseismic,451.24,4.5,0.3,0.8059,0.040033,0.875,3.4968,1.0131,0.067364,1.0822,0.036443,1.4737,0.009046,inferred,Stations_USGS
+OBS_168,Villarosa,14.174,37.586,macroseismic,493.84,4.5,0.3,0.8059,0.039365,0.875,3.4968,1.0131,0.065919,1.0822,0.037173,1.4737,0.00932,inferred,Stations_USGS
+OBS_209,Militello Rosmarino,14.676,38.045,macroseismic,762.61,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_255,Geraci Siculo,14.154,37.857,macroseismic,757.93,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_116,Zafferana Etnea,15.105,37.692,macroseismic,666.11,5.0,0.3,0.8059,0.067155,0.875,5.0338,1.0131,0.168235,1.0822,0.053427,1.4737,0.012194,inferred,Stations_USGS
+OBS_108,Santa Maria di Licodia,14.889,37.615,macroseismic,603.01,5.0,0.3,0.8059,0.064774,0.875,5.0338,1.0131,0.165072,1.0822,0.054622,1.4737,0.0125,inferred,Stations_USGS
+OBS_252,Laureana di Borrello,16.083,38.491,macroseismic,628.12,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_300,Tusa,14.237,37.984,macroseismic,661.51,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_121,Biancavilla,14.867,37.643,macroseismic,606.62,4.5,0.3,0.8059,0.04672,0.875,3.4968,1.0131,0.08219,1.0822,0.030385,1.4737,0.006885,inferred,Stations_USGS
+OBS_29,Ferla,14.94,37.119,macroseismic,506.59,6.0,0.3,0.8059,0.127988,0.875,10.4317,1.0131,0.296911,1.0822,0.116565,1.4737,0.025801,inferred,Stations_USGS
+OBS_242,Marineo,13.415,37.951,macroseismic,732.6,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_186,Roccalumera,15.395,37.974,macroseismic,551.82,4.0,0.3,0.8059,0.026325,0.875,1.6716,1.0131,0.039077,1.0822,0.015005,1.4737,0.002803,inferred,Stations_USGS
+OBS_27,Chiaramonte Gulfi,14.702,37.031,macroseismic,744.99,null,null,0.8059,0.114659,0.875,10.4317,1.0131,0.280231,1.0822,0.124693,1.4737,0.027825,inferred,Stations_USGS
+OBS_28,Comiso,14.606,36.946,macroseismic,532.67,null,null,0.8059,0.109821,0.875,10.4317,1.0131,0.273951,1.0822,0.128032,1.4737,0.028662,inferred,Stations_USGS
+OBS_16,Sortino,15.027,37.156,macroseismic,519.44,null,null,0.8059,0.184585,0.875,15.017,1.0131,0.403607,1.0822,0.167625,1.4737,0.036419,inferred,Stations_USGS
+OBS_66,Licodia Eubea,14.7,37.155,macroseismic,581.15,5.5,0.3,0.8059,0.085527,0.875,7.2465,1.0131,0.21422,1.0822,0.082914,1.4737,0.018748,inferred,Stations_USGS
+OBS_118,Barcellona Pozzo di Gotto,15.215,38.146,macroseismic,391.7,4.5,0.3,0.8059,0.041516,0.875,3.4968,1.0131,0.070594,1.0822,0.034916,1.4737,0.008483,inferred,Stations_USGS
+OBS_264,Bagaladi,15.821,38.026,macroseismic,470.21,null,null,,,,,,,,,,,inferred,Stations_USGS
+OBS_179,Messina,15.549,38.187,macroseismic,466.98,4.0,0.3,0.8059,0.021828,0.875,1.6716,1.0131,0.035321,1.0822,0.016457,1.4737,0.00322,inferred,Stations_USGS
+OBS_174,Casalvecchio Siculo,15.322,37.957,macroseismic,823.5,4.0,0.3,0.8059,0.02663,0.875,1.6716,1.0131,0.039321,1.0822,0.01492,1.4737,0.00278,inferred,Stations_USGS
+OBS_8,Acireale,15.166,37.613,macroseismic,615.76,null,null,0.8059,0.181469,0.875,15.017,1.0131,0.40001,1.0822,0.169383,1.4737,0.036848,inferred,Stations_USGS
+OBS_262,Aliminusa,13.78,37.864,macroseismic,616.31,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_117,Bagnara Calabra,15.805,38.286,macroseismic,900.0,4.5,0.3,0.8059,0.039534,0.875,3.4968,1.0131,0.066284,1.0822,0.036986,1.4737,0.009249,inferred,Stations_USGS
+OBS_207,Marianopoli,13.915,37.598,macroseismic,723.51,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_288,Polizzi Generosa,14.0,37.812,macroseismic,787.9,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_15,Siracusa,15.285,37.082,macroseismic,408.24,6.5,0.3,0.8059,0.203354,0.875,15.017,1.0131,0.424687,1.0822,0.157965,1.4737,0.034075,inferred,Stations_USGS
+OBS_95,Mirabella Imbaccari,14.447,37.325,macroseismic,365.88,5.0,0.3,0.8059,0.058154,0.875,5.0338,1.0131,0.14424,1.0822,0.058353,1.4737,0.013461,inferred,Stations_USGS
+OBS_246,Sommatino,13.992,37.333,macroseismic,499.08,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_217,Palizzi,15.986,37.966,macroseismic,532.73,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_22,Buscemi,14.885,37.085,macroseismic,670.97,6.0,0.3,0.8059,0.123865,0.875,10.4317,1.0131,0.291843,1.0822,0.118928,1.4737,0.026388,inferred,Stations_USGS
+OBS_258,Acquaviva Platani,13.703,37.572,macroseismic,727.93,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_151,Naso,14.788,38.122,macroseismic,900.0,4.5,0.3,0.8059,0.04019,0.875,3.4968,1.0131,0.067704,1.0822,0.036276,1.4737,0.008984,inferred,Stations_USGS
+OBS_5,Militello in Val di Catania,14.793,37.273,macroseismic,576.01,null,null,0.8059,0.227761,0.875,21.6177,1.0131,0.50545,1.0822,0.265234,1.4737,0.057223,inferred,Stations_USGS
+OBS_113,Siracusa Vecchia,15.296,37.061,macroseismic,238.22,5.0,0.3,0.8059,0.078766,0.875,5.0338,1.0131,0.182948,1.0822,0.048452,1.4737,0.010929,inferred,Stations_USGS
+OBS_44,Ragusa,14.729,36.925,macroseismic,590.97,null,null,0.8059,0.113048,0.875,10.4317,1.0131,0.278154,1.0822,0.125779,1.4737,0.028097,inferred,Stations_USGS
+OBS_42,Pozzallo,14.845,36.727,macroseismic,391.75,null,null,0.8059,0.110177,0.875,10.4317,1.0131,0.274418,1.0822,0.127778,1.4737,0.028598,inferred,Stations_USGS
+OBS_257,Valledolmo,13.826,37.747,macroseismic,549.47,2.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_254,Soverato,16.549,38.687,macroseismic,411.89,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_84,Butera,14.184,37.188,macroseismic,534.07,5.0,0.3,0.8059,0.054314,0.875,5.0338,1.0131,0.132092,1.0822,0.060849,1.4737,0.014108,inferred,Stations_USGS
+OBS_87,Castelluccio,15.138,37.303,macroseismic,496.64,5.0,0.3,0.8059,0.080914,0.875,5.0338,1.0131,0.185554,1.0822,0.047659,1.4737,0.010729,inferred,Stations_USGS
+OBS_62,Castel di Iudica,14.65,37.494,macroseismic,793.37,5.5,0.3,0.8059,0.08363,0.875,7.2465,1.0131,0.211709,1.0822,0.084062,1.4737,0.019039,inferred,Stations_USGS
+OBS_178,Gagliano Castelferrato,14.536,37.71,macroseismic,663.37,4.0,0.3,0.8059,0.023001,0.875,1.6716,1.0131,0.036332,1.0822,0.016038,1.4737,0.003098,inferred,Stations_USGS
+OBS_68,Misterbianco,15.009,37.518,macroseismic,476.97,5.5,0.3,0.8059,0.095742,0.875,7.2465,1.0131,0.227311,1.0822,0.077374,1.4737,0.01735,inferred,Stations_USGS
+OBS_302,Villafranca Tirrena,15.436,38.24,macroseismic,416.05,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_4,Melilli,15.128,37.179,macroseismic,672.51,7.0,0.3,0.8059,0.270664,0.875,21.6177,1.0131,0.553453,1.0822,0.238611,1.4737,0.050825,inferred,Stations_USGS
+OBS_283,Lascari,13.941,38.0,macroseismic,512.73,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_238,Fiumedinisi,15.381,38.025,macroseismic,483.67,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_194,Bruzzano Zeffirio,16.084,38.012,macroseismic,441.4,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_120,Basic,15.062,38.06,macroseismic,571.85,4.5,0.3,0.8059,0.042191,0.875,3.4968,1.0131,0.072076,1.0822,0.034259,1.4737,0.008245,inferred,Stations_USGS
+OBS_23,Caltagirone,14.52,37.231,macroseismic,317.31,6.0,0.3,0.8059,0.110577,0.875,10.4317,1.0131,0.274941,1.0822,0.127495,1.4737,0.028527,inferred,Stations_USGS
+OBS_79,Sant'Agata li Battiati,15.082,37.557,macroseismic,481.9,5.5,0.3,0.8059,0.097266,0.875,7.2465,1.0131,0.229206,1.0822,0.076629,1.4737,0.017162,inferred,Stations_USGS
+OBS_269,Cammarata,13.637,37.633,macroseismic,889.62,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_181,Nissoria,14.449,37.655,macroseismic,461.97,4.0,0.3,0.8059,0.022336,0.875,1.6716,1.0131,0.035762,1.0822,0.016272,1.4737,0.003166,inferred,Stations_USGS
+OBS_284,Mussomeli,13.753,37.578,macroseismic,783.4,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_82,Agnone,15.102,37.313,macroseismic,416.17,5.0,0.3,0.8059,0.078521,0.875,5.0338,1.0131,0.182649,1.0822,0.048544,1.4737,0.010952,inferred,Stations_USGS
+OBS_296,Scillato,13.906,37.857,macroseismic,769.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_114,Tripi,15.096,38.045,macroseismic,735.36,5.0,0.3,0.8059,0.058069,0.875,5.0338,1.0131,0.14397,1.0822,0.058406,1.4737,0.013475,inferred,Stations_USGS
+OBS_131,Francavilla di Sicilia,15.138,37.902,macroseismic,497.09,4.5,0.3,0.8059,0.045043,0.875,3.4968,1.0131,0.078411,1.0822,0.031721,1.4737,0.007345,inferred,Stations_USGS
+OBS_234,Capizzi,14.479,37.848,macroseismic,609.52,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_110,Sant'Alfio,15.141,37.742,macroseismic,793.69,5.0,0.3,0.8059,0.06608,0.875,5.0338,1.0131,0.166814,1.0822,0.053958,1.4737,0.01233,inferred,Stations_USGS
+OBS_301,Vallelunga Pratameno,13.831,37.682,macroseismic,419.71,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_21,Buccheri,14.851,37.125,macroseismic,645.27,6.0,0.3,0.8059,0.123239,0.875,10.4317,1.0131,0.291067,1.0822,0.119298,1.4737,0.02648,inferred,Stations_USGS
+OBS_74,Piedimonte Etneo,15.177,37.807,macroseismic,591.78,5.5,0.3,0.8059,0.087965,0.875,7.2465,1.0131,0.217409,1.0822,0.081498,1.4737,0.018389,inferred,Stations_USGS
+OBS_235,Cardeto,15.768,38.084,macroseismic,751.11,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_63,Castroreale,15.211,38.099,macroseismic,524.47,5.5,0.3,0.8059,0.078538,0.875,7.2465,1.0131,0.204831,1.0822,0.087362,1.4737,0.019878,inferred,Stations_USGS
+OBS_61,Cassibile,15.198,36.976,macroseismic,322.15,5.5,0.3,0.8059,0.097677,0.875,7.2465,1.0131,0.229715,1.0822,0.076431,1.4737,0.017113,inferred,Stations_USGS
+OBS_274,Castelvetrano,12.793,37.679,macroseismic,420.17,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_204,Itala,15.437,38.05,macroseismic,746.18,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_260,Africo (Africo Nuovo),16.135,38.051,macroseismic,462.22,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_198,Castell'Umberto,14.807,38.084,macroseismic,826.61,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_158,San Salvatore di Fitalia,14.778,38.069,macroseismic,900.0,4.5,0.3,0.8059,0.040671,0.875,3.4968,1.0131,0.068749,1.0822,0.035772,1.4737,0.008797,inferred,Stations_USGS
+OBS_154,Reggio di Calabria,15.647,38.108,macroseismic,495.83,4.5,0.3,0.8059,0.042067,0.875,3.4968,1.0131,0.071803,1.0822,0.034378,1.4737,0.008288,inferred,Stations_USGS
+OBS_185,Racalmuto,13.734,37.408,macroseismic,613.9,4.0,0.3,0.8059,0.016434,0.875,1.6716,1.0131,0.030306,1.0822,0.01893,1.4737,0.003973,inferred,Stations_USGS
+OBS_40,Palermo,13.353,38.121,macroseismic,346.48,null,null,0.8059,0.085313,0.875,10.4317,1.0131,0.239893,1.0822,0.149464,1.4737,0.034091,inferred,Stations_USGS
+OBS_39,Palagonia,14.746,37.326,macroseismic,832.9,null,null,0.8059,0.119865,0.875,10.4317,1.0131,0.28685,1.0822,0.121345,1.4737,0.026989,inferred,Stations_USGS
+OBS_245,Serradifalco,13.881,37.456,macroseismic,497.39,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_50,Solarino,15.119,37.1,macroseismic,515.56,6.0,0.3,0.8059,0.139009,0.875,10.4317,1.0131,0.310088,1.0822,0.11081,1.4737,0.024377,inferred,Stations_USGS
+OBS_197,Caronia,14.441,38.023,macroseismic,744.91,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_171,Alimena,14.113,37.694,macroseismic,549.27,4.0,0.3,0.8059,0.018687,0.875,1.6716,1.0131,0.032481,1.0822,0.017768,1.4737,0.003613,inferred,Stations_USGS
+OBS_149,Montagnareale,14.946,38.131,macroseismic,793.83,4.5,0.3,0.8059,0.04082,0.875,3.4968,1.0131,0.069073,1.0822,0.035618,1.4737,0.008741,inferred,Stations_USGS
+OBS_67,Malvagna,15.055,37.917,macroseismic,616.1,5.5,0.3,0.8059,0.082507,0.875,7.2465,1.0131,0.21021,1.0822,0.084761,1.4737,0.019216,inferred,Stations_USGS
+OBS_240,Galati Mamertino,14.772,38.032,macroseismic,900.0,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_59,Brucoli,15.187,37.283,macroseismic,436.12,5.5,0.3,0.8059,0.115468,0.875,7.2465,1.0131,0.250837,1.0822,0.068981,1.4737,0.015255,inferred,Stations_USGS
+OBS_193,Bronte,14.834,37.786,macroseismic,712.55,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_271,Caraffa del Bianco,16.087,38.092,macroseismic,784.02,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_157,San Piero Patti,14.966,38.051,macroseismic,634.29,4.5,0.3,0.8059,0.041867,0.875,3.4968,1.0131,0.071364,1.0822,0.034572,1.4737,0.008358,inferred,Stations_USGS
+OBS_223,Santa Lucia del Mela,15.281,38.14,macroseismic,621.58,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_275,Cefal Diana,13.463,37.915,macroseismic,457.11,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_65,Giarre,15.181,37.724,macroseismic,494.96,5.5,0.3,0.8059,0.09179,0.875,7.2465,1.0131,0.222328,1.0822,0.079399,1.4737,0.017859,inferred,Stations_USGS
+OBS_205,Linguaglossa,15.139,37.842,macroseismic,395.8,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_285,Palma di Montechiaro,13.762,37.192,macroseismic,596.2,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_216,Pace del Mela,15.309,38.175,macroseismic,511.12,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_263,Antillo,15.245,37.975,macroseismic,576.1,null,null,,,,,,,,,,,inferred,Stations_USGS
+OBS_219,Raccuja,14.91,38.055,macroseismic,900.0,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_148,Mongiuffi Melia (Melia),15.275,37.904,macroseismic,734.89,4.5,0.3,0.8059,0.045642,0.875,3.4968,1.0131,0.079755,1.0822,0.031232,1.4737,0.007176,inferred,Stations_USGS
+OBS_230,Tortorici,14.825,38.029,macroseismic,610.25,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_211,Mistretta,14.361,37.928,macroseismic,706.69,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_57,Belpasso,14.979,37.59,macroseismic,531.05,5.5,0.3,0.8059,0.09205,0.875,7.2465,1.0131,0.222659,1.0822,0.079262,1.4737,0.017825,inferred,Stations_USGS
+OBS_286,Petralia Soprana,14.108,37.797,macroseismic,550.74,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_298,Sutera,13.733,37.524,macroseismic,499.45,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_170,Aidone,14.446,37.415,macroseismic,710.64,4.0,0.3,0.8059,0.02354,0.875,1.6716,1.0131,0.036789,1.0822,0.015856,1.4737,0.003045,inferred,Stations_USGS
+OBS_218,Piraino,14.862,38.16,macroseismic,882.21,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_190,Termini Imerese,13.698,37.985,macroseismic,522.3,4.0,0.3,0.8059,0.015117,0.875,1.6716,1.0131,0.028971,1.0822,0.019726,1.4737,0.004227,inferred,Stations_USGS
+OBS_221,San Filippo del Mela,15.274,38.169,macroseismic,391.85,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_227,Sciacca,13.083,37.508,macroseismic,501.69,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_143,Maniace,14.807,37.859,macroseismic,399.29,4.5,0.3,0.8059,0.04321,0.875,3.4968,1.0131,0.074326,1.0822,0.03331,1.4737,0.007904,inferred,Stations_USGS
+OBS_136,Gioiosa Marea,14.896,38.174,macroseismic,853.43,4.5,0.3,0.8059,0.040145,0.875,3.4968,1.0131,0.067606,1.0822,0.036324,1.4737,0.009002,inferred,Stations_USGS
+OBS_124,Camastra,13.794,37.251,macroseismic,410.68,4.5,0.3,0.8059,0.035417,0.875,3.4968,1.0131,0.060709,1.0822,0.040078,1.4737,0.01013,inferred,Stations_USGS
+OBS_105,San Gregorio di Catania,15.11,37.565,macroseismic,414.21,5.0,0.3,0.8059,0.071807,0.875,5.0338,1.0131,0.174265,1.0822,0.051278,1.4737,0.011646,inferred,Stations_USGS
+OBS_150,Motta San Giovanni,15.694,38.002,macroseismic,580.06,4.5,0.3,0.8059,0.04353,0.875,3.4968,1.0131,0.075034,1.0822,0.033023,1.4737,0.007802,inferred,Stations_USGS
+OBS_243,Petralia Sottana,14.092,37.807,macroseismic,758.91,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_279,Fiumara (San Nicola),15.693,38.211,macroseismic,554.73,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_231,Assoro,14.424,37.627,macroseismic,606.6,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_13,Priolo Gargallo,15.186,37.157,macroseismic,437.05,6.5,0.3,0.8059,0.204079,0.875,15.017,1.0131,0.425482,1.0822,0.157621,1.4737,0.033992,inferred,Stations_USGS
+OBS_92,Maletto,14.866,37.828,macroseismic,594.76,5.0,0.3,0.8059,0.060238,0.875,5.0338,1.0131,0.150932,1.0822,0.057107,1.4737,0.013139,inferred,Stations_USGS
+OBS_97,Motta Sant'Anastasia,14.969,37.512,macroseismic,520.37,5.0,0.3,0.8059,0.069017,0.875,5.0338,1.0131,0.170672,1.0822,0.052539,1.4737,0.011967,inferred,Stations_USGS
+OBS_200,Cesar,14.714,37.843,macroseismic,807.09,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_112,Sinopoli (Superiore),15.878,38.264,macroseismic,725.52,5.0,0.3,0.8059,0.054008,0.875,5.0338,1.0131,0.131136,1.0822,0.061059,1.4737,0.014163,inferred,Stations_USGS
+OBS_139,Letojanni,15.306,37.88,macroseismic,725.54,4.5,0.3,0.8059,0.046246,0.875,3.4968,1.0131,0.081118,1.0822,0.030752,1.4737,0.007011,inferred,Stations_USGS
+OBS_41,Portopalo di Capo Passero,15.135,36.682,macroseismic,413.56,6.0,0.3,0.8059,0.113751,0.875,10.4317,1.0131,0.279062,1.0822,0.125302,1.4737,0.027978,inferred,Stations_USGS
+OBS_290,Reitano,14.345,37.972,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_48,Santa Venerina,15.139,37.687,macroseismic,548.25,6.0,0.3,0.8059,0.126553,0.875,10.4317,1.0131,0.295155,1.0822,0.117374,1.4737,0.026001,inferred,Stations_USGS
+OBS_46,San Giovanni la Punta,15.094,37.579,macroseismic,378.59,6.0,0.3,0.8059,0.131975,0.875,10.4317,1.0131,0.301738,1.0822,0.114394,1.4737,0.025263,inferred,Stations_USGS
+OBS_7,Aci Catena,15.141,37.603,macroseismic,555.89,null,null,0.8059,0.180987,0.875,15.017,1.0131,0.399451,1.0822,0.16966,1.4737,0.036915,inferred,Stations_USGS
+OBS_138,Leo1orte,14.393,37.638,macroseismic,750.9,4.5,0.3,0.8059,0.0411,0.875,3.4968,1.0131,0.069684,1.0822,0.035333,1.4737,0.008636,inferred,Stations_USGS
+OBS_20,Avola,15.135,36.908,macroseismic,399.71,6.0,0.3,0.8059,0.126045,0.875,10.4317,1.0131,0.294532,1.0822,0.117663,1.4737,0.026073,inferred,Stations_USGS
+OBS_90,Giardini Naxos,15.271,37.834,macroseismic,438.13,5.0,0.3,0.8059,0.064359,0.875,5.0338,1.0131,0.164515,1.0822,0.054838,1.4737,0.012556,inferred,Stations_USGS
+OBS_73,Piazza Armerina,14.368,37.384,macroseismic,493.25,5.5,0.3,0.8059,0.077593,0.875,7.2465,1.0131,0.203532,1.0822,0.088012,1.4737,0.020044,inferred,Stations_USGS
+OBS_208,Melito di Porto Salvo,15.784,37.92,macroseismic,390.33,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_224,Sant'Agata di Militello,14.632,38.067,macroseismic,569.67,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_225,Sant'Alessio Siculo,15.349,37.924,macroseismic,504.88,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_133,Furnari,15.124,38.104,macroseismic,373.19,4.5,0.3,0.8059,0.041829,0.875,3.4968,1.0131,0.07128,1.0822,0.034609,1.4737,0.008372,inferred,Stations_USGS
+OBS_49,Scicli,14.706,36.792,macroseismic,511.47,null,null,0.8059,0.10892,0.875,10.4317,1.0131,0.272768,1.0822,0.12868,1.4737,0.028824,inferred,Stations_USGS
+OBS_106,San Pier Niceto,15.352,38.158,macroseismic,603.88,5.0,0.3,0.8059,0.056735,0.875,5.0338,1.0131,0.139722,1.0822,0.059244,1.4737,0.013692,inferred,Stations_USGS
+OBS_299,Tropea,15.899,38.675,macroseismic,691.21,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_183,Patti,14.966,38.138,macroseismic,614.51,4.0,0.3,0.8059,0.021409,0.875,1.6716,1.0131,0.034953,1.0822,0.016615,1.4737,0.003267,inferred,Stations_USGS
+OBS_229,Staiti,16.034,37.999,macroseismic,852.34,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_147,Mo1orte San Giorgio,15.382,38.155,macroseismic,494.82,4.5,0.3,0.8059,0.041626,0.875,3.4968,1.0131,0.070834,1.0822,0.034808,1.4737,0.008444,inferred,Stations_USGS
+OBS_220,San Cataldo,13.989,37.485,macroseismic,531.75,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_9,Floridia,15.153,37.082,macroseismic,301.6,6.5,0.3,0.8059,0.191142,0.875,15.017,1.0131,0.411082,1.0822,0.164077,1.4737,0.035556,inferred,Stations_USGS
+OBS_259,Acquedolci,14.585,38.056,macroseismic,533.27,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_135,Gela,14.24,37.071,macroseismic,326.65,4.5,0.3,0.8059,0.040051,0.875,3.4968,1.0131,0.067403,1.0822,0.036424,1.4737,0.009039,inferred,Stations_USGS
+OBS_165,Trecastagni,15.081,37.615,macroseismic,585.37,4.5,0.3,0.8059,0.050726,0.875,3.4968,1.0131,0.091375,1.0822,0.027581,1.4737,0.005954,inferred,Stations_USGS
+OBS_64,Gallodoro,15.294,37.902,macroseismic,867.66,5.5,0.3,0.8059,0.085233,0.875,7.2465,1.0131,0.213833,1.0822,0.083089,1.4737,0.018792,inferred,Stations_USGS
+OBS_249,Villalba,13.843,37.654,macroseismic,659.88,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_86,Cannizzaro,15.131,37.544,macroseismic,475.7,5.0,0.3,0.8059,0.073299,0.875,5.0338,1.0131,0.176158,1.0822,0.050636,1.4737,0.011482,inferred,Stations_USGS
+OBS_130,Fiumefreddo di Sicilia,15.205,37.791,macroseismic,380.27,4.5,0.3,0.8059,0.047784,0.875,3.4968,1.0131,0.084608,1.0822,0.02959,1.4737,0.006617,inferred,Stations_USGS
+OBS_145,Mer,15.25,38.166,macroseismic,427.35,4.5,0.3,0.8059,0.041322,0.875,3.4968,1.0131,0.070169,1.0822,0.035109,1.4737,0.008554,inferred,Stations_USGS
+OBS_45,Rosolini,14.949,36.82,macroseismic,482.46,6.0,0.3,0.8059,0.116032,0.875,10.4317,1.0131,0.28199,1.0822,0.123786,1.4737,0.027599,inferred,Stations_USGS
+OBS_119,Barrafranca,14.201,37.375,macroseismic,433.4,4.5,0.3,0.8059,0.039996,0.875,3.4968,1.0131,0.067282,1.0822,0.036484,1.4737,0.009062,inferred,Stations_USGS
+OBS_176,Delianuova,15.918,38.236,macroseismic,706.8,4.0,0.3,0.8059,0.020066,0.875,1.6716,1.0131,0.033752,1.0822,0.017155,1.4737,0.003428,inferred,Stations_USGS
+OBS_34,Mascali,15.195,37.757,macroseismic,514.18,6.0,0.3,0.8059,0.12346,0.875,10.4317,1.0131,0.291341,1.0822,0.119167,1.4737,0.026447,inferred,Stations_USGS
+OBS_101,Randazzo,14.948,37.877,macroseismic,402.2,5.0,0.3,0.8059,0.06025,0.875,5.0338,1.0131,0.15097,1.0822,0.057101,1.4737,0.013138,inferred,Stations_USGS
+OBS_60,Caltanissetta,14.057,37.49,macroseismic,526.82,5.5,0.3,0.8059,0.072017,0.875,7.2465,1.0131,0.195706,1.0822,0.092129,1.4737,0.021098,inferred,Stations_USGS
+OBS_146,Milazzo,15.24,38.224,macroseismic,278.96,4.5,0.3,0.8059,0.040578,0.875,3.4968,1.0131,0.068547,1.0822,0.035868,1.4737,0.008833,inferred,Stations_USGS
+OBS_51,Tremestieri Etneo,15.073,37.575,macroseismic,455.23,6.0,0.3,0.8059,0.131139,0.875,10.4317,1.0131,0.300731,1.0822,0.11484,1.4737,0.025373,inferred,Stations_USGS
+OBS_14,Scordia,14.843,37.296,macroseismic,473.38,null,null,0.8059,0.170737,0.875,15.017,1.0131,0.387394,1.0822,0.175832,1.4737,0.038424,inferred,Stations_USGS
+OBS_277,Comitini,13.644,37.408,macroseismic,539.78,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_215,Nicosia,14.398,37.747,macroseismic,448.89,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_17,Stazione di Brucoli,15.188,37.272,macroseismic,409.03,6.5,0.3,0.8059,0.215023,0.875,15.017,1.0131,0.437328,1.0822,0.152654,1.4737,0.032794,inferred,Stations_USGS
+OBS_107,Santa Domenica Vittoria,14.963,37.916,macroseismic,880.08,5.0,0.3,0.8059,0.059622,0.875,5.0338,1.0131,0.148946,1.0822,0.057469,1.4737,0.013233,inferred,Stations_USGS
+OBS_175,Condr,15.328,38.173,macroseismic,453.33,4.0,0.3,0.8059,0.022062,0.875,1.6716,1.0131,0.035525,1.0822,0.016371,1.4737,0.003195,inferred,Stations_USGS
+OBS_247,Troina,14.599,37.783,macroseismic,396.76,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_239,Forza d'Agr,15.333,37.915,macroseismic,703.33,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_142,Mandanici,15.317,38.003,macroseismic,635.66,4.5,0.3,0.8059,0.043892,0.875,3.4968,1.0131,0.075838,1.0822,0.032703,1.4737,0.007689,inferred,Stations_USGS
+OBS_281,Frazzan,14.744,38.072,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_12,Pachino,15.091,36.715,macroseismic,345.59,null,null,0.8059,0.15637,0.875,15.017,1.0131,0.3699,1.0822,0.185564,1.4737,0.040815,inferred,Stations_USGS
+OBS_123,Calascibetta,14.273,37.589,macroseismic,565.05,4.5,0.3,0.8059,0.040196,0.875,3.4968,1.0131,0.067718,1.0822,0.036269,1.4737,0.008982,inferred,Stations_USGS
+OBS_294,San Mauro Castelverde,14.19,37.914,macroseismic,720.38,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_72,Pedagaggi,14.938,37.192,macroseismic,789.61,5.5,0.3,0.8059,0.095232,0.875,7.2465,1.0131,0.226673,1.0822,0.077628,1.4737,0.017413,inferred,Stations_USGS
+OBS_237,Enna,14.275,37.565,macroseismic,582.34,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_266,Bompensiere,13.782,37.472,macroseismic,352.31,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_3,Lentini,14.999,37.285,macroseismic,533.37,7.0,0.3,0.8059,0.253534,0.875,21.6177,1.0131,0.534753,1.0822,0.248368,1.4737,0.05316,inferred,Stations_USGS
+OBS_278,Condofuri,15.858,38.005,macroseismic,900.0,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_36,Monte Tauro,15.214,37.27,macroseismic,301.55,6.0,0.3,0.8059,0.161693,0.875,10.4317,1.0131,0.335736,1.0822,0.101005,1.4737,0.021973,inferred,Stations_USGS
+OBS_18,Acate,14.494,37.025,macroseismic,510.84,null,null,0.8059,0.107878,0.875,10.4317,1.0131,0.271393,1.0822,0.12944,1.4737,0.029015,inferred,Stations_USGS
+OBS_58,Bova,15.932,37.994,macroseismic,813.09,5.5,0.3,0.8059,0.079153,0.875,7.2465,1.0131,0.205673,1.0822,0.086945,1.4737,0.019772,inferred,Stations_USGS
+OBS_53,Villasmundo,15.092,37.25,macroseismic,430.88,6.0,0.3,0.8059,0.144563,0.875,10.4317,1.0131,0.31654,1.0822,0.108182,1.4737,0.02373,inferred,Stations_USGS
+OBS_289,Portigliola,16.202,38.228,macroseismic,483.71,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_261,Alcamo,12.961,37.977,macroseismic,664.3,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_111,Savoca,15.34,37.953,macroseismic,583.72,5.0,0.3,0.8059,0.061209,0.875,5.0338,1.0131,0.154072,1.0822,0.056551,1.4737,0.012996,inferred,Stations_USGS
+OBS_85,Calatabiano,15.228,37.821,macroseismic,594.72,5.0,0.3,0.8059,0.064465,0.875,5.0338,1.0131,0.164657,1.0822,0.054783,1.4737,0.012541,inferred,Stations_USGS
+OBS_222,San Teodoro,14.7,37.847,macroseismic,801.41,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_132,Furci Siculo,15.381,37.961,macroseismic,600.0,4.5,0.3,0.8059,0.044747,0.875,3.4968,1.0131,0.077747,1.0822,0.031968,1.4737,0.007431,inferred,Stations_USGS
+OBS_102,Regalbuto,14.641,37.651,macroseismic,272.19,5.0,0.3,0.8059,0.059587,0.875,5.0338,1.0131,0.148832,1.0822,0.05749,1.4737,0.013238,inferred,Stations_USGS
+OBS_52,Valverde,15.125,37.579,macroseismic,485.58,6.0,0.3,0.8059,0.13359,0.875,10.4317,1.0131,0.303672,1.0822,0.113544,1.4737,0.025052,inferred,Stations_USGS
+OBS_248,Valguarnera Caropepe,14.389,37.495,macroseismic,579.76,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_233,Bisacquino,13.259,37.705,macroseismic,881.66,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_187,Rod Milici (Rod),15.17,38.109,macroseismic,535.71,4.0,0.3,0.8059,0.022785,0.875,1.6716,1.0131,0.036148,1.0822,0.016113,1.4737,0.00312,inferred,Stations_USGS
+OBS_129,Ficarra,14.83,38.108,macroseismic,893.44,4.5,0.3,0.8059,0.040539,0.875,3.4968,1.0131,0.068463,1.0822,0.035908,1.4737,0.008848,inferred,Stations_USGS
+OBS_199,Cerami,14.509,37.81,macroseismic,518.25,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_26,Catania,15.087,37.502,macroseismic,389.13,6.0,0.3,0.8059,0.136642,0.875,10.4317,1.0131,0.3073,1.0822,0.111983,1.4737,0.024667,inferred,Stations_USGS
+OBS_188,Rometta,15.414,38.172,macroseismic,683.05,4.0,0.3,0.8059,0.022149,0.875,1.6716,1.0131,0.0356,1.0822,0.016339,1.4737,0.003186,inferred,Stations_USGS
+OBS_1,Augusta,15.221,37.231,macroseismic,600.0,7.5,0.3,0.8059,0.408357,0.875,31.1199,1.0131,0.770387,1.0822,0.333779,1.4737,0.069555,inferred,Stations_USGS
+OBS_253,San Lorenzo,15.834,38.01,macroseismic,558.66,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_91,Gualtieri Sicamin,15.317,38.162,macroseismic,558.32,5.0,0.3,0.8059,0.056612,0.875,5.0338,1.0131,0.139335,1.0822,0.059322,1.4737,0.013712,inferred,Stations_USGS
+OBS_295,Sant'Agata del Bianco,16.083,38.091,macroseismic,784.02,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_33,Licata,13.939,37.101,macroseismic,350.83,null,null,0.8059,0.096016,0.875,10.4317,1.0131,0.255271,1.0822,0.13902,1.4737,0.031432,inferred,Stations_USGS
+OBS_177,Favara,13.658,37.314,macroseismic,443.28,4.0,0.3,0.8059,0.015987,0.875,1.6716,1.0131,0.029858,1.0822,0.019189,1.4737,0.004056,inferred,Stations_USGS
+OBS_54,Vizzini,14.755,37.162,macroseismic,616.72,6.0,0.3,0.8059,0.119258,0.875,10.4317,1.0131,0.286085,1.0822,0.121724,1.4737,0.027084,inferred,Stations_USGS
+OBS_100,Pedara,15.062,37.618,macroseismic,541.12,5.0,0.3,0.8059,0.068684,0.875,5.0338,1.0131,0.170238,1.0822,0.052695,1.4737,0.012007,inferred,Stations_USGS
+OBS_134,Gaggi,15.221,37.859,macroseismic,701.16,4.5,0.3,0.8059,0.046346,0.875,3.4968,1.0131,0.081343,1.0822,0.030674,1.4737,0.006984,inferred,Stations_USGS
+OBS_287,Pettineo,14.291,37.966,macroseismic,869.98,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_201,Ciminna,13.562,37.897,macroseismic,545.39,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_2,Carlentini,15.015,37.274,macroseismic,435.34,7.0,0.3,0.8059,0.255999,0.875,21.6177,1.0131,0.53748,1.0822,0.246899,1.4737,0.052808,inferred,Stations_USGS
+OBS_77,San Michele di Ganzaria,14.428,37.28,macroseismic,744.01,5.5,0.3,0.8059,0.078953,0.875,7.2465,1.0131,0.2054,1.0822,0.08708,1.4737,0.019806,inferred,Stations_USGS
+OBS_81,Adrano,14.834,37.667,macroseismic,497.61,5.0,0.3,0.8059,0.062703,0.875,5.0338,1.0131,0.158931,1.0822,0.055721,1.4737,0.012782,inferred,Stations_USGS
+OBS_78,San Pietro Clarenza,15.022,37.57,macroseismic,518.76,5.5,0.3,0.8059,0.094334,0.875,7.2465,1.0131,0.225546,1.0822,0.07808,1.4737,0.017527,inferred,Stations_USGS
+OBS_55,Aci Bonaccorsi,15.108,37.599,macroseismic,416.51,5.5,0.3,0.8059,0.096205,0.875,7.2465,1.0131,0.227887,1.0822,0.077146,1.4737,0.017292,inferred,Stations_USGS
+OBS_128,Falcone,15.08,38.118,macroseismic,401.72,4.5,0.3,0.8059,0.041496,0.875,3.4968,1.0131,0.070551,1.0822,0.034936,1.4737,0.00849,inferred,Stations_USGS
+OBS_71,Patern,14.902,37.566,macroseismic,462.42,5.5,0.3,0.8059,0.090147,0.875,7.2465,1.0131,0.220227,1.0822,0.080283,1.4737,0.018082,inferred,Stations_USGS
+OBS_162,Sperlinga,14.352,37.765,macroseismic,548.36,4.5,0.3,0.8059,0.040084,0.875,3.4968,1.0131,0.067473,1.0822,0.036389,1.4737,0.009026,inferred,Stations_USGS
+OBS_69,Nicolosi,15.026,37.614,macroseismic,561.62,5.5,0.3,0.8059,0.092743,0.875,7.2465,1.0131,0.223539,1.0822,0.078898,1.4737,0.017733,inferred,Stations_USGS
+OBS_75,Ramacca,14.694,37.384,macroseismic,523.71,5.5,0.3,0.8059,0.085839,0.875,7.2465,1.0131,0.214631,1.0822,0.082729,1.4737,0.018701,inferred,Stations_USGS
+OBS_155,Riesi,14.083,37.282,macroseismic,395.05,4.5,0.3,0.8059,0.039004,0.875,3.4968,1.0131,0.065142,1.0822,0.037578,1.4737,0.009473,inferred,Stations_USGS
+OBS_267,Caccamo,13.664,37.932,macroseismic,693.99,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_210,Mirto,14.752,38.084,macroseismic,850.81,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_192,Alcara li Fusi,14.7,38.022,macroseismic,900.0,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_153,Novara di Sicilia,15.13,38.015,macroseismic,741.44,4.5,0.3,0.8059,0.043123,0.875,3.4968,1.0131,0.074133,1.0822,0.033389,1.4737,0.007933,inferred,Stations_USGS
+OBS_99,Palazzolo Acreide,14.903,37.062,macroseismic,560.46,5.0,0.3,0.8059,0.066554,0.875,5.0338,1.0131,0.167442,1.0822,0.053722,1.4737,0.01227,inferred,Stations_USGS
+OBS_140,Librizzi,14.959,38.096,macroseismic,900.0,4.5,0.3,0.8059,0.041283,0.875,3.4968,1.0131,0.070084,1.0822,0.035148,1.4737,0.008568,inferred,Stations_USGS
+OBS_214,Motta d'Affermo,14.303,37.981,macroseismic,619.88,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_232,Bianco,16.15,38.088,macroseismic,438.63,3.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_94,Mazzarrone,14.561,37.086,macroseismic,401.01,5.0,0.3,0.8059,0.059419,0.875,5.0338,1.0131,0.148292,1.0822,0.057589,1.4737,0.013264,inferred,Stations_USGS
+OBS_141,Limina,15.272,37.941,macroseismic,838.68,4.5,0.3,0.8059,0.044904,0.875,3.4968,1.0131,0.078099,1.0822,0.031836,1.4737,0.007385,inferred,Stations_USGS
+OBS_126,Canicatt,13.849,37.36,macroseismic,448.02,4.5,0.3,0.8059,0.036244,0.875,3.4968,1.0131,0.06147,1.0822,0.039624,1.4737,0.010063,inferred,Stations_USGS
+OBS_191,Agira,14.523,37.654,macroseismic,637.12,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_96,Moio Alcantara,15.051,37.899,macroseismic,336.67,5.0,0.3,0.8059,0.060813,0.875,5.0338,1.0131,0.152789,1.0822,0.056776,1.4737,0.013054,inferred,Stations_USGS
+OBS_273,Castellana Sicula,14.042,37.781,macroseismic,352.21,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_268,Calatafimi,12.863,37.914,macroseismic,416.2,1.0,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_250,Capri Leone,14.73,38.086,macroseismic,900.0,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_38,Noto,15.07,36.89,macroseismic,469.27,6.0,0.3,0.8059,0.122892,0.875,10.4317,1.0131,0.290635,1.0822,0.119504,1.4737,0.026531,inferred,Stations_USGS
+OBS_169,Agrigento,13.587,37.309,macroseismic,584.37,4.0,0.3,0.8059,0.015572,0.875,1.6716,1.0131,0.029437,1.0822,0.01944,1.4737,0.004135,inferred,Stations_USGS
+OBS_43,Raddusa,14.534,37.474,macroseismic,586.76,null,null,0.8059,0.110356,0.875,10.4317,1.0131,0.274652,1.0822,0.127651,1.4737,0.028566,inferred,Stations_USGS
+OBS_251,Delia,13.927,37.357,macroseismic,397.04,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_152,Nizza di Sicilia,15.41,37.989,macroseismic,558.37,4.5,0.3,0.8059,0.044249,0.875,3.4968,1.0131,0.076635,1.0822,0.032392,1.4737,0.007579,inferred,Stations_USGS
+OBS_127,Catenanuova,14.691,37.569,macroseismic,455.6,4.5,0.3,0.8059,0.044964,0.875,3.4968,1.0131,0.078232,1.0822,0.031787,1.4737,0.007368,inferred,Stations_USGS
+OBS_156,Roccavaldina,15.373,38.182,macroseismic,585.73,4.5,0.3,0.8059,0.041258,0.875,3.4968,1.0131,0.07003,1.0822,0.035173,1.4737,0.008577,inferred,Stations_USGS
+OBS_167,Venetico,15.381,38.193,macroseismic,520.8,4.5,0.3,0.8059,0.041119,0.875,3.4968,1.0131,0.069726,1.0822,0.035313,1.4737,0.008629,inferred,Stations_USGS
+OBS_103,Riposto,15.203,37.731,macroseismic,410.49,5.0,0.3,0.8059,0.06728,0.875,5.0338,1.0131,0.1684,1.0822,0.053366,1.4737,0.012179,inferred,Stations_USGS
+OBS_203,Gangi,14.205,37.796,macroseismic,533.51,3.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_24,Canicattini Bagni,15.062,37.033,macroseismic,568.01,6.0,0.3,0.8059,0.130976,0.875,10.4317,1.0131,0.300534,1.0822,0.114928,1.4737,0.025395,inferred,Stations_USGS
+OBS_280,Fondachelli-Fantina (Rubino),15.174,37.985,macroseismic,590.22,null,null,,,,,,,,,,,inferred,Stations_USGS
+OBS_180,Montalbano Elicona,15.013,38.023,macroseismic,714.0,4.0,0.3,0.8059,0.023528,0.875,1.6716,1.0131,0.036779,1.0822,0.01586,1.4737,0.003047,inferred,Stations_USGS
+OBS_80,Vittoria,14.532,36.95,macroseismic,346.2,5.5,0.3,0.8059,0.078984,0.875,7.2465,1.0131,0.205441,1.0822,0.087059,1.4737,0.019801,inferred,Stations_USGS
+OBS_125,Campobello di Licata,13.918,37.258,macroseismic,339.65,4.5,0.3,0.8059,0.037339,0.875,3.4968,1.0131,0.062466,1.0822,0.039047,1.4737,0.009977,inferred,Stations_USGS
+OBS_104,Roccella Valdemone,15.009,37.932,macroseismic,647.86,5.0,0.3,0.8059,0.059722,0.875,5.0338,1.0131,0.149268,1.0822,0.05741,1.4737,0.013217,inferred,Stations_USGS
+OBS_115,Viagrande,15.098,37.61,macroseismic,467.58,5.0,0.3,0.8059,0.069832,0.875,5.0338,1.0131,0.171728,1.0822,0.052162,1.4737,0.011871,inferred,Stations_USGS

@@ -1,0 +1,6 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+ITA,Italy,19.0,19.0,200.0,2500.0,,,6103.0,,Buildings,,,,,,,Wikipedia English,
+ITA,Italy,,,,,,,,,,,,,,,,Wikipedia Italian,
+ITA,Italy,19.0,19.0,200.0,,,,,,,500000.0,657626800.0,,USD,,,NOAA,
+ITA,Italy,17.0,17.0,,15000.0,,,7104.0,,Buildings,,,,,,,Blueplanetearth,http://www.blueplanetheart.it/2017/12/13-dicembre-1990-terremoto-santa-lucia-mw-5-6-colpisce-duramente-siracusano/
+ITA,Italy,18.0,18.0,300.0,14834.0,,,,,,,155507.0,,ITL,,,INGV,https://storing.ingv.it/cfti/cfti4/quakes/42011.html#

@@ -1,0 +1,1082 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+STR,STURNO,15.116339,41.021298,seismic,0.314175,0.0,B,382.0,B,772.0
+BRN,BRIENZA,15.643112,40.472646,seismic,0.212835,0.0,B,403.0,B,616.0
+BGI,BAGNOLI  IRPINO,15.068183,40.83113,seismic,0.183586,0.0,B,498.0,B,1000.0
+CLT,CALITRI,15.438887,40.898833,seismic,0.171498,0.0,B,557.0,B,605.0
+MRT,MERCATO S. SEVERINO,14.752924,40.790179,seismic,0.138243,0.0,B,452.0,B,556.0
+RNR,RIONERO IN VULTURE,15.668889,40.927222,seismic,0.097308,0.0,B,539.0,B,687.0
+BSC,BISACCIA,15.376111,41.009722,seismic,0.093589,0.0,A,972.0,A,600.0
+TDG,TORRE DEL GRECO,14.383056,40.797222,seismic,0.058702,0.0,B,435.0,B,999.0
+ALT,AULETTA (PETINA),15.392118,40.558371,seismic,0.056317,0.0,A,1018.0,A,586.0
+TRR,TRICARICO,16.1561,40.6196,seismic,0.045544,0.0,B,446.0,B,630.0
+ARN,ARIENZO,14.468889,41.026944,seismic,0.033892,0.0,E,577.0,E,638.0
+OBS_6,Santomenna,15.321,40.807,macroseismic,1.447082,0.8059,,742.21,inferred,820.0
+OBS_1,Castelnuovo di Conza,15.32,40.815,macroseismic,1.447082,0.8059,,856.5,inferred,674.0
+OBS_10,Pescopagano,15.399,40.836,macroseismic,1.447082,0.8059,,637.35,inferred,670.0
+OBS_8,Caposele,15.225,40.813,macroseismic,1.447082,0.8059,,900.0,inferred,298.0
+OBS_7,Calabritto,15.218,40.786,macroseismic,1.447082,0.8059,,717.81,inferred,1000.0
+OBS_15,Teora,15.255,40.854,macroseismic,1.447082,0.8059,,576.69,inferred,1000.0
+OBS_4,Lioni,15.187,40.876,macroseismic,1.447082,0.8059,,541.0,inferred,555.0
+OBS_13,Sant'Andrea di Conza,15.37,40.843,macroseismic,1.447082,0.8059,,589.8,inferred,420.0
+Gizzi_6,Balvano (Intensity IX),15.512,40.65,macroseismic,1.447082,0.8059,,723.86,inferred,298.0
+OBS_14,Senerchia,15.203,40.74,macroseismic,1.447082,0.8059,,900.0,inferred,913.0
+OBS_2,Conza della Campania,15.331,40.87,macroseismic,1.447082,0.8059,,395.01,inferred,600.0
+OBS_3,Laviano,15.305,40.784,macroseismic,1.447082,0.8059,,865.98,inferred,1000.0
+OBS_5,Sant'Angelo dei Lombardi,15.177,40.927,macroseismic,1.447082,0.8059,,554.79,inferred,600.0
+OBS_9,Guardia Lombardi,15.209,40.954,macroseismic,1.410187,0.8059,,710.37,inferred,605.0
+OBS_11,San Mango sul Calore,14.975,40.961,macroseismic,1.208541,0.8059,,673.62,inferred,970.0
+OBS_12,San Michele di Serino,14.857,40.877,macroseismic,1.119977,0.8059,,285.93,inferred,464.0
+OBS_28,Cairano,15.369,40.895,macroseismic,0.776646,0.8059,,466.93,inferred,600.0
+OBS_64,Torella dei Lombardi,15.115,40.941,macroseismic,0.776646,0.8059,,474.28,inferred,784.0
+OBS_63,Tito,15.675,40.582,macroseismic,0.776646,0.8059,,900.0,inferred,1000.0
+OBS_27,Buccino,15.376,40.633,macroseismic,0.776646,0.8059,,688.78,inferred,942.0
+OBS_68,Villaggio Laceno,15.116,40.804,macroseismic,0.776646,0.8059,,900.0,inferred,1000.0
+OBS_67,Vietri di Potenza,15.509,40.599,macroseismic,0.776646,0.8059,,812.22,inferred,630.0
+OBS_66,Valva,15.27,40.738,macroseismic,0.776646,0.8059,,770.12,inferred,832.0
+OBS_49,Ricigliano,15.482,40.668,macroseismic,0.776646,0.8059,,464.95,inferred,1000.0
+OBS_34,Colliano,15.29,40.726,macroseismic,0.776646,0.8059,,900.0,inferred,1000.0
+OBS_52,Salvitelle,15.46,40.591,macroseismic,0.776646,0.8059,,731.18,inferred,794.0
+OBS_44,Muro Lucano,15.486,40.753,macroseismic,0.776646,0.8059,,743.2,inferred,598.0
+OBS_37,Materdomini,15.235,40.816,macroseismic,0.776646,0.8059,,592.44,inferred,678.0
+OBS_29,Calitri,15.435,40.9,macroseismic,0.776646,0.8059,,593.19,inferred,605.0
+OBS_43,Morra De Sanctis,15.244,40.928,macroseismic,0.776646,0.8059,,765.79,inferred,630.0
+OBS_48,Quaglietta,15.236,40.745,macroseismic,0.776646,0.8059,,558.99,inferred,841.0
+OBS_55,San Gregorio Magno,15.404,40.656,macroseismic,0.776646,0.8059,,734.58,inferred,534.0
+OBS_31,Castelgrande,15.431,40.785,macroseismic,0.776646,0.8059,,649.85,inferred,1000.0
+OBS_25,Bella,15.538,40.759,macroseismic,0.776327,0.8059,,735.26,inferred,985.0
+OBS_50,Rocca San Felice,15.164,40.951,macroseismic,0.773563,0.8059,,618.81,inferred,1000.0
+OBS_41,Montella,15.018,40.842,macroseismic,0.742315,0.8059,,644.13,inferred,772.0
+OBS_21,Auletta,15.426,40.559,macroseismic,0.726713,0.8059,,594.4,inferred,586.0
+OBS_46,Polla,15.494,40.514,macroseismic,0.71748,0.8059,,500.5,inferred,578.0
+OBS_69,Villamaina,15.09,40.969,macroseismic,0.713517,0.8059,,487.52,inferred,289.0
+OBS_35,Contursi Terme,15.238,40.649,macroseismic,0.70389,0.8059,,560.49,inferred,998.0
+OBS_54,San Fele,15.541,40.819,macroseismic,0.696191,0.8059,,616.75,inferred,965.0
+OBS_16,Acerno,15.058,40.735,macroseismic,0.685285,0.8059,,608.8,inferred,942.0
+OBS_30,Carife,15.209,41.028,macroseismic,0.674312,0.8059,,615.64,inferred,600.0
+OBS_51,Ruvo del Monte,15.54,40.848,macroseismic,0.669831,0.8059,,617.64,inferred,600.0
+OBS_19,Atena Lucana,15.553,40.454,macroseismic,0.658322,0.8059,,721.04,inferred,1000.0
+OBS_58,Sant'Arsenio,15.481,40.469,macroseismic,0.657945,0.8059,,607.98,inferred,230.0
+OBS_70,Volturara Irpina,14.916,40.878,macroseismic,0.638041,0.8059,,553.05,inferred,605.0
+OBS_60,Serre,15.185,40.582,macroseismic,0.617931,0.8059,,395.83,inferred,990.0
+OBS_53,Salza Irpina,14.89,40.919,macroseismic,0.613634,0.8059,,615.83,inferred,1000.0
+OBS_56,Santa Lucia di Serino,14.876,40.87,macroseismic,0.612393,0.8059,,900.0,inferred,999.0
+OBS_62,Sorbo Serpico,14.886,40.917,macroseismic,0.611792,0.8059,,615.83,inferred,1000.0
+OBS_36,Giffoni Valle Piana (Mercato),14.943,40.716,macroseismic,0.611607,0.8059,,834.92,inferred,299.0
+OBS_59,Serino (Sala),14.873,40.853,macroseismic,0.610926,0.8059,,887.16,inferred,299.0
+OBS_39,Mirabella Eclano,14.996,41.042,macroseismic,0.606533,0.8059,,411.07,inferred,600.0
+OBS_57,Sant'Angelo a Fasanella,15.344,40.456,macroseismic,0.596654,0.8059,,828.76,inferred,1000.0
+OBS_61,Solofra,14.849,40.829,macroseismic,0.596283,0.8059,,852.4,inferred,1000.0
+OBS_20,Atripalda,14.835,40.919,macroseismic,0.584962,0.8059,,439.49,inferred,676.0
+OBS_26,Bonito,15.004,41.102,macroseismic,0.575387,0.8059,,485.97,inferred,557.0
+OBS_47,Prata di Principato Ultra,14.841,40.986,macroseismic,0.572547,0.8059,,587.67,inferred,999.0
+OBS_42,Montoro Superiore (Torchiati),14.8,40.817,macroseismic,0.571874,0.8059,,791.56,inferred,678.0
+OBS_45,Pietradefusi (Pietra),14.884,41.043,macroseismic,0.568909,0.8059,,534.29,inferred,801.0
+OBS_22,Avellino,14.791,40.914,macroseismic,0.566327,0.8059,,286.89,inferred,605.0
+OBS_65,Tufo,14.821,41.01,macroseismic,0.558809,0.8059,,641.77,inferred,999.0
+OBS_33,Celzi,14.751,40.855,macroseismic,0.55353,0.8059,,492.96,inferred,583.0
+OBS_24,Baronissi,14.77,40.746,macroseismic,0.550708,0.8059,,809.44,inferred,674.0
+OBS_17,Altavilla Irpina,14.779,41.007,macroseismic,0.545926,0.8059,,592.94,inferred,805.0
+OBS_38,Mercogliano,14.735,40.918,macroseismic,0.544945,0.8059,,900.0,inferred,765.0
+OBS_40,Monteforte Irpino,14.711,40.892,macroseismic,0.538557,0.8059,,900.0,inferred,985.0
+OBS_18,Arpaise,14.744,41.03,macroseismic,0.530991,0.8059,,471.74,inferred,636.0
+OBS_32,Castellammare di Stabia,14.486,40.7,macroseismic,0.475774,0.8059,,475.73,inferred,600.0
+Gizzi_8,Baragiano (Intensity VII),15.591,40.681,macroseismic,0.416824,0.8059,,455.23,inferred,263.0
+OBS_192,Sant'Angelo le Fratte,15.559,40.545,macroseismic,0.416824,0.8059,,463.26,inferred,1000.0
+OBS_94,Caggiano,15.489,40.568,macroseismic,0.416824,0.8059,,608.46,inferred,635.0
+OBS_149,Nusco,15.085,40.887,macroseismic,0.416824,0.8059,,619.76,inferred,240.0
+OBS_77,Andretta,15.323,40.932,macroseismic,0.416824,0.8059,,627.33,inferred,635.0
+OBS_194,Savoia di Lucania,15.551,40.569,macroseismic,0.416824,0.8059,,900.0,inferred,1000.0
+OBS_156,Palomonte,15.292,40.662,macroseismic,0.412262,0.8059,,679.22,inferred,577.0
+OBS_150,Oliveto Citra,15.232,40.691,macroseismic,0.407332,0.8059,,507.15,inferred,526.0
+OBS_102,Cassano Irpino,15.027,40.871,macroseismic,0.405536,0.8059,,524.22,inferred,606.0
+OBS_88,Bisaccia,15.375,41.014,macroseismic,0.396271,0.8059,,713.97,inferred,595.0
+OBS_104,Castelfranci,15.043,40.931,macroseismic,0.390333,0.8059,,691.95,inferred,1000.0
+OBS_177,Ruoti,15.68,40.717,macroseismic,0.386735,0.8059,,375.88,inferred,445.0
+OBS_143,Montemarano,14.997,40.919,macroseismic,0.371731,0.8059,,554.06,inferred,1000.0
+OBS_172,Rapone,15.501,40.846,macroseismic,0.371445,0.8059,,675.45,inferred,600.0
+OBS_207,Vallata,15.253,41.034,macroseismic,0.370976,0.8059,,692.7,inferred,833.0
+OBS_92,Brienza,15.629,40.478,macroseismic,0.365211,0.8059,,441.39,inferred,600.0
+OBS_159,Paternopoli,15.032,40.972,macroseismic,0.362514,0.8059,,375.34,inferred,387.0
+OBS_96,Camaldoli,15.177,40.653,macroseismic,0.359995,0.8059,,597.38,inferred,998.0
+OBS_131,Lacedonia,15.424,41.05,macroseismic,0.3586,0.8059,,567.29,inferred,605.0
+OBS_204,Trevico,15.234,41.048,macroseismic,0.357947,0.8059,,616.98,inferred,995.0
+OBS_197,Sturno,15.109,41.019,macroseismic,0.354563,0.8059,,753.01,inferred,999.0
+OBS_72,Paupisi,14.666,41.195,macroseismic,0.354198,0.8059,,853.17,inferred,795.0
+Gizzi_55,Potenza (Intensity VII),15.805,40.638,macroseismic,0.34969,0.8059,,459.01,inferred,792.0
+OBS_97,Campagna,15.107,40.665,macroseismic,0.346778,0.8059,,900.0,inferred,941.0
+OBS_103,Castel Baronia,15.189,41.049,macroseismic,0.34643,0.8059,,543.11,inferred,600.0
+OBS_191,Sant'Angelo all'Esca,14.994,41.006,macroseismic,0.337466,0.8059,,441.67,inferred,600.0
+OBS_118,Filiano,15.708,40.809,macroseismic,0.337062,0.8059,,631.5,inferred,605.0
+OBS_111,Chiusano di San Domenico,14.917,40.932,macroseismic,0.335991,0.8059,,897.94,inferred,562.0
+OBS_185,San Rufo,15.464,40.434,macroseismic,0.333825,0.8059,,792.08,inferred,1000.0
+OBS_169,Postiglione,15.232,40.558,macroseismic,0.332656,0.8059,,900.0,inferred,774.0
+OBS_79,Anzano di Puglia,15.288,41.12,macroseismic,0.32921,0.8059,,655.41,inferred,1000.0
+OBS_198,Taurasi,14.958,41.008,macroseismic,0.328426,0.8059,,539.45,inferred,600.0
+OBS_175,Rocchetta Sant'Antonio,15.46,41.102,macroseismic,0.328317,0.8059,,483.05,inferred,1000.0
+OBS_178,Sala Consilina,15.596,40.398,macroseismic,0.325924,0.8059,,900.0,inferred,1000.0
+OBS_71,Napoli,14.26,40.855,macroseismic,0.325822,0.8059,,375.14,inferred,382.0
+OBS_85,Atella,15.653,40.877,macroseismic,0.325704,0.8059,,458.57,inferred,339.0
+OBS_158,Parolise,14.882,40.93,macroseismic,0.325488,0.8059,,420.52,inferred,1000.0
+OBS_183,San Potito Ultra,14.871,40.927,macroseismic,0.322729,0.8059,,563.4,inferred,1000.0
+OBS_136,Marsico Nuovo,15.735,40.421,macroseismic,0.321307,0.8059,,490.58,inferred,1000.0
+OBS_126,Giffoni Sei Casali (Capitignano),14.904,40.718,macroseismic,0.319512,0.8059,,515.39,inferred,1000.0
+OBS_116,Eboli,15.055,40.617,macroseismic,0.318999,0.8059,,575.44,inferred,605.0
+OBS_141,Montecorvino (Pugliano),14.946,40.679,macroseismic,0.318661,0.8059,,617.79,inferred,999.0
+OBS_199,Teggiano,15.54,40.378,macroseismic,0.317921,0.8059,,576.3,inferred,230.0
+OBS_189,Sant'Agata di Puglia,15.38,41.15,macroseismic,0.317466,0.8059,,517.3,inferred,392.0
+OBS_152,Ottati,15.316,40.462,macroseismic,0.317258,0.8059,,900.0,inferred,999.0
+OBS_73,Accadia,15.334,41.158,macroseismic,0.315553,0.8059,,475.57,inferred,830.0
+OBS_110,Cesinali,14.829,40.895,macroseismic,0.314076,0.8059,,377.27,inferred,602.0
+OBS_112,Controne,15.205,40.509,macroseismic,0.312642,0.8059,,861.23,inferred,822.0
+OBS_173,Rionero in Vulture,15.674,40.924,macroseismic,0.311461,0.8059,,495.67,inferred,600.0
+OBS_142,Monteleone di Puglia,15.259,41.166,macroseismic,0.310772,0.8059,,587.91,inferred,965.0
+OBS_95,Calvanico,14.828,40.774,macroseismic,0.310364,0.8059,,552.43,inferred,985.0
+OBS_98,Candela,15.515,41.136,macroseismic,0.309867,0.8059,,434.53,inferred,768.0
+OBS_171,Pratola Serra,14.852,40.986,macroseismic,0.309595,0.8059,,460.1,inferred,999.0
+Gizzi_56,Rapolla (Intensity VII),15.675,40.975,macroseismic,0.308827,0.8059,,512.21,inferred,805.0
+Gizzi_57,Ripacandida (Intensity VII),15.723,40.91,macroseismic,0.307321,0.8059,,462.77,inferred,1000.0
+OBS_153,Padula,15.659,40.34,macroseismic,0.303515,0.8059,,900.0,inferred,1000.0
+OBS_119,Fisciano,14.799,40.77,macroseismic,0.303498,0.8059,,639.22,inferred,451.0
+OBS_82,Ariano Irpino,15.09,41.153,macroseismic,0.302314,0.8059,,559.11,inferred,600.0
+OBS_168,Pontecagnano Faiano (Pontecagnano),14.872,40.646,macroseismic,0.29877,0.8059,,298.61,inferred,604.0
+OBS_129,Grottolella,14.787,40.972,macroseismic,0.298287,0.8059,,615.58,inferred,600.0
+OBS_137,Mercato San Severino,14.759,40.785,macroseismic,0.296462,0.8059,,442.11,inferred,289.0
+Gizzi_78,Trivigno (Intensity VII),15.99,40.58,macroseismic,0.296031,0.8059,,678.91,inferred,297.0
+OBS_114,Deliceto,15.386,41.222,macroseismic,0.295481,0.8059,,678.8,inferred,718.0
+OBS_157,Panni,15.275,41.222,macroseismic,0.295349,0.8059,,591.36,inferred,970.0
+OBS_121,Forino,14.738,40.861,macroseismic,0.294498,0.8059,,703.12,inferred,776.0
+OBS_80,Apice [Nuovo],14.914,41.119,macroseismic,0.2942,0.8059,,463.99,inferred,552.0
+OBS_91,Bracigliano,14.712,40.822,macroseismic,0.289227,0.8059,,900.0,inferred,624.0
+OBS_90,Bovino,15.342,41.251,macroseismic,0.288952,0.8059,,582.65,inferred,605.0
+OBS_140,Montecalvo Irpino,15.034,41.196,macroseismic,0.288818,0.8059,,546.93,inferred,603.0
+Gizzi_34,Laurenzana (Intensity VII),15.971,40.459,macroseismic,0.288768,0.8059,,585.16,inferred,970.0
+Gizzi_75,Tramutola (Intensity VII),15.79,40.315,macroseismic,0.288019,0.8059,,775.56,inferred,213.0
+OBS_163,Pietrastornina,14.728,40.991,macroseismic,0.286315,0.8059,,900.0,inferred,1000.0
+OBS_108,Ceppaloni,14.76,41.045,macroseismic,0.285604,0.8059,,557.55,inferred,1000.0
+OBS_195,Siano,14.693,40.801,macroseismic,0.285342,0.8059,,585.27,inferred,240.0
+OBS_181,San Leucio del Sannio,14.758,41.073,macroseismic,0.281975,0.8059,,434.98,inferred,600.0
+OBS_151,Orsara di Puglia,15.266,41.281,macroseismic,0.281592,0.8059,,635.04,inferred,825.0
+OBS_107,Cava de' Tirreni,14.706,40.7,macroseismic,0.281077,0.8059,,553.34,inferred,999.0
+OBS_93,Buonalbergo,14.98,41.222,macroseismic,0.280367,0.8059,,674.43,inferred,625.0
+OBS_148,Nocera Superiore,14.673,40.743,macroseismic,0.279435,0.8059,,405.51,inferred,805.0
+OBS_132,Lauro,14.633,40.879,macroseismic,0.276758,0.8059,,899.83,inferred,625.0
+OBS_155,Palazzo San Gervasio,15.986,40.93,macroseismic,0.276413,0.8059,,492.69,inferred,600.0
+OBS_146,Mugnano del Cardinale,14.64,40.941,macroseismic,0.276194,0.8059,,683.93,inferred,1000.0
+OBS_147,Nocera I1eriore,14.642,40.743,macroseismic,0.275072,0.8059,,352.58,inferred,600.0
+OBS_106,Castelluccio dei Sauri,15.477,41.304,macroseismic,0.274846,0.8059,,346.88,inferred,625.0
+OBS_182,San Martino Valle Caudina,14.663,41.023,macroseismic,0.274545,0.8059,,839.56,inferred,444.0
+OBS_164,Pietrelcina,14.848,41.197,macroseismic,0.274445,0.8059,,453.06,inferred,989.0
+OBS_205,Tricarico,16.144,40.622,macroseismic,0.273053,0.8059,,528.11,inferred,624.0
+OBS_81,Apollosa,14.701,41.093,macroseismic,0.272907,0.8059,,518.87,inferred,687.0
+OBS_86,Baiano,14.618,40.951,macroseismic,0.272788,0.8059,,457.17,inferred,387.0
+OBS_105,Castelfranco in Miscano,15.085,41.297,macroseismic,0.272223,0.8059,,537.56,inferred,999.0
+OBS_202,Tramonti (Polvica),14.642,40.694,macroseismic,0.272096,0.8059,,900.0,inferred,810.0
+Gizzi_18,Corleto Perticara (Intensity VII),16.041,40.383,macroseismic,0.271517,0.8059,,705.08,inferred,1000.0
+OBS_115,Domicella,14.587,40.879,macroseismic,0.270423,0.8059,,604.2,inferred,603.0
+OBS_154,Pago Veiano,14.871,41.247,macroseismic,0.269093,0.8059,,725.26,inferred,932.0
+OBS_109,Cervinara (Trescine),14.617,41.021,macroseismic,0.269023,0.8059,,837.33,inferred,230.0
+OBS_180,San Giorgio la Molara,14.919,41.27,macroseismic,0.268896,0.8059,,580.44,inferred,994.0
+OBS_145,Montesarchio,14.64,41.064,macroseismic,0.268646,0.8059,,451.76,inferred,999.0
+OBS_196,Striano,14.575,40.814,macroseismic,0.268607,0.8059,,215.91,inferred,605.0
+OBS_144,Montemurro,15.991,40.297,macroseismic,0.267252,0.8059,,633.64,inferred,1000.0
+OBS_176,Rotondi,14.597,41.031,macroseismic,0.266106,0.8059,,388.18,inferred,230.0
+OBS_78,Angri,14.571,40.738,macroseismic,0.265885,0.8059,,425.96,inferred,600.0
+OBS_174,Roccarainola,14.561,40.972,macroseismic,0.264925,0.8059,,585.01,inferred,639.0
+OBS_227,Sasso di Castalda,15.677,40.488,macroseismic,0.264666,0.8059,,751.67,inferred,1000.0
+OBS_139,Montano Antilia,15.366,40.161,macroseismic,0.262343,0.8059,,900.0,inferred,749.0
+OBS_122,Fragneto l'Abate,14.785,41.259,macroseismic,0.261664,0.8059,,485.08,inferred,999.0
+OBS_123,Fragneto Mo1orte,14.761,41.246,macroseismic,0.261462,0.8059,,518.51,inferred,999.0
+OBS_193,Saviano,14.511,40.909,macroseismic,0.260939,0.8059,,225.67,inferred,779.0
+OBS_84,Arpaia,14.547,41.035,macroseismic,0.260523,0.8059,,804.01,inferred,231.0
+OBS_76,Airola,14.554,41.06,macroseismic,0.259854,0.8059,,579.58,inferred,231.0
+OBS_120,Forchia,14.537,41.03,macroseismic,0.259755,0.8059,,546.66,inferred,389.0
+OBS_101,Casola di Napoli,14.53,40.694,macroseismic,0.259454,0.8059,,648.3,inferred,420.0
+OBS_167,Pompei,14.501,40.749,macroseismic,0.258552,0.8059,,283.1,inferred,602.0
+OBS_127,Gragnano,14.52,40.689,macroseismic,0.258212,0.8059,,900.0,inferred,498.0
+Gizzi_28,Grassano (Intensity VII),16.28,40.632,macroseismic,0.257625,0.8059,,291.52,inferred,600.0
+OBS_222,Pignola,15.787,40.573,macroseismic,0.257589,0.8059,,575.25,inferred,1000.0
+OBS_165,Pimonte (Piazza),14.514,40.674,macroseismic,0.256917,0.8059,,841.7,inferred,772.0
+OBS_83,Arienzo,14.499,41.022,macroseismic,0.256349,0.8059,,805.29,inferred,605.0
+OBS_89,Boscotrecase,14.467,40.775,macroseismic,0.255742,0.8059,,442.01,inferred,600.0
+OBS_179,San Felice a Cancello (San Felice),14.485,41.012,macroseismic,0.255402,0.8059,,478.36,inferred,718.0
+OBS_135,Marigliano,14.458,40.924,macroseismic,0.255164,0.8059,,260.73,inferred,600.0
+OBS_200,Torre Annunziata,14.462,40.751,macroseismic,0.254685,0.8059,,305.22,inferred,994.0
+OBS_188,Sant'Agata de' Goti,14.504,41.089,macroseismic,0.253567,0.8059,,565.92,inferred,830.0
+OBS_224,San Nicola Baronia,15.2,41.058,macroseismic,0.25289,0.8059,,563.91,inferred,600.0
+OBS_203,Trecase,14.424,40.771,macroseismic,0.251528,0.8059,,488.94,inferred,984.0
+OBS_190,Sant'Anastasia,14.403,40.867,macroseismic,0.250407,0.8059,,496.12,inferred,999.0
+OBS_166,Pomigliano d'Arco,14.387,40.91,macroseismic,0.248703,0.8059,,270.07,inferred,793.0
+OBS_208,Vico Equense,14.426,40.663,macroseismic,0.248524,0.8059,,900.0,inferred,633.0
+OBS_74,Acerra,14.373,40.943,macroseismic,0.247054,0.8059,,232.68,inferred,585.0
+OBS_138,Meta,14.416,40.64,macroseismic,0.246789,0.8059,,599.0,inferred,504.0
+OBS_201,Torre del Greco,14.367,40.786,macroseismic,0.246715,0.8059,,460.07,inferred,998.0
+OBS_160,Piano di Sorrento,14.409,40.635,macroseismic,0.246028,0.8059,,599.0,inferred,294.0
+OBS_133,Maddaloni,14.387,41.038,macroseismic,0.245891,0.8059,,405.81,inferred,805.0
+OBS_100,Casalnuovo di Napoli,14.353,40.915,macroseismic,0.24573,0.8059,,271.8,inferred,440.0
+OBS_186,San Salvatore Telesino,14.499,41.236,macroseismic,0.244237,0.8059,,466.86,inferred,605.0
+OBS_75,Afragola,14.309,40.921,macroseismic,0.242119,0.8059,,309.44,inferred,599.0
+OBS_209,Abriola,15.813,40.507,macroseismic,0.240844,0.8059,,572.15,inferred,1000.0
+OBS_117,Faicchio,14.479,41.277,macroseismic,0.240382,0.8059,,900.0,inferred,625.0
+OBS_124,Frattamaggiore,14.272,40.941,macroseismic,0.239102,0.8059,,292.46,inferred,598.0
+OBS_134,Marcianise,14.295,41.033,macroseismic,0.239073,0.8059,,237.39,inferred,598.0
+OBS_125,Frattaminore,14.271,40.956,macroseismic,0.238837,0.8059,,281.44,inferred,598.0
+OBS_130,Grumo Nevano,14.261,40.938,macroseismic,0.238335,0.8059,,292.46,inferred,598.0
+OBS_184,San Prisco,14.279,41.086,macroseismic,0.236511,0.8059,,370.81,inferred,599.0
+OBS_187,Santa Maria Capua Vetere,14.256,41.078,macroseismic,0.235228,0.8059,,283.24,inferred,598.0
+OBS_161,Pianura,14.177,40.863,macroseismic,0.232939,0.8059,,802.05,inferred,601.0
+OBS_99,Capua,14.214,41.106,macroseismic,0.231822,0.8059,,253.37,inferred,410.0
+OBS_162,Pietramelara,14.187,41.271,macroseismic,0.22502,0.8059,,489.95,inferred,349.0
+OBS_211,Battipaglia,14.983,40.607,macroseismic,0.223713,0.8059,,300.25,inferred,419.0
+OBS_253,Bagnoli Irpino,15.07,40.83,macroseismic,0.223708,0.8059,,660.9,inferred,1000.0
+OBS_390,Satriano di Lucania,15.639,40.543,macroseismic,0.223708,0.8059,,451.95,inferred,1000.0
+OBS_223,San Giorgio del Sannio,14.854,41.061,macroseismic,0.217678,0.8059,,435.64,inferred,496.0
+Brienza,Brienza,15.635,40.458,seismic,0.217,0.0,,900.0,inferred,794.0
+OBS_225,San Nicola Ma1redi,14.825,41.071,macroseismic,0.213371,0.8059,,594.01,inferred,600.0
+BagnoliIrpinio,Bagnoli Irpinio,15.069,40.821,seismic,0.202,0.0,,900.0,inferred,1000.0
+OBS_216,Ginestra degli Schiavoni,15.04,41.278,macroseismic,0.200576,0.8059,,389.36,inferred,999.0
+OBS_219,Pagani,14.616,40.744,macroseismic,0.19903,0.8059,,247.24,inferred,600.0
+OBS_210,Avella,14.602,40.961,macroseismic,0.198028,0.8059,,489.0,inferred,410.0
+OBS_233,Visciano,14.583,40.925,macroseismic,0.197148,0.8059,,582.61,inferred,794.0
+OBS_251,Avigliano,15.717,40.73,macroseismic,0.196733,0.8059,,700.53,inferred,828.0
+OBS_212,Campoli del Monte Taburno,14.646,41.131,macroseismic,0.193146,0.8059,,718.5,inferred,994.0
+OBS_231,Tocco Caudio,14.627,41.124,macroseismic,0.19227,0.8059,,646.64,inferred,625.0
+OBS_309,Frigento,15.099,41.012,macroseismic,0.1916,0.8059,,723.92,inferred,999.0
+OBS_214,Cautano,14.637,41.149,macroseismic,0.191381,0.8059,,900.0,inferred,1000.0
+OBS_312,Gesualdo,15.07,41.006,macroseismic,0.190472,0.8059,,586.97,inferred,1000.0
+OBS_234,Vitulano,14.646,41.174,macroseismic,0.19032,0.8059,,828.18,inferred,784.0
+OBS_310,Galdo,15.313,40.562,macroseismic,0.189669,0.8059,,813.49,inferred,605.0
+OBS_422,Zuppino,15.282,40.578,macroseismic,0.189228,0.8059,,669.99,inferred,732.0
+Gizzi_52,Pignola (Intensity VI),15.786,40.573,macroseismic,0.188931,0.8059,,575.25,inferred,1000.0
+OBS_398,Sicignano degli Alburni,15.309,40.558,macroseismic,0.188098,0.8059,,900.0,inferred,606.0
+OBS_393,Scorzo,15.265,40.577,macroseismic,0.18661,0.8059,,829.85,inferred,629.0
+OBS_396,Serradarce,15.154,40.64,macroseismic,0.186527,0.8059,,559.43,inferred,631.0
+OBS_400,Sterpeto di Sotto,15.683,40.795,macroseismic,0.186405,0.8059,,518.05,inferred,1000.0
+OBS_345,Oppidi,15.147,40.638,macroseismic,0.185137,0.8059,,559.43,inferred,631.0
+OBS_228,Solopaca,14.548,41.192,macroseismic,0.183603,0.8059,,558.21,inferred,447.0
+OBS_217,Guardia Sa1ramondi,14.597,41.255,macroseismic,0.182618,0.8059,,815.69,inferred,1000.0
+OBS_307,Fontanarosa,15.02,41.016,macroseismic,0.18225,0.8059,,604.89,inferred,830.0
+OBS_232,Valle di Maddaloni,14.417,41.08,macroseismic,0.180757,0.8059,,754.32,inferred,833.0
+OBS_226,Sant'Agnello,14.398,40.631,macroseismic,0.179492,0.8059,,564.06,inferred,391.0
+OBS_229,Sorrento,14.378,40.624,macroseismic,0.178176,0.8059,,898.74,inferred,617.0
+OBS_304,Flumeri,15.148,41.078,macroseismic,0.177,0.8059,,534.53,inferred,712.0
+OBS_337,Montecorvino Rovella,14.977,40.694,macroseismic,0.176733,0.8059,,900.0,inferred,631.0
+OBS_213,Caserta,14.333,41.071,macroseismic,0.176344,0.8059,,298.41,inferred,599.0
+Calitri,Calitri,15.439,40.917,seismic,0.176,0.0,,435.36,inferred,1000.0
+OBS_314,Grottaminarda,15.058,41.069,macroseismic,0.174774,0.8059,,457.72,inferred,288.0
+OBS_386,Santo Stefano del Sole,14.869,40.893,macroseismic,0.17463,0.8059,,900.0,inferred,918.0
+OBS_218,Mugnano di Napoli,14.207,40.908,macroseismic,0.172016,0.8059,,446.44,inferred,598.0
+OBS_297,Corleto Mo1orte,15.38,40.436,macroseismic,0.171972,0.8059,,751.8,inferred,1000.0
+OBS_220,Parete,14.165,40.959,macroseismic,0.169679,0.8059,,314.01,inferred,598.0
+OBS_266,Calvello,15.849,40.475,macroseismic,0.168187,0.8059,,526.15,inferred,697.0
+OBS_283,Castelcivita,15.232,40.495,macroseismic,0.168003,0.8059,,900.0,inferred,882.0
+OBS_331,Melfi,15.653,40.994,macroseismic,0.167622,0.8059,,448.83,inferred,841.0
+OBS_238,Aiello del Sabato,14.819,40.887,macroseismic,0.167395,0.8059,,568.69,inferred,600.0
+OBS_221,Pignataro Maggiore,14.172,41.19,macroseismic,0.166281,0.8059,,377.44,inferred,636.0
+Gizzi_12,Cancellara (Intensity VI),15.923,40.731,macroseismic,0.165672,0.8059,,454.96,inferred,990.0
+OBS_241,Altavilla Silentina,15.131,40.53,macroseismic,0.164841,0.8059,,728.52,inferred,985.0
+OBS_259,Bellosguardo,15.313,40.422,macroseismic,0.164329,0.8059,,590.17,inferred,997.0
+OBS_230,Sparanise,14.097,41.189,macroseismic,0.163488,0.8059,,343.72,inferred,687.0
+OBS_389,Sassano,15.561,40.336,macroseismic,0.163424,0.8059,,828.98,inferred,240.0
+OBS_245,Anzi,15.924,40.516,macroseismic,0.163046,0.8059,,574.6,inferred,298.0
+OBS_215,Francolise,14.054,41.185,macroseismic,0.162029,0.8059,,354.65,inferred,603.0
+Gizzi_26,Ginestra (Intensity VI),15.734,40.93,macroseismic,0.161962,0.8059,,531.53,inferred,1000.0
+Gizzi_1,Acerenza (Intensity VI),15.94,40.796,macroseismic,0.160321,0.8059,,619.74,inferred,262.0
+OBS_341,Montoro I1eriore (Piano-Parrelle),14.759,40.82,macroseismic,0.159996,0.8059,,379.56,inferred,231.0
+Gizzi_38,Marsicovetere (Intensity VI),15.824,40.376,macroseismic,0.159457,0.8059,,900.0,inferred,1000.0
+OBS_237,Aiello,14.778,40.729,macroseismic,0.158513,0.8059,,705.18,inferred,810.0
+Gizzi_39,Maschito (Intensity VI),15.831,40.908,macroseismic,0.158486,0.8059,,600.61,inferred,913.0
+OBS_282,Castel San Lorenzo,15.231,40.416,macroseismic,0.157977,0.8059,,720.47,inferred,250.0
+OBS_409,Tolve,16.019,40.696,macroseismic,0.156727,0.8059,,313.3,inferred,832.0
+OBS_366,Roccadaspide,15.191,40.426,macroseismic,0.156593,0.8059,,900.0,inferred,997.0
+OBS_323,Laurino,15.336,40.336,macroseismic,0.155772,0.8059,,818.08,inferred,999.0
+OBS_249,Ascoli Satriano,15.561,41.205,macroseismic,0.154975,0.8059,,449.87,inferred,810.0
+Gizzi_3,Albano di Lucania (Intensity VI),16.036,40.584,macroseismic,0.154575,0.8059,,697.49,inferred,994.0
+OBS_340,Montesano sulla Marcellana,15.702,40.275,macroseismic,0.153176,0.8059,,885.04,inferred,1000.0
+OBS_281,Castel San Giorgio,14.698,40.78,macroseismic,0.15312,0.8059,,332.04,inferred,989.0
+Gizzi_62,San Chirico Nuovo (Intensity VI),16.081,40.676,macroseismic,0.151498,0.8059,,685.76,inferred,1000.0
+OBS_376,San Chirico Nuovo,16.082,40.677,macroseismic,0.151413,0.8059,,685.76,inferred,1000.0
+OBS_419,Viggiano,15.9,40.339,macroseismic,0.151166,0.8059,,782.55,inferred,1000.0
+OBS_418,Vietri sul Mare,14.729,40.67,macroseismic,0.151053,0.8059,,600.0,inferred,600.0
+Gizzi_7,Banzi (Intensity VI),16.014,40.861,macroseismic,0.150928,0.8059,,396.59,inferred,805.0
+OBS_387,Sanza,15.551,40.242,macroseismic,0.150917,0.8059,,900.0,inferred,1000.0
+OBS_275,Casalbore,15.012,41.232,macroseismic,0.150531,0.8059,,798.47,inferred,1000.0
+Gizzi_25,Genzano di Lucania (Intensity VI),16.032,40.849,macroseismic,0.150378,0.8059,,558.64,inferred,396.0
+OBS_271,Capaccio,15.083,40.422,macroseismic,0.150309,0.8059,,528.39,inferred,998.0
+OBS_363,Quindici,14.648,40.862,macroseismic,0.14979,0.8059,,642.3,inferred,334.0
+OBS_260,Benevento,14.777,41.129,macroseismic,0.148702,0.8059,,408.76,inferred,425.0
+OBS_388,Sarno,14.621,40.814,macroseismic,0.147442,0.8059,,703.88,inferred,969.0
+OBS_316,Grumento Nova,15.891,40.285,macroseismic,0.147204,0.8059,,524.81,inferred,1000.0
+OBS_348,Paestum,15.011,40.421,macroseismic,0.146838,0.8059,,226.94,inferred,260.0
+OBS_349,Pago del Vallo di Lauro,14.607,40.897,macroseismic,0.146442,0.8059,,863.86,inferred,1000.0
+OBS_368,Rofrano,15.426,40.211,macroseismic,0.146182,0.8059,,740.9,inferred,1000.0
+OBS_288,Celle di San Vito,15.181,41.326,macroseismic,0.145313,0.8059,,527.24,inferred,1000.0
+OBS_302,Faeto,15.162,41.324,macroseismic,0.145114,0.8059,,671.85,inferred,1000.0
+OBS_334,Moliterno,15.868,40.24,macroseismic,0.144561,0.8059,,471.83,inferred,825.0
+OBS_328,Maiori,14.643,40.65,macroseismic,0.144351,0.8059,,900.0,inferred,998.0
+Gizzi_68,Sarconi (Intensity VI),15.89,40.247,macroseismic,0.144294,0.8059,,498.23,inferred,999.0
+OBS_284,Castelluccio Valmaggiore,15.198,41.341,macroseismic,0.144277,0.8059,,704.43,inferred,683.0
+OBS_326,Liveri,14.567,40.903,macroseismic,0.143606,0.8059,,497.78,inferred,241.0
+OBS_413,Troia,15.309,41.361,macroseismic,0.143529,0.8059,,389.39,inferred,600.0
+OBS_332,Minori,14.628,40.65,macroseismic,0.143452,0.8059,,746.25,inferred,999.0
+OBS_350,Pesco Sannita,14.812,41.234,macroseismic,0.143084,0.8059,,636.19,inferred,1000.0
+OBS_344,Ogliastro Cilento,15.044,40.351,macroseismic,0.14307,0.8059,,461.73,inferred,991.0
+Gizzi_2,Accettura (Intensity VI),16.158,40.492,macroseismic,0.143009,0.8059,,478.84,inferred,1000.0
+Gizzi_10,Calciano (Intensity VI),16.193,40.588,macroseismic,0.142896,0.8059,,870.1,inferred,794.0
+OBS_402,Stornarella,15.731,41.256,macroseismic,0.142871,0.8059,,270.49,inferred,231.0
+Gizzi_70,Spinoso (Intensity VI),15.966,40.269,macroseismic,0.142774,0.8059,,492.26,inferred,1000.0
+OBS_360,Prignano Cilento,15.07,40.329,macroseismic,0.142578,0.8059,,552.33,inferred,834.0
+Gizzi_48,Oliveto Lucano (Intensity VI),16.183,40.533,macroseismic,0.142527,0.8059,,658.4,inferred,447.0
+OBS_338,Montefalcone di Val Fortore,15.01,41.325,macroseismic,0.142417,0.8059,,603.53,inferred,1000.0
+Gizzi_45,Montemilone (Intensity VI),15.972,41.032,macroseismic,0.142237,0.8059,,434.0,inferred,236.0
+OBS_375,San Biase,15.282,40.202,macroseismic,0.141755,0.8059,,796.27,inferred,522.0
+OBS_243,Amalfi,14.603,40.634,macroseismic,0.141394,0.8059,,900.0,inferred,771.0
+OBS_399,Spinazzola,16.089,40.968,macroseismic,0.141172,0.8059,,415.04,inferred,595.0
+OBS_343,Nola,14.529,40.926,macroseismic,0.140957,0.8059,,305.48,inferred,425.0
+OBS_236,Agropoli,14.99,40.35,macroseismic,0.14094,0.8059,,407.54,inferred,629.0
+OBS_305,Foglianise,14.667,41.164,macroseismic,0.140892,0.8059,,900.0,inferred,241.0
+OBS_371,Rutino,15.076,40.298,macroseismic,0.140752,0.8059,,434.81,inferred,993.0
+OBS_292,Cimitile,14.527,40.94,macroseismic,0.140661,0.8059,,305.48,inferred,434.0
+OBS_246,Armento,16.066,40.306,macroseismic,0.140411,0.8059,,563.17,inferred,913.0
+OBS_391,Scafati,14.527,40.749,macroseismic,0.14025,0.8059,,242.64,inferred,572.0
+OBS_369,Roseto Valfortore,15.096,41.372,macroseismic,0.140217,0.8059,,573.71,inferred,1000.0
+OBS_410,Torrecuso,14.68,41.189,macroseismic,0.140186,0.8059,,684.62,inferred,685.0
+Gizzi_31,Irsina (Intensity VI),16.242,40.744,macroseismic,0.140122,0.8059,,742.6,inferred,600.0
+OBS_306,Foiano di Val Fortore,14.98,41.352,macroseismic,0.139825,0.8059,,507.45,inferred,999.0
+OBS_261,Biccari,15.194,41.397,macroseismic,0.139667,0.8059,,524.68,inferred,572.0
+OBS_401,Stornara,15.769,41.287,macroseismic,0.139442,0.8059,,314.57,inferred,236.0
+OBS_416,Vallo Scalo,15.163,40.226,macroseismic,0.139359,0.8059,,455.06,inferred,392.0
+OBS_407,Terzigno,14.498,40.809,macroseismic,0.139303,0.8059,,437.97,inferred,1000.0
+OBS_296,Conca dei Marini,14.57,40.617,macroseismic,0.139015,0.8059,,900.0,inferred,997.0
+Gizzi_16,Cirigliano (Intensity VI),16.171,40.392,macroseismic,0.13897,0.8059,,820.22,inferred,1000.0
+OBS_392,Scisciano,14.485,40.916,macroseismic,0.13849,0.8059,,229.5,inferred,600.0
+OBS_320,Lagonegro,15.764,40.124,macroseismic,0.138403,0.8059,,534.73,inferred,626.0
+OBS_347,Ottaviano,14.478,40.849,macroseismic,0.138334,0.8059,,518.79,inferred,1000.0
+OBS_333,Moiano,14.544,41.08,macroseismic,0.138313,0.8059,,400.98,inferred,941.0
+OBS_381,San Vitaliano,14.48,40.925,macroseismic,0.13813,0.8059,,229.5,inferred,600.0
+Gizzi_65,San Mauro Forte (Intensity VI),16.25,40.486,macroseismic,0.137697,0.8059,,363.59,inferred,606.0
+OBS_257,Baselice,14.973,41.393,macroseismic,0.136954,0.8059,,797.77,inferred,1000.0
+OBS_374,San Bartolomeo in Galdo,15.016,41.411,macroseismic,0.136502,0.8059,,601.44,inferred,1000.0
+Gizzi_71,Stigliano (Intensity VI),16.229,40.403,macroseismic,0.136497,0.8059,,636.97,inferred,965.0
+Gizzi_23,Gallicchio (Intensity VI),16.139,40.288,macroseismic,0.136343,0.8059,,601.91,inferred,600.0
+OBS_239,Alberona,15.123,41.432,macroseismic,0.136255,0.8059,,808.1,inferred,999.0
+OBS_356,Pontelandolfo,14.693,41.286,macroseismic,0.135682,0.8059,,579.57,inferred,635.0
+OBS_290,Cerignola,15.898,41.264,macroseismic,0.135541,0.8059,,360.06,inferred,594.0
+Gizzi_15,Castelsaraceno (Intensity VI),15.992,40.163,macroseismic,0.13549,0.8059,,638.81,inferred,1000.0
+OBS_264,Brusciano,14.426,40.923,macroseismic,0.135298,0.8059,,278.09,inferred,599.0
+Gizzi_61,Salandra (Intensity VI),16.317,40.526,macroseismic,0.135147,0.8059,,529.36,inferred,491.0
+OBS_248,Ascea,15.186,40.14,macroseismic,0.135053,0.8059,,782.86,inferred,720.0
+Gizzi_42,Missanello (Intensity VI),16.166,40.281,macroseismic,0.134944,0.8059,,598.24,inferred,600.0
+OBS_353,Pisciotta,15.234,40.107,macroseismic,0.134351,0.8059,,879.58,inferred,600.0
+OBS_269,Cancello,14.421,40.994,macroseismic,0.13423,0.8059,,349.63,inferred,780.0
+Gizzi_47,Nemoli (Intensity VI),15.8,40.067,macroseismic,0.13409,0.8059,,572.65,inferred,1000.0
+OBS_299,Durazzano,14.446,41.063,macroseismic,0.134078,0.8059,,408.73,inferred,603.0
+OBS_286,Castelvetere in Val Fortore,14.94,41.442,macroseismic,0.133442,0.8059,,575.28,inferred,1000.0
+OBS_421,Volturino,15.125,41.478,macroseismic,0.13337,0.8059,,767.39,inferred,766.0
+OBS_355,Pollena-Trocchia,14.38,40.855,macroseismic,0.133287,0.8059,,551.68,inferred,999.0
+Gizzi_29,Grottole (Intensity VI),16.385,40.6,macroseismic,0.132876,0.8059,,597.3,inferred,600.0
+OBS_405,Telese,14.527,41.216,macroseismic,0.132802,0.8059,,421.08,inferred,994.0
+OBS_327,Lucera,15.335,41.508,macroseismic,0.132802,0.8059,,419.75,inferred,520.0
+OBS_298,Dugenta,14.452,41.132,macroseismic,0.132585,0.8059,,271.76,inferred,233.0
+Gizzi_35,Lauria (Intensity VI),15.836,40.046,macroseismic,0.13231,0.8059,,754.39,inferred,993.0
+Gizzi_76,Trecchina (Intensity VI),15.777,40.026,macroseismic,0.131957,0.8059,,581.38,inferred,1000.0
+OBS_420,Volturara Appula,15.052,41.495,macroseismic,0.131855,0.8059,,644.93,inferred,1000.0
+OBS_301,Ercolano,14.349,40.808,macroseismic,0.131732,0.8059,,470.5,inferred,998.0
+OBS_342,Motta Montecorvino,15.115,41.508,macroseismic,0.131566,0.8059,,559.26,inferred,887.0
+Gizzi_13,Carbone (Intensity VI),16.088,40.14,macroseismic,0.131542,0.8059,,557.06,inferred,790.0
+OBS_357,Portici,14.342,40.819,macroseismic,0.131467,0.8059,,501.71,inferred,998.0
+OBS_244,Amorosi,14.462,41.202,macroseismic,0.130893,0.8059,,338.83,inferred,235.0
+OBS_313,Gravina in Puglia,16.42,40.819,macroseismic,0.130646,0.8059,,482.7,inferred,1000.0
+OBS_270,Canosa di Puglia,16.067,41.223,macroseismic,0.130443,0.8059,,494.42,inferred,599.0
+OBS_325,Limatola,14.393,41.14,macroseismic,0.130055,0.8059,,813.4,inferred,607.0
+OBS_362,Puglianello,14.45,41.223,macroseismic,0.129814,0.8059,,345.67,inferred,600.0
+OBS_378,San Marco la Catola,15.006,41.525,macroseismic,0.129794,0.8059,,840.24,inferred,999.0
+OBS_352,Pietramontecorvino,15.128,41.542,macroseismic,0.129758,0.8059,,658.69,inferred,411.0
+OBS_385,Sant'Arcangelo,16.274,40.245,macroseismic,0.129653,0.8059,,404.48,inferred,424.0
+OBS_379,San Nicola la Strada,14.332,41.051,macroseismic,0.129484,0.8059,,282.81,inferred,599.0
+OBS_311,Gambatesa,14.913,41.509,macroseismic,0.129478,0.8059,,745.85,inferred,1000.0
+OBS_280,Castel Morrone (Annunziata),14.356,41.12,macroseismic,0.129118,0.8059,,480.68,inferred,635.0
+OBS_329,Massa Lubrense,14.343,40.61,macroseismic,0.128884,0.8059,,854.95,inferred,1000.0
+OBS_372,Ruviano,14.41,41.209,macroseismic,0.128853,0.8059,,433.7,inferred,396.0
+Gizzi_20,Ferrandina (Intensity VI),16.457,40.495,macroseismic,0.128702,0.8059,,471.23,inferred,406.0
+OBS_300,Episcopia,16.099,40.072,macroseismic,0.128281,0.8059,,751.03,inferred,1000.0
+OBS_265,Caiazzo,14.367,41.177,macroseismic,0.128209,0.8059,,423.09,inferred,913.0
+OBS_287,Celenza Valfortore,14.98,41.56,macroseismic,0.12778,0.8059,,606.16,inferred,783.0
+OBS_285,Castelnuovo della Daunia,15.12,41.583,macroseismic,0.127618,0.8059,,571.58,inferred,770.0
+OBS_291,Chiaromonte,16.213,40.124,macroseismic,0.127399,0.8059,,670.97,inferred,491.0
+Gizzi_19,Craco (Intensity VI),16.439,40.377,macroseismic,0.127323,0.8059,,439.72,inferred,586.0
+OBS_351,Piana di Monte Verna,14.333,41.168,macroseismic,0.127248,0.8059,,602.88,inferred,1000.0
+OBS_277,Casalvecchio di Puglia,15.113,41.594,macroseismic,0.127051,0.8059,,591.92,inferred,884.0
+OBS_384,Sant'Antimo,14.237,40.942,macroseismic,0.126974,0.8059,,301.91,inferred,598.0
+OBS_273,Carlantino,14.976,41.594,macroseismic,0.126143,0.8059,,720.38,inferred,998.0
+OBS_394,Senise,16.289,40.144,macroseismic,0.125981,0.8059,,559.47,inferred,232.0
+OBS_276,Casalnuovo Monterotaro,15.105,41.62,macroseismic,0.125785,0.8059,,560.83,inferred,964.0
+OBS_250,Aversa,14.207,40.974,macroseismic,0.125666,0.8059,,299.3,inferred,598.0
+OBS_242,Alvignano,14.338,41.245,macroseismic,0.125581,0.8059,,550.09,inferred,425.0
+OBS_408,Teverola,14.209,40.994,macroseismic,0.125575,0.8059,,246.78,inferred,598.0
+OBS_318,Guardiaregia,14.542,41.435,macroseismic,0.125254,0.8059,,794.18,inferred,999.0
+OBS_303,Ferrazzano,14.672,41.53,macroseismic,0.124512,0.8059,,459.29,inferred,1000.0
+OBS_258,Bellona,14.233,41.161,macroseismic,0.124129,0.8059,,612.21,inferred,507.0
+OBS_380,San Severo,15.381,41.685,macroseismic,0.123592,0.8059,,318.36,inferred,595.0
+OBS_268,Campobasso,14.667,41.557,macroseismic,0.123429,0.8059,,595.48,inferred,999.0
+OBS_295,Colobraro,16.425,40.188,macroseismic,0.123426,0.8059,,900.0,inferred,971.0
+OBS_240,Alife,14.331,41.328,macroseismic,0.123258,0.8059,,380.14,inferred,230.0
+OBS_278,Casapesenna,14.138,40.991,macroseismic,0.123201,0.8059,,282.91,inferred,598.0
+OBS_308,Formicola,14.232,41.211,macroseismic,0.123169,0.8059,,900.0,inferred,805.0
+OBS_358,Pozzuoli,14.123,40.822,macroseismic,0.123141,0.8059,,600.0,inferred,763.0
+OBS_294,Colletorto,14.97,41.664,macroseismic,0.123059,0.8059,,865.46,inferred,999.0
+Gizzi_80,Vaglio Basilicata (Intensity VI),15.921,40.665,macroseismic,0.123021,0.8059,,685.59,inferred,1000.0
+OBS_373,Ruvo di Puglia,16.486,41.116,macroseismic,0.122587,0.8059,,241.93,inferred,992.0
+OBS_417,Valsinni,16.443,40.169,macroseismic,0.122474,0.8059,,900.0,inferred,290.0
+OBS_255,Baranello,14.554,41.527,macroseismic,0.122393,0.8059,,457.15,inferred,1000.0
+OBS_377,San Giuliano di Puglia,14.964,41.685,macroseismic,0.122165,0.8059,,493.82,inferred,997.0
+OBS_330,Matrice,14.711,41.612,macroseismic,0.12215,0.8059,,515.29,inferred,1000.0
+Gizzi_46,Montescaglioso (Intensity VI),16.666,40.552,macroseismic,0.122103,0.8059,,365.38,inferred,392.0
+OBS_262,Bojano,14.469,41.484,macroseismic,0.12205,0.8059,,892.19,inferred,603.0
+OBS_252,Bacoli,14.08,40.797,macroseismic,0.121702,0.8059,,379.83,inferred,380.0
+Gizzi_44,Montalbano Jonico (Intensity VI),16.567,40.289,macroseismic,0.121651,0.8059,,640.39,inferred,599.0
+OBS_254,Baia,14.071,40.817,macroseismic,0.121478,0.8059,,332.3,inferred,600.0
+OBS_403,Suero,14.071,40.811,macroseismic,0.121464,0.8059,,332.3,inferred,452.0
+OBS_382,Santa Croce di Magliano,14.991,41.711,macroseismic,0.121324,0.8059,,549.52,inferred,968.0
+OBS_263,Bonefro,14.935,41.704,macroseismic,0.121208,0.8059,,505.5,inferred,561.0
+OBS_406,Terlizzi,16.543,41.129,macroseismic,0.120851,0.8059,,352.72,inferred,992.0
+OBS_336,Monte di Procida,14.051,40.795,macroseismic,0.120812,0.8059,,289.41,inferred,600.0
+OBS_364,Ripabottoni,14.808,41.688,macroseismic,0.120636,0.8059,,429.63,inferred,999.0
+OBS_383,Sant'Angelo d'Alife,14.26,41.363,macroseismic,0.120623,0.8059,,900.0,inferred,1000.0
+OBS_335,Montagano,14.673,41.646,macroseismic,0.120424,0.8059,,611.94,inferred,999.0
+OBS_370,Rotondella,16.526,40.171,macroseismic,0.120389,0.8059,,594.0,inferred,793.0
+OBS_267,Calvi Risorta (Visciano-Zuni),14.126,41.214,macroseismic,0.120163,0.8059,,566.17,inferred,969.0
+OBS_339,Montelongo,14.95,41.736,macroseismic,0.120114,0.8059,,578.64,inferred,677.0
+OBS_411,Trani,16.418,41.277,macroseismic,0.120071,0.8059,,600.0,inferred,598.0
+OBS_361,Procida,14.017,40.758,macroseismic,0.119674,0.8059,,380.89,inferred,599.0
+OBS_346,Oriolo,16.447,40.052,macroseismic,0.119527,0.8059,,671.74,inferred,994.0
+OBS_247,Arnone,14.033,41.072,macroseismic,0.1194,0.8059,,228.25,inferred,266.0
+OBS_274,Casacalenda,14.849,41.74,macroseismic,0.119192,0.8059,,452.32,inferred,997.0
+OBS_317,Grumo Appula,16.708,41.012,macroseismic,0.118734,0.8059,,325.98,inferred,601.0
+Gizzi_21,Forenza (Intensity VI),15.855,40.859,macroseismic,0.118665,0.8059,,472.42,inferred,766.0
+OBS_321,Laterza,16.797,40.625,macroseismic,0.118604,0.8059,,235.2,inferred,1000.0
+OBS_395,Serracapriola,15.16,41.806,macroseismic,0.118434,0.8059,,543.54,inferred,599.0
+OBS_414,Vairano Patenora,14.132,41.333,macroseismic,0.118245,0.8059,,542.81,inferred,230.0
+OBS_404,Teano,14.068,41.251,macroseismic,0.118114,0.8059,,465.03,inferred,600.0
+OBS_354,Policoro,16.676,40.209,macroseismic,0.117489,0.8059,,289.45,inferred,231.0
+OBS_272,Carinola,13.978,41.188,macroseismic,0.116777,0.8059,,332.81,inferred,600.0
+OBS_293,Civitacampomarano,14.691,41.78,macroseismic,0.116392,0.8059,,760.26,inferred,998.0
+OBS_359,Presenzano,14.075,41.376,macroseismic,0.11621,0.8059,,900.0,inferred,760.0
+OBS_367,Roccamo1ina,13.983,41.288,macroseismic,0.115611,0.8059,,511.23,inferred,600.0
+Gizzi_49,Oppido Lucano (Intensity VI),15.993,40.764,macroseismic,0.115203,0.8059,,583.5,inferred,635.0
+OBS_397,Sessa Aurunca,13.934,41.236,macroseismic,0.115198,0.8059,,441.86,inferred,446.0
+OBS_279,Cassano allo Ionio,16.318,39.784,macroseismic,0.114903,0.8059,,751.44,inferred,598.0
+OBS_256,Bari,16.847,41.107,macroseismic,0.114298,0.8059,,299.24,inferred,990.0
+OBS_415,Valenzano,16.884,41.043,macroseismic,0.11427,0.8059,,307.2,inferred,991.0
+OBS_324,Lauro,13.888,41.263,macroseismic,0.113888,0.8059,,387.21,inferred,605.0
+OBS_289,Cellole,13.854,41.203,macroseismic,0.113806,0.8059,,273.71,inferred,230.0
+OBS_412,Triggiano,16.923,41.063,macroseismic,0.11324,0.8059,,319.93,inferred,991.0
+Gizzi_82,Venosa (Intensity VI),15.818,40.961,macroseismic,0.112991,0.8059,,426.11,inferred,795.0
+Gizzi_36,Lavello (Intensity VI),15.795,41.046,macroseismic,0.110571,0.8059,,434.52,inferred,961.0
+Gizzi_51,Pietrapertosa (Intensity VI),16.061,40.517,macroseismic,0.110239,0.8059,,732.15,inferred,990.0
+OBS_445,Aquilonia,15.477,40.986,macroseismic,0.107879,0.8059,,403.94,inferred,578.0
+Gizzi_27,Gorgoglione (Intensity VI),16.145,40.393,macroseismic,0.102817,0.8059,,900.0,inferred,1000.0
+Gizzi_24,Garaguso (Intensity VI),16.227,40.547,macroseismic,0.102716,0.8059,,466.22,inferred,605.0
+Gizzi_58,Rivello (Intensity VI),15.756,40.077,macroseismic,0.099139,0.8059,,562.27,inferred,972.0
+Gizzi_63,San Chirico Raparo (Intensity VI),16.075,40.19,macroseismic,0.098372,0.8059,,334.55,inferred,626.0
+OBS_425,Foggia,15.553,41.46,macroseismic,0.098368,0.8059,,301.9,inferred,230.0
+Gizzi_33,Latronico (Intensity VI),16.011,40.087,macroseismic,0.096004,0.8059,,601.49,inferred,995.0
+Gizzi_37,Maratea (Intensity VI),15.721,39.993,macroseismic,0.095692,0.8059,,615.57,inferred,581.0
+Gizzi_11,Calvera (Intensity VI),16.143,40.148,macroseismic,0.095457,0.8059,,748.44,inferred,943.0
+OBS_431,San Leucio,14.316,41.099,macroseismic,0.093809,0.8059,,588.34,inferred,676.0
+Gizzi_41,Miglionico (Intensity VI),16.5,40.569,macroseismic,0.093689,0.8059,,479.74,inferred,600.0
+Gizzi_22,Francavilla in Sinni (Intensity VI),16.204,40.08,macroseismic,0.092342,0.8059,,528.21,inferred,445.0
+OBS_432,Trinitapoli,16.088,41.356,macroseismic,0.092261,0.8059,,265.68,inferred,407.0
+Gizzi_54,Pomarico (Intensity VI),16.549,40.514,macroseismic,0.092016,0.8059,,485.47,inferred,600.0
+Gizzi_83,Viggianello (Intensity VI),16.086,39.973,macroseismic,0.091233,0.8059,,883.32,inferred,365.0
+Gizzi_59,Rotonda (Intensity VI),16.039,39.952,macroseismic,0.091219,0.8059,,490.99,inferred,157.0
+Gizzi_40,Matera (Intensity VI),16.607,40.665,macroseismic,0.091159,0.8059,,259.1,inferred,994.0
+OBS_581,Pietragalla,15.881,40.747,macroseismic,0.091051,0.8059,,508.45,inferred,832.0
+Gizzi_53,Pisticci (Intensity VI),16.557,40.39,macroseismic,0.090604,0.8059,,628.6,inferred,600.0
+Gizzi_79,Tursi (Intensity VI),16.471,40.247,macroseismic,0.090489,0.8059,,457.13,inferred,263.0
+OBS_651,Vaglio Basilicata,15.921,40.666,macroseismic,0.090118,0.8059,,685.59,inferred,1000.0
+OBS_429,Mormanno,15.989,39.889,macroseismic,0.089928,0.8059,,551.36,inferred,633.0
+Gizzi_64,San Costantino Albanese (Intensity VI),16.305,40.036,macroseismic,0.089551,0.8059,,900.0,inferred,999.0
+Gizzi_66,San Paolo Albanese (Intensity VI),16.335,40.035,macroseismic,0.089044,0.8059,,767.41,inferred,998.0
+Gizzi_72,Terranova di Pollino (Intensity VI),16.297,39.977,macroseismic,0.088375,0.8059,,872.26,inferred,997.0
+Gizzi_9,Bernalda (Intensity VI),16.688,40.407,macroseismic,0.087982,0.8059,,483.13,inferred,600.0
+OBS_603,Roscigno (Nuovo),15.346,40.399,macroseismic,0.087911,0.8059,,862.04,inferred,1000.0
+OBS_427,Ginosa,16.758,40.578,macroseismic,0.08757,0.8059,,466.39,inferred,806.0
+OBS_573,Persano,15.05,40.548,macroseismic,0.086554,0.8059,,277.85,inferred,595.0
+OBS_428,Lesina,15.353,41.864,macroseismic,0.085519,0.8059,,233.03,inferred,280.0
+OBS_424,Capriati a Volturno,14.148,41.467,macroseismic,0.084951,0.8059,,886.09,inferred,679.0
+OBS_658,Villa d'Agri,15.829,40.358,macroseismic,0.084349,0.8059,,439.77,inferred,626.0
+OBS_423,Adelfia,16.872,41.003,macroseismic,0.084212,0.8059,,308.66,inferred,990.0
+OBS_430,Rocca d'Evandro,13.908,41.388,macroseismic,0.082554,0.8059,,761.84,inferred,1000.0
+Gizzi_14,Castelmezzano (Intensity V),16.047,40.53,macroseismic,0.081605,0.8059,,900.0,inferred,557.0
+OBS_461,Campora,15.292,40.307,macroseismic,0.080874,0.8059,,579.46,inferred,996.0
+OBS_567,Palma Campania,14.554,40.868,macroseismic,0.076714,0.8059,,496.93,inferred,387.0
+OBS_555,Ordona,15.628,41.315,macroseismic,0.076515,0.8059,,359.9,inferred,258.0
+OBS_559,Orta Nova,15.707,41.327,macroseismic,0.074719,0.8059,,268.18,inferred,408.0
+OBS_506,Futani,15.322,40.151,macroseismic,0.074672,0.8059,,612.97,inferred,999.0
+OBS_435,Agerola (Pianillo),14.543,40.638,macroseismic,0.074252,0.8059,,484.78,inferred,820.0
+OBS_464,Carapelle,15.692,41.363,macroseismic,0.073759,0.8059,,255.39,inferred,230.0
+OBS_592,Praiano,14.533,40.61,macroseismic,0.073503,0.8059,,900.0,inferred,600.0
+OBS_634,Somma Vesuviana,14.437,40.872,macroseismic,0.073049,0.8059,,566.33,inferred,999.0
+OBS_586,Poggiorsini,16.254,40.915,macroseismic,0.072883,0.8059,,537.96,inferred,595.0
+OBS_537,Minervino Murge,16.079,41.086,macroseismic,0.07276,0.8059,,612.31,inferred,992.0
+OBS_591,Positano,14.485,40.628,macroseismic,0.072581,0.8059,,900.0,inferred,600.0
+OBS_483,Centola,15.312,40.066,macroseismic,0.071632,0.8059,,485.74,inferred,999.0
+OBS_486,Cercola,14.355,40.856,macroseismic,0.070912,0.8059,,440.93,inferred,998.0
+OBS_487,Cerreto Sannita,14.56,41.285,macroseismic,0.070472,0.8059,,695.86,inferred,999.0
+OBS_566,Palinuro,15.288,40.033,macroseismic,0.070424,0.8059,,380.35,inferred,630.0
+OBS_609,San Ferdinando di Puglia,16.067,41.301,macroseismic,0.068806,0.8059,,371.42,inferred,592.0
+OBS_632,Sepino,14.619,41.407,macroseismic,0.068773,0.8059,,750.84,inferred,882.0
+OBS_612,San Giuliano del Sannio,14.64,41.456,macroseismic,0.068,0.8059,,499.34,inferred,1000.0
+OBS_662,Zapponeta,15.957,41.456,macroseismic,0.067673,0.8059,,180.0,inferred,365.0
+OBS_440,Altamura,16.553,40.827,macroseismic,0.067394,0.8059,,364.51,inferred,879.0
+OBS_527,Macchia Valfortore,14.912,41.593,macroseismic,0.067379,0.8059,,800.44,inferred,999.0
+OBS_620,San Severino Lucano,16.138,40.021,macroseismic,0.067284,0.8059,,535.95,inferred,1000.0
+OBS_520,Laino Castello,15.973,39.947,macroseismic,0.067272,0.8059,,811.09,inferred,150.0
+OBS_538,Mirabello Sannitico,14.674,41.515,macroseismic,0.06715,0.8059,,574.91,inferred,1000.0
+OBS_642,Toro,14.766,41.57,macroseismic,0.066853,0.8059,,686.12,inferred,1000.0
+OBS_660,Vinchiaturo,14.587,41.493,macroseismic,0.06666,0.8059,,440.3,inferred,999.0
+OBS_443,Andria,16.296,41.226,macroseismic,0.066645,0.8059,,319.83,inferred,678.0
+OBS_531,Margherita di Savoia,16.152,41.374,macroseismic,0.066373,0.8059,,205.34,inferred,501.0
+OBS_495,Corato,16.411,41.153,macroseismic,0.066329,0.8059,,317.2,inferred,630.0
+OBS_644,Torremaggiore,15.292,41.689,macroseismic,0.066243,0.8059,,390.38,inferred,596.0
+OBS_596,Rignano Garganico,15.587,41.675,macroseismic,0.066033,0.8059,,900.0,inferred,842.0
+OBS_571,Papasidero,15.906,39.871,macroseismic,0.066024,0.8059,,610.12,inferred,1000.0
+OBS_617,San Nicola Arcella,15.795,39.847,macroseismic,0.066018,0.8059,,530.11,inferred,636.0
+OBS_613,San Gregorio Matese,14.374,41.385,macroseismic,0.065907,0.8059,,900.0,inferred,1000.0
+OBS_459,Campolieto,14.766,41.633,macroseismic,0.065556,0.8059,,601.55,inferred,995.0
+OBS_630,Scalea,15.792,39.814,macroseismic,0.065303,0.8059,,575.98,inferred,1000.0
+OBS_449,Barletta,16.279,41.318,macroseismic,0.06524,0.8059,,314.93,inferred,192.0
+OBS_597,Ripalimosani,14.665,41.612,macroseismic,0.065187,0.8059,,530.94,inferred,887.0
+OBS_614,San Marco in Lamis,15.637,41.712,macroseismic,0.065018,0.8059,,744.63,inferred,982.0
+OBS_530,Ma1redonia,15.908,41.623,macroseismic,0.065005,0.8059,,600.0,inferred,600.0
+OBS_611,San Giovanni Rotondo,15.728,41.706,macroseismic,0.064682,0.8059,,478.73,inferred,817.0
+OBS_558,Orsomarso,15.909,39.799,macroseismic,0.06451,0.8059,,618.09,inferred,630.0
+OBS_606,Rotello,15.004,41.749,macroseismic,0.06438,0.8059,,418.33,inferred,670.0
+OBS_641,Toritto,16.68,40.997,macroseismic,0.064222,0.8059,,390.09,inferred,992.0
+OBS_479,Castropignano,14.561,41.618,macroseismic,0.064206,0.8059,,830.6,inferred,1000.0
+OBS_554,Nova Siri,16.54,40.148,macroseismic,0.064168,0.8059,,529.08,inferred,997.0
+OBS_628,Santeramo in Colle,16.756,40.794,macroseismic,0.064142,0.8059,,345.99,inferred,995.0
+OBS_444,Apricena,15.444,41.784,macroseismic,0.064105,0.8059,,290.68,inferred,987.0
+OBS_627,Sant'Elena Sannita,14.469,41.574,macroseismic,0.064073,0.8059,,432.12,inferred,1000.0
+OBS_578,Petrella Tifernina,14.697,41.691,macroseismic,0.064,0.8059,,738.65,inferred,840.0
+OBS_450,Bisceglie,16.502,41.241,macroseismic,0.064,0.8059,,309.19,inferred,579.0
+OBS_551,Morano Calabro,16.136,39.844,macroseismic,0.06395,0.8059,,527.29,inferred,831.0
+OBS_437,Ailano,14.204,41.39,macroseismic,0.063722,0.8059,,528.37,inferred,1000.0
+OBS_528,Macchiagodena,14.405,41.558,macroseismic,0.063696,0.8059,,715.64,inferred,1000.0
+OBS_655,Verbicaro,15.912,39.756,macroseismic,0.063669,0.8059,,900.0,inferred,1000.0
+OBS_640,Torella del Sannio,14.52,41.64,macroseismic,0.063508,0.8059,,411.95,inferred,999.0
+OBS_505,Frosolone,14.448,41.6,macroseismic,0.063486,0.8059,,609.3,inferred,1000.0
+OBS_569,Palo del Colle,16.702,41.057,macroseismic,0.063459,0.8059,,306.77,inferred,991.0
+OBS_541,Molfetta,16.597,41.2,macroseismic,0.063395,0.8059,,371.28,inferred,765.0
+OBS_584,Poggio Imperiale,15.367,41.824,macroseismic,0.063392,0.8059,,362.32,inferred,409.0
+OBS_526,Lucito,14.688,41.731,macroseismic,0.063255,0.8059,,732.92,inferred,999.0
+OBS_546,Monte Sant'Angelo,15.959,41.706,macroseismic,0.063179,0.8059,,579.88,inferred,983.0
+OBS_453,Bitonto,16.691,41.108,macroseismic,0.063171,0.8059,,287.26,inferred,990.0
+OBS_650,Ururi,15.014,41.815,macroseismic,0.063147,0.8059,,247.42,inferred,595.0
+OBS_523,Larino,14.911,41.8,macroseismic,0.063122,0.8059,,487.82,inferred,995.0
+OBS_516,Ischia,13.942,40.743,macroseismic,0.063089,0.8059,,600.0,inferred,565.0
+OBS_480,Castroregio,16.478,39.992,macroseismic,0.063033,0.8059,,900.0,inferred,996.0
+OBS_548,Montegiordano,16.535,40.043,macroseismic,0.063025,0.8059,,653.81,inferred,879.0
+OBS_452,Bitetto,16.748,41.04,macroseismic,0.062995,0.8059,,321.02,inferred,991.0
+OBS_481,Castrovillari,16.202,39.814,macroseismic,0.062964,0.8059,,508.04,inferred,767.0
+OBS_624,Sannicandro Garganico,15.567,41.835,macroseismic,0.062879,0.8059,,394.57,inferred,986.0
+OBS_510,Giovinazzo,16.673,41.186,macroseismic,0.062665,0.8059,,327.67,inferred,958.0
+OBS_514,Guardialfiera,14.793,41.801,macroseismic,0.062633,0.8059,,680.88,inferred,941.0
+OBS_623,Sannicandro di Bari,16.798,41.0,macroseismic,0.062623,0.8059,,325.53,inferred,991.0
+OBS_433,Acquaviva delle Fonti,16.843,40.896,macroseismic,0.062569,0.8059,,326.4,inferred,990.0
+OBS_466,Carpinone,14.325,41.592,macroseismic,0.062475,0.8059,,724.58,inferred,636.0
+OBS_456,Cagnano Varano,15.776,41.826,macroseismic,0.062279,0.8059,,526.17,inferred,632.0
+OBS_539,Modugno,16.782,41.082,macroseismic,0.062271,0.8059,,302.49,inferred,990.0
+OBS_485,Cerchiara di Calabria,16.383,39.859,macroseismic,0.062189,0.8059,,635.53,inferred,912.0
+OBS_615,San Martino in Pensilis,15.011,41.869,macroseismic,0.062186,0.8059,,309.19,inferred,600.0
+OBS_448,Bagnoli del Trigno,14.457,41.703,macroseismic,0.062085,0.8059,,766.6,inferred,991.0
+Auletta,Auletta,15.558,40.56,seismic,0.062,0.0,,900.0,inferred,1000.0
+OBS_509,Gioia del Colle,16.923,40.798,macroseismic,0.061829,0.8059,,246.26,inferred,990.0
+OBS_532,Marina di Ginosa,16.89,40.428,macroseismic,0.061828,0.8059,,247.92,inferred,600.0
+OBS_476,Castelmauro,14.71,41.828,macroseismic,0.061807,0.8059,,634.83,inferred,999.0
+OBS_475,Castellaneta,16.935,40.629,macroseismic,0.061774,0.8059,,434.36,inferred,711.0
+OBS_465,Carpino,15.857,41.843,macroseismic,0.061623,0.8059,,572.87,inferred,425.0
+OBS_518,Isernia,14.231,41.594,macroseismic,0.0616,0.8059,,433.84,inferred,805.0
+OBS_442,Amendolara,16.581,39.952,macroseismic,0.061522,0.8059,,588.18,inferred,602.0
+OBS_576,Pescolanciano,14.336,41.678,macroseismic,0.061471,0.8059,,406.73,inferred,230.0
+OBS_590,Portocannone,15.008,41.915,macroseismic,0.061416,0.8059,,563.83,inferred,597.0
+OBS_469,Casamassima,16.919,40.954,macroseismic,0.061373,0.8059,,300.03,inferred,981.0
+OBS_608,Sammichele di Bari,16.948,40.887,macroseismic,0.061282,0.8059,,295.02,inferred,991.0
+OBS_563,Palagianello,16.974,40.61,macroseismic,0.061267,0.8059,,493.64,inferred,997.0
+OBS_515,Guglionesi,14.914,41.912,macroseismic,0.06125,0.8059,,440.83,inferred,600.0
+OBS_565,Palata,14.785,41.89,macroseismic,0.061175,0.8059,,555.11,inferred,994.0
+OBS_547,Montecilfone,14.837,41.903,macroseismic,0.06116,0.8059,,329.71,inferred,762.0
+OBS_536,Mignano Monte Lungo,13.983,41.405,macroseismic,0.061114,0.8059,,365.47,inferred,614.0
+OBS_646,Trebisacce,16.531,39.866,macroseismic,0.06101,0.8059,,508.25,inferred,447.0
+OBS_653,Venafro,14.044,41.485,macroseismic,0.061009,0.8059,,523.37,inferred,239.0
+OBS_580,Pietrabbondante,14.385,41.747,macroseismic,0.060974,0.8059,,804.93,inferred,1000.0
+OBS_463,Capurso,16.921,41.047,macroseismic,0.060887,0.8059,,275.23,inferred,991.0
+OBS_544,Montaquila,14.113,41.566,macroseismic,0.060847,0.8059,,750.14,inferred,595.0
+OBS_460,Campomarino,15.035,41.957,macroseismic,0.060798,0.8059,,381.76,inferred,217.0
+OBS_585,Poggio Sannita,14.413,41.778,macroseismic,0.060774,0.8059,,534.01,inferred,1000.0
+OBS_631,Schiavi di Abruzzo,14.485,41.815,macroseismic,0.060753,0.8059,,874.99,inferred,1000.0
+OBS_499,Doria,16.355,39.73,macroseismic,0.060683,0.8059,,346.32,inferred,231.0
+OBS_503,Filignano,14.055,41.544,macroseismic,0.060544,0.8059,,574.74,inferred,654.0
+OBS_517,Ischitella,15.898,41.904,macroseismic,0.060526,0.8059,,618.28,inferred,992.0
+OBS_564,Palagiano,17.037,40.579,macroseismic,0.060476,0.8059,,287.89,inferred,598.0
+OBS_493,Colli a Volturno,14.103,41.597,macroseismic,0.060442,0.8059,,594.87,inferred,1000.0
+OBS_648,Turi,17.021,40.916,macroseismic,0.060342,0.8059,,317.7,inferred,991.0
+OBS_601,Rodi Garganico,15.885,41.929,macroseismic,0.060231,0.8059,,457.77,inferred,793.0
+OBS_553,Noicattaro,16.989,41.032,macroseismic,0.060222,0.8059,,296.9,inferred,601.0
+OBS_474,Castelforte,13.822,41.3,macroseismic,0.060184,0.8059,,730.34,inferred,1000.0
+OBS_549,Montenero di Bisaccia,14.781,41.957,macroseismic,0.060175,0.8059,,460.57,inferred,788.0
+OBS_607,Rutigliano,17.005,41.009,macroseismic,0.060157,0.8059,,326.55,inferred,803.0
+OBS_436,Agnone,14.373,41.807,macroseismic,0.060151,0.8059,,617.36,inferred,1000.0
+OBS_529,Mafalda,14.715,41.942,macroseismic,0.06015,0.8059,,545.52,inferred,991.0
+OBS_639,Termoli,14.993,42.0,macroseismic,0.060084,0.8059,,401.66,inferred,417.0
+OBS_478,Castiglione Messer Marino,14.451,41.866,macroseismic,0.059898,0.8059,,546.74,inferred,996.0
+OBS_638,Tarsia,16.272,39.617,macroseismic,0.059717,0.8059,,577.37,inferred,635.0
+OBS_488,Cetraro,15.941,39.516,macroseismic,0.059688,0.8059,,558.23,inferred,1000.0
+OBS_577,Petacciato,14.86,42.011,macroseismic,0.059646,0.8059,,574.9,inferred,598.0
+OBS_534,Massafra,17.113,40.589,macroseismic,0.059638,0.8059,,488.8,inferred,997.0
+OBS_568,Palmoli,14.582,41.939,macroseismic,0.059635,0.8059,,630.26,inferred,993.0
+OBS_626,Sant'Apollinare,13.831,41.402,macroseismic,0.059621,0.8059,,371.51,inferred,230.0
+OBS_473,Castel San Vincenzo,14.063,41.655,macroseismic,0.059538,0.8059,,706.95,inferred,1000.0
+OBS_552,Noci,17.123,40.794,macroseismic,0.059505,0.8059,,301.0,inferred,990.0
+OBS_594,Putignano,17.122,40.849,macroseismic,0.059421,0.8059,,433.48,inferred,992.0
+OBS_575,Peschici,16.014,41.947,macroseismic,0.059408,0.8059,,600.0,inferred,600.0
+OBS_657,Vieste,16.18,41.882,macroseismic,0.059325,0.8059,,232.74,inferred,233.0
+OBS_542,Mongrassano,16.111,39.526,macroseismic,0.059263,0.8059,,900.0,inferred,970.0
+OBS_494,Conversano,17.114,40.967,macroseismic,0.059182,0.8059,,273.66,inferred,991.0
+OBS_462,Capracotta,14.264,41.833,macroseismic,0.059154,0.8059,,568.57,inferred,1000.0
+OBS_600,Roccaspinalveti,14.471,41.937,macroseismic,0.059134,0.8059,,690.24,inferred,998.0
+OBS_540,Mola di Bari,17.088,41.058,macroseismic,0.059087,0.8059,,351.34,inferred,598.0
+OBS_471,Cassino,13.831,41.488,macroseismic,0.059016,0.8059,,383.93,inferred,230.0
+OBS_619,San Salvo,14.731,42.046,macroseismic,0.058817,0.8059,,458.93,inferred,597.0
+OBS_545,Montazzoli,14.43,41.948,macroseismic,0.0588,0.8059,,722.63,inferred,996.0
+OBS_625,Sant'Angelo del Pesco,14.256,41.883,macroseismic,0.058571,0.8059,,564.76,inferred,998.0
+OBS_533,Marina Schiavonea,16.541,39.652,macroseismic,0.058568,0.8059,,276.38,inferred,263.0
+OBS_446,Ateleta,14.199,41.854,macroseismic,0.058525,0.8059,,448.34,inferred,1000.0
+OBS_511,Gissi,14.546,42.02,macroseismic,0.058476,0.8059,,558.19,inferred,987.0
+OBS_496,Crispiano,17.232,40.604,macroseismic,0.05842,0.8059,,406.03,inferred,604.0
+OBS_451,Bisignano,16.285,39.513,macroseismic,0.058379,0.8059,,408.83,inferred,825.0
+OBS_439,Alberobello,17.238,40.784,macroseismic,0.05834,0.8059,,398.07,inferred,992.0
+OBS_500,Esperia (Roccaguglielma),13.68,41.384,macroseismic,0.058337,0.8059,,651.16,inferred,994.0
+OBS_497,Cupello,14.673,42.072,macroseismic,0.058311,0.8059,,394.38,inferred,598.0
+OBS_579,Piedimonte San Germano,13.749,41.496,macroseismic,0.058258,0.8059,,596.8,inferred,161.0
+OBS_637,Taranto,17.239,40.474,macroseismic,0.058156,0.8059,,600.0,inferred,600.0
+OBS_467,Casalanguida,14.498,42.036,macroseismic,0.058094,0.8059,,713.29,inferred,607.0
+OBS_587,Polignano a Mare,17.219,40.994,macroseismic,0.058075,0.8059,,600.0,inferred,792.0
+OBS_652,Vasto,14.708,42.117,macroseismic,0.057875,0.8059,,423.81,inferred,599.0
+OBS_588,Pontecorvo,13.667,41.456,macroseismic,0.057819,0.8059,,293.94,inferred,520.0
+OBS_434,Acri,16.386,39.491,macroseismic,0.057673,0.8059,,837.47,inferred,997.0
+OBS_572,Pennadomo,14.326,42.005,macroseismic,0.057664,0.8059,,851.92,inferred,966.0
+OBS_550,Montenerodomo,14.252,41.975,macroseismic,0.057602,0.8059,,605.54,inferred,997.0
+OBS_636,Talsano,17.282,40.406,macroseismic,0.057591,0.8059,,244.58,inferred,711.0
+OBS_447,Atessa,14.446,42.066,macroseismic,0.057547,0.8059,,409.82,inferred,985.0
+OBS_543,Monopoli,17.296,40.951,macroseismic,0.057493,0.8059,,384.37,inferred,767.0
+OBS_570,Paola,16.041,39.36,macroseismic,0.057429,0.8059,,634.28,inferred,1000.0
+OBS_654,Ventotene [isola],13.434,40.798,macroseismic,0.057403,0.8059,,298.05,inferred,298.0
+OBS_599,Roccasecca,13.668,41.552,macroseismic,0.057251,0.8059,,863.89,inferred,515.0
+OBS_605,Rossano,16.635,39.574,macroseismic,0.057234,0.8059,,770.68,inferred,791.0
+OBS_645,Torricella Peligna,14.26,42.024,macroseismic,0.057154,0.8059,,603.04,inferred,995.0
+OBS_502,Fasano,17.36,40.835,macroseismic,0.057142,0.8059,,374.48,inferred,941.0
+OBS_468,Casalbordino,14.584,42.15,macroseismic,0.057128,0.8059,,438.5,inferred,596.0
+OBS_604,Rose,16.288,39.399,macroseismic,0.057086,0.8059,,676.87,inferred,636.0
+OBS_598,Roccascalegna,14.308,42.062,macroseismic,0.056999,0.8059,,516.5,inferred,994.0
+OBS_508,Gessopalena,14.273,42.055,macroseismic,0.056911,0.8059,,589.13,inferred,993.0
+OBS_610,San Fili,16.144,39.338,macroseismic,0.056898,0.8059,,766.25,inferred,985.0
+OBS_525,Lettopalena,14.159,42.002,macroseismic,0.056865,0.8059,,740.43,inferred,990.0
+OBS_595,Rende,16.183,39.331,macroseismic,0.056707,0.8059,,501.59,inferred,600.0
+OBS_441,Altino,14.331,42.102,macroseismic,0.056701,0.8059,,585.07,inferred,983.0
+OBS_562,Paglieta,14.499,42.165,macroseismic,0.056692,0.8059,,548.85,inferred,821.0
+OBS_521,Lama dei Peligni,14.188,42.042,macroseismic,0.056638,0.8059,,900.0,inferred,639.0
+OBS_618,San Pietro in Guarano,16.311,39.342,macroseismic,0.056406,0.8059,,770.29,inferred,1000.0
+OBS_470,Casoli,14.291,42.117,macroseismic,0.05639,0.8059,,686.97,inferred,247.0
+OBS_492,Civitella Messer Raimondo,14.217,42.088,macroseismic,0.056345,0.8059,,505.87,inferred,994.0
+OBS_501,Fara San Martino,14.206,42.09,macroseismic,0.056277,0.8059,,900.0,inferred,996.0
+OBS_484,Ceprano,13.517,41.545,macroseismic,0.056168,0.8059,,333.11,inferred,230.0
+OBS_629,Sant'Eusanio del Sangro,14.33,42.168,macroseismic,0.056058,0.8059,,425.57,inferred,596.0
+OBS_457,Caloveto,16.76,39.505,macroseismic,0.055944,0.8059,,637.64,inferred,991.0
+OBS_472,Castel Frentano,14.355,42.197,macroseismic,0.055875,0.8059,,427.23,inferred,596.0
+OBS_519,Isola del Liri,13.579,41.68,macroseismic,0.055838,0.8059,,453.27,inferred,598.0
+OBS_635,Sora,13.613,41.718,macroseismic,0.055827,0.8059,,385.82,inferred,670.0
+OBS_647,Trenta,16.321,39.283,macroseismic,0.055785,0.8059,,673.88,inferred,1000.0
+OBS_522,Lanciano,14.39,42.23,macroseismic,0.055684,0.8059,,601.09,inferred,593.0
+OBS_633,Serra Pedace,16.346,39.277,macroseismic,0.055646,0.8059,,621.77,inferred,999.0
+OBS_513,Guardiagrele,14.222,42.19,macroseismic,0.055443,0.8059,,606.05,inferred,620.0
+OBS_561,Ostuni,17.577,40.729,macroseismic,0.055421,0.8059,,545.86,inferred,992.0
+OBS_557,Orsogna,14.283,42.219,macroseismic,0.055414,0.8059,,606.24,inferred,600.0
+OBS_556,Oria,17.642,40.498,macroseismic,0.054815,0.8059,,294.99,inferred,597.0
+OBS_593,Pratola Peligna,13.875,42.098,macroseismic,0.05469,0.8059,,406.8,inferred,267.0
+OBS_622,San Vincenzo Valle Roveto,13.524,41.833,macroseismic,0.054594,0.8059,,815.54,inferred,1000.0
+OBS_560,Ortucchio,13.644,41.954,macroseismic,0.054514,0.8059,,397.0,inferred,231.0
+OBS_512,Goriano Sicoli,13.775,42.08,macroseismic,0.054345,0.8059,,596.17,inferred,1000.0
+OBS_455,Bucchianico,14.181,42.304,macroseismic,0.05433,0.8059,,353.24,inferred,594.0
+OBS_659,Villamagna,14.237,42.332,macroseismic,0.054286,0.8059,,550.96,inferred,764.0
+OBS_643,Torre Santa Susanna,17.74,40.465,macroseismic,0.054076,0.8059,,231.98,inferred,601.0
+OBS_489,Chieti,14.169,42.351,macroseismic,0.053915,0.8059,,431.29,inferred,596.0
+OBS_504,Francavilla al Mare,14.301,42.412,macroseismic,0.053823,0.8059,,443.23,inferred,385.0
+OBS_602,Rosciano,14.044,42.321,macroseismic,0.053724,0.8059,,601.32,inferred,599.0
+OBS_438,Alanno,13.971,42.294,macroseismic,0.05366,0.8059,,443.83,inferred,963.0
+OBS_582,Pietranico,13.911,42.276,macroseismic,0.053564,0.8059,,565.86,inferred,995.0
+OBS_498,Decollatura (Casenove),16.358,39.045,macroseismic,0.053556,0.8059,,450.91,inferred,1000.0
+OBS_482,Catignano,13.951,42.346,macroseismic,0.053216,0.8059,,426.37,inferred,764.0
+OBS_490,Cir Marina,17.128,39.369,macroseismic,0.053178,0.8059,,260.68,inferred,259.0
+OBS_574,Pescara,14.214,42.464,macroseismic,0.053175,0.8059,,254.42,inferred,285.0
+Bovino,Bovino,15.51,41.251,seismic,0.053,0.0,,412.28,inferred,231.0
+OBS_454,Brindisi,17.945,40.637,macroseismic,0.052855,0.8059,,260.06,inferred,577.0
+OBS_583,Piglio,13.145,41.829,macroseismic,0.052572,0.8059,,900.0,inferred,1000.0
+OBS_524,Latina,12.903,41.467,macroseismic,0.052509,0.8059,,243.18,inferred,229.0
+OBS_491,Citt Sant'Angelo,14.06,42.518,macroseismic,0.052357,0.8059,,440.02,inferred,595.0
+OBS_656,Vibo Valentia,16.102,38.675,macroseismic,0.051189,0.8059,,459.04,inferred,807.0
+OBS_661,Zagarolo,12.831,41.839,macroseismic,0.051012,0.8059,,401.41,inferred,401.0
+OBS_507,Gerocarne,16.219,38.587,macroseismic,0.05046,0.8059,,755.59,inferred,826.0
+OBS_664,Capri,14.243,40.55,macroseismic,0.048869,0.8059,,525.1,inferred,193.0
+OBS_589,Popoli,13.105,42.751,macroseismic,0.048436,0.8059,,900.0,inferred,631.0
+OBS_621,San Severino Marche,13.177,43.229,macroseismic,0.047012,0.8059,,400.2,inferred,969.0
+OBS_458,Camerino,13.068,43.135,macroseismic,0.047012,0.8059,,395.9,inferred,1000.0
+OBS_675,Lungro,16.122,39.742,macroseismic,0.04567,0.8059,,900.0,inferred,640.0
+BNV,BNV,14.7975,41.11694,seismic,0.04553,0.0,,461.73,inferred,603.0
+OBS_670,Firmo,16.176,39.721,macroseismic,0.045198,0.8059,,456.07,inferred,599.0
+OBS_696,Trivento,14.551,41.781,macroseismic,0.045149,0.8059,,612.55,inferred,993.0
+OBS_691,Sibari,16.454,39.746,macroseismic,0.044102,0.8059,,240.51,inferred,230.0
+OBS_672,Fresagrandinaria,14.664,41.976,macroseismic,0.043585,0.8059,,632.87,inferred,993.0
+OBS_694,Thurio,16.471,39.693,macroseismic,0.043563,0.8059,,229.22,inferred,405.0
+OBS_697,Vallerotonda,13.914,41.549,macroseismic,0.043415,0.8059,,732.43,inferred,1000.0
+OBS_689,San Giorgio a Liri,13.765,41.407,macroseismic,0.043202,0.8059,,583.76,inferred,230.0
+OBS_690,Sant'Elia Fiumerapido,13.867,41.54,macroseismic,0.043176,0.8059,,616.16,inferred,1000.0
+OBS_667,Castellana Grotte,17.167,40.884,macroseismic,0.043136,0.8059,,340.52,inferred,992.0
+OBS_673,Furci,14.589,42.007,macroseismic,0.043081,0.8059,,554.78,inferred,965.0
+OBS_674,Isole Tremiti (San Nicola),15.503,42.122,macroseismic,0.042901,0.8059,,600.0,inferred,600.0
+OBS_688,Roccaraso,14.079,41.847,macroseismic,0.042374,0.8059,,422.08,inferred,290.0
+OBS_676,Luzzi,16.288,39.446,macroseismic,0.042198,0.8059,,727.62,inferred,1000.0
+OBS_678,Martina Franca,17.336,40.705,macroseismic,0.042094,0.8059,,390.74,inferred,994.0
+OBS_682,Pescocostanzo,14.065,41.889,macroseismic,0.042033,0.8059,,882.67,inferred,616.0
+OBS_681,Palena,14.138,41.984,macroseismic,0.041702,0.8059,,627.93,inferred,999.0
+OBS_693,Taranta Peligna,14.169,42.019,macroseismic,0.041581,0.8059,,900.0,inferred,675.0
+OBS_683,Pezze di Greco,17.414,40.812,macroseismic,0.041537,0.8059,,331.07,inferred,994.0
+OBS_695,Torino di Sangro,14.541,42.187,macroseismic,0.041464,0.8059,,281.89,inferred,594.0
+OBS_669,Cosenza,16.252,39.303,macroseismic,0.041174,0.8059,,512.11,inferred,598.0
+OBS_671,Fossacesia,14.481,42.244,macroseismic,0.040907,0.8059,,400.7,inferred,599.0
+OBS_685,Pofi,13.416,41.564,macroseismic,0.040561,0.8059,,245.32,inferred,601.0
+OBS_692,Sulmona,13.928,42.047,macroseismic,0.040531,0.8059,,369.78,inferred,600.0
+OBS_687,Poggiofiorito,14.323,42.255,macroseismic,0.040461,0.8059,,499.76,inferred,584.0
+OBS_665,Cariati,16.949,39.497,macroseismic,0.040217,0.8059,,472.19,inferred,472.0
+OBS_680,Ortona,14.404,42.353,macroseismic,0.040005,0.8059,,420.09,inferred,596.0
+OBS_666,Casalincontrada,14.135,42.29,macroseismic,0.039768,0.8059,,524.43,inferred,594.0
+OBS_668,Cepagatti,14.071,42.364,macroseismic,0.03919,0.8059,,391.18,inferred,596.0
+OBS_684,Pianella,14.05,42.398,macroseismic,0.038957,0.8059,,385.54,inferred,596.0
+OBS_679,Nicastro,16.318,38.974,macroseismic,0.038882,0.8059,,471.63,inferred,917.0
+GRG2,Garigliano-Centrale Nucleare 2,13.833,41.258,seismic,0.038878,0.0,,203.43,inferred,230.0
+OBS_663,Bellegra,13.027,41.884,macroseismic,0.037739,0.8059,,614.87,inferred,999.0
+OBS_918,Riccia,14.836,41.484,macroseismic,0.036252,0.8059,,477.2,inferred,999.0
+OBS_822,Jelsi,14.796,41.518,macroseismic,0.034769,0.8059,,535.54,inferred,999.0
+OBS_686,Poggio Mirteto,12.686,42.265,macroseismic,0.033061,0.8059,,592.15,inferred,832.0
+OBS_948,San Paolo di Civitate,15.261,41.739,macroseismic,0.031023,0.8059,,417.9,inferred,596.0
+OBS_677,Macerata,13.452,43.299,macroseismic,0.029987,0.8059,,405.58,inferred,988.0
+OBS_945,San Lorenzo Bellizzi,16.329,39.888,macroseismic,0.028772,0.8059,,900.0,inferred,796.0
+OBS_846,Mattinata,16.051,41.709,macroseismic,0.028103,0.8059,,732.33,inferred,983.0
+OBS_764,Civita,16.313,39.827,macroseismic,0.027958,0.8059,,900.0,inferred,712.0
+OBS_863,Monteroduni,14.176,41.522,macroseismic,0.027526,0.8059,,900.0,inferred,1000.0
+OBS_855,Montefalcone nel Sannio,14.64,41.865,macroseismic,0.026481,0.8059,,900.0,inferred,997.0
+OBS_944,San Giovanni Lipioni,14.562,41.843,macroseismic,0.026382,0.8059,,588.76,inferred,998.0
+OBS_870,Mottola,17.037,40.634,macroseismic,0.026088,0.8059,,504.76,inferred,766.0
+OBS_751,Celenza sul Trigno,14.581,41.872,macroseismic,0.026075,0.8059,,890.84,inferred,997.0
+OBS_763,Cittadella del Capo,15.878,39.554,macroseismic,0.025956,0.8059,,877.73,inferred,600.0
+OBS_990,Torrebruna,14.543,41.866,macroseismic,0.025955,0.8059,,644.55,inferred,993.0
+OBS_1001,Vico del Gargano,15.958,41.895,macroseismic,0.025915,0.8059,,492.08,inferred,989.0
+OBS_953,San Vittore del Lazio,13.932,41.46,macroseismic,0.025698,0.8059,,609.99,inferred,473.0
+OBS_960,Santi Cosma e Damiano,13.814,41.3,macroseismic,0.025644,0.8059,,730.34,inferred,1000.0
+OBS_755,Cervaro,13.904,41.481,macroseismic,0.025262,0.8059,,576.31,inferred,679.0
+OBS_698,Acquafondata,13.953,41.542,macroseismic,0.025195,0.8059,,542.75,inferred,1000.0
+OBS_849,Minturno,13.746,41.263,macroseismic,0.025141,0.8059,,446.01,inferred,990.0
+OBS_714,Ausonia,13.749,41.354,macroseismic,0.024677,0.8059,,564.15,inferred,1000.0
+OBS_935,San Buono,14.571,41.98,macroseismic,0.024603,0.8059,,631.1,inferred,995.0
+OBS_756,Cerzeto,16.115,39.507,macroseismic,0.024539,0.8059,,802.66,inferred,688.0
+OBS_934,San Biagio Saracinisco,13.929,41.613,macroseismic,0.02439,0.8059,,900.0,inferred,1000.0
+OBS_742,Castel di Sangro,14.108,41.783,macroseismic,0.024175,0.8059,,524.4,inferred,1000.0
+OBS_788,Fallo,14.323,41.937,macroseismic,0.023917,0.8059,,533.78,inferred,994.0
+OBS_800,Formia,13.617,41.261,macroseismic,0.023903,0.8059,,667.15,inferred,600.0
+OBS_765,Civitaluparella,14.303,41.944,macroseismic,0.02374,0.8059,,650.26,inferred,999.0
+OBS_900,Picinisco,13.868,41.645,macroseismic,0.02367,0.8059,,661.63,inferred,1000.0
+OBS_808,Gamberale,14.209,41.904,macroseismic,0.023635,0.8059,,900.0,inferred,1000.0
+OBS_804,Gaeta,13.568,41.218,macroseismic,0.023622,0.8059,,404.38,inferred,446.0
+OBS_902,Pizzoferrato,14.237,41.921,macroseismic,0.023622,0.8059,,872.1,inferred,999.0
+OBS_707,Aquino,13.7,41.493,macroseismic,0.023431,0.8059,,237.02,inferred,686.0
+OBS_712,Atina,13.8,41.619,macroseismic,0.023366,0.8059,,586.8,inferred,679.0
+OBS_963,Scerni,14.562,42.105,macroseismic,0.023127,0.8059,,426.56,inferred,594.0
+OBS_832,Locorotondo,17.325,40.755,macroseismic,0.023112,0.8059,,283.2,inferred,991.0
+OBS_1006,Villetta Barrea,13.935,41.776,macroseismic,0.023101,0.8059,,900.0,inferred,1000.0
+OBS_821,Itri,13.532,41.29,macroseismic,0.02305,0.8059,,337.35,inferred,1000.0
+OBS_940,San Donato Val di Comino,13.812,41.708,macroseismic,0.022813,0.8059,,840.5,inferred,654.0
+OBS_773,Colledimacine,14.201,42.003,macroseismic,0.022663,0.8059,,590.41,inferred,994.0
+OBS_738,Casalvieri,13.712,41.631,macroseismic,0.022662,0.8059,,459.37,inferred,940.0
+OBS_901,Pico,13.56,41.451,macroseismic,0.022577,0.8059,,673.4,inferred,1000.0
+OBS_912,Pulsano,17.355,40.384,macroseismic,0.022494,0.8059,,230.83,inferred,997.0
+OBS_941,San Giorgio Jonico,17.38,40.456,macroseismic,0.022444,0.8059,,367.09,inferred,803.0
+OBS_973,Sperlonga,13.432,41.258,macroseismic,0.022354,0.8059,,600.0,inferred,513.0
+OBS_943,San Giovanni Incarico,13.558,41.503,macroseismic,0.022308,0.8059,,821.68,inferred,931.0
+OBS_761,Cisternino,17.427,40.741,macroseismic,0.02226,0.8059,,346.58,inferred,992.0
+OBS_816,Grottaglie,17.433,40.535,macroseismic,0.022136,0.8059,,450.47,inferred,996.0
+OBS_925,Rocca Pia,13.977,41.932,macroseismic,0.022125,0.8059,,900.0,inferred,1000.0
+OBS_827,Lenola,13.462,41.406,macroseismic,0.022053,0.8059,,353.43,inferred,967.0
+OBS_894,Pastena,13.492,41.467,macroseismic,0.02201,0.8059,,704.37,inferred,216.0
+OBS_797,Fondi,13.427,41.358,macroseismic,0.021982,0.8059,,263.44,inferred,584.0
+OBS_729,Campo di Giove,14.044,42.011,macroseismic,0.021848,0.8059,,833.57,inferred,608.0
+OBS_833,Longobucco,16.611,39.449,macroseismic,0.021848,0.8059,,707.01,inferred,993.0
+OBS_1004,Villa Castelli,17.476,40.58,macroseismic,0.021843,0.8059,,388.16,inferred,995.0
+OBS_962,Scanno,13.881,41.903,macroseismic,0.021829,0.8059,,647.18,inferred,679.0
+OBS_831,Lizzano,17.448,40.391,macroseismic,0.021785,0.8059,,318.42,inferred,996.0
+OBS_899,Pettorano sul Gizio,13.96,41.972,macroseismic,0.021736,0.8059,,666.9,inferred,622.0
+OBS_798,Fontana Liri (I1eriore),13.551,41.609,macroseismic,0.02172,0.8059,,522.34,inferred,842.0
+OBS_889,Palombaro,14.231,42.126,macroseismic,0.021714,0.8059,,402.26,inferred,878.0
+SSV,SSV,15.38611,41.67944,seismic,0.021683,0.0,,318.36,inferred,595.0
+OBS_801,Fragagnano,17.474,40.43,macroseismic,0.021666,0.8059,,391.25,inferred,996.0
+OBS_749,Ceglie Messapico,17.517,40.645,macroseismic,0.021567,0.8059,,419.02,inferred,994.0
+OBS_975,Strangolagalli,13.493,41.6,macroseismic,0.021397,0.8059,,319.35,inferred,940.0
+OBS_1005,Villalago,13.838,41.935,macroseismic,0.021382,0.8059,,900.0,inferred,1000.0
+OBS_887,Pacentro,13.993,42.051,macroseismic,0.021309,0.8059,,900.0,inferred,268.0
+OBS_820,Introdacqua,13.898,42.007,macroseismic,0.021186,0.8059,,737.13,inferred,606.0
+OBS_961,Sava,17.557,40.403,macroseismic,0.021025,0.8059,,228.03,inferred,966.0
+OBS_951,San Vito Chietino,14.445,42.3,macroseismic,0.020933,0.8059,,558.98,inferred,268.0
+OBS_915,Rapino,14.188,42.211,macroseismic,0.020869,0.8059,,526.42,inferred,599.0
+OBS_709,Arielli,14.307,42.262,macroseismic,0.020854,0.8059,,412.85,inferred,594.0
+OBS_983,Terracina,13.233,41.288,macroseismic,0.02085,0.8059,,230.87,inferred,150.0
+OBS_844,Maruggio,17.571,40.321,macroseismic,0.02077,0.8059,,298.39,inferred,998.0
+OBS_910,Pretoro,14.141,42.217,macroseismic,0.020661,0.8059,,715.6,inferred,605.0
+OBS_726,Campana,16.824,39.411,macroseismic,0.020637,0.8059,,456.17,inferred,991.0
+OBS_737,Casacanditella,14.2,42.248,macroseismic,0.020626,0.8059,,527.95,inferred,598.0
+OBS_730,Canosa Sannita,14.304,42.294,macroseismic,0.020592,0.8059,,558.88,inferred,598.0
+OBS_735,Carovigno,17.658,40.705,macroseismic,0.020583,0.8059,,284.86,inferred,993.0
+OBS_789,Fara Filiorum Petri,14.186,42.249,macroseismic,0.020573,0.8059,,252.23,inferred,593.0
+OBS_928,Rogliano,16.323,39.178,macroseismic,0.020565,0.8059,,530.92,inferred,1000.0
+OBS_810,Gioia dei Marsi,13.692,41.953,macroseismic,0.020549,0.8059,,718.55,inferred,299.0
+OBS_839,Manduria,17.634,40.399,macroseismic,0.020504,0.8059,,270.96,inferred,994.0
+OBS_881,Ortona dei Marsi,13.728,41.997,macroseismic,0.020457,0.8059,,746.25,inferred,1000.0
+OBS_813,Giuliano Teatino,14.278,42.305,macroseismic,0.020432,0.8059,,588.11,inferred,598.0
+OBS_803,Frosinone,13.34,41.636,macroseismic,0.020333,0.8059,,332.8,inferred,290.0
+OBS_987,Tollo,14.319,42.339,macroseismic,0.020288,0.8059,,421.66,inferred,595.0
+OBS_952,San Vito dei Normanni,17.708,40.656,macroseismic,0.020255,0.8059,,220.08,inferred,992.0
+OBS_914,Raiano,13.813,42.102,macroseismic,0.020191,0.8059,,468.07,inferred,602.0
+OBS_848,Miglianico,14.292,42.359,macroseismic,0.020067,0.8059,,367.02,inferred,262.0
+OBS_942,San Giovanni in Fiore,16.699,39.254,macroseismic,0.020021,0.8059,,516.48,inferred,994.0
+OBS_911,Priverno,13.181,41.473,macroseismic,0.020017,0.8059,,559.27,inferred,388.0
+OBS_897,Pescina,13.657,42.025,macroseismic,0.019977,0.8059,,464.08,inferred,465.0
+OBS_702,Alatri,13.344,41.726,macroseismic,0.019976,0.8059,,529.27,inferred,1000.0
+OBS_843,Martirano,16.248,39.08,macroseismic,0.01996,0.8059,,497.66,inferred,1000.0
+OBS_932,San Benedetto dei Marsi,13.622,42.004,macroseismic,0.019939,0.8059,,328.38,inferred,230.0
+OBS_715,Avetrana,17.726,40.349,macroseismic,0.019851,0.8059,,253.9,inferred,993.0
+OBS_992,Trasacco,13.537,41.958,macroseismic,0.019803,0.8059,,458.28,inferred,447.0
+OBS_926,Roccagorga,13.156,41.525,macroseismic,0.019719,0.8059,,566.44,inferred,966.0
+OBS_746,Castelvecchio Subequo,13.731,42.13,macroseismic,0.019694,0.8059,,489.59,inferred,1000.0
+OBS_771,Collarmele,13.627,42.059,macroseismic,0.019663,0.8059,,649.51,inferred,805.0
+OBS_847,Mesagne,17.808,40.558,macroseismic,0.019604,0.8059,,226.4,inferred,596.0
+OBS_868,Morolo,13.197,41.637,macroseismic,0.019564,0.8059,,900.0,inferred,991.0
+OBS_754,Cerchio,13.601,42.064,macroseismic,0.019528,0.8059,,607.89,inferred,605.0
+OBS_770,Civitella Roveto,13.425,41.914,macroseismic,0.019514,0.8059,,864.26,inferred,1000.0
+OBS_837,Luco dei Marsi,13.471,41.959,macroseismic,0.019504,0.8059,,764.0,inferred,230.0
+OBS_701,Aielli,13.591,42.081,macroseismic,0.019399,0.8059,,777.63,inferred,1000.0
+OBS_967,Secinaro,13.679,42.154,macroseismic,0.019359,0.8059,,786.29,inferred,267.0
+OBS_947,San Pancrazio Salentino,17.838,40.418,macroseismic,0.019304,0.8059,,240.98,inferred,597.0
+OBS_750,Celano,13.546,42.084,macroseismic,0.019202,0.8059,,900.0,inferred,679.0
+OBS_767,Civitaquana,13.899,42.325,macroseismic,0.019148,0.8059,,462.62,inferred,791.0
+OBS_733,Capistrello,13.391,41.966,macroseismic,0.019126,0.8059,,849.85,inferred,230.0
+OBS_736,Casabona,16.958,39.248,macroseismic,0.0191,0.8059,,659.47,inferred,606.0
+OBS_872,Navelli,13.73,42.236,macroseismic,0.019097,0.8059,,367.54,inferred,239.0
+OBS_732,Capestrano,13.769,42.266,macroseismic,0.019065,0.8059,,657.37,inferred,232.0
+OBS_758,Cicala,16.486,39.021,macroseismic,0.019032,0.8059,,536.28,inferred,1000.0
+OBS_869,Moscufo,14.055,42.428,macroseismic,0.018975,0.8059,,601.29,inferred,597.0
+OBS_716,Avezzano,13.426,42.032,macroseismic,0.018969,0.8059,,382.63,inferred,231.0
+OBS_768,Civitella Casanova,13.889,42.364,macroseismic,0.018889,0.8059,,604.28,inferred,994.0
+OBS_938,San Donaci,17.922,40.446,macroseismic,0.018877,0.8059,,283.44,inferred,595.0
+OBS_976,Strongoli,17.05,39.265,macroseismic,0.018877,0.8059,,494.3,inferred,603.0
+OBS_886,Ovindoli,13.516,42.136,macroseismic,0.018832,0.8059,,575.37,inferred,560.0
+OBS_898,Petilia Policastro,16.789,39.112,macroseismic,0.018831,0.8059,,573.02,inferred,615.0
+OBS_996,Tuturano,17.946,40.544,macroseismic,0.018828,0.8059,,267.22,inferred,595.0
+OBS_959,Sant'Eufemia,16.254,38.92,macroseismic,0.018805,0.8059,,332.64,inferred,230.0
+OBS_906,Porto Cesareo,17.894,40.261,macroseismic,0.018775,0.8059,,342.54,inferred,819.0
+OBS_835,Loreto Aprutino,13.988,42.433,macroseismic,0.018767,0.8059,,530.82,inferred,598.0
+OBS_799,Fontecchio,13.605,42.229,macroseismic,0.018699,0.8059,,605.24,inferred,1000.0
+OBS_772,Collecorvino,14.015,42.458,macroseismic,0.01869,0.8059,,436.46,inferred,595.0
+OBS_818,Guagnano,17.95,40.401,macroseismic,0.018684,0.8059,,260.86,inferred,595.0
+OBS_753,Cellino San Marco,17.965,40.471,macroseismic,0.018675,0.8059,,252.22,inferred,595.0
+OBS_955,Santa Severina,16.913,39.147,macroseismic,0.01867,0.8059,,554.99,inferred,596.0
+OBS_1003,Villa Baldassarri,17.965,40.416,macroseismic,0.018623,0.8059,,234.1,inferred,595.0
+OBS_931,Salice Salentino,17.964,40.384,macroseismic,0.018593,0.8059,,255.23,inferred,598.0
+OBS_851,Montebello di Bertona,13.872,42.417,macroseismic,0.018541,0.8059,,837.62,inferred,997.0
+OBS_950,San Pietro Vernotico,17.997,40.488,macroseismic,0.018526,0.8059,,277.04,inferred,595.0
+OBS_924,Rocca di Mezzo,13.521,42.205,macroseismic,0.018522,0.8059,,318.67,inferred,1000.0
+OBS_1000,Veglie,17.97,40.335,macroseismic,0.018501,0.8059,,235.48,inferred,762.0
+OBS_966,Scurcola Marsicana,13.342,42.064,macroseismic,0.018497,0.8059,,407.89,inferred,230.0
+OBS_896,Penne,13.928,42.457,macroseismic,0.01847,0.8059,,409.68,inferred,975.0
+OBS_838,Magliano de' Marsi,13.363,42.092,macroseismic,0.018457,0.8059,,690.98,inferred,506.0
+OBS_946,San Mauro Marchesato,16.925,39.103,macroseismic,0.01839,0.8059,,573.52,inferred,599.0
+OBS_721,Borgo Piave,12.864,41.482,macroseismic,0.018361,0.8059,,243.29,inferred,230.0
+OBS_727,Campi Salentina,18.019,40.398,macroseismic,0.018333,0.8059,,226.17,inferred,984.0
+OBS_790,Farindola,13.824,42.441,macroseismic,0.018278,0.8059,,621.45,inferred,996.0
+OBS_722,Borgo Podgora,12.855,41.514,macroseismic,0.018249,0.8059,,224.13,inferred,230.0
+OBS_989,Torchiarolo,18.052,40.483,macroseismic,0.018248,0.8059,,244.16,inferred,594.0
+OBS_974,Squinzano,18.044,40.429,macroseismic,0.018242,0.8059,,301.65,inferred,593.0
+OBS_877,Novoli,18.049,40.377,macroseismic,0.018165,0.8059,,204.6,inferred,796.0
+OBS_747,Catanzaro,16.586,38.914,macroseismic,0.018157,0.8059,,565.13,inferred,1000.0
+OBS_980,Tagliacozzo,13.251,42.068,macroseismic,0.018139,0.8059,,868.91,inferred,556.0
+OBS_977,Subiaco,13.095,41.925,macroseismic,0.018084,0.8059,,615.42,inferred,1000.0
+OBS_993,Trepuzzi,18.074,40.405,macroseismic,0.018075,0.8059,,329.31,inferred,799.0
+OBS_777,Copertino,18.048,40.272,macroseismic,0.018039,0.8059,,201.39,inferred,904.0
+OBS_871,Nard,18.031,40.178,macroseismic,0.017972,0.8059,,267.63,inferred,597.0
+OBS_760,Cisterna di Latina,12.83,41.591,macroseismic,0.017964,0.8059,,288.82,inferred,557.0
+OBS_710,Arnesano,18.091,40.336,macroseismic,0.017922,0.8059,,259.43,inferred,627.0
+OBS_812,Girifalco,16.425,38.822,macroseismic,0.017918,0.8059,,598.52,inferred,600.0
+OBS_713,Atri,13.978,42.58,macroseismic,0.017917,0.8059,,565.49,inferred,989.0
+OBS_857,Montefino,13.885,42.543,macroseismic,0.017898,0.8059,,489.28,inferred,525.0
+OBS_794,Filadelfia,16.292,38.783,macroseismic,0.017891,0.8059,,723.77,inferred,991.0
+OBS_864,Monteroni di Lecce,18.096,40.326,macroseismic,0.017887,0.8059,,279.63,inferred,819.0
+OBS_725,Camerata Nuova,13.108,42.018,macroseismic,0.017802,0.8059,,863.92,inferred,1000.0
+OBS_979,Surbo,18.134,40.394,macroseismic,0.017786,0.8059,,236.91,inferred,982.0
+OBS_806,Galatone,18.07,40.147,macroseismic,0.017744,0.8059,,331.56,inferred,992.0
+OBS_949,San Pietro in Lama,18.129,40.307,macroseismic,0.017714,0.8059,,270.12,inferred,607.0
+OBS_781,Crotone,17.127,39.08,macroseismic,0.017696,0.8059,,272.99,inferred,337.0
+OBS_809,Gerano,12.994,41.933,macroseismic,0.01767,0.8059,,621.76,inferred,1000.0
+OBS_828,Lequile,18.142,40.306,macroseismic,0.017655,0.8059,,287.12,inferred,780.0
+OBS_752,Cellino Attanasio,13.859,42.586,macroseismic,0.017617,0.8059,,525.47,inferred,598.0
+OBS_826,Lecce,18.169,40.351,macroseismic,0.017586,0.8059,,212.95,inferred,982.0
+OBS_936,San Cesario di Lecce,18.16,40.302,macroseismic,0.017571,0.8059,,253.68,inferred,594.0
+OBS_875,Nettuno,12.663,41.459,macroseismic,0.017516,0.8059,,299.13,inferred,412.0
+OBS_824,L'Aquila,13.396,42.356,macroseismic,0.017451,0.8059,,470.18,inferred,577.0
+OBS_939,San Donato di Lecce,18.183,40.266,macroseismic,0.017428,0.8059,,314.83,inferred,984.0
+OBS_711,Arsoli,13.019,42.04,macroseismic,0.017408,0.8059,,790.13,inferred,448.0
+OBS_759,Ciciliano,12.941,41.961,macroseismic,0.017387,0.8059,,409.09,inferred,654.0
+OBS_805,Galatina,18.168,40.175,macroseismic,0.017366,0.8059,,263.01,inferred,987.0
+OBS_891,Parabita,18.127,40.05,macroseismic,0.01733,0.8059,,498.85,inferred,992.0
+OBS_830,Lizzanello,18.223,40.302,macroseismic,0.0173,0.8059,,210.31,inferred,984.0
+OBS_705,Anzio,12.611,41.466,macroseismic,0.017289,0.8059,,432.99,inferred,230.0
+OBS_913,Racale,18.094,39.96,macroseismic,0.017289,0.8059,,240.73,inferred,994.0
+OBS_823,Lanuvio,12.699,41.677,macroseismic,0.017235,0.8059,,542.38,inferred,805.0
+OBS_783,Cutrofiano,18.2,40.125,macroseismic,0.017158,0.8059,,277.85,inferred,987.0
+OBS_825,Lavinio,12.587,41.502,macroseismic,0.017134,0.8059,,404.89,inferred,230.0
+OBS_739,Casarano,18.16,40.01,macroseismic,0.017123,0.8059,,426.05,inferred,992.0
+OBS_867,Montorio al Vomano,13.629,42.582,macroseismic,0.0171,0.8059,,429.93,inferred,939.0
+OBS_1002,Vicovaro,12.896,42.017,macroseismic,0.017059,0.8059,,509.09,inferred,834.0
+OBS_971,Soverato,16.549,38.687,macroseismic,0.016993,0.8059,,411.89,inferred,447.0
+OBS_704,Albano Laziale,12.659,41.728,macroseismic,0.016972,0.8059,,534.52,inferred,601.0
+OBS_743,Castel Gandolfo,12.651,41.746,macroseismic,0.016903,0.8059,,600.0,inferred,600.0
+OBS_841,Marino,12.661,41.77,macroseismic,0.016886,0.8059,,566.89,inferred,600.0
+OBS_984,Tivoli,12.798,41.964,macroseismic,0.01688,0.8059,,706.0,inferred,1000.0
+OBS_985,Tizzano,13.64,42.645,macroseismic,0.016849,0.8059,,432.67,inferred,998.0
+OBS_978,Supersano,18.241,40.018,macroseismic,0.016822,0.8059,,490.2,inferred,989.0
+OBS_982,Taurisano,18.215,39.956,macroseismic,0.01681,0.8059,,263.03,inferred,991.0
+OBS_708,Arena,16.209,38.562,macroseismic,0.016776,0.8059,,795.58,inferred,970.0
+SGR,SGR,14.92639,41.27167,seismic,0.016769,0.0,,493.12,inferred,605.0
+OBS_718,Bellante,13.806,42.744,macroseismic,0.016757,0.8059,,532.17,inferred,597.0
+OBS_840,Marcellina,12.806,42.023,macroseismic,0.016743,0.8059,,541.34,inferred,820.0
+OBS_802,Frattocchie,12.617,41.766,macroseismic,0.016738,0.8059,,419.41,inferred,768.0
+OBS_930,Ruffano,18.248,39.984,macroseismic,0.016737,0.8059,,412.65,inferred,992.0
+OBS_968,Serra San Bruno,16.33,38.576,macroseismic,0.016723,0.8059,,254.0,inferred,997.0
+OBS_965,Scorrano,18.299,40.091,macroseismic,0.016718,0.8059,,271.71,inferred,986.0
+OBS_991,Tortoreto,13.914,42.803,macroseismic,0.016689,0.8059,,533.16,inferred,596.0
+OBS_784,Dinami,16.147,38.528,macroseismic,0.016659,0.8059,,654.0,inferred,912.0
+OBS_757,Ciampino,12.604,41.8,macroseismic,0.016619,0.8059,,342.41,inferred,597.0
+OBS_703,Alba Adriatica,13.93,42.827,macroseismic,0.016608,0.8059,,600.0,inferred,410.0
+OBS_728,Campli,13.686,42.726,macroseismic,0.016598,0.8059,,577.65,inferred,801.0
+OBS_888,Palombara Sabina,12.766,42.066,macroseismic,0.016496,0.8059,,596.29,inferred,997.0
+OBS_717,Badolato,16.524,38.568,macroseismic,0.01645,0.8059,,900.0,inferred,999.0
+OBS_874,Nereto,13.817,42.819,macroseismic,0.016447,0.8059,,460.44,inferred,597.0
+OBS_779,Corropoli,13.833,42.828,macroseismic,0.016436,0.8059,,423.8,inferred,597.0
+OBS_769,Civitella del Tronto,13.668,42.772,macroseismic,0.016369,0.8059,,552.44,inferred,996.0
+OBS_988,Torano Nuovo,13.777,42.823,macroseismic,0.016358,0.8059,,437.74,inferred,596.0
+OBS_842,Martinsicuro,13.914,42.885,macroseismic,0.016324,0.8059,,210.94,inferred,409.0
+OBS_811,Gioia Tauro,15.899,38.426,macroseismic,0.016309,0.8059,,371.29,inferred,409.0
+OBS_775,Colonnella,13.867,42.872,macroseismic,0.016304,0.8059,,505.71,inferred,416.0
+OBS_814,Giurdignano,18.431,40.122,macroseismic,0.016275,0.8059,,302.5,inferred,987.0
+OBS_995,Tricase,18.36,39.93,macroseismic,0.016241,0.8059,,282.51,inferred,993.0
+OBS_958,Sant'Egidio alla Vibrata,13.716,42.825,macroseismic,0.01624,0.8059,,542.73,inferred,681.0
+OBS_860,Montelibretti,12.739,42.134,macroseismic,0.016228,0.8059,,448.49,inferred,295.0
+OBS_923,Rizziconi,15.959,38.411,macroseismic,0.01621,0.8059,,359.59,inferred,599.0
+OBS_997,Uggiano la Chiesa,18.449,40.101,macroseismic,0.016184,0.8059,,304.22,inferred,601.0
+OBS_903,Polistena,16.076,38.406,macroseismic,0.01612,0.8059,,478.91,inferred,600.0
+OBS_885,Otranto,18.491,40.144,macroseismic,0.01609,0.8059,,353.41,inferred,598.0
+OBS_933,San Benedetto del Tronto,13.893,42.934,macroseismic,0.016082,0.8059,,600.0,inferred,338.0
+OBS_861,Monteprandone,13.835,42.919,macroseismic,0.016054,0.8059,,440.05,inferred,597.0
+OBS_741,Castel di Lama (Villa Piattoni),13.707,42.873,macroseismic,0.016029,0.8059,,508.68,inferred,776.0
+OBS_929,Roma,12.482,41.895,macroseismic,0.016017,0.8059,,387.72,inferred,600.0
+OBS_893,Passo Corese,12.65,42.153,macroseismic,0.015921,0.8059,,353.1,inferred,232.0
+OBS_699,Acquaviva Picena,13.814,42.944,macroseismic,0.015919,0.8059,,556.68,inferred,594.0
+OBS_817,Grottammare,13.872,42.98,macroseismic,0.015861,0.8059,,353.07,inferred,288.0
+OBS_919,Rieti,12.867,42.404,macroseismic,0.015822,0.8059,,484.05,inferred,234.0
+LRS,Lauria,15.835,40.046,seismic,0.015816,0.0,,754.39,inferred,993.0
+OBS_792,Fiano Romano,12.59,42.17,macroseismic,0.015711,0.8059,,531.38,inferred,571.0
+OBS_829,Lido di Ostia,12.28,41.729,macroseismic,0.015691,0.8059,,239.64,inferred,243.0
+OBS_782,Cupra Marittima,13.86,43.024,macroseismic,0.015667,0.8059,,600.0,inferred,541.0
+OBS_731,Capena,12.54,42.142,macroseismic,0.01564,0.8059,,394.69,inferred,411.0
+OBS_920,Ripatransone,13.762,42.999,macroseismic,0.015622,0.8059,,315.23,inferred,601.0
+OBS_780,Cossignano,13.688,42.983,macroseismic,0.01557,0.8059,,414.87,inferred,596.0
+OBS_927,Roccella Jonica,16.405,38.324,macroseismic,0.015505,0.8059,,600.0,inferred,641.0
+OBS_845,Massignano,13.798,43.05,macroseismic,0.015479,0.8059,,530.12,inferred,599.0
+OBS_964,Scido,15.933,38.245,macroseismic,0.015477,0.8059,,473.63,inferred,999.0
+OBS_734,Carassai,13.686,43.031,macroseismic,0.015389,0.8059,,452.02,inferred,670.0
+OBS_969,Siderno,16.294,38.269,macroseismic,0.01537,0.8059,,600.0,inferred,264.0
+OBS_748,Catona,15.643,38.185,macroseismic,0.015291,0.8059,,522.89,inferred,265.0
+OBS_866,Monterubbiano,13.716,43.085,macroseismic,0.015235,0.8059,,617.36,inferred,600.0
+OBS_787,Faleria,12.443,42.226,macroseismic,0.015192,0.8059,,372.81,inferred,600.0
+OBS_876,Norcia,13.094,42.793,macroseismic,0.01517,0.8059,,658.34,inferred,788.0
+OBS_791,Fermo,13.716,43.16,macroseismic,0.014968,0.8059,,460.84,inferred,598.0
+OBS_744,Castel Sant'Elia,12.369,42.249,macroseismic,0.014958,0.8059,,295.57,inferred,600.0
+OBS_865,Monterosi,12.309,42.196,macroseismic,0.01492,0.8059,,323.07,inferred,600.0
+OBS_873,Nepi,12.345,42.241,macroseismic,0.014916,0.8059,,224.07,inferred,600.0
+OBS_895,Penna San Giovanni,13.426,43.056,macroseismic,0.01491,0.8059,,704.44,inferred,785.0
+OBS_858,Montegiorgio,13.537,43.13,macroseismic,0.014829,0.8059,,475.15,inferred,992.0
+OBS_719,Bianco,16.15,38.088,macroseismic,0.014755,0.8059,,382.46,inferred,771.0
+OBS_956,Sant'Angelo in Pontano,13.398,43.099,macroseismic,0.01473,0.8059,,593.64,inferred,998.0
+OBS_785,Fabrica di Roma,12.295,42.334,macroseismic,0.014607,0.8059,,437.28,inferred,963.0
+OBS_850,Monte San Giusto,13.595,43.236,macroseismic,0.01456,0.8059,,416.41,inferred,595.0
+GSN,GSN,14.44583,41.30167,seismic,0.014556,0.0,,900.0,inferred,299.0
+OBS_922,Ripe San Ginesio,13.367,43.142,macroseismic,0.014551,0.8059,,550.4,inferred,916.0
+OBS_836,Loro Piceno,13.416,43.166,macroseismic,0.014545,0.8059,,409.54,inferred,768.0
+OBS_880,Orte,12.385,42.46,macroseismic,0.014543,0.8059,,453.84,inferred,682.0
+OBS_766,Civitanova Marche,13.73,43.307,macroseismic,0.01449,0.8059,,246.41,inferred,503.0
+OBS_774,Colmurano,13.358,43.163,macroseismic,0.014474,0.8059,,571.62,inferred,630.0
+OBS_778,Corridonia,13.51,43.248,macroseismic,0.014415,0.8059,,430.43,inferred,982.0
+OBS_998,Urbisaglia,13.377,43.196,macroseismic,0.0144,0.8059,,373.65,inferred,235.0
+OBS_853,Montecosaro,13.636,43.316,macroseismic,0.014354,0.8059,,545.47,inferred,598.0
+OBS_907,Porto Potenza Picena,13.698,43.36,macroseismic,0.014285,0.8059,,600.0,inferred,522.0
+OBS_776,Comacchio,12.183,44.694,macroseismic,0.014268,0.8059,,203.45,inferred,230.0
+OBS_916,Ravenna,12.198,44.417,macroseismic,0.014268,0.8059,,194.09,inferred,230.0
+OBS_862,Monterado,13.092,43.697,macroseismic,0.014268,0.8059,,544.82,inferred,954.0
+OBS_786,Fabro,12.013,42.863,macroseismic,0.014268,0.8059,,530.78,inferred,384.0
+OBS_994,Trestina,12.238,43.368,macroseismic,0.014268,0.8059,,383.25,inferred,230.0
+OBS_740,Castel Colonna,13.107,43.679,macroseismic,0.014268,0.8059,,443.74,inferred,975.0
+OBS_882,Orvieto,12.113,42.719,macroseismic,0.014268,0.8059,,437.51,inferred,595.0
+OBS_879,Offagna,13.442,43.527,macroseismic,0.014268,0.8059,,524.25,inferred,444.0
+OBS_878,Numana,13.622,43.512,macroseismic,0.014268,0.8059,,456.0,inferred,600.0
+OBS_859,Monteleone d'Orvieto,12.051,42.917,macroseismic,0.014268,0.8059,,581.9,inferred,832.0
+OBS_972,Spello,12.668,42.992,macroseismic,0.014268,0.8059,,729.88,inferred,781.0
+OBS_954,Santa Maria degli Angeli [santuario],12.579,43.058,macroseismic,0.014268,0.8059,,295.43,inferred,230.0
+OBS_720,Bomarzo,12.251,42.488,macroseismic,0.014268,0.8059,,489.32,inferred,682.0
+OBS_762,Citt di Castello,12.239,43.457,macroseismic,0.014268,0.8059,,609.5,inferred,262.0
+OBS_937,San Clemente,12.626,43.932,macroseismic,0.014268,0.8059,,315.7,inferred,600.0
+OBS_793,Fidenza,10.061,44.866,macroseismic,0.014268,0.8059,,760.0,inferred,230.0
+OBS_724,Camerano,13.551,43.53,macroseismic,0.014268,0.8059,,465.52,inferred,983.0
+OBS_921,Ripe,13.107,43.671,macroseismic,0.014268,0.8059,,505.61,inferred,975.0
+OBS_970,Sirolo,13.62,43.521,macroseismic,0.014268,0.8059,,456.0,inferred,611.0
+OBS_819,Gualdo Cattaneo,12.556,42.911,macroseismic,0.014268,0.8059,,615.37,inferred,1000.0
+OBS_905,Polverigi,13.394,43.525,macroseismic,0.014268,0.8059,,425.24,inferred,811.0
+OBS_815,Graffignano,12.205,42.575,macroseismic,0.014268,0.8059,,466.28,inferred,951.0
+OBS_883,Osimo,13.483,43.485,macroseismic,0.014268,0.8059,,350.94,inferred,596.0
+OBS_908,Porto Recanati,13.665,43.432,macroseismic,0.014268,0.8059,,267.48,inferred,443.0
+OBS_892,Parrano,12.106,42.863,macroseismic,0.014268,0.8059,,730.55,inferred,636.0
+OBS_796,Foligno,12.704,42.955,macroseismic,0.014268,0.8059,,305.17,inferred,458.0
+OBS_999,Valtopina,12.754,43.056,macroseismic,0.014268,0.8059,,620.27,inferred,1000.0
+OBS_957,Santarcangelo di Romagna,12.447,44.063,macroseismic,0.014268,0.8059,,268.77,inferred,600.0
+OBS_884,Ostra Vetere,13.059,43.603,macroseismic,0.014268,0.8059,,439.31,inferred,628.0
+OBS_807,Gallicano,10.435,44.06,macroseismic,0.014268,0.8059,,837.41,inferred,661.0
+OBS_706,Appignano,13.347,43.364,macroseismic,0.014268,0.8059,,345.45,inferred,821.0
+OBS_723,Brescia,10.214,45.544,macroseismic,0.014268,0.8059,,760.0,inferred,521.0
+OBS_856,Montefano,13.438,43.411,macroseismic,0.014268,0.8059,,545.52,inferred,979.0
+OBS_986,Todi,12.407,42.781,macroseismic,0.014268,0.8059,,559.67,inferred,263.0
+OBS_745,Castelfidardo,13.55,43.463,macroseismic,0.014268,0.8059,,378.68,inferred,813.0
+OBS_854,Montefalco,12.652,42.893,macroseismic,0.014268,0.8059,,590.3,inferred,230.0
+OBS_981,Tarquinia,11.757,42.252,macroseismic,0.014268,0.8059,,521.2,inferred,231.0
+OBS_834,Loreto,13.61,43.44,macroseismic,0.014268,0.8059,,537.08,inferred,415.0
+OBS_917,Recanati,13.55,43.403,macroseismic,0.014268,0.8059,,434.88,inferred,821.0
+OBS_795,Filottrano,13.351,43.434,macroseismic,0.014268,0.8059,,385.14,inferred,757.0
+OBS_909,Potenza Picena,13.621,43.366,macroseismic,0.014268,0.8059,,559.11,inferred,591.0
+OBS_700,Agugliano,13.389,43.544,macroseismic,0.014268,0.8059,,474.53,inferred,787.0
+OBS_904,Pollenza,13.348,43.267,macroseismic,0.014268,0.8059,,518.72,inferred,596.0
+OBS_852,Montecassiano,13.436,43.363,macroseismic,0.014268,0.8059,,452.86,inferred,600.0
+OBS_890,Panicarola,12.088,43.069,macroseismic,0.014268,0.8059,,296.55,inferred,295.0

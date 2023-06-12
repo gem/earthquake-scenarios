@@ -1,0 +1,19 @@
+[2023-02-07 11:58:16.16 #812 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Italy\DRAFT_20161026_M6.09_CentralItaly\OpenQuake_gmfs\job_no_stations.ini [--hc=None]
+[2023-02-07 11:58:16.23 #812 INFO] Using engine version 3.16.0
+[2023-02-07 11:58:16.57 #812 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-07 11:58:16.62 #812 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-07 11:58:16.66 #812 INFO] Checksum of the inputs: 513769972 (total size 467.12 KB)
+[2023-02-07 11:58:16.72 #812 WARNING] Entering SLOW MODE. You have 3.9 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+[2023-02-07 11:58:16.76 #812 INFO] Extracting the hazard sites from the site model
+[2023-02-07 11:58:16.93 #812 INFO] Read N=6711 hazard sites and L=1 hazard levels
+[2023-02-07 11:58:17.63 #812 INFO] min_iml=[1.e-10]
+[2023-02-07 11:58:17.73 #812 INFO] There are 1 realization(s)
+[2023-02-07 11:58:17.78 #812 INFO] Reordering the ruptures and storing the events
+[2023-02-07 11:58:17.88 #812 INFO] Reading 1 ruptures
+[2023-02-07 11:58:18.67 #812 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-07 11:58:18.69 #812 INFO] Received {'gmfdata': '158.18 KB', 'sig_eps': '323 B', 'times': '309 B', 'hcurves': '5 B'} in 0 seconds from event_based
+[2023-02-07 11:58:18.70 #812 INFO] Stored 78.68 KB of GMFs
+[2023-02-07 11:58:21.85 #812 INFO] Checking stored GMFs
+[2023-02-07 11:58:21.91 #812 WARNING] 
+[2023-02-07 11:58:22.02 #812 INFO] Exposing the outputs to the database
+[2023-02-07 11:58:22.14 #812 INFO] Stored 1.18 MB on C:\Users\Maria Camila\oqdata/calc_812.hdf5 in 5 seconds

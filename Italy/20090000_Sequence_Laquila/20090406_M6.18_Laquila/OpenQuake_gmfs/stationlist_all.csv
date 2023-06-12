@@ -1,0 +1,884 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SOIL_TYPE,VS30,VS30_TYPE,VS30_USGS
+MI05,S. EUSANIO FORCONESE  ITALY,13.525255,42.289474,seismic,0.651509,0.0,A (inferred from geology),600.0,inferred_USGS,600.0
+AQV,L AQUILA   V. ATERNO   CENTRO VALLE,13.343888,42.377222,seismic,0.644247,0.0,B,474.0,B,820.0
+AQG,L AQUILA   V. ATERNO    COLLE GRILLI,13.337026,42.373474,seismic,0.479267,0.0,B,696.0,B,804.0
+AQA,L AQUILA   V. ATERNO    F. ATERNO,13.339298,42.37553,seismic,0.435394,0.0,B,549.0,B,820.0
+AQK,L AQUILA   V. ATERNO   AQUIL PARK ING.,13.400949,42.344967,seismic,0.35546,0.0,B,705.0,B,600.0
+AQU,L AQUILA  ITALY,13.405,42.354,seismic,0.306426,0.0,B (inferred from geology),628.0,inferred_USGS,628.0
+GSA,GRAN SASSO  LAB. INFN ASSERGI,13.519362,42.420689,seismic,0.27652,0.0,B,492.0,B,239.0
+RM09,PIANO DI CASCINA  CAGNANO AMITERNO    AQ,13.18649,42.4355,seismic,0.147512,0.0,B (inferred from geology),559.0,inferred_USGS,559.0
+RM14,BARISCIANO   AQ,13.57222,42.34536,seismic,0.130917,0.0,B (inferred from geology),569.0,inferred_USGS,569.0
+AQM,L'AQUILA - V. ATERNO -  IL MORO,13.349262,42.378643,seismic,0.124261,0.0,B (inferred from geology),918.0,inferred_USGS,918.0
+AQP,L'AQUILA - V. ATERNO -  M. PETTINO,13.368598,42.383686,seismic,0.092135,0.0,A,836.0,A,1000.0
+CLN,CELANO,13.520722,42.085224,seismic,0.088468,0.0,B (inferred from geology),560.0,inferred_USGS,560.0
+AQF,L AQUILA   V. ATERNO    FERRIERA,13.35474,42.380539,seismic,0.077231,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+BZZ,BAZZANO,13.468575,42.337025,seismic,0.068035,0.0,B,679.0,B,235.0
+AVZ,AVEZZANO,13.425929,42.027458,seismic,0.067691,0.0,C,199.0,C,230.0
+ORC,ORTUCCHIO  NUOVA,13.642346,41.953606,seismic,0.064076,0.0,B,767.0,B,231.0
+MTR,MONTEREALE,13.244796,42.524021,seismic,0.061371,0.0,B,689.0,B,939.0
+SUL,SULMONA,13.934,42.089,seismic,0.033624,0.0,A (inferred from geology),841.0,inferred_USGS,841.0
+CHT,CHIETI,14.147809,42.369827,seismic,0.02943,0.0,B (inferred from geology),596.0,inferred_USGS,596.0
+GSG,GRAN SASSO (LAB. INFN GALLERIA),13.55,42.46,seismic,0.029395,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+FMG,FIAMIGNANO,13.11722,42.268028,seismic,0.026324,0.0,B,790.0,B,1000.0
+ANT,ANTRODOCO,13.078598,42.41811,seismic,0.025971,0.0,A,912.0,A,1000.0
+GUMA,GUALDO DI MACERATA,13.3352,43.0627,seismic,0.020388,0.0,B,488.0,B,999.0
+SCN,SCANNO,13.872396,41.918655,seismic,0.019367,0.0,A,839.0,A,1000.0
+CSO1,CARSOLI1,13.088044,42.100933,seismic,0.018288,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+BOJS,BOJANCI  SL,15.2518,45.5043,seismic,0.014161,0.0,B (inferred from topography),356.0,inferred_USGS,356.0
+SENI,SENIGALLIA,13.2331,43.7052,seismic,0.013376,0.0,C,242.0,C,522.0
+CDS,CASTEL DI SANGRO,14.11187,41.78714,seismic,0.009952,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+TMO,TERMOLI,14.975007,41.989445,seismic,0.009843,0.0,B (inferred from geology),597.0,inferred_USGS,597.0
+LSS,LEONESSA  NUOVA,12.968894,42.558243,seismic,0.009614,0.0,A,1091.0,A,607.0
+SPO,SPOLETO,12.740602,42.733585,seismic,0.009575,0.0,A (inferred from geology),992.0,inferred_USGS,992.0
+CSS,CASSINO,13.82309,41.48579,seismic,0.009442,0.0,B,648.0,B,230.0
+CDCA,CITTA DI CASTELLO,12.2336,43.4584,seismic,0.009328,0.0,C,277.0,C,230.0
+MMP,MOMPEO,12.748537,42.248547,seismic,0.008845,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+SPC,SPOLETO (CANTINA),12.739693,42.743469,seismic,0.007555,0.0,C (inferred from geology),607.0,inferred_USGS,607.0
+ISR,ISERNIA,14.2359,41.6106,seismic,0.007186,0.0,B (inferred from geology),882.0,inferred_USGS,882.0
+PTF,PETRELLA TIFERNINA,14.7024,41.6963,seismic,0.006865,0.0,B (inferred from geology),999.0,inferred_USGS,999.0
+SBC,SUBIACO,13.105518,41.913158,seismic,0.006647,0.0,A,1298.0,A,1000.0
+ASS,ASSISI,12.604141,43.074982,seismic,0.006047,0.0,A (inferred from geology),623.0,inferred_USGS,623.0
+SCP,SERRACAPRIOLA,15.164646,41.807213,seismic,0.005643,0.0,B (inferred from geology),598.0,inferred_USGS,598.0
+SSR,S.SEVERO,15.37362,41.691341,seismic,0.005352,0.0,B (inferred from geology),594.0,inferred_USGS,594.0
+CMR,CASTELMAURO,14.712029,41.833427,seismic,0.005296,0.0,B (inferred from geology),994.0,inferred_USGS,994.0
+PSC,PESCASSEROLI,13.789196,41.812042,seismic,0.00524,0.0,A,1000.0,A,1000.0
+CTL,CATTOLICA,12.735809,43.955116,seismic,0.004362,0.0,C,208.0,C,419.0
+SCM,S. CROCE DI MAGLIANO,14.983749,41.710827,seismic,0.004281,0.0,B (inferred from geology),995.0,inferred_USGS,995.0
+SNS,SANSEPOLCRO,12.143375,43.56739,seismic,0.00383,0.0,C,310.0,C,299.0
+VRP,VAIRANO PATENORA,14.131685,41.33321,seismic,0.003522,0.0,B (inferred from geology),230.0,inferred_USGS,230.0
+TTS,TITO SCALO,15.723605,40.601345,seismic,0.003459,0.0,D,175.0,D,263.0
+CMB,CAMPOBASSO,14.6523,41.5628,seismic,0.002887,0.0,B (inferred from geology),999.0,inferred_USGS,999.0
+NAP,NAPOLI OVEST,14.179607,40.799255,seismic,0.002617,0.0,C (inferred from geology),441.0,inferred_USGS,441.0
+TLS,TELESE TERME,14.529974,41.222237,seismic,0.002592,0.0,B (inferred from geology),794.0,inferred_USGS,794.0
+SANL,SANTARCANGELO,16.271763,40.25275,seismic,0.002526,0.0,B,443.0,B,258.0
+RIC,RICCIA,14.83767,41.482738,seismic,0.002514,0.0,B (inferred from geology),1000.0,inferred_USGS,1000.0
+MNN,MANFREDONIA,15.91132,41.634186,seismic,0.00237,0.0,A,815.0,A,947.0
+MNG,MONTE S. ANGELO,15.95803,41.70354,seismic,0.00232,0.0,A (inferred from geology),989.0,inferred_USGS,989.0
+SNM,SAN MARINO,12.44929,43.934326,seismic,0.002272,0.0,B (inferred from geology),552.0,inferred_USGS,552.0
+VIE,VIESTE,16.165255,41.876976,seismic,0.002198,0.0,C (inferred from geology),682.0,inferred_USGS,682.0
+GNL,GENZANO DI LUCANIA,16.033119,40.843315,seismic,0.002194,0.0,A (inferred from geology),414.0,inferred_USGS,414.0
+BNE,BENEVENTO (NUOVA),14.784882,41.127556,seismic,0.002046,0.0,C (inferred from geology),520.0,inferred_USGS,520.0
+SDG,SANNICANDRO GARGANICO,15.5589,41.8426,seismic,0.001998,0.0,A,800.0,A,987.0
+BDT,BADIA TEDALDA,12.188036,43.706772,seismic,0.001994,0.0,B,593.0,B,652.0
+CAN,CANDELA,15.475419,41.203197,seismic,0.001901,0.0,B (inferred from geology),630.0,inferred_USGS,630.0
+CNM,CASALNUOVO MONTEROTARO (NUOVA),15.104517,41.618225,seismic,0.001878,0.0,B (inferred from geology),964.0,inferred_USGS,964.0
+CER,CERIGNOLA,15.9102,41.2595,seismic,0.00175,0.0,B,396.0,B,593.0
+FOR,FORLI  NUOVA,12.041916,44.199409,seismic,0.001589,0.0,C,296.0,C,600.0
+PDM,PIEDIMONTE MATESE,14.385376,41.355354,seismic,0.001519,0.0,C (inferred from geology),1000.0,inferred_USGS,1000.0
+LJU,LJUBLJANA  SL,14.5278,46.0438,seismic,0.00147,0.0,B (inferred from topography),525.0,inferred_USGS,525.0
+STN,STURNO,15.11167,41.018353,seismic,0.001369,0.0,B (inferred from geology),999.0,inferred_USGS,999.0
+AVL,AVELLINO,14.787044,40.922832,seismic,0.001269,0.0,C (inferred from geology),718.0,inferred_USGS,718.0
+PIC,PIANCASTAGNAIO,11.684975,42.850376,seismic,0.00124,0.0,B (inferred from geology),680.0,inferred_USGS,680.0
+BBN,BIBBIENA  NUOVA,11.821428,43.747646,seismic,0.001002,0.0,A,1000.0,A,1000.0
+STL,SATRIANO DI LUCANIA,15.642169,40.541065,seismic,0.00094,0.0,B,395.0,B,1000.0
+UTM:(33T 037 468 10000),,13.4834,42.3072,macroseismic,0.684902,0.8059,,618.6,inferred,230.0
+OBS_15,Fossa::Abruzzen::Italy 3 responses 13 km,13.48,42.28,macroseismic,0.643578,0.8059,,791.28,inferred,551.0
+DBMI_206,1 (Intensity VIII),13.66,42.29,macroseismic,0.634178,0.8059,,900.0,inferred,653.0
+OBS_21,LAquila::Abruzzen::Italy 15 responses 4 km,13.39,42.35,macroseismic,0.471483,0.8059,,471.27,inferred,604.0
+DBMI_406,1 (Intensity VII),13.37,42.56,macroseismic,0.321615,0.8059,,538.85,inferred,918.0
+DBMI_1,878 (Intensity VI),13.4,42.36,macroseismic,0.253044,0.8059,,478.16,inferred,577.0
+DBMI_733,1 (Intensity VII),12.77,42.83,macroseismic,0.228393,0.8059,,753.32,inferred,1000.0
+DBMI_62,7 (Intensity VI),13.49,42.3,macroseismic,0.22343,0.8059,,545.99,inferred,230.0
+DBMI_31,15 (Intensity VI),13.56,42.29,macroseismic,0.22343,0.8059,,553.23,inferred,788.0
+DBMI_152,1 (Intensity VII),14.37,42.03,macroseismic,0.219899,0.8059,,900.0,inferred,998.0
+DBMI_104,6 (Intensity VI),13.34,42.29,macroseismic,0.209949,0.8059,,688.04,inferred,1000.0
+DBMI_245,4 (Intensity VI),13.49,42.24,macroseismic,0.209949,0.8059,,845.55,inferred,1000.0
+DBMI_228,1 (Intensity VI),13.54,42.27,macroseismic,0.209949,0.8059,,522.41,inferred,600.0
+DBMI_45,6 (Intensity VI),13.48,42.29,macroseismic,0.209949,0.8059,,868.04,inferred,389.0
+DBMI_250,2 (Intensity VI),13.28,42.45,macroseismic,0.202443,0.8059,,900.0,inferred,679.0
+DBMI_321,1 (Intensity VI),13.58,42.25,macroseismic,0.201609,0.8059,,595.09,inferred,1000.0
+DBMI_64,4 (Intensity VI),13.68,42.25,macroseismic,0.199179,0.8059,,649.44,inferred,556.0
+DBMI_58,37 (Intensity VI),13.26,42.37,macroseismic,0.197282,0.8059,,599.52,inferred,604.0
+DBMI_255,2 (Intensity VI),13.61,42.28,macroseismic,0.196533,0.8059,,324.21,inferred,605.0
+DBMI_26,16 (Intensity VI),13.59,42.33,macroseismic,0.190447,0.8059,,900.0,inferred,926.0
+DBMI_6,5 (Intensity VI),13.54,42.32,macroseismic,0.185379,0.8059,,589.75,inferred,605.0
+DBMI_210,2 (Intensity VI),13.72,42.18,macroseismic,0.184125,0.8059,,900.0,inferred,1000.0
+DBMI_87,9 (Intensity VI),13.52,42.21,macroseismic,0.178219,0.8059,,339.36,inferred,834.0
+DBMI_240,1 (Intensity VI),13.69,42.31,macroseismic,0.165325,0.8059,,661.09,inferred,1000.0
+DBMI_92,20 (Intensity VI),13.31,42.43,macroseismic,0.163684,0.8059,,794.49,inferred,1000.0
+DBMI_66,3 (Intensity VI),13.54,41.85,macroseismic,0.163509,0.8059,,900.0,inferred,1000.0
+DBMI_332,2 (Intensity VI),13.78,42.33,macroseismic,0.16048,0.8059,,900.0,inferred,642.0
+DBMI_964,1 (Intensity VI),12.97,42.27,macroseismic,0.153885,0.8059,,738.03,inferred,997.0
+DBMI_19,16 (Intensity VI),13.3,42.3,macroseismic,0.153808,0.8059,,564.22,inferred,1000.0
+DBMI_79,1 (Intensity VI),13.69,41.38,macroseismic,0.151146,0.8059,,900.0,inferred,990.0
+DBMI_138,1 (Intensity VI),13.79,42.5,macroseismic,0.148676,0.8059,,546.94,inferred,995.0
+DBMI_241,3 (Intensity VI),13.77,42.08,macroseismic,0.148161,0.8059,,534.38,inferred,833.0
+DBMI_212,1 (Intensity VI),13.9,42.34,macroseismic,0.147032,0.8059,,510.69,inferred,801.0
+DBMI_161,2 (Intensity VI),13.76,42.33,macroseismic,0.144191,0.8059,,900.0,inferred,934.0
+DBMI_195,4 (Intensity VI),13.7,42.33,macroseismic,0.143833,0.8059,,609.61,inferred,994.0
+DBMI_307,3 (Intensity VI),13.77,42.03,macroseismic,0.143796,0.8059,,900.0,inferred,1000.0
+DBMI_133,6 (Intensity VI),13.9,42.24,macroseismic,0.13775,0.8059,,587.26,inferred,885.0
+DBMI_1336,1 (Intensity VI),13.69,42.3,macroseismic,0.137219,0.8059,,700.14,inferred,1000.0
+DBMI_144,3 (Intensity VI),13.63,42.06,macroseismic,0.136636,0.8059,,525.81,inferred,805.0
+DBMI_1086,1 (Intensity VI),13.04,41.94,macroseismic,0.136374,0.8059,,630.53,inferred,276.0
+DBMI_90,11 (Intensity VI),13.68,42.54,macroseismic,0.135751,0.8059,,501.4,inferred,641.0
+DBMI_318,4 (Intensity VI),13.68,42.15,macroseismic,0.135738,0.8059,,786.29,inferred,450.0
+DBMI_159,1 (Intensity VI),12.76,42.21,macroseismic,0.135665,0.8059,,679.28,inferred,795.0
+DBMI_27,7 (Intensity VI),13.74,42.6,macroseismic,0.135563,0.8059,,644.23,inferred,301.0
+DBMI_180,2 (Intensity VI),13.65,42.54,macroseismic,0.129767,0.8059,,516.71,inferred,999.0
+DBMI_193,7 (Intensity VI),13.84,42.12,macroseismic,0.129083,0.8059,,361.8,inferred,567.0
+DBMI_143,10 (Intensity VI),13.74,42.11,macroseismic,0.127144,0.8059,,354.38,inferred,820.0
+DBMI_185,28 (Intensity VI),13.64,42.58,macroseismic,0.127004,0.8059,,444.78,inferred,239.0
+DBMI_590,1 (Intensity VI),12.56,42.3,macroseismic,0.126498,0.8059,,499.73,inferred,600.0
+DBMI_415,1 (Intensity V),13.65,42.34,macroseismic,0.126324,0.8059,,900.0,inferred,601.0
+DBMI_182,1 (Intensity VI),14.23,42.3,macroseismic,0.126232,0.8059,,438.55,inferred,596.0
+DBMI_295,3 (Intensity VI),13.95,42.35,macroseismic,0.125965,0.8059,,426.37,inferred,764.0
+DBMI_128,11 (Intensity VI),13.65,41.95,macroseismic,0.124996,0.8059,,397.0,inferred,235.0
+DBMI_581,1 (Intensity VI),14.23,42.13,macroseismic,0.124701,0.8059,,402.26,inferred,765.0
+DBMI_246,10 (Intensity VI),13.88,42.36,macroseismic,0.12321,0.8059,,614.75,inferred,996.0
+DBMI_205,14 (Intensity VI),13.82,42.13,macroseismic,0.123143,0.8059,,519.18,inferred,389.0
+DBMI_47,6 (Intensity VI),13.69,41.94,macroseismic,0.123034,0.8059,,574.03,inferred,290.0
+DBMI_288,1 (Intensity VI),13.45,43.01,macroseismic,0.122569,0.8059,,900.0,inferred,414.0
+DBMI_65,13 (Intensity V),13.52,42.14,macroseismic,0.121832,0.8059,,327.44,inferred,782.0
+DBMI_46,1 (Intensity VI),13.73,42.37,macroseismic,0.121534,0.8059,,734.76,inferred,999.0
+DBMI_171,5 (Intensity VI),13.54,42.55,macroseismic,0.121333,0.8059,,900.0,inferred,1000.0
+DBMI_1356,1 (Intensity VI),13.99,41.76,macroseismic,0.120781,0.8059,,791.76,inferred,971.0
+DBMI_73,13 (Intensity VI),13.82,42.22,macroseismic,0.119888,0.8059,,877.1,inferred,561.0
+DBMI_13,13 (Intensity VI),13.93,42.24,macroseismic,0.119507,0.8059,,402.44,inferred,687.0
+DBMI_78,2 (Intensity VI),13.8,42.59,macroseismic,0.117256,0.8059,,449.88,inferred,993.0
+DBMI_8,13 (Intensity VI),13.59,42.08,macroseismic,0.11721,0.8059,,639.45,inferred,1000.0
+DBMI_513,1 (Intensity VI),13.72,43.09,macroseismic,0.116769,0.8059,,464.18,inferred,598.0
+DBMI_311,1 (Intensity VI),13.77,43.11,macroseismic,0.115453,0.8059,,494.43,inferred,598.0
+DBMI_399,1 (Intensity VI),13.89,42.26,macroseismic,0.115308,0.8059,,898.49,inferred,999.0
+DBMI_165,3 (Intensity VI),13.89,42.55,macroseismic,0.115195,0.8059,,415.56,inferred,597.0
+DBMI_156,7 (Intensity VI),13.71,42.49,macroseismic,0.114409,0.8059,,597.15,inferred,998.0
+DBMI_162,8 (Intensity V),13.25,42.52,macroseismic,0.11394,0.8059,,476.93,inferred,554.0
+DBMI_1073,1 (Intensity VI),14.42,41.82,macroseismic,0.112685,0.8059,,501.79,inferred,999.0
+DBMI_88,3 (Intensity V),13.52,42.29,macroseismic,0.112679,0.8059,,417.51,inferred,444.0
+DBMI_139,6 (Intensity VI),13.66,42.66,macroseismic,0.112287,0.8059,,344.18,inferred,965.0
+DBMI_589,1 (Intensity V),12.97,42.22,macroseismic,0.110909,0.8059,,530.92,inferred,1000.0
+DBMI_238,2 (Intensity VI),14.09,42.25,macroseismic,0.110508,0.8059,,507.35,inferred,598.0
+DBMI_284,14 (Intensity V),13.26,42.07,macroseismic,0.11041,0.8059,,660.99,inferred,299.0
+DBMI_697,1 (Intensity VI),14.67,42.07,macroseismic,0.110389,0.8059,,394.38,inferred,595.0
+DBMI_38,39 (Intensity V),13.83,42.17,macroseismic,0.110003,0.8059,,605.91,inferred,674.0
+DBMI_771,1 (Intensity VI),13.35,43.36,macroseismic,0.108664,0.8059,,330.83,inferred,821.0
+DBMI_114,20 (Intensity V),13.24,42.19,macroseismic,0.107918,0.8059,,607.09,inferred,970.0
+DBMI_244,2 (Intensity VI),13.87,42.42,macroseismic,0.107911,0.8059,,837.62,inferred,998.0
+DBMI_190,3 (Intensity V),13.9,42.33,macroseismic,0.107808,0.8059,,462.62,inferred,603.0
+DBMI_119,13 (Intensity V),13.6,42.06,macroseismic,0.107635,0.8059,,524.27,inferred,524.0
+OBS_7,Chieti::Abruzzen::Italy 12 responses 68 km,14.16,42.35,macroseismic,0.107406,0.8059,,759.71,inferred,604.0
+DBMI_1332,1 (Intensity VI),14.21,41.39,macroseismic,0.106164,0.8059,,842.71,inferred,1000.0
+DBMI_69,18 (Intensity V),13.34,42.07,macroseismic,0.106117,0.8059,,607.73,inferred,230.0
+DBMI_28,69 (Intensity V),13.54,42.08,macroseismic,0.105254,0.8059,,736.36,inferred,299.0
+DBMI_211,4 (Intensity VI),13.77,42.59,macroseismic,0.104843,0.8059,,645.72,inferred,996.0
+DBMI_257,6 (Intensity VI),13.73,42.0,macroseismic,0.104842,0.8059,,746.25,inferred,1000.0
+DBMI_32,50 (Intensity V),13.87,42.1,macroseismic,0.104629,0.8059,,450.67,inferred,389.0
+DBMI_339,1 (Intensity VI),11.83,42.63,macroseismic,0.104373,0.8059,,342.64,inferred,601.0
+DBMI_707,2 (Intensity VI),14.92,41.92,macroseismic,0.104026,0.8059,,440.83,inferred,598.0
+DBMI_36,48 (Intensity V),13.93,42.46,macroseismic,0.103264,0.8059,,597.74,inferred,877.0
+DBMI_158,14 (Intensity V),13.4,41.97,macroseismic,0.102806,0.8059,,630.45,inferred,230.0
+DBMI_141,4 (Intensity VI),13.99,42.33,macroseismic,0.102449,0.8059,,463.65,inferred,598.0
+DBMI_984,1 (Intensity VI),12.84,43.56,macroseismic,0.101782,0.8059,,424.21,inferred,292.0
+DBMI_17,13 (Intensity V),13.81,42.1,macroseismic,0.101188,0.8059,,576.3,inferred,604.0
+DBMI_74,2 (Intensity V),13.86,42.59,macroseismic,0.101124,0.8059,,581.63,inferred,600.0
+DBMI_166,4 (Intensity V),13.23,42.46,macroseismic,0.100522,0.8059,,396.42,inferred,1000.0
+DBMI_181,1 (Intensity VI),12.81,42.14,macroseismic,0.099785,0.8059,,784.19,inferred,1000.0
+DBMI_303,1 (Intensity VI),12.9,42.02,macroseismic,0.098683,0.8059,,509.09,inferred,834.0
+DBMI_942,1 (Intensity V),12.69,42.32,macroseismic,0.097549,0.8059,,722.67,inferred,1000.0
+DBMI_272,2 (Intensity V),13.87,42.28,macroseismic,0.097094,0.8059,,765.73,inferred,998.0
+DBMI_911,1 (Intensity VI),14.44,40.93,macroseismic,0.095807,0.8059,,233.64,inferred,595.0
+DBMI_660,1 (Intensity VI),14.52,40.94,macroseismic,0.095425,0.8059,,275.74,inferred,420.0
+DBMI_127,7 (Intensity V),13.87,42.03,macroseismic,0.095343,0.8059,,523.96,inferred,389.0
+DBMI_1331,1 (Intensity V),13.18,41.79,macroseismic,0.0953,0.8059,,723.43,inferred,1000.0
+DBMI_671,1 (Intensity VI),14.64,40.94,macroseismic,0.09462,0.8059,,702.74,inferred,1000.0
+DBMI_341,3 (Intensity V),13.41,41.94,macroseismic,0.094256,0.8059,,556.31,inferred,1000.0
+DBMI_624,1 (Intensity V),12.6,42.37,macroseismic,0.094092,0.8059,,599.92,inferred,1000.0
+DBMI_936,1 (Intensity V),14.19,42.25,macroseismic,0.093725,0.8059,,649.85,inferred,601.0
+UTM:(33T 043 468 10000),,14.2113,42.3145,macroseismic,0.093102,0.8059,,553.08,inferred,603.0
+DBMI_422,3 (Intensity VI),13.6,43.24,macroseismic,0.092986,0.8059,,466.31,inferred,490.0
+DBMI_359,4 (Intensity VI),13.66,42.9,macroseismic,0.092784,0.8059,,486.35,inferred,992.0
+DBMI_157,3 (Intensity V),13.03,42.4,macroseismic,0.092139,0.8059,,663.06,inferred,1000.0
+DBMI_252,3 (Intensity V),13.5,42.74,macroseismic,0.091705,0.8059,,473.95,inferred,999.0
+DBMI_306,2 (Intensity VI),14.17,42.02,macroseismic,0.09131,0.8059,,900.0,inferred,675.0
+DBMI_991,1 (Intensity V),12.74,42.14,macroseismic,0.091218,0.8059,,440.06,inferred,449.0
+DBMI_5,261 (Intensity V),13.44,42.04,macroseismic,0.090923,0.8059,,431.16,inferred,593.0
+DBMI_392,1 (Intensity V),12.77,42.6,macroseismic,0.090873,0.8059,,781.01,inferred,995.0
+UTM:(33T 036 465 10000),,13.369,42.0354,macroseismic,0.090603,0.8059,,321.83,inferred,670.0
+DBMI_134,19 (Intensity V),13.62,42.01,macroseismic,0.090505,0.8059,,362.4,inferred,230.0
+DBMI_685,1 (Intensity VI),13.23,42.99,macroseismic,0.090327,0.8059,,900.0,inferred,1000.0
+DBMI_385,1 (Intensity V),14.31,42.3,macroseismic,0.089987,0.8059,,436.97,inferred,567.0
+DBMI_678,1 (Intensity VI),12.56,42.91,macroseismic,0.089683,0.8059,,606.23,inferred,1000.0
+DBMI_500,2 (Intensity V),12.8,42.22,macroseismic,0.089524,0.8059,,382.98,inferred,603.0
+DBMI_111,8 (Intensity V),13.08,42.42,macroseismic,0.089406,0.8059,,824.69,inferred,1000.0
+DBMI_51,9 (Intensity V),13.8,42.65,macroseismic,0.088996,0.8059,,468.09,inferred,993.0
+DBMI_72,6 (Intensity V),13.8,42.53,macroseismic,0.088493,0.8059,,585.89,inferred,995.0
+DBMI_292,3 (Intensity VI),14.37,42.26,macroseismic,0.088256,0.8059,,516.29,inferred,597.0
+DBMI_153,4 (Intensity V),13.97,42.52,macroseismic,0.087929,0.8059,,534.43,inferred,599.0
+DBMI_145,21 (Intensity V),13.99,42.58,macroseismic,0.085586,0.8059,,612.01,inferred,958.0
+DBMI_599,1 (Intensity VI),12.95,43.07,macroseismic,0.085465,0.8059,,773.91,inferred,675.0
+DBMI_737,1 (Intensity VI),13.18,41.53,macroseismic,0.085454,0.8059,,900.0,inferred,644.0
+DBMI_316,2 (Intensity V),13.15,42.21,macroseismic,0.085199,0.8059,,552.84,inferred,1000.0
+DBMI_693,2 (Intensity V),13.1,41.84,macroseismic,0.085186,0.8059,,900.0,inferred,1000.0
+DBMI_1355,1 (Intensity V),12.25,42.48,macroseismic,0.084147,0.8059,,489.32,inferred,765.0
+DBMI_167,3 (Intensity V),13.61,42.23,macroseismic,0.083958,0.8059,,869.39,inferred,1000.0
+UTM:(33T 032 469 10000),,12.8741,42.3876,macroseismic,0.083195,0.8059,,854.98,inferred,426.0
+DBMI_935,1 (Intensity V),12.68,42.82,macroseismic,0.083001,0.8059,,425.79,inferred,550.0
+DBMI_1360,2 (Intensity V),13.76,41.92,macroseismic,0.082344,0.8059,,731.66,inferred,1000.0
+DBMI_39,7 (Intensity V),13.92,42.21,macroseismic,0.082312,0.8059,,408.84,inferred,793.0
+OBS_33,Rieti::Lazio::Italy 3 responses 39 km,12.86,42.41,macroseismic,0.0823,0.8059,,243.3,inferred,419.0
+DBMI_439,3 (Intensity V),13.49,43.08,macroseismic,0.08189,0.8059,,435.32,inferred,233.0
+DBMI_56,17 (Intensity V),14.07,42.37,macroseismic,0.081575,0.8059,,391.18,inferred,596.0
+DBMI_15,282 (Intensity V),13.7,42.66,macroseismic,0.08111,0.8059,,445.25,inferred,838.0
+DBMI_86,3 (Intensity V),14.25,42.23,macroseismic,0.080904,0.8059,,341.91,inferred,594.0
+DBMI_354,2 (Intensity V),13.82,42.44,macroseismic,0.080842,0.8059,,733.44,inferred,997.0
+DBMI_391,5 (Intensity V),13.96,42.22,macroseismic,0.080689,0.8059,,497.63,inferred,961.0
+DBMI_932,1 (Intensity V),12.93,42.27,macroseismic,0.080487,0.8059,,370.54,inferred,1000.0
+DBMI_201,20 (Intensity V),13.65,42.03,macroseismic,0.080455,0.8059,,591.78,inferred,603.0
+DBMI_338,3 (Intensity V),13.56,41.81,macroseismic,0.080426,0.8059,,389.73,inferred,607.0
+OBS_4,Avezzano::Abruzzen::Italy 4 responses 33 km,13.42,42.04,macroseismic,0.080415,0.8059,,431.71,inferred,230.0
+DBMI_61,5 (Intensity V),13.86,42.38,macroseismic,0.080409,0.8059,,900.0,inferred,999.0
+DBMI_132,17 (Intensity V),13.66,42.51,macroseismic,0.080055,0.8059,,448.49,inferred,803.0
+DBMI_99,25 (Intensity V),13.36,42.09,macroseismic,0.079833,0.8059,,420.62,inferred,608.0
+DBMI_314,2 (Intensity V),13.07,42.3,macroseismic,0.079367,0.8059,,900.0,inferred,1000.0
+DBMI_342,1 (Intensity V),12.89,42.32,macroseismic,0.07906,0.8059,,568.06,inferred,263.0
+DBMI_70,22 (Intensity V),13.98,42.44,macroseismic,0.079022,0.8059,,438.79,inferred,597.0
+DBMI_283,20 (Intensity V),13.54,41.96,macroseismic,0.078348,0.8059,,617.78,inferred,606.0
+DBMI_29,172 (Intensity V),13.93,42.05,macroseismic,0.077957,0.8059,,369.78,inferred,598.0
+DBMI_367,7 (Intensity V),12.97,41.83,macroseismic,0.077579,0.8059,,900.0,inferred,834.0
+DBMI_350,8 (Intensity V),12.96,42.39,macroseismic,0.077489,0.8059,,759.3,inferred,1000.0
+DBMI_337,6 (Intensity V),13.39,42.11,macroseismic,0.077162,0.8059,,555.31,inferred,631.0
+DBMI_847,1 (Intensity VI),12.1,43.03,macroseismic,0.076567,0.8059,,497.55,inferred,600.0
+DBMI_253,2 (Intensity V),13.89,42.12,macroseismic,0.076528,0.8059,,900.0,inferred,932.0
+DBMI_319,7 (Intensity V),14.06,42.43,macroseismic,0.0764,0.8059,,487.86,inferred,598.0
+DBMI_525,2 (Intensity V),13.31,41.52,macroseismic,0.075586,0.8059,,900.0,inferred,999.0
+DBMI_445,1 (Intensity V),13.47,41.89,macroseismic,0.075184,0.8059,,900.0,inferred,1000.0
+DBMI_573,1 (Intensity V),12.96,42.05,macroseismic,0.074791,0.8059,,867.12,inferred,1000.0
+DBMI_214,6 (Intensity V),13.74,42.15,macroseismic,0.074534,0.8059,,900.0,inferred,1000.0
+DBMI_262,16 (Intensity V),13.48,41.96,macroseismic,0.074315,0.8059,,263.2,inferred,230.0
+DBMI_112,5 (Intensity V),13.4,41.63,macroseismic,0.074238,0.8059,,415.98,inferred,769.0
+DBMI_651,2 (Intensity V),14.27,42.06,macroseismic,0.074085,0.8059,,629.98,inferred,995.0
+DBMI_487,2 (Intensity V),12.77,42.45,macroseismic,0.073475,0.8059,,611.84,inferred,230.0
+DBMI_527,1 (Intensity VI),14.5,41.24,macroseismic,0.07345,0.8059,,616.0,inferred,805.0
+DBMI_109,7 (Intensity V),13.06,42.41,macroseismic,0.073307,0.8059,,533.06,inferred,653.0
+DBMI_490,2 (Intensity V),13.25,41.86,macroseismic,0.073202,0.8059,,496.99,inferred,1000.0
+DBMI_160,18 (Intensity V),14.06,42.26,macroseismic,0.072488,0.8059,,520.52,inferred,599.0
+DBMI_154,27 (Intensity V),14.05,42.4,macroseismic,0.072428,0.8059,,385.54,inferred,596.0
+DBMI_361,2 (Intensity V),13.05,43.04,macroseismic,0.07241,0.8059,,472.8,inferred,841.0
+DBMI_83,7 (Intensity V),13.67,42.77,macroseismic,0.072341,0.8059,,552.44,inferred,996.0
+DBMI_614,2 (Intensity V),14.06,41.51,macroseismic,0.071841,0.8059,,854.73,inferred,290.0
+DBMI_120,19 (Intensity V),13.97,42.3,macroseismic,0.071327,0.8059,,443.83,inferred,990.0
+OBS_37,Teramo::Abruzzen::Italy 6 responses 47 km,13.7,42.67,macroseismic,0.071219,0.8059,,560.64,inferred,996.0
+DBMI_330,6 (Intensity V),13.88,42.53,macroseismic,0.070903,0.8059,,392.56,inferred,445.0
+DBMI_55,4 (Intensity V),13.41,42.77,macroseismic,0.070531,0.8059,,560.4,inferred,1000.0
+DBMI_191,4 (Intensity V),13.3,42.63,macroseismic,0.069913,0.8059,,472.45,inferred,1000.0
+DBMI_533,3 (Intensity V),13.69,42.83,macroseismic,0.069896,0.8059,,583.43,inferred,627.0
+DBMI_243,4 (Intensity V),13.92,42.53,macroseismic,0.069726,0.8059,,478.01,inferred,598.0
+DBMI_534,1 (Intensity V),13.33,42.9,macroseismic,0.069381,0.8059,,275.38,inferred,1000.0
+DBMI_237,13 (Intensity V),13.9,42.01,macroseismic,0.068495,0.8059,,720.06,inferred,606.0
+OBS_36,San Benedetto del Tronto::Marken::Italy 4 responses 82 km,13.87,42.96,macroseismic,0.068463,0.8059,,526.42,inferred,396.0
+DBMI_1367,1 (Intensity V),14.2,42.25,macroseismic,0.068407,0.8059,,527.95,inferred,598.0
+DBMI_125,7 (Intensity V),13.57,41.59,macroseismic,0.068289,0.8059,,498.39,inferred,842.0
+DBMI_41,13 (Intensity V),14.02,42.46,macroseismic,0.068226,0.8059,,318.53,inferred,595.0
+DBMI_427,2 (Intensity V),13.85,42.82,macroseismic,0.067906,0.8059,,370.98,inferred,595.0
+DBMI_302,27 (Intensity V),13.61,41.72,macroseismic,0.067562,0.8059,,434.18,inferred,290.0
+DBMI_286,5 (Intensity V),14.24,42.36,macroseismic,0.067419,0.8059,,422.15,inferred,786.0
+DBMI_254,19 (Intensity V),13.09,42.1,macroseismic,0.067341,0.8059,,464.06,inferred,1000.0
+DBMI_417,5 (Intensity V),12.83,41.87,macroseismic,0.067222,0.8059,,418.55,inferred,675.0
+UTM:(33T 043 470 10000),,14.209,42.4947,macroseismic,0.067217,0.8059,,600.0,inferred,600.0
+DBMI_259,5 (Intensity V),13.2,42.1,macroseismic,0.067074,0.8059,,900.0,inferred,1000.0
+DBMI_117,11 (Intensity V),13.59,41.69,macroseismic,0.066781,0.8059,,291.61,inferred,429.0
+DBMI_430,2 (Intensity V),14.13,41.22,macroseismic,0.06675,0.8059,,566.17,inferred,772.0
+DBMI_229,3 (Intensity V),13.55,41.68,macroseismic,0.066681,0.8059,,414.68,inferred,992.0
+DBMI_7,25 (Intensity V),13.64,42.82,macroseismic,0.066598,0.8059,,526.63,inferred,960.0
+DBMI_280,7 (Intensity V),13.7,42.94,macroseismic,0.066451,0.8059,,505.96,inferred,598.0
+DBMI_523,1 (Intensity V),13.7,41.95,macroseismic,0.066273,0.8059,,718.55,inferred,679.0
+DBMI_1032,4 (Intensity V),12.62,42.0,macroseismic,0.066099,0.8059,,366.06,inferred,598.0
+DBMI_495,1 (Intensity V),13.7,41.69,macroseismic,0.066044,0.8059,,900.0,inferred,1000.0
+DBMI_457,1 (Intensity V),13.05,41.7,macroseismic,0.065929,0.8059,,314.07,inferred,995.0
+DBMI_18,202 (Intensity V),14.14,42.36,macroseismic,0.065768,0.8059,,446.85,inferred,597.0
+DBMI_271,3 (Intensity V),13.91,42.28,macroseismic,0.065153,0.8059,,507.02,inferred,995.0
+DBMI_1369,1 (Intensity V),12.43,42.22,macroseismic,0.064769,0.8059,,365.01,inferred,600.0
+DBMI_16,2 (Intensity V),14.33,42.1,macroseismic,0.064644,0.8059,,585.07,inferred,983.0
+DBMI_291,2 (Intensity V),14.03,42.21,macroseismic,0.064581,0.8059,,602.6,inferred,996.0
+DBMI_656,2 (Intensity V),13.34,43.07,macroseismic,0.064219,0.8059,,366.31,inferred,999.0
+DBMI_714,1 (Intensity V),13.24,41.59,macroseismic,0.064218,0.8059,,893.35,inferred,780.0
+DBMI_566,3 (Intensity V),12.39,42.46,macroseismic,0.064067,0.8059,,244.62,inferred,585.0
+DBMI_80,20 (Intensity V),13.82,42.68,macroseismic,0.063928,0.8059,,729.63,inferred,992.0
+DBMI_728,1 (Intensity V),13.28,42.01,macroseismic,0.063909,0.8059,,763.52,inferred,1000.0
+DBMI_758,1 (Intensity V),13.56,43.07,macroseismic,0.063886,0.8059,,480.05,inferred,992.0
+DBMI_366,2 (Intensity V),13.16,42.62,macroseismic,0.063671,0.8059,,581.57,inferred,1000.0
+DBMI_172,2 (Intensity V),14.38,42.09,macroseismic,0.063665,0.8059,,616.69,inferred,876.0
+DBMI_463,3 (Intensity V),12.86,42.23,macroseismic,0.063606,0.8059,,547.96,inferred,600.0
+DBMI_650,2 (Intensity V),12.35,42.42,macroseismic,0.063478,0.8059,,329.9,inferred,601.0
+OBS_29,Pescara::Abruzzen::Italy 28 responses 73 km,14.21,42.46,macroseismic,0.063452,0.8059,,221.05,inferred,377.0
+DBMI_729,1 (Intensity V),13.75,43.05,macroseismic,0.063356,0.8059,,573.35,inferred,595.0
+DBMI_355,2 (Intensity IV),13.48,42.55,macroseismic,0.063088,0.8059,,405.92,inferred,1000.0
+DBMI_657,1 (Intensity IV),13.3,42.52,macroseismic,0.062908,0.8059,,646.02,inferred,1000.0
+DBMI_169,12 (Intensity V),13.9,42.66,macroseismic,0.06273,0.8059,,440.52,inferred,597.0
+UTM:(33T 038 474 10000),,13.5926,42.849,macroseismic,0.062087,0.8059,,601.5,inferred,996.0
+DBMI_223,70 (Intensity V),13.6,42.85,macroseismic,0.061993,0.8059,,474.89,inferred,995.0
+DBMI_40,9 (Intensity V),13.72,42.81,macroseismic,0.061942,0.8059,,357.64,inferred,597.0
+DBMI_548,3 (Intensity V),12.51,42.13,macroseismic,0.061722,0.8059,,594.68,inferred,600.0
+DBMI_1001,3 (Intensity V),13.77,41.51,macroseismic,0.061483,0.8059,,884.59,inferred,825.0
+DBMI_197,2 (Intensity V),13.73,42.13,macroseismic,0.061409,0.8059,,489.59,inferred,1000.0
+DBMI_263,10 (Intensity V),13.09,41.93,macroseismic,0.061279,0.8059,,597.98,inferred,1000.0
+UTM:(33T 040 475 10000),,13.8357,42.9417,macroseismic,0.061169,0.8059,,545.96,inferred,599.0
+DBMI_277,11 (Intensity V),13.89,42.75,macroseismic,0.060926,0.8059,,439.81,inferred,597.0
+DBMI_482,2 (Intensity V),13.78,42.82,macroseismic,0.06089,0.8059,,437.74,inferred,597.0
+DBMI_1131,1 (Intensity V),12.19,42.22,macroseismic,0.060771,0.8059,,495.99,inferred,599.0
+DBMI_174,8 (Intensity V),13.04,41.65,macroseismic,0.060702,0.8059,,544.52,inferred,1000.0
+DBMI_701,2 (Intensity V),14.14,41.61,macroseismic,0.060559,0.8059,,595.52,inferred,1000.0
+DBMI_25,20 (Intensity V),14.12,42.55,macroseismic,0.06049,0.8059,,539.99,inferred,549.0
+SGG,,14.3792,41.3867,seismic,0.060271,0.0,,900.0,inferred,1000.0
+DBMI_52,87 (Intensity V),14.15,42.52,macroseismic,0.060265,0.8059,,311.7,inferred,340.0
+DBMI_325,20 (Intensity V),13.15,41.75,macroseismic,0.060244,0.8059,,388.46,inferred,1000.0
+DBMI_443,19 (Intensity V),12.83,41.72,macroseismic,0.060232,0.8059,,437.3,inferred,252.0
+DBMI_266,1 (Intensity VI),16.38,40.6,macroseismic,0.060225,0.8059,,760.0,inferred,600.0
+DBMI_644,2 (Intensity V),11.57,43.53,macroseismic,0.059963,0.8059,,296.51,inferred,600.0
+DBMI_177,5 (Intensity V),13.75,42.88,macroseismic,0.059708,0.8059,,423.71,inferred,597.0
+DBMI_331,1 (Intensity V),14.34,41.68,macroseismic,0.059692,0.8059,,325.89,inferred,298.0
+OBS_17,Guidonia::Lazio::Italy 3 responses 64 km,12.68,42.02,macroseismic,0.059657,0.8059,,261.46,inferred,239.0
+DBMI_454,2 (Intensity V),14.44,42.29,macroseismic,0.059557,0.8059,,545.27,inferred,429.0
+DBMI_631,13 (Intensity V),13.43,41.36,macroseismic,0.059539,0.8059,,557.28,inferred,573.0
+DBMI_1013,2 (Intensity V),13.41,42.96,macroseismic,0.059466,0.8059,,436.66,inferred,999.0
+DBMI_312,1 (Intensity V),13.86,42.33,macroseismic,0.059386,0.8059,,581.2,inferred,996.0
+DBMI_242,3 (Intensity V),13.63,42.94,macroseismic,0.059173,0.8059,,499.28,inferred,829.0
+DBMI_466,3 (Intensity V),14.27,40.94,macroseismic,0.058972,0.8059,,291.35,inferred,598.0
+DBMI_916,2 (Intensity V),13.9,41.4,macroseismic,0.058882,0.8059,,593.39,inferred,677.0
+DBMI_203,11 (Intensity V),13.81,42.74,macroseismic,0.058761,0.8059,,417.98,inferred,597.0
+DBMI_164,27 (Intensity V),14.06,42.52,macroseismic,0.058459,0.8059,,371.69,inferred,595.0
+DBMI_217,7 (Intensity V),13.99,42.24,macroseismic,0.058356,0.8059,,626.61,inferred,996.0
+DBMI_102,9 (Intensity V),12.81,42.02,macroseismic,0.058275,0.8059,,791.77,inferred,636.0
+DBMI_209,15 (Intensity V),14.0,42.27,macroseismic,0.058203,0.8059,,436.55,inferred,391.0
+DBMI_532,6 (Intensity V),12.84,42.16,macroseismic,0.058071,0.8059,,900.0,inferred,1000.0
+DBMI_85,14 (Intensity V),13.91,42.88,macroseismic,0.057951,0.8059,,405.13,inferred,194.0
+DBMI_1330,3 (Intensity V),12.41,42.78,macroseismic,0.057946,0.8059,,460.84,inferred,263.0
+DBMI_775,1 (Intensity V),13.62,43.37,macroseismic,0.057896,0.8059,,559.11,inferred,757.0
+DBMI_9,11 (Intensity V),13.79,42.79,macroseismic,0.057822,0.8059,,383.64,inferred,411.0
+DBMI_239,2 (Intensity V),14.44,40.87,macroseismic,0.057706,0.8059,,578.17,inferred,999.0
+UTM:(33T 041 470 10000),,13.9657,42.4926,macroseismic,0.057462,0.8059,,454.68,inferred,522.0
+DBMI_1040,1 (Intensity V),12.91,42.47,macroseismic,0.057432,0.8059,,652.45,inferred,1000.0
+DBMI_465,8 (Intensity V),13.23,41.62,macroseismic,0.057349,0.8059,,577.2,inferred,597.0
+DBMI_328,10 (Intensity V),13.69,42.73,macroseismic,0.057346,0.8059,,532.72,inferred,995.0
+CERT,,12.9818,41.949,seismic,0.057119,0.0,,900.0,inferred,1000.0
+DBMI_227,8 (Intensity V),12.41,42.3,macroseismic,0.057085,0.8059,,338.72,inferred,632.0
+DBMI_89,25 (Intensity V),14.18,42.42,macroseismic,0.056893,0.8059,,372.63,inferred,594.0
+CESX,,12.58,42.61,seismic,0.056819,0.0,,900.0,inferred,1000.0
+DBMI_578,1 (Intensity V),12.94,41.99,macroseismic,0.056463,0.8059,,900.0,inferred,1000.0
+DBMI_232,8 (Intensity V),13.43,41.92,macroseismic,0.056393,0.8059,,864.26,inferred,1000.0
+DBMI_178,3 (Intensity IV),13.77,42.27,macroseismic,0.056171,0.8059,,657.37,inferred,232.0
+DBMI_82,16 (Intensity V),14.22,42.2,macroseismic,0.056157,0.8059,,543.61,inferred,389.0
+DBMI_59,2 (Intensity IV),13.84,42.06,macroseismic,0.055885,0.8059,,900.0,inferred,780.0
+DBMI_68,23 (Intensity V),13.42,41.69,macroseismic,0.055852,0.8059,,615.2,inferred,769.0
+DBMI_1128,1 (Intensity V),13.44,43.53,macroseismic,0.055796,0.8059,,599.69,inferred,303.0
+DBMI_273,3 (Intensity V),13.92,42.66,macroseismic,0.055036,0.8059,,494.07,inferred,598.0
+DBMI_115,8 (Intensity V),13.22,41.8,macroseismic,0.054976,0.8059,,613.69,inferred,998.0
+DBMI_130,5 (Intensity V),12.64,41.74,macroseismic,0.054921,0.8059,,555.23,inferred,586.0
+DBMI_323,4 (Intensity V),14.13,42.3,macroseismic,0.054887,0.8059,,487.43,inferred,598.0
+DBMI_103,5 (Intensity V),13.88,41.9,macroseismic,0.05453,0.8059,,647.18,inferred,679.0
+DBMI_116,7 (Intensity V),13.51,41.64,macroseismic,0.054489,0.8059,,440.63,inferred,607.0
+DBMI_234,4 (Intensity V),14.11,42.47,macroseismic,0.054485,0.8059,,494.95,inferred,628.0
+DBMI_515,5 (Intensity V),13.81,41.71,macroseismic,0.054406,0.8059,,900.0,inferred,654.0
+DBMI_343,6 (Intensity V),14.29,42.11,macroseismic,0.054343,0.8059,,574.23,inferred,605.0
+DBMI_498,2 (Intensity V),14.54,42.19,macroseismic,0.054329,0.8059,,408.07,inferred,595.0
+DBMI_57,3 (Intensity V),13.69,42.98,macroseismic,0.054314,0.8059,,396.17,inferred,596.0
+DBMI_686,1 (Intensity V),14.03,41.08,macroseismic,0.054207,0.8059,,228.24,inferred,196.0
+DBMI_411,1 (Intensity V),12.77,42.41,macroseismic,0.05412,0.8059,,691.13,inferred,388.0
+DBMI_37,34 (Intensity V),14.14,42.46,macroseismic,0.053968,0.8059,,403.65,inferred,595.0
+DBMI_526,2 (Intensity V),13.55,41.62,macroseismic,0.053935,0.8059,,522.34,inferred,1000.0
+DBMI_221,16 (Intensity V),13.29,43.21,macroseismic,0.053864,0.8059,,357.32,inferred,607.0
+DBMI_927,2 (Intensity V),11.82,43.05,macroseismic,0.053857,0.8059,,704.27,inferred,996.0
+DBMI_147,7 (Intensity V),14.18,42.3,macroseismic,0.053807,0.8059,,353.24,inferred,594.0
+DBMI_401,6 (Intensity V),13.74,42.84,macroseismic,0.053734,0.8059,,686.74,inferred,602.0
+DBMI_267,10 (Intensity V),14.07,42.61,macroseismic,0.053445,0.8059,,416.4,inferred,441.0
+DBMI_402,4 (Intensity IV),13.13,42.27,macroseismic,0.053432,0.8059,,900.0,inferred,1000.0
+DBMI_400,2 (Intensity V),12.79,42.16,macroseismic,0.053416,0.8059,,805.69,inferred,780.0
+DBMI_108,36 (Intensity V),14.02,42.67,macroseismic,0.053241,0.8059,,506.06,inferred,600.0
+DBMI_148,6 (Intensity V),13.66,41.75,macroseismic,0.053096,0.8059,,900.0,inferred,940.0
+DBMI_381,4 (Intensity IV),12.96,42.57,macroseismic,0.053087,0.8059,,828.02,inferred,231.0
+DBMI_304,6 (Intensity IV),12.88,42.21,macroseismic,0.053043,0.8059,,542.06,inferred,832.0
+DBMI_460,3 (Intensity V),13.04,41.41,macroseismic,0.052723,0.8059,,236.11,inferred,150.0
+DBMI_352,6 (Intensity IV),13.1,42.79,macroseismic,0.052692,0.8059,,507.93,inferred,686.0
+DBMI_1082,1 (Intensity V),12.78,43.74,macroseismic,0.052583,0.8059,,435.83,inferred,998.0
+OBS_13,Fondi::Lazio::Italy 3 responses 108 km,13.42,41.36,macroseismic,0.052574,0.8059,,324.56,inferred,586.0
+DBMI_136,2 (Intensity V),14.38,41.04,macroseismic,0.05255,0.8059,,593.59,inferred,805.0
+DBMI_396,19 (Intensity V),14.04,41.48,macroseismic,0.052346,0.8059,,885.65,inferred,239.0
+DBMI_1111,3 (Intensity V),14.27,40.97,macroseismic,0.052334,0.8059,,279.1,inferred,596.0
+DBMI_298,4 (Intensity V),14.21,42.09,macroseismic,0.052204,0.8059,,694.41,inferred,996.0
+DBMI_741,4 (Intensity V),13.79,42.9,macroseismic,0.051938,0.8059,,339.82,inferred,594.0
+DBMI_895,2 (Intensity V),13.41,41.51,macroseismic,0.051898,0.8059,,685.79,inferred,605.0
+DBMI_390,2 (Intensity V),12.84,42.01,macroseismic,0.051747,0.8059,,734.25,inferred,1000.0
+DBMI_504,1 (Intensity V),15.01,41.92,macroseismic,0.051692,0.8059,,417.72,inferred,597.0
+DBMI_94,42 (Intensity V),14.28,42.42,macroseismic,0.051653,0.8059,,520.15,inferred,525.0
+DBMI_276,5 (Intensity V),13.96,41.97,macroseismic,0.051543,0.8059,,900.0,inferred,961.0
+DBMI_403,2 (Intensity V),14.5,42.16,macroseismic,0.051485,0.8059,,356.01,inferred,708.0
+DBMI_1065,1 (Intensity V),12.65,42.31,macroseismic,0.051477,0.8059,,451.76,inferred,600.0
+DBMI_529,4 (Intensity V),13.47,41.64,macroseismic,0.051273,0.8059,,803.15,inferred,1000.0
+DBMI_344,14 (Intensity V),13.01,41.69,macroseismic,0.050922,0.8059,,546.13,inferred,984.0
+DBMI_507,11 (Intensity V),13.19,41.47,macroseismic,0.050918,0.8059,,479.32,inferred,290.0
+DBMI_450,10 (Intensity V),13.67,41.46,macroseismic,0.050577,0.8059,,404.02,inferred,520.0
+DBMI_118,4 (Intensity V),14.35,42.2,macroseismic,0.050576,0.8059,,427.23,inferred,596.0
+DBMI_81,55 (Intensity V),13.88,42.94,macroseismic,0.050415,0.8059,,462.1,inferred,504.0
+DBMI_22,76 (Intensity IV),12.87,42.41,macroseismic,0.050302,0.8059,,333.92,inferred,419.0
+DBMI_1342,1 (Intensity V),13.8,41.66,macroseismic,0.050264,0.8059,,404.16,inferred,1000.0
+DBMI_84,27 (Intensity IV),13.34,41.73,macroseismic,0.05024,0.8059,,401.05,inferred,996.0
+DBMI_653,2 (Intensity V),13.72,42.86,macroseismic,0.05023,0.8059,,399.69,inferred,503.0
+OBS_38,Terni::Umbria::Italy 10 responses 62 km,12.65,42.57,macroseismic,0.050196,0.8059,,402.53,inferred,604.0
+DBMI_256,5 (Intensity V),13.72,41.63,macroseismic,0.05019,0.8059,,459.37,inferred,560.0
+DBMI_126,8 (Intensity V),13.82,42.82,macroseismic,0.050082,0.8059,,460.44,inferred,597.0
+UTM:(33T 030 471 10000),,12.6244,42.5628,macroseismic,0.049844,0.8059,,302.67,inferred,268.0
+DBMI_691,2 (Intensity V),13.31,43.5,macroseismic,0.049627,0.8059,,509.64,inferred,987.0
+DBMI_618,1 (Intensity V),12.55,42.34,macroseismic,0.049602,0.8059,,317.96,inferred,600.0
+DBMI_194,29 (Intensity V),13.96,42.76,macroseismic,0.049441,0.8059,,529.43,inferred,402.0
+DBMI_902,2 (Intensity V),11.53,43.56,macroseismic,0.049429,0.8059,,354.67,inferred,445.0
+DBMI_480,1 (Intensity V),14.38,40.63,macroseismic,0.049371,0.8059,,482.01,inferred,482.0
+DBMI_198,45 (Intensity IV),12.63,42.06,macroseismic,0.049256,0.8059,,352.85,inferred,600.0
+DBMI_393,31 (Intensity IV),12.64,42.04,macroseismic,0.049172,0.8059,,358.92,inferred,449.0
+DBMI_883,2 (Intensity V),13.09,42.93,macroseismic,0.049162,0.8059,,571.64,inferred,1000.0
+DBMI_441,13 (Intensity IV),12.69,42.27,macroseismic,0.049049,0.8059,,584.18,inferred,1000.0
+DBMI_807,4 (Intensity IV),12.69,42.25,macroseismic,0.04895,0.8059,,380.56,inferred,605.0
+DBMI_434,4 (Intensity V),14.22,42.09,macroseismic,0.048898,0.8059,,574.12,inferred,994.0
+DBMI_438,4 (Intensity V),12.92,41.78,macroseismic,0.048729,0.8059,,371.51,inferred,384.0
+DBMI_388,4 (Intensity V),14.07,41.89,macroseismic,0.048681,0.8059,,769.19,inferred,616.0
+DBMI_187,30 (Intensity V),13.01,41.73,macroseismic,0.048588,0.8059,,289.96,inferred,600.0
+DBMI_933,2 (Intensity V),13.44,43.36,macroseismic,0.048373,0.8059,,482.82,inferred,569.0
+UTM:(33T 042 470 10000),,14.0874,42.4937,macroseismic,0.048298,0.8059,,452.43,inferred,597.0
+DBMI_48,1 (Intensity IV),14.31,42.26,macroseismic,0.048264,0.8059,,393.35,inferred,594.0
+DBMI_151,12 (Intensity V),12.83,41.6,macroseismic,0.048199,0.8059,,306.7,inferred,444.0
+DBMI_106,62 (Intensity V),13.34,41.64,macroseismic,0.048197,0.8059,,359.64,inferred,260.0
+DBMI_682,2 (Intensity IV),14.32,42.35,macroseismic,0.048106,0.8059,,482.16,inferred,596.0
+DBMI_200,2 (Intensity V),13.61,41.65,macroseismic,0.048021,0.8059,,859.22,inferred,1000.0
+DBMI_597,1 (Intensity IV),12.95,42.65,macroseismic,0.047869,0.8059,,557.77,inferred,238.0
+DBMI_1030,1 (Intensity V),13.58,43.19,macroseismic,0.047688,0.8059,,501.78,inferred,605.0
+DBMI_442,4 (Intensity IV),13.82,42.95,macroseismic,0.047665,0.8059,,556.68,inferred,599.0
+DBMI_922,1 (Intensity IV),13.42,41.61,macroseismic,0.047618,0.8059,,446.23,inferred,1000.0
+DBMI_520,10 (Intensity IV),12.74,41.81,macroseismic,0.047363,0.8059,,822.06,inferred,795.0
+DBMI_375,3 (Intensity IV),13.02,42.72,macroseismic,0.047351,0.8059,,616.78,inferred,991.0
+DBMI_836,1 (Intensity IV),12.75,42.25,macroseismic,0.047198,0.8059,,487.67,inferred,1000.0
+DBMI_260,4 (Intensity IV),14.05,42.32,macroseismic,0.047156,0.8059,,601.32,inferred,600.0
+DBMI_149,3 (Intensity IV),13.62,41.87,macroseismic,0.0471,0.8059,,900.0,inferred,239.0
+DBMI_196,2 (Intensity IV),13.13,42.51,macroseismic,0.047069,0.8059,,546.41,inferred,834.0
+DBMI_568,2 (Intensity V),13.39,41.58,macroseismic,0.047049,0.8059,,266.6,inferred,940.0
+DBMI_24,41 (Intensity IV),14.39,42.22,macroseismic,0.047014,0.8059,,420.51,inferred,595.0
+DBMI_753,1 (Intensity V),12.22,42.67,macroseismic,0.046927,0.8059,,270.05,inferred,599.0
+DBMI_469,5 (Intensity V),13.9,41.48,macroseismic,0.046925,0.8059,,576.31,inferred,679.0
+DBMI_218,3 (Intensity IV),13.94,42.31,macroseismic,0.046914,0.8059,,465.67,inferred,993.0
+DBMI_742,2 (Intensity V),13.59,43.06,macroseismic,0.046896,0.8059,,432.33,inferred,991.0
+DBMI_296,6 (Intensity IV),14.21,42.38,macroseismic,0.046856,0.8059,,460.82,inferred,596.0
+DBMI_192,43 (Intensity IV),12.77,41.96,macroseismic,0.046842,0.8059,,311.21,inferred,704.0
+DBMI_1362,1 (Intensity V),12.2,42.65,macroseismic,0.04683,0.8059,,480.38,inferred,765.0
+DBMI_374,8 (Intensity IV),14.1,41.78,macroseismic,0.046803,0.8059,,524.4,inferred,679.0
+DBMI_327,13 (Intensity IV),12.94,41.82,macroseismic,0.046666,0.8059,,555.15,inferred,286.0
+DBMI_1351,1 (Intensity IV),14.04,41.73,macroseismic,0.046621,0.8059,,719.18,inferred,941.0
+DBMI_440,2 (Intensity V),14.17,40.98,macroseismic,0.046577,0.8059,,267.68,inferred,597.0
+DBMI_382,1 (Intensity IV),14.43,42.27,macroseismic,0.046552,0.8059,,372.38,inferred,593.0
+DBMI_541,7 (Intensity IV),12.73,42.21,macroseismic,0.046501,0.8059,,437.16,inferred,795.0
+DBMI_370,1 (Intensity IV),13.54,43.09,macroseismic,0.046497,0.8059,,397.5,inferred,604.0
+DBMI_269,4 (Intensity V),13.01,43.25,macroseismic,0.046405,0.8059,,383.74,inferred,969.0
+DBMI_645,1 (Intensity IV),13.6,41.56,macroseismic,0.046402,0.8059,,395.41,inferred,613.0
+DBMI_601,2 (Intensity V),12.43,42.66,macroseismic,0.046352,0.8059,,391.09,inferred,490.0
+DBMI_518,2 (Intensity IV),13.99,42.05,macroseismic,0.046322,0.8059,,900.0,inferred,268.0
+DBMI_452,4 (Intensity V),13.47,43.11,macroseismic,0.046271,0.8059,,482.75,inferred,716.0
+DBMI_163,7 (Intensity IV),13.77,42.89,macroseismic,0.046201,0.8059,,450.37,inferred,597.0
+DBMI_230,17 (Intensity IV),13.25,41.69,macroseismic,0.046122,0.8059,,459.32,inferred,887.0
+DBMI_1324,1 (Intensity V),13.49,43.12,macroseismic,0.046073,0.8059,,479.63,inferred,994.0
+DBMI_484,3 (Intensity IV),13.56,42.96,macroseismic,0.046027,0.8059,,554.01,inferred,949.0
+DBMI_297,2 (Intensity V),13.04,43.54,macroseismic,0.04592,0.8059,,602.97,inferred,638.0
+DBMI_264,2 (Intensity IV),13.7,42.13,macroseismic,0.045791,0.8059,,607.47,inferred,831.0
+DBMI_75,10 (Intensity IV),14.45,42.07,macroseismic,0.045685,0.8059,,409.82,inferred,985.0
+DBMI_3,2734 (Intensity IV),12.52,41.85,macroseismic,0.04565,0.8059,,363.67,inferred,388.0
+DBMI_222,5 (Intensity IV),12.87,41.97,macroseismic,0.045459,0.8059,,461.48,inferred,769.0
+DBMI_368,4 (Intensity IV),12.8,41.82,macroseismic,0.045236,0.8059,,462.0,inferred,254.0
+DBMI_207,7 (Intensity IV),12.48,42.21,macroseismic,0.045232,0.8059,,456.83,inferred,600.0
+DBMI_607,2 (Intensity IV),12.99,42.01,macroseismic,0.045182,0.8059,,900.0,inferred,969.0
+DBMI_358,6 (Intensity IV),13.84,42.92,macroseismic,0.045131,0.8059,,469.89,inferred,597.0
+DBMI_798,2 (Intensity V),14.53,40.93,macroseismic,0.045122,0.8059,,305.48,inferred,445.0
+DBMI_235,11 (Intensity V),13.08,41.5,macroseismic,0.045097,0.8059,,339.43,inferred,636.0
+DBMI_563,1 (Intensity IV),12.23,42.38,macroseismic,0.045095,0.8059,,543.36,inferred,604.0
+DBMI_637,2 (Intensity IV),12.63,42.31,macroseismic,0.045094,0.8059,,288.97,inferred,600.0
+DBMI_129,2 (Intensity IV),13.58,41.89,macroseismic,0.045093,0.8059,,491.8,inferred,624.0
+DBMI_501,1 (Intensity V),13.81,41.3,macroseismic,0.045017,0.8059,,589.62,inferred,1000.0
+DBMI_995,4 (Intensity IV),13.86,41.53,macroseismic,0.044929,0.8059,,478.49,inferred,1000.0
+DBMI_1120,1 (Intensity IV),12.95,43.15,macroseismic,0.044715,0.8059,,610.74,inferred,1000.0
+DBMI_67,2 (Intensity IV),12.44,42.16,macroseismic,0.044466,0.8059,,381.63,inferred,600.0
+DBMI_1041,1 (Intensity V),12.58,43.0,macroseismic,0.044409,0.8059,,233.35,inferred,230.0
+DBMI_30,6 (Intensity V),12.17,42.26,macroseismic,0.044383,0.8059,,418.66,inferred,684.0
+DBMI_477,5 (Intensity IV),13.06,43.21,macroseismic,0.04427,0.8059,,364.38,inferred,1000.0
+DBMI_509,4 (Intensity V),13.66,43.44,macroseismic,0.044262,0.8059,,272.22,inferred,430.0
+DBMI_290,8 (Intensity IV),12.75,41.78,macroseismic,0.044228,0.8059,,416.91,inferred,834.0
+DBMI_967,1 (Intensity V),9.15,45.05,macroseismic,0.04412,0.8059,,760.0,inferred,230.0
+DBMI_802,1 (Intensity V),10.74,44.51,macroseismic,0.04412,0.8059,,760.0,inferred,641.0
+DBMI_179,4 (Intensity IV),12.42,42.55,macroseismic,0.044117,0.8059,,400.35,inferred,766.0
+DBMI_1247,1 (Intensity V),12.71,43.36,macroseismic,0.044108,0.8059,,582.96,inferred,819.0
+DBMI_226,7 (Intensity V),14.47,41.49,macroseismic,0.043995,0.8059,,501.88,inferred,718.0
+DBMI_899,1 (Intensity V),11.83,42.52,macroseismic,0.043907,0.8059,,431.24,inferred,599.0
+DBMI_168,54 (Intensity IV),12.72,41.99,macroseismic,0.043828,0.8059,,373.81,inferred,748.0
+DBMI_71,11 (Intensity IV),13.8,41.62,macroseismic,0.043761,0.8059,,586.8,inferred,679.0
+DBMI_564,2 (Intensity IV),12.7,42.3,macroseismic,0.043588,0.8059,,900.0,inferred,1000.0
+DBMI_977,1 (Intensity V),12.08,42.31,macroseismic,0.043525,0.8059,,339.47,inferred,599.0
+VVLD,,13.6232,41.8697,seismic,0.043474,0.0,,781.71,inferred,299.0
+DBMI_999,1 (Intensity V),13.96,41.45,macroseismic,0.043468,0.8059,,900.0,inferred,1000.0
+DBMI_100,17 (Intensity IV),12.88,41.83,macroseismic,0.043426,0.8059,,430.66,inferred,459.0
+DBMI_199,1 (Intensity IV),13.72,42.54,macroseismic,0.04335,0.8059,,526.2,inferred,815.0
+DBMI_300,3 (Intensity IV),13.67,41.55,macroseismic,0.043243,0.8059,,863.89,inferred,515.0
+DBMI_1024,1 (Intensity IV),12.31,42.2,macroseismic,0.043057,0.8059,,400.17,inferred,600.0
+DBMI_765,1 (Intensity V),12.34,43.31,macroseismic,0.042996,0.8059,,444.93,inferred,230.0
+DBMI_308,10 (Intensity IV),12.53,42.52,macroseismic,0.042981,0.8059,,700.43,inferred,442.0
+DBMI_170,6 (Intensity IV),14.28,42.22,macroseismic,0.042957,0.8059,,606.24,inferred,600.0
+DBMI_1359,1 (Intensity V),13.99,41.41,macroseismic,0.042893,0.8059,,605.1,inferred,654.0
+DBMI_550,3 (Intensity IV),13.03,41.86,macroseismic,0.042738,0.8059,,776.5,inferred,1000.0
+DBMI_622,8 (Intensity IV),12.98,41.55,macroseismic,0.042682,0.8059,,799.57,inferred,996.0
+DBMI_993,1 (Intensity V),13.16,43.61,macroseismic,0.04262,0.8059,,425.26,inferred,959.0
+DBMI_449,2 (Intensity IV),14.32,42.29,macroseismic,0.042504,0.8059,,409.45,inferred,488.0
+DBMI_404,8 (Intensity IV),12.24,42.32,macroseismic,0.042485,0.8059,,525.47,inferred,604.0
+DBMI_1309,1 (Intensity V),13.21,43.38,macroseismic,0.042406,0.8059,,667.65,inferred,987.0
+DBMI_107,12 (Intensity IV),12.9,41.74,macroseismic,0.042264,0.8059,,566.36,inferred,612.0
+DBMI_2,51 (Intensity IV),13.84,41.49,macroseismic,0.041798,0.8059,,269.87,inferred,261.0
+DBMI_50,5 (Intensity IV),14.04,42.25,macroseismic,0.041759,0.8059,,546.98,inferred,958.0
+DBMI_426,4 (Intensity IV),13.79,41.81,macroseismic,0.041645,0.8059,,565.97,inferred,1000.0
+DBMI_931,3 (Intensity IV),12.49,42.65,macroseismic,0.04163,0.8059,,323.5,inferred,600.0
+DBMI_377,3 (Intensity IV),12.87,42.26,macroseismic,0.041627,0.8059,,484.14,inferred,600.0
+DBMI_14,89 (Intensity IV),12.64,42.57,macroseismic,0.04151,0.8059,,366.4,inferred,604.0
+DBMI_641,4 (Intensity V),12.29,43.13,macroseismic,0.04148,0.8059,,682.64,inferred,999.0
+DBMI_412,4 (Intensity IV),13.51,43.25,macroseismic,0.04141,0.8059,,414.27,inferred,982.0
+DBMI_186,19 (Intensity IV),13.33,41.57,macroseismic,0.041351,0.8059,,516.87,inferred,676.0
+DBMI_150,25 (Intensity IV),14.41,42.35,macroseismic,0.041331,0.8059,,523.05,inferred,523.0
+DBMI_539,4 (Intensity IV),13.64,43.24,macroseismic,0.041328,0.8059,,471.27,inferred,597.0
+UTM:(33T 029 461 10000),,12.5378,41.6604,macroseismic,0.041289,0.8059,,271.16,inferred,426.0
+MURB,,12.5246,43.263,seismic,0.041251,0.0,,481.94,inferred,1000.0
+DBMI_219,10 (Intensity IV),12.59,42.16,macroseismic,0.041133,0.8059,,389.28,inferred,600.0
+DBMI_437,2 (Intensity V),13.08,43.49,macroseismic,0.041078,0.8059,,688.92,inferred,498.0
+DBMI_1338,1 (Intensity IV),12.98,41.94,macroseismic,0.041061,0.8059,,617.98,inferred,1000.0
+UTM:(33T 028 471 10000),,12.3811,42.5575,macroseismic,0.040985,0.8059,,593.17,inferred,1000.0
+DBMI_538,2 (Intensity IV),13.73,42.9,macroseismic,0.040894,0.8059,,413.43,inferred,596.0
+DBMI_310,12 (Intensity IV),13.91,42.81,macroseismic,0.040858,0.8059,,393.98,inferred,578.0
+DBMI_324,4 (Intensity IV),13.28,41.54,macroseismic,0.040829,0.8059,,900.0,inferred,713.0
+DBMI_435,3 (Intensity IV),14.46,42.25,macroseismic,0.040742,0.8059,,391.63,inferred,590.0
+UTM:(33T 030 465 10000),,12.6447,42.0228,macroseismic,0.040682,0.8059,,463.49,inferred,442.0
+DBMI_293,2 (Intensity IV),14.48,42.24,macroseismic,0.040509,0.8059,,522.05,inferred,599.0
+DBMI_202,34 (Intensity IV),12.78,41.67,macroseismic,0.040501,0.8059,,441.38,inferred,596.0
+DBMI_649,6 (Intensity V),14.31,40.93,macroseismic,0.040429,0.8059,,292.88,inferred,598.0
+DBMI_216,26 (Intensity IV),12.71,42.75,macroseismic,0.040423,0.8059,,359.29,inferred,230.0
+DBMI_387,2 (Intensity IV),13.0,42.03,macroseismic,0.040401,0.8059,,900.0,inferred,554.0
+DBMI_360,1 (Intensity IV),13.96,42.18,macroseismic,0.040384,0.8059,,489.52,inferred,992.0
+DBMI_35,7 (Intensity IV),12.54,42.14,macroseismic,0.040352,0.8059,,468.53,inferred,411.0
+DBMI_519,3 (Intensity IV),14.29,42.36,macroseismic,0.040289,0.8059,,384.75,inferred,262.0
+DBMI_429,3 (Intensity V),14.06,40.82,macroseismic,0.040224,0.8059,,411.08,inferred,599.0
+DBMI_258,6 (Intensity IV),12.87,41.79,macroseismic,0.040164,0.8059,,279.56,inferred,325.0
+DBMI_110,15 (Intensity IV),12.25,41.76,macroseismic,0.040109,0.8059,,218.46,inferred,196.0
+DBMI_155,18 (Intensity IV),13.07,43.14,macroseismic,0.040001,0.8059,,579.08,inferred,1000.0
+OBS_3,Ascoli Piceno::Marken::Italy 4 responses 61 km,13.58,42.86,macroseismic,0.039996,0.8059,,305.39,inferred,912.0
+DBMI_684,2 (Intensity IV),12.61,42.94,macroseismic,0.039992,0.8059,,284.2,inferred,230.0
+DBMI_189,10 (Intensity IV),12.52,42.1,macroseismic,0.039859,0.8059,,427.2,inferred,600.0
+DBMI_60,3 (Intensity IV),14.26,42.03,macroseismic,0.039675,0.8059,,536.85,inferred,994.0
+DBMI_962,1 (Intensity IV),13.95,41.02,macroseismic,0.039411,0.8059,,202.19,inferred,230.0
+DBMI_394,2 (Intensity IV),13.46,43.22,macroseismic,0.039329,0.8059,,423.35,inferred,987.0
+DBMI_1314,2 (Intensity IV),13.49,41.6,macroseismic,0.039294,0.8059,,299.1,inferred,940.0
+DBMI_233,2 (Intensity IV),14.01,42.16,macroseismic,0.039271,0.8059,,822.29,inferred,999.0
+OBS_6,Castel Frentano::Abruzzen::Italy 3 responses 86 km,14.37,42.2,macroseismic,0.039195,0.8059,,463.03,inferred,597.0
+DBMI_320,1 (Intensity V),14.53,41.22,macroseismic,0.03918,0.8059,,421.08,inferred,994.0
+DBMI_623,6 (Intensity IV),13.99,41.29,macroseismic,0.03915,0.8059,,460.1,inferred,600.0
+DBMI_336,7 (Intensity IV),13.79,43.18,macroseismic,0.039146,0.8059,,483.35,inferred,483.0
+DBMI_609,4 (Intensity IV),13.18,43.23,macroseismic,0.039084,0.8059,,400.2,inferred,554.0
+DBMI_204,2 (Intensity IV),14.11,41.57,macroseismic,0.038923,0.8059,,900.0,inferred,595.0
+DBMI_386,17 (Intensity IV),13.93,41.24,macroseismic,0.038867,0.8059,,460.2,inferred,524.0
+DBMI_146,8 (Intensity IV),13.69,43.23,macroseismic,0.038843,0.8059,,325.17,inferred,591.0
+DBMI_184,87 (Intensity IV),12.9,41.47,macroseismic,0.038841,0.8059,,243.18,inferred,229.0
+DBMI_1070,1 (Intensity V),12.97,43.74,macroseismic,0.038794,0.8059,,483.1,inferred,413.0
+DBMI_613,1 (Intensity V),14.3,41.05,macroseismic,0.038789,0.8059,,271.27,inferred,599.0
+DBMI_683,3 (Intensity IV),12.37,42.25,macroseismic,0.038764,0.8059,,295.57,inferred,600.0
+DBMI_602,2 (Intensity V),14.18,41.0,macroseismic,0.03876,0.8059,,283.31,inferred,598.0
+DBMI_751,1 (Intensity IV),12.99,41.94,macroseismic,0.0387,0.8059,,583.73,inferred,1000.0
+DBMI_33,6 (Intensity IV),12.35,42.24,macroseismic,0.038526,0.8059,,243.91,inferred,600.0
+DBMI_433,34 (Intensity IV),14.24,41.6,macroseismic,0.038521,0.8059,,283.74,inferred,964.0
+DBMI_356,14 (Intensity IV),13.51,41.54,macroseismic,0.038372,0.8059,,346.88,inferred,230.0
+DBMI_499,6 (Intensity IV),13.31,43.31,macroseismic,0.038261,0.8059,,366.57,inferred,575.0
+DBMI_546,2 (Intensity V),14.23,40.92,macroseismic,0.038187,0.8059,,333.99,inferred,598.0
+DBMI_208,38 (Intensity IV),14.71,42.13,macroseismic,0.038146,0.8059,,488.07,inferred,598.0
+DBMI_248,14 (Intensity IV),13.92,42.83,macroseismic,0.038028,0.8059,,323.07,inferred,189.0
+DBMI_752,2 (Intensity IV),13.61,43.12,macroseismic,0.037955,0.8059,,322.68,inferred,980.0
+DBMI_317,4 (Intensity IV),13.87,42.87,macroseismic,0.037722,0.8059,,505.71,inferred,594.0
+DBMI_694,1 (Intensity V),14.7,41.09,macroseismic,0.037542,0.8059,,453.05,inferred,687.0
+DBMI_123,10 (Intensity IV),12.77,42.07,macroseismic,0.037537,0.8059,,596.29,inferred,997.0
+DBMI_420,23 (Intensity IV),12.65,41.73,macroseismic,0.037418,0.8059,,550.67,inferred,599.0
+DBMI_408,14 (Intensity IV),12.69,41.7,macroseismic,0.037401,0.8059,,450.95,inferred,239.0
+DBMI_95,13 (Intensity IV),14.73,42.04,macroseismic,0.037357,0.8059,,478.12,inferred,598.0
+DBMI_1299,1 (Intensity IV),13.21,43.6,macroseismic,0.037329,0.8059,,423.12,inferred,987.0
+DBMI_113,5 (Intensity IV),13.53,41.29,macroseismic,0.037188,0.8059,,492.05,inferred,1000.0
+DBMI_544,15 (Intensity IV),13.23,41.29,macroseismic,0.037114,0.8059,,213.28,inferred,150.0
+OFFI,,13.6857,42.935,seismic,0.036972,0.0,,538.3,inferred,601.0
+DBMI_569,2 (Intensity IV),14.35,40.88,macroseismic,0.036962,0.8059,,326.71,inferred,996.0
+DBMI_542,4 (Intensity IV),12.54,42.61,macroseismic,0.036824,0.8059,,514.22,inferred,796.0
+DBMI_494,8 (Intensity IV),12.5,42.15,macroseismic,0.03676,0.8059,,487.62,inferred,600.0
+DBMI_531,1 (Intensity IV),12.64,42.42,macroseismic,0.036669,0.8059,,900.0,inferred,632.0
+DBMI_365,4 (Intensity IV),12.66,42.5,macroseismic,0.036482,0.8059,,618.52,inferred,1000.0
+DBMI_869,4 (Intensity IV),12.28,42.09,macroseismic,0.036425,0.8059,,207.0,inferred,496.0
+DBMI_1372,1 (Intensity IV),13.5,43.02,macroseismic,0.036376,0.8059,,563.63,inferred,996.0
+DBMI_1188,1 (Intensity IV),12.83,42.71,macroseismic,0.036329,0.8059,,787.09,inferred,842.0
+DBMI_455,2 (Intensity IV),14.04,42.01,macroseismic,0.036292,0.8059,,369.24,inferred,608.0
+DBMI_583,5 (Intensity IV),13.06,41.81,macroseismic,0.035864,0.8059,,467.97,inferred,796.0
+DBMI_736,1 (Intensity IV),12.71,42.04,macroseismic,0.0351,0.8059,,488.75,inferred,795.0
+DBMI_1310,1 (Intensity IV),12.6,42.23,macroseismic,0.035084,0.8059,,587.59,inferred,442.0
+DBMI_508,5 (Intensity IV),13.62,43.44,macroseismic,0.035067,0.8059,,487.22,inferred,414.0
+DBMI_647,7 (Intensity IV),12.71,41.81,macroseismic,0.034859,0.8059,,705.98,inferred,969.0
+TERO,,13.6039,42.6228,seismic,0.034745,0.0,,550.47,inferred,999.0
+DBMI_265,4 (Intensity V),16.6,40.67,macroseismic,0.034687,0.8059,,760.0,inferred,997.0
+DBMI_43,1 (Intensity IV),14.04,41.75,macroseismic,0.034611,0.8059,,843.98,inferred,1000.0
+DBMI_4,20 (Intensity IV),12.67,41.82,macroseismic,0.034345,0.8059,,524.52,inferred,675.0
+DBMI_862,4 (Intensity V),14.49,40.72,macroseismic,0.034266,0.8059,,301.12,inferred,625.0
+DBMI_473,2 (Intensity IV),13.12,43.48,macroseismic,0.034232,0.8059,,677.19,inferred,990.0
+DBMI_451,8 (Intensity IV),14.33,41.05,macroseismic,0.034153,0.8059,,282.81,inferred,599.0
+DBMI_42,38 (Intensity IV),12.11,42.43,macroseismic,0.034051,0.8059,,397.04,inferred,965.0
+DBMI_801,3 (Intensity V),14.6,40.74,macroseismic,0.033974,0.8059,,460.77,inferred,600.0
+DBMI_364,6 (Intensity IV),12.91,41.65,macroseismic,0.033922,0.8059,,900.0,inferred,1000.0
+DBMI_699,3 (Intensity IV),13.77,41.41,macroseismic,0.033903,0.8059,,276.23,inferred,230.0
+DBMI_378,9 (Intensity IV),12.41,42.08,macroseismic,0.033827,0.8059,,470.1,inferred,600.0
+DBMI_345,17 (Intensity IV),12.7,41.77,macroseismic,0.033824,0.8059,,636.94,inferred,829.0
+DBMI_556,1 (Intensity IV),14.24,42.33,macroseismic,0.033821,0.8059,,512.0,inferred,602.0
+DBMI_522,15 (Intensity IV),12.68,41.78,macroseismic,0.033701,0.8059,,408.08,inferred,596.0
+ROM9,,12.5155,41.8284,seismic,0.033653,0.0,,215.5,inferred,800.0
+DBMI_503,4 (Intensity V),14.67,40.74,macroseismic,0.033634,0.8059,,502.99,inferred,718.0
+DBMI_93,2 (Intensity IV),13.82,42.86,macroseismic,0.033589,0.8059,,629.33,inferred,494.0
+DBMI_575,4 (Intensity IV),12.42,42.98,macroseismic,0.033522,0.8059,,464.63,inferred,677.0
+DBMI_220,30 (Intensity IV),13.44,43.3,macroseismic,0.033458,0.8059,,398.37,inferred,988.0
+DBMI_485,3 (Intensity V),14.76,40.73,macroseismic,0.033093,0.8059,,900.0,inferred,596.0
+DBMI_735,3 (Intensity V),14.71,40.7,macroseismic,0.033035,0.8059,,221.32,inferred,999.0
+DBMI_313,1 (Intensity IV),13.36,42.98,macroseismic,0.032934,0.8059,,527.86,inferred,1000.0
+DBMI_431,38 (Intensity IV),12.61,41.8,macroseismic,0.032934,0.8059,,343.87,inferred,596.0
+DBMI_483,9 (Intensity IV),12.68,41.49,macroseismic,0.032886,0.8059,,317.76,inferred,230.0
+DBMI_923,1 (Intensity IV),12.52,42.23,macroseismic,0.03285,0.8059,,531.98,inferred,598.0
+DBMI_278,40 (Intensity IV),12.7,42.96,macroseismic,0.03263,0.8059,,289.58,inferred,458.0
+DBMI_638,7 (Intensity IV),13.64,43.32,macroseismic,0.03256,0.8059,,439.37,inferred,595.0
+DBMI_878,1 (Intensity V),15.96,41.9,macroseismic,0.032461,0.8059,,760.0,inferred,991.0
+DBMI_326,10 (Intensity IV),12.66,41.71,macroseismic,0.032017,0.8059,,373.19,inferred,434.0
+DBMI_695,1 (Intensity IV),13.2,41.64,macroseismic,0.031322,0.8059,,900.0,inferred,606.0
+DBMI_1114,1 (Intensity IV),14.33,42.17,macroseismic,0.031057,0.8059,,425.57,inferred,596.0
+DBMI_646,3 (Intensity IV),13.74,41.25,macroseismic,0.030706,0.8059,,373.07,inferred,240.0
+CAFR,,14.347,42.2273,seismic,0.030631,0.0,,504.45,inferred,597.0
+DBMI_635,2 (Intensity IV),13.19,43.43,macroseismic,0.030541,0.8059,,546.38,inferred,957.0
+DBMI_333,2 (Intensity IV),14.31,42.06,macroseismic,0.03054,0.8059,,598.12,inferred,994.0
+DBMI_98,4 (Intensity IV),13.76,43.0,macroseismic,0.030271,0.8059,,684.1,inferred,601.0
+DBMI_491,4 (Intensity IV),14.13,41.34,macroseismic,0.03018,0.8059,,381.21,inferred,230.0
+INTR,,13.9046,42.0115,seismic,0.030053,0.0,,780.35,inferred,606.0
+DBMI_781,1 (Intensity IV),13.59,41.59,macroseismic,0.029901,0.8059,,545.57,inferred,1000.0
+DBMI_605,10 (Intensity IV),12.63,43.07,macroseismic,0.029704,0.8059,,900.0,inferred,997.0
+OBS_1,Amelia::Umbria::Italy 3 responses 80 km,12.41,42.56,macroseismic,0.029615,0.8059,,453.52,inferred,780.0
+DBMI_268,12 (Intensity IV),13.87,42.99,macroseismic,0.029453,0.8059,,576.2,inferred,602.0
+TRTR,,13.9138,42.8081,seismic,0.029176,0.0,,572.35,inferred,469.0
+DBMI_309,24 (Intensity IV),14.21,40.97,macroseismic,0.029039,0.8059,,292.96,inferred,598.0
+DBMI_739,2 (Intensity IV),13.32,43.11,macroseismic,0.028934,0.8059,,480.23,inferred,1000.0
+DBMI_570,3 (Intensity IV),14.24,40.95,macroseismic,0.028676,0.8059,,298.45,inferred,598.0
+DBMI_643,1 (Intensity IV),13.86,43.03,macroseismic,0.028642,0.8059,,451.17,inferred,451.0
+DBMI_557,1 (Intensity IV),14.35,41.95,macroseismic,0.028539,0.8059,,601.33,inferred,675.0
+DBMI_1366,1 (Intensity IV),12.33,42.51,macroseismic,0.028472,0.8059,,586.34,inferred,719.0
+DBMI_76,33 (Intensity IV),15.0,41.99,macroseismic,0.028375,0.8059,,430.0,inferred,600.0
+DBMI_1325,1 (Intensity IV),13.82,41.58,macroseismic,0.028237,0.8059,,900.0,inferred,674.0
+DBMI_1364,1 (Intensity IV),13.22,43.14,macroseismic,0.028005,0.8059,,496.5,inferred,782.0
+DBMI_593,1 (Intensity IV),12.28,42.38,macroseismic,0.027997,0.8059,,410.6,inferred,831.0
+DBMI_305,14 (Intensity IV),13.72,43.31,macroseismic,0.027987,0.8059,,379.29,inferred,319.0
+DBMI_289,23 (Intensity IV),14.3,40.91,macroseismic,0.027979,0.8059,,320.51,inferred,599.0
+DBMI_225,16 (Intensity IV),12.62,41.49,macroseismic,0.027845,0.8059,,266.22,inferred,230.0
+NRCA,,13.1143,42.8336,seismic,0.027341,0.0,,900.0,inferred,679.0
+DBMI_1350,1 (Intensity IV),13.6,43.16,macroseismic,0.027324,0.8059,,455.03,inferred,990.0
+DBMI_547,11 (Intensity IV),12.69,41.67,macroseismic,0.02728,0.8059,,491.51,inferred,605.0
+DBMI_587,2 (Intensity IV),12.23,42.42,macroseismic,0.027093,0.8059,,779.15,inferred,766.0
+DBMI_1306,1 (Intensity IV),14.15,41.67,macroseismic,0.027016,0.8059,,616.06,inferred,996.0
+DBMI_329,4 (Intensity IV),13.71,41.49,macroseismic,0.026971,0.8059,,241.05,inferred,597.0
+GUAR,,13.3123,41.7945,seismic,0.0263,0.0,,816.58,inferred,984.0
+DBMI_215,1 (Intensity IV),14.57,42.1,macroseismic,0.026289,0.8059,,426.56,inferred,596.0
+DBMI_140,2 (Intensity IV),13.67,43.2,macroseismic,0.026237,0.8059,,383.17,inferred,596.0
+DBMI_903,1 (Intensity IV),12.17,42.47,macroseismic,0.026052,0.8059,,435.24,inferred,828.0
+VCEL,,13.8406,42.3946,seismic,0.025908,0.0,,788.62,inferred,998.0
+DBMI_738,1 (Intensity IV),13.24,41.41,macroseismic,0.025868,0.8059,,737.16,inferred,984.0
+DBMI_577,1 (Intensity IV),12.19,42.6,macroseismic,0.02578,0.8059,,425.82,inferred,599.0
+DBMI_1029,1 (Intensity V),16.55,40.83,macroseismic,0.025771,0.8059,,760.0,inferred,771.0
+DBMI_1206,1 (Intensity V),11.48,45.53,macroseismic,0.025771,0.8059,,760.0,inferred,230.0
+DBMI_706,1 (Intensity V),9.08,45.55,macroseismic,0.025771,0.8059,,760.0,inferred,600.0
+DBMI_667,1 (Intensity IV),11.66,45.23,macroseismic,0.025771,0.8059,,760.0,inferred,938.0
+DBMI_448,18 (Intensity IV),13.48,43.48,macroseismic,0.025627,0.8059,,350.94,inferred,596.0
+DBMI_549,18 (Intensity IV),12.66,41.58,macroseismic,0.025568,0.8059,,279.53,inferred,150.0
+OBS_30,Pomezia::Lazio::Italy 3 responses 99 km,12.51,41.68,macroseismic,0.025483,0.8059,,227.43,inferred,600.0
+DBMI_1192,1 (Intensity IV),11.83,42.56,macroseismic,0.025373,0.8059,,479.87,inferred,603.0
+DBMI_479,8 (Intensity IV),14.64,40.75,macroseismic,0.025177,0.8059,,394.56,inferred,604.0
+DBMI_760,4 (Intensity IV),14.07,41.25,macroseismic,0.025138,0.8059,,465.03,inferred,600.0
+DBMI_1340,1 (Intensity IV),14.17,41.56,macroseismic,0.025089,0.8059,,377.14,inferred,416.0
+DBMI_511,9 (Intensity IV),13.75,43.26,macroseismic,0.024835,0.8059,,485.6,inferred,521.0
+DBMI_608,1 (Intensity IV),14.16,41.24,macroseismic,0.024572,0.8059,,657.97,inferred,971.0
+DBMI_1056,1 (Intensity IV),14.66,41.98,macroseismic,0.024436,0.8059,,582.59,inferred,992.0
+OBS_18,Isernia::Molise::Italy 3 responses 115 km,14.31,41.59,macroseismic,0.024361,0.8059,,491.69,inferred,969.0
+DBMI_616,7 (Intensity IV),13.89,41.11,macroseismic,0.024047,0.8059,,220.57,inferred,227.0
+DBMI_713,3 (Intensity IV),12.03,42.54,macroseismic,0.024011,0.8059,,434.31,inferred,998.0
+DBMI_580,4 (Intensity IV),12.05,43.13,macroseismic,0.023984,0.8059,,253.23,inferred,600.0
+DBMI_121,330 (Intensity IV),14.28,40.86,macroseismic,0.023723,0.8059,,401.72,inferred,404.0
+DBMI_351,9 (Intensity IV),14.46,40.93,macroseismic,0.023708,0.8059,,224.87,inferred,595.0
+DBMI_517,18 (Intensity IV),12.89,43.9,macroseismic,0.023665,0.8059,,281.23,inferred,237.0
+DBMI_474,17 (Intensity IV),12.9,43.34,macroseismic,0.023235,0.8059,,365.05,inferred,608.0
+DBMI_1200,1 (Intensity IV),12.76,43.3,macroseismic,0.023183,0.8059,,577.86,inferred,1000.0
+DBMI_91,21 (Intensity IV),13.66,41.26,macroseismic,0.023144,0.8059,,388.03,inferred,230.0
+DBMI_428,1 (Intensity IV),13.83,41.29,macroseismic,0.023096,0.8059,,509.5,inferred,729.0
+DBMI_1326,1 (Intensity IV),11.98,42.64,macroseismic,0.023089,0.8059,,460.28,inferred,840.0
+DBMI_249,2 (Intensity IV),13.99,41.33,macroseismic,0.022989,0.8059,,495.81,inferred,600.0
+DBMI_663,1 (Intensity IV),14.53,41.58,macroseismic,0.022489,0.8059,,584.78,inferred,1000.0
+RDP,,12.7167,41.7583,seismic,0.022454,0.0,,593.56,inferred,1000.0
+DBMI_1252,1 (Intensity IV),14.86,42.01,macroseismic,0.02242,0.8059,,500.74,inferred,598.0
+DBMI_173,17 (Intensity IV),13.54,43.46,macroseismic,0.0223,0.8059,,483.49,inferred,465.0
+SACR,,14.7057,41.3974,seismic,0.022298,0.0,,526.21,inferred,999.0
+DBMI_1098,2 (Intensity IV),11.98,42.81,macroseismic,0.022247,0.8059,,448.18,inferred,580.0
+DBMI_659,2 (Intensity IV),12.08,42.97,macroseismic,0.022046,0.8059,,397.47,inferred,832.0
+DBMI_530,1 (Intensity IV),13.07,43.47,macroseismic,0.021962,0.8059,,372.06,inferred,236.0
+DBMI_813,1 (Intensity IV),13.15,43.49,macroseismic,0.021839,0.8059,,521.73,inferred,420.0
+DBMI_648,6 (Intensity IV),12.58,44.05,macroseismic,0.021803,0.8059,,760.0,inferred,602.0
+DBMI_348,5 (Intensity IV),14.51,40.7,macroseismic,0.021742,0.8059,,568.24,inferred,269.0
+LPEL,,14.1832,42.0468,seismic,0.021717,0.0,,900.0,inferred,561.0
+DBMI_105,1 (Intensity IV),12.01,42.96,macroseismic,0.02157,0.8059,,382.89,inferred,600.0
+DBMI_101,23 (Intensity IV),13.24,43.53,macroseismic,0.021438,0.8059,,364.44,inferred,237.0
+DBMI_1349,1 (Intensity IV),14.15,41.26,macroseismic,0.021433,0.8059,,534.03,inferred,447.0
+DBMI_975,2 (Intensity IV),11.76,42.25,macroseismic,0.021412,0.8059,,459.2,inferred,231.0
+DBMI_1347,1 (Intensity IV),13.55,43.53,macroseismic,0.0214,0.8059,,465.52,inferred,983.0
+DBMI_398,5 (Intensity IV),14.33,41.33,macroseismic,0.021293,0.8059,,380.14,inferred,234.0
+DBMI_675,2 (Intensity IV),14.77,40.75,macroseismic,0.021289,0.8059,,809.44,inferred,674.0
+DBMI_543,3 (Intensity IV),14.85,41.74,macroseismic,0.021185,0.8059,,605.79,inferred,997.0
+DBMI_1365,1 (Intensity IV),14.1,41.19,macroseismic,0.020905,0.8059,,448.37,inferred,687.0
+DBMI_334,80 (Intensity IV),13.51,43.59,macroseismic,0.020736,0.8059,,486.01,inferred,970.0
+DBMI_958,4 (Intensity IV),15.01,41.87,macroseismic,0.020572,0.8059,,597.2,inferred,600.0
+DBMI_131,16 (Intensity IV),13.38,43.62,macroseismic,0.020451,0.8059,,450.08,inferred,446.0
+DBMI_1352,1 (Intensity IV),13.06,43.6,macroseismic,0.020435,0.8059,,416.56,inferred,628.0
+DBMI_965,2 (Intensity IV),13.31,43.64,macroseismic,0.020228,0.8059,,391.38,inferred,419.0
+DBMI_10,1 (Intensity IV),12.75,43.9,macroseismic,0.020175,0.8059,,479.7,inferred,829.0
+DBMI_1087,1 (Intensity IV),14.48,41.28,macroseismic,0.020112,0.8059,,900.0,inferred,1000.0
+DBMI_879,1 (Intensity IV),14.1,41.09,macroseismic,0.01993,0.8059,,216.59,inferred,167.0
+DBMI_1092,1 (Intensity IV),11.69,42.85,macroseismic,0.019808,0.8059,,577.22,inferred,966.0
+POFI,,13.712,41.7174,seismic,0.019376,0.0,,761.55,inferred,934.0
+DBMI_540,5 (Intensity IV),14.46,40.75,macroseismic,0.019183,0.8059,,322.77,inferred,994.0
+DBMI_535,1 (Intensity IV),14.12,41.01,macroseismic,0.019164,0.8059,,262.55,inferred,598.0
+DBMI_34,9 (Intensity IV),12.23,43.47,macroseismic,0.0191,0.8059,,231.22,inferred,230.0
+DBMI_346,32 (Intensity IV),14.34,41.07,macroseismic,0.018973,0.8059,,295.74,inferred,599.0
+DBMI_1373,1 (Intensity IV),11.81,43.7,macroseismic,0.018935,0.8059,,441.26,inferred,629.0
+DBMI_612,1 (Intensity IV),11.49,43.52,macroseismic,0.01869,0.8059,,483.69,inferred,967.0
+DBMI_558,1 (Intensity IV),11.75,43.22,macroseismic,0.018475,0.8059,,398.99,inferred,230.0
+DBMI_1328,1 (Intensity IV),14.3,40.96,macroseismic,0.018273,0.8059,,241.91,inferred,598.0
+DBMI_892,1 (Intensity IV),14.26,40.94,macroseismic,0.018237,0.8059,,294.09,inferred,598.0
+DBMI_405,2 (Intensity IV),14.56,41.06,macroseismic,0.018149,0.8059,,473.52,inferred,230.0
+DBMI_353,8 (Intensity IV),14.19,40.9,macroseismic,0.018121,0.8059,,485.34,inferred,599.0
+DBMI_274,10 (Intensity IV),14.14,40.88,macroseismic,0.01809,0.8059,,259.15,inferred,263.0
+DBMI_524,8 (Intensity IV),14.11,40.84,macroseismic,0.017862,0.8059,,571.76,inferred,600.0
+DBMI_1066,1 (Intensity IV),12.79,43.85,macroseismic,0.017807,0.8059,,557.08,inferred,260.0
+DBMI_604,5 (Intensity IV),14.39,40.91,macroseismic,0.017679,0.8059,,272.68,inferred,779.0
+DBMI_596,1 (Intensity IV),14.42,40.92,macroseismic,0.017662,0.8059,,301.46,inferred,443.0
+DBMI_937,1 (Intensity IV),14.36,40.85,macroseismic,0.017367,0.8059,,468.14,inferred,998.0
+DBMI_213,11 (Intensity IV),14.34,40.83,macroseismic,0.017287,0.8059,,424.9,inferred,998.0
+DBMI_1023,1 (Intensity IV),12.77,43.94,macroseismic,0.017147,0.8059,,374.13,inferred,615.0
+DBMI_796,3 (Intensity IV),14.98,40.61,macroseismic,0.017115,0.8059,,307.52,inferred,419.0
+DBMI_912,1 (Intensity IV),14.5,40.85,macroseismic,0.017015,0.8059,,433.89,inferred,1000.0
+DBMI_990,1 (Intensity IV),12.73,43.96,macroseismic,0.01696,0.8059,,280.37,inferred,419.0
+DBMI_598,6 (Intensity IV),14.39,40.79,macroseismic,0.016924,0.8059,,577.14,inferred,999.0
+CERA,,14.0183,41.5978,seismic,0.016795,0.0,,799.19,inferred,1000.0
+DBMI_552,2 (Intensity IV),14.69,40.8,macroseismic,0.016256,0.8059,,699.96,inferred,240.0
+DBMI_1233,3 (Intensity IV),15.88,41.93,macroseismic,0.015801,0.8059,,760.0,inferred,458.0
+DBMI_851,1 (Intensity IV),12.4,44.09,macroseismic,0.015711,0.8059,,760.0,inferred,412.0
+MIDA,,14.254,41.6419,seismic,0.015485,0.0,,900.0,inferred,888.0
+MTCE,,12.7422,42.0228,seismic,0.015002,0.0,,418.3,inferred,780.0
+DBMI_1311,1 (Intensity IV),12.35,44.27,macroseismic,0.01478,0.8059,,760.0,inferred,446.0
+BOJ,,14.4721,41.4845,seismic,0.014436,0.0,,708.97,inferred,605.0
+DBMI_282,2 (Intensity IV),11.14,43.82,macroseismic,0.014151,0.8059,,231.16,inferred,230.0
+FRES,,14.6693,41.9735,seismic,0.014025,0.0,,604.23,inferred,993.0
+DBMI_1302,1 (Intensity IV),11.24,44.0,macroseismic,0.013841,0.8059,,396.3,inferred,1000.0
+GIUL,,13.2546,41.5583,seismic,0.013528,0.0,,879.44,inferred,968.0
+MNS,,12.6811,42.3855,seismic,0.013372,0.0,,648.51,inferred,996.0
+DBMI_188,1 (Intensity IV),10.75,43.85,macroseismic,0.013225,0.8059,,760.0,inferred,230.0
+DBMI_909,1 (Intensity IV),11.27,44.48,macroseismic,0.012571,0.8059,,760.0,inferred,597.0
+DBMI_946,1 (Intensity IV),12.32,44.95,macroseismic,0.012317,0.8059,,760.0,inferred,230.0
+DBMI_988,1 (Intensity IV),13.41,45.68,macroseismic,0.012262,0.8059,,760.0,inferred,186.0
+DBMI_786,1 (Intensity IV),16.92,40.8,macroseismic,0.012262,0.8059,,760.0,inferred,991.0
+DBMI_1159,1 (Intensity IV),10.24,45.59,macroseismic,0.012262,0.8059,,760.0,inferred,998.0
+DBMI_1060,1 (Intensity IV),10.38,44.64,macroseismic,0.012262,0.8059,,760.0,inferred,230.0
+DBMI_1121,1 (Intensity IV),18.3,40.2,macroseismic,0.012262,0.8059,,760.0,inferred,985.0
+DBMI_1125,1 (Intensity IV),17.11,40.97,macroseismic,0.012262,0.8059,,760.0,inferred,991.0
+DBMI_1101,1 (Intensity IV),8.86,45.32,macroseismic,0.012262,0.8059,,760.0,inferred,598.0
+MRB1,,14.9681,41.1227,seismic,0.012014,0.0,,477.81,inferred,600.0
+BSSO,,14.5938,41.5461,seismic,0.009888,0.0,,551.88,inferred,1000.0
+PSB1,,14.8108,41.2234,seismic,0.009867,0.0,,534.37,inferred,971.0
+VAGA,,14.2342,41.4154,seismic,0.009406,0.0,,675.85,inferred,1000.0
+PTRJ,,14.529,41.3641,seismic,0.009034,0.0,,900.0,inferred,1000.0
+RMP,,12.7022,41.8111,seismic,0.008626,0.0,,644.15,inferred,846.0
+CING,,13.1954,43.3756,seismic,0.008334,0.0,,825.62,inferred,997.0
+MA9,,12.6593,41.7702,seismic,0.007728,0.0,,456.54,inferred,600.0
+SNAL,,15.2091,40.9254,seismic,0.007095,0.0,,692.78,inferred,448.0
+FDMO,,13.0873,43.0365,seismic,0.005909,0.0,,594.74,inferred,1000.0
+ASSB,,12.6587,43.0426,seismic,0.005073,0.0,,900.0,inferred,1000.0
+CESI,,12.9046,43.0049,seismic,0.004815,0.0,,686.35,inferred,1000.0
+MSAG,,15.9096,41.712,seismic,0.004504,0.0,,760.0,inferred,975.0
+FSSB,,12.7771,43.6931,seismic,0.004434,0.0,,900.0,inferred,653.0
+SEP,,14.8802,41.625,seismic,0.003578,0.0,,592.95,inferred,999.0
+MGAB,,12.1121,42.9126,seismic,0.003425,0.0,,415.15,inferred,1000.0
+MODR,,13.8779,41.1459,seismic,0.00325,0.0,,615.35,inferred,989.0
+AOI,,13.602,43.5502,seismic,0.002906,0.0,,615.37,inferred,987.0
+SBPO,,10.9199,45.0511,seismic,0.002714,0.0,,760.0,inferred,230.0
+SACS,,11.9097,42.8491,seismic,0.002601,0.0,,382.48,inferred,997.0
+ARVD,,12.9415,43.4981,seismic,0.002415,0.0,,599.39,inferred,604.0
+VENT,,13.4216,40.7948,seismic,0.002403,0.0,,296.27,inferred,603.0
+PESA,,12.8402,43.941,seismic,0.002269,0.0,,502.08,inferred,780.0
+BADI,,12.2443,43.5097,seismic,0.00217,0.0,,538.11,inferred,1000.0
+ILLI,,14.9483,38.4457,seismic,0.001908,0.0,,760.0,inferred,603.0
+SGRT,,15.7437,41.7546,seismic,0.001834,0.0,,552.25,inferred,987.0
+PARC,,12.2386,43.6486,seismic,0.001687,0.0,,357.72,inferred,1000.0
+PIEI,,12.535,43.5357,seismic,0.001623,0.0,,900.0,inferred,1000.0
+PALZ,,15.9602,40.9441,seismic,0.001538,0.0,,760.0,inferred,780.0
+CSNT,,11.2902,43.4731,seismic,0.001534,0.0,,361.08,inferred,1000.0
+MIGL,,16.441,40.6044,seismic,0.001497,0.0,,760.0,inferred,600.0
+TOLF,,12.0002,42.0641,seismic,0.001246,0.0,,583.69,inferred,999.0
+SGTA,,15.365,41.135,seismic,0.001165,0.0,,373.14,inferred,997.0
+TIR,,19.8631,41.3472,seismic,0.001164,0.0,,760.0,inferred,525.0
+ACER,,15.9427,40.7867,seismic,0.001037,0.0,,760.0,inferred,990.0
+CRMI,,10.97,43.79,seismic,0.000957,0.0,,760.0,inferred,1000.0
+CAFI,,11.9663,43.3292,seismic,0.000951,0.0,,620.12,inferred,391.0
+MONC,,7.9271,45.0739,seismic,0.000842,0.0,,760.0,inferred,1000.0
+MCRV,,15.1684,40.7826,seismic,0.000737,0.0,,900.0,inferred,1000.0
+MPAZ,,16.0067,37.9531,seismic,0.000718,0.0,,760.0,inferred,999.0
+FIU,,11.4916,44.6403,seismic,0.000705,0.0,,760.0,inferred,230.0
+SFI,,11.8469,43.9048,seismic,0.000675,0.0,,746.2,inferred,1000.0
+CRAC,,16.435,40.365,seismic,0.000668,0.0,,760.0,inferred,768.0
+MTRZ,,11.4248,44.3128,seismic,0.000656,0.0,,760.0,inferred,632.0
+MRLC,,15.4889,40.7564,seismic,0.000653,0.0,,685.46,inferred,586.0
+CMPO,,11.8056,44.5808,seismic,0.000627,0.0,,760.0,inferred,230.0
+CAFE,,15.2366,41.028,seismic,0.000608,0.0,,810.55,inferred,712.0
+RAVA,,11.1188,44.7559,seismic,0.000591,0.0,,760.0,inferred,230.0
+ASQU,,11.7893,43.7967,seismic,0.000538,0.0,,900.0,inferred,1000.0
+MTSN,,15.7515,40.2663,seismic,0.000506,0.0,,760.0,inferred,236.0
+MAON,,11.1309,42.4283,seismic,0.0005,0.0,,551.12,inferred,795.0
+ZCCA,,10.9765,44.3509,seismic,0.000431,0.0,,760.0,inferred,1000.0
+BULG,,15.3776,40.0783,seismic,0.000428,0.0,,760.0,inferred,630.0
+RSM,,12.4497,43.9303,seismic,0.000416,0.0,,477.72,inferred,552.0
+ARCI,,11.4754,42.8519,seismic,0.000413,0.0,,785.39,inferred,1000.0
+NOVE,,10.7161,44.7982,seismic,0.000398,0.0,,760.0,inferred,230.0
+AMUR,,16.6041,40.9071,seismic,0.000384,0.0,,760.0,inferred,994.0
+CRE,,11.9517,43.6189,seismic,0.000382,0.0,,747.79,inferred,1000.0
+ORI,,16.4504,40.051,seismic,0.000361,0.0,,760.0,inferred,994.0
+BOB,,9.44782,44.7679,seismic,0.000355,0.0,,760.0,inferred,682.0
+MCEL,,15.8019,40.3249,seismic,0.000345,0.0,,760.0,inferred,411.0
+PRMA,,10.3131,44.7637,seismic,0.000343,0.0,,760.0,inferred,230.0
+TUE,,9.34732,46.4722,seismic,0.000332,0.0,,760.0,inferred,518.0
+NOCI,,17.0644,40.7888,seismic,0.000329,0.0,,760.0,inferred,989.0
+MRVN,,16.1958,41.0609,seismic,0.000324,0.0,,760.0,inferred,990.0
+PDG,,19.2608,42.4297,seismic,0.0003,0.0,,760.0,inferred,267.0
+SIRI,,15.8675,40.1821,seismic,0.000279,0.0,,760.0,inferred,994.0
+SCTE,,18.4675,40.0724,seismic,0.000274,0.0,,760.0,inferred,714.0
+ERBM,,10.4127,44.4194,seismic,0.000272,0.0,,760.0,inferred,1000.0
+CTI,,11.6497,46.0482,seismic,0.000261,0.0,,760.0,inferred,769.0
+LATE,,11.804,42.6137,seismic,0.000244,0.0,,443.41,inferred,448.0
+SALO,,10.5255,45.6078,seismic,0.000226,0.0,,760.0,inferred,787.0
+SCHR,,16.0759,40.1992,seismic,0.000205,0.0,,760.0,inferred,1000.0
+CEL,,15.8939,38.2603,seismic,0.000184,0.0,,760.0,inferred,794.0
+APPI,,11.2281,46.4787,seismic,0.000147,0.0,,760.0,inferred,448.0
+QLNO,,8.34592,44.3242,seismic,0.000117,0.0,,760.0,inferred,999.0
+RESU,,14.0568,37.6468,seismic,0.000116,0.0,,760.0,inferred,624.0
+SSY,,15.0737,37.1577,seismic,0.000115,0.0,,760.0,inferred,995.0
+MDI,,9.716,45.7697,seismic,0.00011,0.0,,760.0,inferred,1000.0
+RSP,,7.26533,45.1482,seismic,0.000106,0.0,,760.0,inferred,979.0
+HCRL,,15.0325,37.2831,seismic,0.000105,0.0,,760.0,inferred,996.0
+BRMO,,10.3731,46.476,seismic,0.000103,0.0,,760.0,inferred,587.0
+MRGE,,7.06101,45.7698,seismic,9.4e-05,0.0,,760.0,inferred,900.0
+GRI,,16.42,38.8221,seismic,9.1e-05,0.0,,760.0,inferred,600.0
+PLAC,,16.4383,38.4494,seismic,9e-05,0.0,,760.0,inferred,999.0
+FVI,,12.7804,46.5966,seismic,8.9e-05,0.0,,760.0,inferred,910.0
+CORL,,13.3038,37.8943,seismic,8.3e-05,0.0,,760.0,inferred,994.0
+WDD,,14.5242,35.8373,seismic,7e-05,0.0,,760.0,inferred,544.0
+DOI,,7.24665,44.5042,seismic,6.8e-05,0.0,,760.0,inferred,832.0
+HVZN,,14.7155,37.1783,seismic,6.1e-05,0.0,,760.0,inferred,1000.0
+IFIL,,14.5753,38.5642,seismic,6e-05,0.0,,760.0,inferred,900.0
+HAVL,,15.122,36.9596,seismic,4.5e-05,0.0,,760.0,inferred,996.0
+GIB,,14.0262,37.9903,seismic,4.1e-05,0.0,,760.0,inferred,997.0
+SOI,,16.0542,38.0732,seismic,3.9e-05,0.0,,760.0,inferred,999.0
+GALF,,14.5665,37.7107,seismic,3.8e-05,0.0,,760.0,inferred,600.0
+AGST,,15.2271,37.2565,seismic,1.9e-05,0.0,,760.0,inferred,777.0
+PTRP,,16.0612,40.5215,seismic,2e-06,0.0,,760.0,inferred,634.0

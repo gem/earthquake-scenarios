@@ -1,0 +1,46 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30,VS30_TYPE,MMI_VALUE,MMI_STDDEV,PGV_LN_SIGMA,PGV_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE
+GVD,GAVARDO (GAZZINO - VALLIO TERME),45.61,10.383611,seismic,INGV,A (inferred from geology),0.072069969,0.0,0.1310577436033456,0.0,0.0292831873419121,0.0,0.0147274927272059,0.0,,A (inferred from geology),,,,,,
+NOR,NORCIA LA CASTELLINA,42.792442,13.092422,seismic,INGV,B,0.000241116,0.0,0.0003548109624191,0.0,0.0005567815276001,0.0,0.0009211817926588,0.0,423.0,B,,,,,,
+OGSI,SIXT FER   CHEVAL,46.056477,6.756875,seismic,INGV,A,0.000150465,0.0,0.0004479428354452,0.0,0.0001917066356991,0.0,0.0001184435938827,0.0,1500.0,A,,,,,,
+GSG,GRAN SASSO (LAB. INFN GALLERIA),42.46,13.55,seismic,INGV,B (inferred from geology),1.9847e-05,0.0,3.6552135896607374e-05,0.0,4.433576804305468e-05,0.0,7.478561615456254e-05,0.0,,B (inferred from geology),,,,,,
+UTM:(32T 061 503 10000),,45.4591,10.471,macroseismic,Stations_USGS,,0.122414,0.8059,0.278418,1.0131,,,0.072644,1.0822,383.03,inferred,5.7,0.3,0.875,7.8512,1.4737,0.016553
+UTM:(32T 058 502 10000),,45.3733,10.0856,macroseismic,Stations_USGS,,0.073587,0.8059,0.190006,1.0131,,,0.055135,1.0822,231.38,inferred,5.2,0.3,0.875,5.4539,1.4737,0.012935
+UTM:(32T 064 500 10000),,45.1835,10.8457,macroseismic,Stations_USGS,,0.051784,0.8059,0.112381,1.0131,,,0.031846,1.0822,199.16,inferred,4.7,0.3,0.875,3.7886,1.4737,0.007854
+UTM:(32T 059 504 10000),,45.552,10.2172,macroseismic,Stations_USGS,,0.044764,0.8059,0.07037,1.0131,,,0.012227,1.0822,271.85,inferred,4.2,0.3,0.875,1.9859,1.4737,0.002191
+UTM:(32T 065 503 10000),,45.4513,10.9823,macroseismic,Stations_USGS,,0.044141,0.8059,0.0731,1.0131,,,0.015579,1.0822,325.85,inferred,4.3,0.3,0.875,2.3227,1.4737,0.003053
+UTM:(32T 052 503 10000),,45.4681,9.3198,macroseismic,Stations_USGS,,0.04141,0.8059,0.07967,1.0131,,,0.03306,1.0822,242.61,inferred,4.6,0.3,0.875,3.5224,1.4737,0.008579
+UTM:(32T 052 507 10000),,45.8281,9.322,macroseismic,Stations_USGS,,0.041349,0.8059,0.079518,1.0131,,,0.033118,1.0822,900.0,inferred,4.6,0.3,0.875,3.5224,1.4737,0.008601
+UTM:(32T 050 505 10000),,45.6485,9.0642,macroseismic,Stations_USGS,,0.019808,0.8059,0.037952,1.0131,,,0.016298,1.0822,760.0,inferred,4.1,0.3,0.875,1.698,1.4737,0.003484
+UTM:(32T 051 503 10000),,45.4683,9.192,macroseismic,Stations_USGS,,0.017936,0.8059,0.03401,1.0131,,,0.013657,1.0822,760.0,inferred,4.0,0.3,0.875,1.4518,1.4737,0.002759
+UTM:(32T 039 499 10000),,45.1007,7.6655,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.1,0.3,,,,
+UTM:(32T 045 506 10000),,45.737,8.4216,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,
+UTM:(32T 047 506 10000),,45.7381,8.6787,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.1,0.3,,,,
+UTM:(32T 047 507 10000),,45.8281,8.6782,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,
+UTM:(32T 047 508 10000),,45.9181,8.6776,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.7,0.3,,,,
+UTM:(32T 048 505 10000),,45.6484,8.8075,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.8,0.3,,,,
+UTM:(32T 048 507 10000),,45.8284,8.8069,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.5,0.3,,,,
+UTM:(32T 049 491 10000),,44.3882,8.9372,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.8,0.3,,,,
+UTM:(32T 049 505 10000),,45.6486,8.9359,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.1,0.3,,,,
+UTM:(32T 049 508 10000),,45.9185,8.9355,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.8,0.3,,,,
+UTM:(32T 049 509 10000),,46.0085,8.9354,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.4,0.3,,,,
+UTM:(32T 050 503 10000),,45.4685,9.064,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.6,0.3,,,,
+UTM:(32T 050 504 10000),,45.5585,9.0641,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.9,0.3,,,,
+UTM:(32T 050 507 10000),,45.8285,9.0645,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.7,0.3,,,,
+UTM:(32T 051 504 10000),,45.5584,9.1923,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.5,0.3,,,,
+UTM:(32T 051 505 10000),,45.6484,9.1926,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.5,0.3,,,,
+UTM:(32T 051 506 10000),,45.7384,9.1928,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.8,0.3,,,,
+UTM:(32T 052 502 10000),,45.3781,9.3194,macroseismic,Stations_USGS,,,,,,,,,,274.47,inferred,3.6,0.3,,,,
+UTM:(32T 052 504 10000),,45.558,9.3204,macroseismic,Stations_USGS,,,,,,,,,,258.07,inferred,3.9,0.3,,,,
+UTM:(32T 052 505 10000),,45.6481,9.3209,macroseismic,Stations_USGS,,,,,,,,,,365.19,inferred,3.4,0.3,,,,
+UTM:(32T 053 506 10000),,45.7377,9.45,macroseismic,Stations_USGS,,,,,,,,,,322.28,inferred,3.8,0.3,,,,
+UTM:(32T 053 507 10000),,45.8276,9.4506,macroseismic,Stations_USGS,,,,,,,,,,736.92,inferred,3.9,0.3,,,,
+UTM:(32T 054 504 10000),,45.5571,9.5766,macroseismic,Stations_USGS,,,,,,,,,,269.49,inferred,2.5,0.3,,,,
+UTM:(32T 056 515 10000),,46.5454,9.8479,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.1,0.3,,,,
+UTM:(32T 060 496 10000),,44.8306,10.3284,macroseismic,Stations_USGS,,,,,,,,,,244.91,inferred,3.5,0.3,,,,
+UTM:(32T 065 494 10000),,44.6416,10.9545,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.5,0.3,,,,
+UTM:(32T 066 510 10000),,46.0786,11.134,macroseismic,Stations_USGS,,,,,,,,,,703.21,inferred,3.2,0.3,,,,
+UTM:(32T 066 517 10000),,46.7082,11.1586,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.0,0.3,,,,
+UTM:(32T 069 504 10000),,45.5312,11.4974,macroseismic,Stations_USGS,,,,,,,,,,211.65,inferred,2.9,0.3,,,,
+UTM:(32T 072 503 10000),,45.4322,11.8765,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.2,0.3,,,,
+UTM:(32T 076 503 10000),,45.4183,12.3871,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,3.2,0.3,,,,
+UTM:(32T 087 506 10000),,45.6371,13.8117,macroseismic,Stations_USGS,,,,,,,,,,760.0,inferred,2.2,0.3,,,,

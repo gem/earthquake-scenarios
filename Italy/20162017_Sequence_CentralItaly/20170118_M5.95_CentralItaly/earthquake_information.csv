@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2017
+Country,Italy
+Region,CentralItaly
+Event_Name,CentralItaly_2017
+Local_Date,18/01/2017
+Local_Time,10:14:10
+Latitude,42.6012
+Longitude,13.2268
+Depth_(km),7
+Mw,5.7
+Max_Intensity_(MMI),VII
+Fault_mechanism,Normal
+Tectonic_region_type,Active Shallow Crust
+Fatalities,29-34
+Injured,11
+Displaced_Population,
+Affected_Population,11
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,18 M USD
+Insured_Losses,6 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us10007twj/executive
+Wikipedia page,https://en.wikipedia.org/wiki/January_2017_Central_Italy_earthquakes

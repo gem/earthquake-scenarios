@@ -1,0 +1,16 @@
+FIELD,DESCRIPTION
+Year,1997
+Country,Italy
+Region,UmbriaMarche
+Event_Name,UmbriaMarche_1997
+Local_Date,26/09/1997
+Local_Time,09:40:26
+Latitude,43.084
+Longitude,12.812
+Depth_(km),10
+Mw,6
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Normal
+Tectonic_region_type,Active Shallow Crust
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000881f/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1997_Umbria_and_Marche_earthquake

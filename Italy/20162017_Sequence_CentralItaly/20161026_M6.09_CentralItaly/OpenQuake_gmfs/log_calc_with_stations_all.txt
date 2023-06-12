@@ -1,0 +1,21 @@
+[2023-02-07 11:58:32.85 #813 INFO] Maria Camila@DESKTOP-IUOPEK3 running C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Italy\DRAFT_20161026_M6.09_CentralItaly\OpenQuake_gmfs\job_with_stations_all.ini [--hc=None]
+[2023-02-07 11:58:32.91 #813 INFO] Using engine version 3.16.0
+[2023-02-07 11:58:33.46 #813 WARNING] Using 8 cores on DESKTOP-IUOPEK3
+[2023-02-07 11:58:33.50 #813 INFO] Running EventBasedCalculator with concurrent_tasks = 16
+[2023-02-07 11:58:33.53 #813 INFO] Checksum of the inputs: 2609612735 (total size 511.06 KB)
+[2023-02-07 11:58:33.57 #813 WARNING] Entering SLOW MODE. You have 3.9 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+[2023-02-07 11:58:33.61 #813 INFO] Extracting the hazard sites from the site model
+[2023-02-07 11:58:33.83 #813 INFO] Read N=6983 hazard sites and L=1 hazard levels
+[2023-02-07 11:58:34.48 #813 INFO] Reading station data from C:\Users\Maria Camila\Documents\Git_repositories\GEM\GEM-ECD\europe\Italy\DRAFT_20161026_M6.09_CentralItaly\OpenQuake_gmfs\stationlist_all.csv
+[2023-02-07 11:58:34.53 #813 INFO] min_iml=[1.e-10]
+[2023-02-07 11:58:34.63 #813 INFO] There are 1 realization(s)
+[2023-02-07 11:58:34.70 #813 INFO] Reordering the ruptures and storing the events
+[2023-02-07 11:58:34.80 #813 INFO] Reading 1 ruptures
+[2023-02-07 11:58:35.57 #813 INFO] GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias (mean): -0.002
+[2023-02-07 12:00:11.51 #813 INFO] event_based 100% [1 submitted, 0 queued]
+[2023-02-07 12:00:11.52 #813 INFO] Received {'gmfdata': '164.55 KB', 'sig_eps': '323 B', 'times': '309 B', 'hcurves': '5 B'} in 96 seconds from event_based
+[2023-02-07 12:00:11.53 #813 INFO] Stored 81.87 KB of GMFs
+[2023-02-07 12:00:16.14 #813 INFO] Checking stored GMFs
+[2023-02-07 12:00:16.23 #813 WARNING] 
+[2023-02-07 12:00:16.32 #813 INFO] Exposing the outputs to the database
+[2023-02-07 12:00:16.41 #813 INFO] Stored 1.28 MB on C:\Users\Maria Camila\oqdata/calc_813.hdf5 in 102 seconds

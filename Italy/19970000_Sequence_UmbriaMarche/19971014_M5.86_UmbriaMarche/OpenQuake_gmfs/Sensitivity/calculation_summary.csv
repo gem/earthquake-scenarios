@@ -1,0 +1,25 @@
+calc_id,description,cal_time,gmpe,imt,nominal_bias,abs_nominal_bias,max_gmv,Rupture,GMLT,Recording_Stations
+563,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.005,0.005,0.46455672,EFEHR,GEM,seismic
+564,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:GEM, Recording Stations:seismic)",52,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.026,0.026,0.5172447,USGS,GEM,seismic
+560,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:USGS, Recording Stations:seismic)",37,AkkarEtAlRjb2014,PGA,-0.032,0.032,0.3278888,EFEHR,USGS,seismic
+564,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:GEM, Recording Stations:seismic)",52,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.043,0.043,0.5172447,USGS,GEM,seismic
+564,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:GEM, Recording Stations:seismic)",52,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.06,0.06,0.5172447,USGS,GEM,seismic
+562,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.101,0.101,0.42259946,INGV,GEM,seismic
+559,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:USGS, Recording Stations:seismic)",32,AkkarEtAlRjb2014,PGA,-0.116,0.116,0.29540628,INGV,USGS,seismic
+561,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:USGS, Recording Stations:seismic)",37,CauzziEtAl2014,PGA,-0.197,0.197,0.3082003,USGS,USGS,seismic
+561,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:USGS, Recording Stations:seismic)",37,AkkarEtAlRjb2014,PGA,0.199,0.199,0.3303299,USGS,USGS,seismic
+564,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:GEM, Recording Stations:seismic)",52,KothaEtAl2020ESHM20SlopeGeology,PGA,0.316,0.316,0.5172447,USGS,GEM,seismic
+563,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.344,0.344,0.46455672,EFEHR,GEM,seismic
+563,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.363,0.363,0.46455672,EFEHR,GEM,seismic
+563,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.381,0.381,0.46455672,EFEHR,GEM,seismic
+564,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:GEM, Recording Stations:seismic)",52,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.403,0.403,0.5172447,USGS,GEM,seismic
+562,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.443,0.443,0.42259946,INGV,GEM,seismic
+560,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:USGS, Recording Stations:seismic)",37,CauzziEtAl2014,PGA,-0.458,0.458,0.34716997,EFEHR,USGS,seismic
+562,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.459,0.459,0.42259946,INGV,GEM,seismic
+562,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.474,0.474,0.42259946,INGV,GEM,seismic
+559,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:USGS, Recording Stations:seismic)",32,CauzziEtAl2014,PGA,-0.542,0.542,0.2864981,INGV,USGS,seismic
+561,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:USGS, GMPEs:USGS, Recording Stations:seismic)",37,ZhaoEtAl2016Asc,PGA,-0.675,0.675,0.35241306,USGS,USGS,seismic
+563,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.721,0.721,0.46455672,EFEHR,GEM,seismic
+562,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:GEM, Recording Stations:seismic)",51,KothaEtAl2020ESHM20SlopeGeology,PGA,-0.817,0.817,0.42259946,INGV,GEM,seismic
+560,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:EFEHR, GMPEs:USGS, Recording Stations:seismic)",37,ZhaoEtAl2016Asc,PGA,-0.892,0.892,0.3938843,EFEHR,USGS,seismic
+559,"Median gmf - DRAFT_19971014_M5.86_UmbriaMarche (Rupture:INGV, GMPEs:USGS, Recording Stations:seismic)",32,ZhaoEtAl2016Asc,PGA,-0.974,0.974,0.31932566,INGV,USGS,seismic
