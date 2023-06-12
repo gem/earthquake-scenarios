@@ -1,0 +1,13 @@
+calc_id,description,cal_time,gmpe,imt,nominal_bias,max_gmv,Rupture,GMLT,Recording_Stations
+276,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:GEM, Recording Stations:all)",100,AbrahamsonEtAl2015SInterHigh,PGA,-0.044,0.58144104,Kanamori_and_Cipar_1974,GEM,all
+276,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:GEM, Recording Stations:all)",100,MontalvaEtAl2017SInter,PGA,0.274,0.6211063,Kanamori_and_Cipar_1974,GEM,all
+276,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:GEM, Recording Stations:all)",100,ZhaoEtAl2006SInter,PGA,-0.255,0.65301347,Kanamori_and_Cipar_1974,GEM,all
+277,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:USGS, Recording Stations:all)",96,AtkinsonBoore2003SInter,PGA,0.226,0.45048067,Kanamori_and_Cipar_1974,USGS,all
+277,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:USGS, Recording Stations:all)",96,MontalvaEtAl2017SInter,PGA,0.274,0.6211063,Kanamori_and_Cipar_1974,USGS,all
+277,"Median gmf - 19600522_M9.5_Valdivia (Rupture:Kanamori_and_Cipar_1974, GMPEs:USGS, Recording Stations:all)",96,ZhaoEtAl2016SInter,PGA,-0.235,0.9750158,Kanamori_and_Cipar_1974,USGS,all
+274,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:GEM, Recording Stations:all)",124,AbrahamsonEtAl2015SInterHigh,PGA,-0.148,0.77978337,USGS,GEM,all
+274,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:GEM, Recording Stations:all)",124,MontalvaEtAl2017SInter,PGA,0.145,0.788833,USGS,GEM,all
+274,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:GEM, Recording Stations:all)",124,ZhaoEtAl2006SInter,PGA,-0.258,0.7605267,USGS,GEM,all
+275,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:USGS, Recording Stations:all)",123,AtkinsonBoore2003SInter,PGA,0.29,0.49098802,USGS,USGS,all
+275,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:USGS, Recording Stations:all)",123,MontalvaEtAl2017SInter,PGA,0.145,0.788833,USGS,USGS,all
+275,"Median gmf - 19600522_M9.5_Valdivia (Rupture:USGS, GMPEs:USGS, Recording Stations:all)",123,ZhaoEtAl2016SInter,PGA,-0.248,1.4102436,USGS,USGS,all

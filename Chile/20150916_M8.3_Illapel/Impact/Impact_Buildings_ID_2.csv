@@ -1,0 +1,7 @@
+ID_1,NAME_1,ID_2,NAME_2,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,BUILDINGS_COLLAPSE,DS1_SLIGHT,DS2_MODARATE_DAMAGE,DS3_EXTENSIVE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+4,Coquimbo,41,Elqui,Adobe,ADO,,301,,31,75,117,,,Shaking,Fernandez_et_al_2017,
+4,Coquimbo,42,Choapa,Adobe,ADO,,820,,55,129,214,,,Shaking,Fernandez_et_al_2017,
+4,Coquimbo,43,Limarí,Adobe,ADO,,1215,,88,88,344,,,Shaking,Fernandez_et_al_2017,
+4,Coquimbo,41,Elqui,,,,1110,,195,293,351,,,Shaking,Fernandez_Thesis_2017,
+4,Coquimbo,42,Choapa,,,,2998,,866,713,687,,,Shaking,Fernandez_Thesis_2017,
+4,Coquimbo,43,Limarí,,,,3086,,577,702,889,,,Shaking,Fernandez_Thesis_2017,

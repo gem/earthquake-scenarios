@@ -1,0 +1,68 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+ANGO,ANGOL-Hospital,-72.71,-37.79,seismic,0.928,0.0
+CONT,CONSTITUCIÓN-Hospital,-72.4,-35.34,seismic,0.64,0.0
+LLO,LLOLLEO,-71.6,-33.62,seismic,0.564,0.0
+CRMA,MAIPÚ-Centro de Referencia de Salud,-70.77142,-33.50867,seismic,0.561,0.0
+TAL,TALCA-Colegio Integrado San Pío X,-71.63,-35.43,seismic,0.477,0.0
+CURI,CURICÓ-Hospital,-71.23669,-34.9905,seismic,0.47,0.0
+HUAL,HUALAÑÉ-Hospital,-71.80586,-34.97628,seismic,0.461,0.0
+PAP,PAPUDO,-71.45,-32.52,seismic,0.421,0.0
+CONC,CONCEPCIÓN-Colegio Inmaculada Concepción,-73.04819,-36.82828,seismic,0.402,0.0
+El Salto Etna,VIÑA EL SALTO,-71.50986,-33.04722,seismic,0.351,0.0
+MAT,MATANZAS-Escuela Carlos Ibáñez del Campo,-71.87,-33.96,seismic,0.342,0.0
+VINA,VIÑA DEL MAR-Centro,-71.55294,-33.02492,seismic,0.334,0.0
+Aislado (Centro),Aislado (Centro),-70.65206,-33.46658,seismic,0.309,0.0
+VALU,VALPARAÍSO-UTFSM,-71.62,-33.03,seismic,0.304,0.0
+HTIS,PEÑALOLÉN-Hospital Luis Tisné,-70.57922,-33.50142,seismic,0.295,0.0
+HSOR,PUENTE ALTO-Hospital Sótero del Río,-70.58097,-33.57803,seismic,0.265,0.0
+VALD,VALPARAÍSO-Almendral,-71.6,-33.03,seismic,0.265,0.0
+MET,LA FLORIDA-Metro Línea 5 Estación Mirador,-70.60525,-33.51386,seismic,0.236,0.0
+VALD,VALDIVIA-Hospital,-73.23914,-39.83142,seismic,0.138,0.0
+COPI,COPIAPÓ-Hospital,-70.32158,-27.37372,seismic,0.03,0.0
+Vallenar,VALLENAR-Liceo Santa Marta,-70.75519,-28.57656,seismic,0.02,0.0
+MELP,MELP,-71.21,-33.69,seismic,0.78,0.0
+CCSP,CCSP,-73.11,-36.84,seismic,0.65,0.0
+SJCH,SJCH,-70.35,-33.64,seismic,0.48,0.0
+CSCH,CSCH,-71.41,-33.32,seismic,0.33,0.0
+LRNA,LRNA,-70.53,-33.45,seismic,0.31,0.0
+Stgo-Centro,Stgo-Centro,-70.65,-33.47,seismic,0.31,0.0
+ANTU,ANTU,-70.63,-33.57,seismic,0.27,0.0
+Stgo-FSR,Stgo-FSR,-70.53,-33.48,seismic,0.25,0.0
+Stgo-La Florida,Stgo-La Florida,-70.61,-33.51,seismic,0.19,0.0
+Stgo-FCFM,Stgo-FCFM,-70.66,-33.46,seismic,0.17,0.0
+MELP,MELP,-71.2138,-33.6874,seismic,0.78,0.0
+OLMU,OLMU,-71.173,-32.994,seismic,0.35,0.0
+STL,STL,-70.6428,-33.4405,seismic,0.34,0.0
+CLCH,CLCH,-70.5369,-33.3961,seismic,0.23,0.0
+ROC1,ROC1,-71.0156,-32.9759,seismic,0.19,0.0
+ANGO,Angol,-72.708,-37.795,seismic,0.928,0.0
+CCSP,Concepcion San Pedro,-73.109,-36.844,seismic,0.652,0.0
+COT,Constitucion,-72.406,-35.34,seismic,0.64,0.0
+CRMA,Santiago Maipu,-70.767,-33.517,seismic,0.562,0.0
+CMR,CRS MAIPU RM,-70.772,-33.5,seismic,0.56,0.0
+SJCH,Municip. San Jose de M,-70.354,-33.64,seismic,0.48,0.0
+CUR,Curico,-71.236,-34.981,seismic,0.471,0.0
+HCUR,Hosp. Curico,-71.236,-34.99,seismic,0.47,0.0
+HUA,Hualane,-71.8,-34.95,seismic,0.461,0.0
+CON,Concepcion,-73.07,-36.6,seismic,0.402,0.0
+m2ar,Vina Del Mar  El Salt,-71.51,-33.047,seismic,0.353,0.0
+MAT,Matanzas,-71.873,-33.959,seismic,0.342,0.0
+STL,Cerro Santa Lucia,-70.643,-33.44,seismic,0.339,0.0
+VINA,Vina Del Mar  Centro,-71.553,-33.025,seismic,0.334,0.0
+F,Santiago Centro,-70.652,-33.467,seismic,0.309,0.0
+LACH,Colegio Las Americas,-70.531,-33.45,seismic,0.308,0.0
+VAU,Valparaiso UTFSM,-71.595,-33.036,seismic,0.304,0.0
+HTR,Hosp. Tisne RM,-70.579,-33.5,seismic,0.3,0.0
+HSOR,Santiago Penalolen,-70.579,-33.501,seismic,0.295,0.0
+HSRR,Hosp. Sotero de Rio RM,-70.582,-33.57,seismic,0.27,0.0
+ANTU,Cien Agronomicas UC,-70.633,-33.569,seismic,0.27,0.0
+HSOT,Santiago Puente Alto,-70.581,-33.577,seismic,0.265,0.0
+EMMS,Estacion Metro Mirador - Santiago,-70.606,-33.513,seismic,0.24,0.0
+ME,Santiago La Florida,-70.605,-33.154,seismic,0.236,0.0
+ROC1,Recinto d. SHOA  Cerro,-71.016,-32.976,seismic,0.188,0.0
+UCS,Universidad de Chile - Santiago,-70.651,-33.44,seismic,0.17,0.0
+HVAL,Hosp. Valdivia,-73.24,-39.83,seismic,0.14,0.0
+VALD,Valdivia,-73.213,-39.824,seismic,0.13,0.0
+COPI,Copiapo,-70.31,-27.39,seismic,0.03,0.0
+VICH,Punta de Chungos,-71.498,-31.88,seismic,0.03,0.0
+VALL,Vallenar,-70.755,-28.577,seismic,0.02,0.0

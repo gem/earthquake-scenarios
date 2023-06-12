@@ -1,0 +1,10 @@
+ID_1,NAME_1,ID_2,NAME_2,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,COMMENTS,REFERENCE
+4,Coquimbo,41,Elqui,8,8,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,42,Choapa,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,43,Limarí,2,2,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+5,Valparaíso,51,Valparaíso,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+5,Valparaíso,58,Marga Marga,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+13,Metropolitana de Santiago,131,Santiago,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,41,Elqui,11,11,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+5,Valparaíso,51,Valparaíso,3,3,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+13,Metropolitana de Santiago,131,Santiago,1,1,,,,Shaking_and_Tsunami,,NOAA_Earthquake

@@ -1,0 +1,13 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+CHL,Chile,6000,6000,3000,2000000.0,,,,,,550000000,,USD,"Tsunami, Volcano",,EM-DAT,
+CHL,Chile,5700,5700,1743-2231,,,,,,,,,,Tsunami,,UTSU,INJURIES was mentioned in Pomonis_2010. 
+CHL,Chile,1655,1655,3000,,,,,,,550000000,,USD,"Tsunami, Volcano, Landslides  ",,USGS,"Note that the tsunami deaths from outside Chile are included in the 1,655 total. "
+CHL,Chile,2000,2000,3000,,,,145000.0,,Buildings,,,,"Tsunami, Volcano, Landslides  ",,Verisk,
+CHL,Chile,2226,2226,3000,,,,58622.0,,Buildings,1000000000,,USD,Tsunami,,NOAA,
+CHL,Chile,1000-6000,1000-6000,,,2000000.0,,,,,400000000-800000000,,USD,"Tsunami, Landslides, Flood, Volcano",,Wikipedia,
+CHL,Chile,1655,1655,3000,2000000.0,,,,,,,,,,,Britannica,
+CHL,Chile,1655-6000,1655-6000,,,,,,,,400000000-800000000,,USD,,,WSSPC,
+CHL,Chile,1200,1200,,,,,,72.0,Buildings,,,,,,Pomonis_2010,
+CHL,Chile,3000,3000,,,,,,,,800000000,,USD,,,Brez_1988,
+CHL,Chile,4000,4000,,,2500000.0,,450000.0,,Buildings,400000000,,USD,"Tsunami, Volcano, Landslides, Flood ",,Duke_1960,
+CHL,Chile,3000,3000,,,,,,,,,,,"Tsunami, Landslides",,Lomnitz_2004,

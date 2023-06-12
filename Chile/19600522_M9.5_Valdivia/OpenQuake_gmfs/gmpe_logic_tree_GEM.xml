@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+OpenQuake-engine PSHA input model for South America
+Version v1.0.0-2016-06-08
+
+The MODEL provided herein was created under the framework of the South America
+Risk Assessment [SARA] project by the GEM hazard team in collaboration with
+scientists from the South American region.
+
+Copyright (C) 2016 GEM Foundation
+
+THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. INSOFAR AS THIS
+WORK IS PROTECTED BY LAWS THAT NEIGHBOUR OR ARE SIMILARLY RELATED TO COPYRIGHT,
+SUCH AS DATABASE RIGHTS AS INTRODUCED IN EUROPE BY THE  DIRECTIVE 96/9/EC, YOU
+ALSO MAY USE THIS WORK UNDER THE TERMS OF CC BY-SA 4.0.
+
+ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR
+DIRECTLY ALLOWED BY THE APPLICABLE LAW IS PROHIBITED.
+
+If you have any questions or if you wish to seek permission to use this data
+beyond what is offered by CC BY-SA 4.0 please contact the GEM Foundation at
+licensing@globalquakemodel.org
+
+DISCLAIMER:
+
+The MODEL is released as an OpenQuake-engine model created by scientists and
+engineers working within the GEM Foundation (Global Earthquake Model).
+
+The MODEL is therefore provided WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+The GEM Foundation and the group of scientists involved in the SARA project,
+assume no liability for its use.
+
+For additional information, material and documentation about the MODEL
+we warmly invite you to consult the SARA wiki http://sara.openquake.org
+or contact the GEM hazard team at hazard@globalquakemodel.org
+
+-->
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <logicTree logicTreeID='lt1'>
+
+        <logicTreeBranchingLevel branchingLevelID="bl1">
+            <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1"
+                    applyToTectonicRegionType="Subduction Interface">
+                <logicTreeBranch branchID="Zhao_et_al_2006_SInter">
+                    <uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+                <logicTreeBranch branchID="Abrahamson_et_al_2015_SInter_High">
+                    <uncertaintyModel>AbrahamsonEtAl2015SInterHigh</uncertaintyModel>
+                    <uncertaintyWeight>0.3333</uncertaintyWeight>
+                </logicTreeBranch>
+                <logicTreeBranch branchID="MontalvaEtAl2017SInter">
+                    <uncertaintyModel>MontalvaEtAl2017SInter</uncertaintyModel>
+                    <uncertaintyWeight>0.3334</uncertaintyWeight>
+                </logicTreeBranch>
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel>
+
+
+
+    </logicTree>
+</nrml>

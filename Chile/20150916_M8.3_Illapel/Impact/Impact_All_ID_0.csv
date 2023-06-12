@@ -1,0 +1,12 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+CHL,Chile,15.0,15.0,14.0,,681484.0,,10044.0,2305.0,Buildings,600000000,600000000,USD,"Tsunami, Landslides",,NOAA,The Number of BUILDINGS_COLLAPSED is the Number of buildings destroyed in the main reference.
+CHL,Chile,19.0,19.0,15.0,,681499.0,,,,,800000000,800000000,USD,,,EM-DAT,"Geo locations: Araucania, Atacama, Biobio, Coquimbo, Libertador Gral. Bernardo O’Higgins, Maule, Metropolitana, Valparaiso (Adm1)."
+CHL,Chile,16.0,16.0,14.0,,,,4800.0,2872.0,Buildings,,,,Tsunami ,,EID,"15 fatalities were in Chile, and 1was in Argentina. Of the 4800 BUILDINGS DAMAGED, 90 were damaged in Mendoza, several in San Juan, some in Sao Paulo, and 4640 in Chile. Of 2872 BUILDINGS COLLAPSED, 4 houses were collapsed in Mendoza, 1 in San Juan, and 2867 in Chile."
+CHL,Chile,,,,,,,700.0,400.0,Buildings,600000000-900000000,600000000-900000000,USD,,,Verisk,BUILDINGS_COLLAPSED and  BUILDINGS_DAMAGED refer to residential building.
+CHL,Chile,15.0,15.0,34.0,>16646,,,1791.0,1069.0,Buildings,,,,"Tsunami, Landslides",,USGS,The Number of BUILDINGS_COLLAPSED is the Number of buildings destroyed in the main reference.
+CHL,Chile,12.0,12.0,,,,,200.0,60.0,Buildings,,,,,,Reliefweb,Statistics refer to the Region of Coquimbo.
+CHL,Chile,13.0,13.0,,,,,,,,,,,,,ITIC,
+CHL,Chile,15.0,15.0,,,27722.0,,2712.0,2442.0,Buildings,,,,,,Wikipedia,One fatality and minor injuries in Argentina have been recorded. The Number of BUILDINGS_COLLAPSED is the Number of buildings destroyed in the main reference.
+CHL,Chile,15.0,15.0,34.0,,,,,,,,,, Landslides,,UTSU,
+CHL,Chile,15.0,15.0,14.0,,,,10685.0,2445.0,Buildings,,,,,,ONEMI,
+CHL,Chile,15.0,15.0,14.0,,688.0,,10044.0,2305.0,Buildings,,,,,,Informe_CCT_2015_AnalisisEventos,

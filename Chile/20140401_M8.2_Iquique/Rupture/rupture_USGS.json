@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Source: G. Hayes, 2014/2018 USGS NEIC (trimmed)",
+      "id":"usc000nzvd",
+      "network":"USGS National Earthquake Information Center, PDE",
+      "netid":"us",
+      "productcode":"usc000nzvd",
+      "time":"2014-04-01T23:46:47.000000Z",
+      "lat":-19.6097,
+      "lon":-70.7691,
+      "depth":25.0,
+      "mag":8.2,
+      "locstring":"94km NW of Iquique, Chile",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -70.93,
+                        -20.07,
+                        20.61
+                     ],
+                     [
+                        -71.23,
+                        -18.83,
+                        20.61
+                     ],
+                     [
+                        -70.35,
+                        -18.64,
+                        43.38
+                     ],
+                     [
+                        -70.04,
+                        -19.88,
+                        43.38
+                     ],
+                     [
+                        -70.93,
+                        -20.07,
+                        20.61
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

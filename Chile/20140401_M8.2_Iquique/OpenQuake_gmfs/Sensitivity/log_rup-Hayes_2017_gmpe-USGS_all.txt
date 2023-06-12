@@ -1,0 +1,22 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\Chile\20140401_M8.2_Iquique\OpenQuake_gmfs\Sensitivity\job_rup-Hayes_2017_gmpe-USGS_all.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 2822913482 (total size 279.95 KB)
+Extracting the hazard sites from the site model
+Read N=6217 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\Chile\20140401_M8.2_Iquique\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+There are 3 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias (mean): 0.060
+GMM: MontalvaEtAl2017SInter, IMT: PGA, Nominal bias (mean): 0.182
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): 0.440
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '181.66 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 11 seconds from event_based
+Stored 90.47 KB of GMFs
+Checking stored GMFs
+
+Exposing the outputs to the database
+Stored 905.03 KB on C:\Users\Luis Martins\oqdata/calc_247.hdf5 in 14 seconds

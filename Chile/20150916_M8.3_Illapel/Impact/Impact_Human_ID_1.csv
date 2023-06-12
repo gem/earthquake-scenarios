@@ -1,0 +1,21 @@
+ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,COMMENTS,REFERENCE
+15,Arica y Parinacota,,,,,18000.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+1,Tarapacá,,,,,80000.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+2,Antofagasta,,,,,23000.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+3,Atacama,,,,,3284.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+4,Coquimbo,11.0,11.0,12.0,,188812.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+5,Valparaíso,3.0,3.0,2.0,,300042.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+13,Metropolitana de Santiago,1.0,1.0,,,1.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+6,Libertador General Bernardo O'Higgins,,,,,21055.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+7,Maule,,,,,17900.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+8,Biobío,,,,,16200.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+9,La Araucanía,,,,,4971.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+14,Los Ríos,,,,,1309.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+10,Los Lagos,,,,,11321.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+11,Aysén del General Carlos Ibáñez del Campo,,,,,2508.0,Shaking_and_Tsunami,,Informe_CCT_2015_AnalisisEventos
+4,Coquimbo,11.0,11.0,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+5,Valparaíso,2.0,2.0,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+13,Metropolitana de Santiago,1.0,1.0,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,11.0,11.0,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+5,Valparaíso,3.0,3.0,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+13,Metropolitana de Santiago,1.0,1.0,,,,Shaking_and_Tsunami,,NOAA_Earthquake

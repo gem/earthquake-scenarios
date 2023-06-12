@@ -1,0 +1,421 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+ANGO,ANGOL-Hospital,-72.71,-37.79,seismic,0.928,0.0
+CONT,CONSTITUCIÓN-Hospital,-72.4,-35.34,seismic,0.64,0.0
+LLO,LLOLLEO,-71.6,-33.62,seismic,0.564,0.0
+CRMA,MAIPÚ-Centro de Referencia de Salud,-70.77142,-33.50867,seismic,0.561,0.0
+TAL,TALCA-Colegio Integrado San Pío X,-71.63,-35.43,seismic,0.477,0.0
+CURI,CURICÓ-Hospital,-71.23669,-34.9905,seismic,0.47,0.0
+HUAL,HUALAÑÉ-Hospital,-71.80586,-34.97628,seismic,0.461,0.0
+PAP,PAPUDO,-71.45,-32.52,seismic,0.421,0.0
+CONC,CONCEPCIÓN-Colegio Inmaculada Concepción,-73.04819,-36.82828,seismic,0.402,0.0
+El Salto Etna,VIÑA EL SALTO,-71.50986,-33.04722,seismic,0.351,0.0
+MAT,MATANZAS-Escuela Carlos Ibáñez del Campo,-71.87,-33.96,seismic,0.342,0.0
+VINA,VIÑA DEL MAR-Centro,-71.55294,-33.02492,seismic,0.334,0.0
+Aislado (Centro),Aislado (Centro),-70.65206,-33.46658,seismic,0.309,0.0
+VALU,VALPARAÍSO-UTFSM,-71.62,-33.03,seismic,0.304,0.0
+HTIS,PEÑALOLÉN-Hospital Luis Tisné,-70.57922,-33.50142,seismic,0.295,0.0
+HSOR,PUENTE ALTO-Hospital Sótero del Río,-70.58097,-33.57803,seismic,0.265,0.0
+VALD,VALPARAÍSO-Almendral,-71.6,-33.03,seismic,0.265,0.0
+MET,LA FLORIDA-Metro Línea 5 Estación Mirador,-70.60525,-33.51386,seismic,0.236,0.0
+VALD,VALDIVIA-Hospital,-73.23914,-39.83142,seismic,0.138,0.0
+COPI,COPIAPÓ-Hospital,-70.32158,-27.37372,seismic,0.03,0.0
+Vallenar,VALLENAR-Liceo Santa Marta,-70.75519,-28.57656,seismic,0.02,0.0
+MELP,MELP,-71.21,-33.69,seismic,0.78,0.0
+CCSP,CCSP,-73.11,-36.84,seismic,0.65,0.0
+SJCH,SJCH,-70.35,-33.64,seismic,0.48,0.0
+CSCH,CSCH,-71.41,-33.32,seismic,0.33,0.0
+LRNA,LRNA,-70.53,-33.45,seismic,0.31,0.0
+Stgo-Centro,Stgo-Centro,-70.65,-33.47,seismic,0.31,0.0
+ANTU,ANTU,-70.63,-33.57,seismic,0.27,0.0
+Stgo-FSR,Stgo-FSR,-70.53,-33.48,seismic,0.25,0.0
+Stgo-La Florida,Stgo-La Florida,-70.61,-33.51,seismic,0.19,0.0
+Stgo-FCFM,Stgo-FCFM,-70.66,-33.46,seismic,0.17,0.0
+MELP,MELP,-71.2138,-33.6874,seismic,0.78,0.0
+OLMU,OLMU,-71.173,-32.994,seismic,0.35,0.0
+STL,STL,-70.6428,-33.4405,seismic,0.34,0.0
+CLCH,CLCH,-70.5369,-33.3961,seismic,0.23,0.0
+ROC1,ROC1,-71.0156,-32.9759,seismic,0.19,0.0
+OBSMH_26,Concepcion  Juan Pablo II bridge,-73.0833,-36.8154,macroseismic,1.09075,0.8059
+OBSMH_27,Concepcion  Llacolen overpass,-73.0685,-36.8302,macroseismic,1.08659,0.8059
+OBSMH_39,Concepcion  Prieto & Salas,-73.0612,-36.8208,macroseismic,1.08555,0.8059
+OBSMH_43,Concepcion  Zanartu & Montt (Alto Rio),-73.0618,-36.828,macroseismic,1.08525,0.8059
+OBSMH_34,Concepcion O'Higgins & Salas (Geocentro),-73.0556,-36.8295,macroseismic,1.08382,0.8059
+OBSMH_35,Concepcion  O'Higgins & Salas (Torre O'Higgins),-73.0551,-36.8295,macroseismic,1.08371,0.8059
+OBSMH_24,Concepcion  Freire & Orompello - Ongolmo (Centro Mayor building),-73.0448,-36.8228,macroseismic,1.08188,0.8059
+OBSAS_5,Constitucion (Intensity IX),-72.41,-35.34,macroseismic,1.05148,0.8059
+ANGO,Angol,-72.708,-37.795,seismic,0.928,0.0
+OBSMH_116,Santiago  Hermanos Carrera,-70.7615,-33.5022,macroseismic,0.86316,0.8059
+OBSMH_112,Santiago  Don Tristan building,-70.7554,-33.505,macroseismic,0.86274,0.8059
+OBSMH_110,Santiago  Don Luis building,-70.7532,-33.5034,macroseismic,0.86213,0.8059
+OBSMH_124,Santiago  overpass  Vespucio Norte & Miraflores,-70.7695,-33.3943,macroseismic,0.84415,0.8059
+OBSMH_123,Santiago  overpass  Vespucio Norte & Lo Echevers,-70.748,-33.3761,macroseismic,0.83808,0.8059
+OBSMH_108,Santiago  Central Park building,-70.6669,-33.4301,macroseismic,0.83701,0.8059
+OBSMH_129,Santiago  Sol Oriente building,-70.5992,-33.4755,macroseismic,0.83399,0.8059
+OBSMH_117,Santiago  Independencia,-70.6645,-33.4068,macroseismic,0.8328,0.8059
+OBSMH_115,Santiago  Emerald building,-70.6005,-33.4551,macroseismic,0.83122,0.8059
+OBSMH_125,Santiago  overpass  Vespucio Norte & San Martin / Independencia,-70.6891,-33.366,macroseismic,0.82899,0.8059
+OBSMH_109,Santiago  Ciudad Empresarial,-70.6191,-33.3887,macroseismic,0.82367,0.8059
+CCSP,Concepcion San Pedro,-73.109,-36.844,seismic,0.652,0.0
+COT,Constitucion,-72.406,-35.34,seismic,0.64,0.0
+OBSMH_134,Talcahuano  Cerro Centinela,-73.1284,-36.713,macroseismic,0.59452,0.8059
+OBSMH_135,Talcahuano  Cerro Fuentes,-73.1137,-36.7167,macroseismic,0.59251,0.8059
+OBSMH_132,Talcahuano  Biblioteca,-73.1087,-36.7198,macroseismic,0.59176,0.8059
+OBSMH_40,Concepcion  railroad bridge,-73.087,-36.8361,macroseismic,0.58518,0.8059
+OBSMH_38,Concepcion  Prat overpass,-73.0664,-36.8186,macroseismic,0.58329,0.8059
+OBSMH_20,Concepcion  Cruz & Serrano,-73.0617,-36.8229,macroseismic,0.5826,0.8059
+OBSMH_44,Concepcion  Zanartu & Montt (silos),-73.0621,-36.8267,macroseismic,0.58253,0.8059
+OBSMH_18,Concepcion  Bio Bio bridge,-73.0628,-36.8379,macroseismic,0.58226,0.8059
+OBSMH_29,Concepcion  Los Carrera & Salas,-73.0575,-36.8258,macroseismic,0.58202,0.8059
+OBSMH_17,Concepcion  Arana & Serrano (Barros Arana building),-73.0572,-36.8295,macroseismic,0.58187,0.8059
+OBSMH_16,Concepcion  Arana & Serrano - Salas,-73.0568,-36.8293,macroseismic,0.58183,0.8059
+OBSMH_11,Concepcion  Arana & Angol - Lincoyan,-73.0543,-36.8282,macroseismic,0.58157,0.8059
+OBSMH_32,Concepcion O'Higgins & Lincoyan,-73.053,-36.8288,macroseismic,0.5814,0.8059
+OBSMH_15,Concepcion  Arana & Rengo,-73.0525,-36.8273,macroseismic,0.58139,0.8059
+OBSMH_21,Concepcion  Freire & Colo Colo,-73.0491,-36.8253,macroseismic,0.58106,0.8059
+OBSMH_30,Concepcion  Maipu & Tucapel,-73.0473,-36.8226,macroseismic,0.58094,0.8059
+OBSMH_28,Concepcion  Los Carrera & Galvarino,-73.04,-36.8181,macroseismic,0.58023,0.8059
+OBSMH_136,Tome,-72.9566,-36.6169,macroseismic,0.57713,0.8059
+OBSMH_8,Cobquecura,-72.7926,-36.1323,macroseismic,0.57525,0.8059
+OBSMH_71,Constitucion  Onaderra Pinto,-72.4152,-35.3281,macroseismic,0.5653,0.8059
+OBSMH_55,Constitucion  Freire Rengifo,-72.4136,-35.3276,macroseismic,0.56516,0.8059
+OBSMH_73,Constitucion  Onaderra Prieto,-72.4142,-35.3296,macroseismic,0.56514,0.8059
+OBSMH_78,Constitucion  Zanartu Muller (Portales),-72.4146,-35.3312,macroseismic,0.56512,0.8059
+OBSMH_54,Constitucion  Freire Pinto,-72.413,-35.3287,macroseismic,0.56506,0.8059
+OBSMH_77,Constitucion  Zanartu Montt,-72.414,-35.3322,macroseismic,0.56502,0.8059
+OBSMH_72,Constitucion  Onaderra Portales (Muller),-72.4134,-35.3307,macroseismic,0.56502,0.8059
+OBSMH_70,Constitucion  Onaderra Montt,-72.4129,-35.3313,macroseismic,0.56495,0.8059
+OBSMH_64,Constitucion O'Higgins Portales,-72.411,-35.3293,macroseismic,0.56483,0.8059
+OBSMH_68,Constitucion  Onaderra Cruz,-72.4122,-35.3326,macroseismic,0.56483,0.8059
+OBSMH_53,Constitucion  Freire Montt,-72.4114,-35.3311,macroseismic,0.5648,0.8059
+OBSMH_63,Constitucion O'Higgins Montt,-72.4102,-35.3305,macroseismic,0.56471,0.8059
+OBSMH_50,Constitucion  Freire Cruz,-72.4108,-35.3323,macroseismic,0.5647,0.8059
+OBSMH_60,Constitucion O'Higgins Cruz,-72.4101,-35.3318,macroseismic,0.56465,0.8059
+OBSMH_58,Constitucion  Freire Vial,-72.4104,-35.3331,macroseismic,0.56463,0.8059
+OBSMH_45,Constitucion  Blanco Portales,-72.4086,-35.3284,macroseismic,0.56463,0.8059
+OBSMH_52,Constitucion  Freire Egana S,-72.4098,-35.334,macroseismic,0.56453,0.8059
+OBSMH_74,Constitucion  Onaderra Tocornal,-72.4103,-35.3355,macroseismic,0.56453,0.8059
+OBSMH_66,Constitucion O'Higgins Vial,-72.409,-35.3326,macroseismic,0.56451,0.8059
+OBSMH_57,Constitucion  Freire Tocornal,-72.4095,-35.3346,macroseismic,0.56448,0.8059
+OBSMH_47,Constitucion  Bulnes Vial N,-72.4082,-35.3317,macroseismic,0.56446,0.8059
+OBSMH_61,Constitucion O'Higgins Egana,-72.4087,-35.3333,macroseismic,0.56445,0.8059
+OBSMH_69,Constitucion  Onaderra Infante,-72.4098,-35.3365,macroseismic,0.56444,0.8059
+OBSMH_59,Constitucion O'Higgins Corporacion,-72.4082,-35.3339,macroseismic,0.56438,0.8059
+OBSMH_65,Constitucion O'Higgins Tocornal,-72.4085,-35.3347,macroseismic,0.56438,0.8059
+OBSMH_56,Constitucion  Freire Rosas,-72.4074,-35.3368,macroseismic,0.56419,0.8059
+OBSMH_46,Constitucion  Bulnes Infante,-72.4061,-35.3348,macroseismic,0.56413,0.8059
+OBSMH_67,Constitucion O'Higgins Zenteno,-72.4059,-35.3376,macroseismic,0.56401,0.8059
+OBSMH_49,Constitucion  Bulnes Zenteno,-72.4048,-35.3371,macroseismic,0.56392,0.8059
+OBSMH_62,Constitucion O'Higgins Hospital,-72.4046,-35.3396,macroseismic,0.5638,0.8059
+OBSMH_5,Chanco,-72.5348,-35.7392,macroseismic,0.5622,0.8059
+CRMA,Santiago Maipu,-70.767,-33.517,seismic,0.562,0.0
+CMR,CRS MAIPU RM,-70.772,-33.5,seismic,0.56,0.0
+UTM:(19H 014 594 10000),,-72.9669,-36.5745,macroseismic,0.5447,0.8059
+OBS_84,TomAc::BAo BAo::Chile 8 responses 80 km (Intensity VIII),-72.96,-36.61,macroseismic,0.54287,0.8059
+UTM:(19H 008 582 10000),,-73.7019,-37.6285,macroseismic,0.53946,0.8059
+OBSAS_4,Curepto (Intensity VIII),-72.02,-35.08,macroseismic,0.53873,0.8059
+OBSAS_3,Licanten (Intensity VIII),-71.98,-34.99,macroseismic,0.53846,0.8059
+OBSMH_80,Curepto,-72.0175,-35.0938,macroseismic,0.53809,0.8059
+OBSAS_7,Cauquenes (Intensity VIII),-72.32,-35.96,macroseismic,0.53674,0.8059
+OBSMH_4,Cauquenes,-72.3152,-35.9667,macroseismic,0.5362,0.8059
+UTM:(19H 018 608 10000),,-72.4652,-35.3286,macroseismic,0.53601,0.8059
+OBS_34,Lebu::BAo BAo::Chile 3 responses 205 km (Intensity VIII),-73.65,-37.61,macroseismic,0.53182,0.8059
+OBSMH_90,Marchihue,-71.6181,-34.397,macroseismic,0.53054,0.8059
+OBSAS_1,Peralillo (Intensity VIII),-71.48,-34.44,macroseismic,0.51962,0.8059
+OBSAS_2,Pumanque (Intensity VIII),-71.64,-34.83,macroseismic,0.51882,0.8059
+OBSMH_89,Los Angeles,-72.3516,-37.4707,macroseismic,0.50995,0.8059
+OBSMH_104,Santa Cruz,-71.3662,-34.6392,macroseismic,0.50704,0.8059
+OBSMH_131,Talca,-71.6661,-35.4265,macroseismic,0.50565,0.8059
+OBSAS_6,Talca (Intensity VIII),-71.66,-35.42,macroseismic,0.50544,0.8059
+OBSMH_101,San Carlos,-71.9527,-36.4207,macroseismic,0.50266,0.8059
+OBSMH_95,Parral,-71.8222,-36.1413,macroseismic,0.50027,0.8059
+OBSAS_8,Parral (Intensity VIII),-71.82,-36.15,macroseismic,0.49999,0.8059
+OBSMH_102,San Gregorio,-71.815,-36.2829,macroseismic,0.49743,0.8059
+OBSMH_88,Longavi railroad bridge,-71.724,-36.0038,macroseismic,0.4974,0.8059
+OBSMH_93,Nancagua,-71.2061,-34.6529,macroseismic,0.4973,0.8059
+OBSMH_96,Pintue,-70.8835,-33.8766,macroseismic,0.49607,0.8059
+OBSMH_7,Claro River bridge,-71.3916,-35.1832,macroseismic,0.4956,0.8059
+OBSMH_87,Linares,-71.598,-35.8454,macroseismic,0.49342,0.8059
+OBSMH_84,Curico  train station,-71.2463,-34.9841,macroseismic,0.49061,0.8059
+OBSMH_81,Curico  Carmen,-71.2391,-34.9819,macroseismic,0.49009,0.8059
+OBSMH_83,Curico  newspaper building,-71.24,-34.9847,macroseismic,0.49008,0.8059
+OBSMH_82,Curico  Iglesia San Francisco,-71.231,-34.9866,macroseismic,0.48929,0.8059
+OBSMH_2,Buin  Maipo,-70.7815,-33.7325,macroseismic,0.48246,0.8059
+OBSMH_94,Paine overpasses,-70.7415,-33.8665,macroseismic,0.48081,0.8059
+SJCH,Municip. San Jose de M,-70.354,-33.64,seismic,0.48,0.0
+OBSMH_12,Concepcion  Arana & Caupolican (FIUC building),-73.051,-32.8266,macroseismic,0.47931,0.8059
+OBSMH_3,Buin  Recurso,-70.7034,-33.6903,macroseismic,0.47207,0.8059
+CUR,Curico,-71.236,-34.981,seismic,0.471,0.0
+HCUR,Hosp. Curico,-71.236,-34.99,seismic,0.47,0.0
+OBSMH_128,Santiago  San Jose condominium,-70.7132,-33.5949,macroseismic,0.46696,0.8059
+OBS_74,San Vicente::Libertador General Bernardo OEHiggins::Chile 4 responses 222 km (Intensity VIII),-71.08,-34.43,macroseismic,0.46469,0.8059
+OBSMH_120,Santiago  Luis Gandarillas,-70.7564,-33.5034,macroseismic,0.46296,0.8059
+OBSMH_113,Santiago  El Alto de Maipu,-70.7482,-33.5074,macroseismic,0.46267,0.8059
+HUA,Hualane,-71.8,-34.95,seismic,0.461,0.0
+OBSMH_137,Valparaiso,-71.6075,-33.048,macroseismic,0.45293,0.8059
+OBS_51,Penco::BAo BAo::Chile 5 responses 94 km (Intensity VIII),-73.0,-36.73,macroseismic,0.45096,0.8059
+OBSMH_130,Santiago  Vista Hipodromo building,-70.6633,-33.4065,macroseismic,0.44684,0.8059
+OBSMH_138,Vina del Mar,-71.5506,-33.0184,macroseismic,0.44611,0.8059
+OBSMH_121,Santiago  Mall Plaza Norte Huechuraba,-70.6782,-33.3662,macroseismic,0.4442,0.8059
+OBSMH_118,Santiago  Jardin del Norte de Huechuraba,-70.6755,-33.3614,macroseismic,0.44357,0.8059
+OBSMH_106,Santiago  Altos de Huechuraba,-70.6707,-33.3566,macroseismic,0.4428,0.8059
+UTM:(19H 020 601 10000),,-72.2712,-35.9648,macroseismic,0.44212,0.8059
+UTM:(19H 030 618 10000),,-71.1229,-34.4581,macroseismic,0.43888,0.8059
+OBS_14,CaAtete::BAo BAo::Chile 5 responses 219 km (Intensity VIII),-73.4,-37.81,macroseismic,0.4365,0.8059
+OBS_24,Coronel::BAo BAo::Chile 10 responses 130 km (Intensity VIII),-73.16,-37.03,macroseismic,0.43066,0.8059
+UTM:(19H 013 591 10000),,-73.0927,-36.8405,macroseismic,0.4291,0.8059
+OBSAS_22,Concepcion (Intensity VIII),-73.03,-36.82,macroseismic,0.4242,0.8059
+OBS_15,Chiguayante::BAo BAo::Chile 25 responses 113 km (Intensity VIII),-73.04,-36.9,macroseismic,0.42325,0.8059
+OBSAS_9,Navidad (Intensity VIII),-71.82,-33.95,macroseismic,0.41447,0.8059
+OBS_45,Nacimiento::BAo BAo::Chile 4 responses 176 km (Intensity VIII),-72.68,-37.5,macroseismic,0.41445,0.8059
+UTM:(19H 013 592 10000),,-73.088,-36.7506,macroseismic,0.40486,0.8059
+CON,Concepcion,-73.07,-36.6,seismic,0.402,0.0
+OBS_20,ConcepciAn::BAo BAo::Chile 166 responses 106 km (Intensity VII),-73.05,-36.83,macroseismic,0.39997,0.8059
+OBSAS_12,Esperanza (Intensity VIII),-71.63,-34.28,macroseismic,0.39228,0.8059
+UTM:(19H 024 599 10000),,-71.8346,-36.1562,macroseismic,0.39035,0.8059
+OBS_21,ConstituciAn::Maule::Chile 8 responses 70 km (Intensity VII),-72.42,-35.33,macroseismic,0.38943,0.8059
+OBSAS_20,Gualleco (Intensity VIII),-71.99,-35.24,macroseismic,0.38941,0.8059
+OBSAS_21,Batuco (Intensity VIII),-71.98,-35.32,macroseismic,0.38721,0.8059
+OBSAS_15,Poblacion (Intensity VIII),-71.55,-34.44,macroseismic,0.38412,0.8059
+OBS_81,Talcahuano::BAo BAo::Chile 36 responses 98 km (Intensity VII),-73.13,-36.74,macroseismic,0.38408,0.8059
+OBSAS_18,Lolol (Intensity VIII),-71.62,-34.8,macroseismic,0.37974,0.8059
+OBSAS_14,Pichidehua (Intensity VIII),-71.28,-34.36,macroseismic,0.3732,0.8059
+OBSAS_16,Santa Cruz (Intensity VIII),-71.36,-34.64,macroseismic,0.37117,0.8059
+OBS_50,Parral::Maule::Chile 4 responses 85 km (Intensity VIII),-71.83,-36.14,macroseismic,0.36682,0.8059
+OBSAS_13,Coltauco (Intensity VIII),-71.1,-34.3,macroseismic,0.36649,0.8059
+OBSAS_17,Chepica (Intensity VIII),-71.28,-34.73,macroseismic,0.36625,0.8059
+OBSAS_10,Donihue (Intensity VIII),-70.96,-34.23,macroseismic,0.35958,0.8059
+OBSAS_19,Curico (Intensity VIII),-71.22,-34.98,macroseismic,0.35793,0.8059
+UTM:(19H 029 611 10000),,-71.2488,-35.087,macroseismic,0.35728,0.8059
+OBSAS_11,Coinco (Intensity VIII),-70.94,-34.27,macroseismic,0.35708,0.8059
+OBS_41,Melipilla::Metropolitana::Chile 9 responses 282 km (Intensity VII),-71.22,-33.69,macroseismic,0.35582,0.8059
+m2ar,Vina Del Mar  El Salt,-71.51,-33.047,seismic,0.353,0.0
+UTM:(19H 020 584 10000),,-72.3368,-37.4948,macroseismic,0.35022,0.8059
+UTM:(19H 025 607 10000),,-71.699,-35.4383,macroseismic,0.34923,0.8059
+UTM:(19H 028 616 10000),,-71.3456,-34.6344,macroseismic,0.3483,0.8059
+MAT,Matanzas,-71.873,-33.959,seismic,0.342,0.0
+STL,Cerro Santa Lucia,-70.643,-33.44,seismic,0.339,0.0
+OBS_44,Molina::Maule::Chile 3 responses 158 km (Intensity VII),-71.28,-35.11,macroseismic,0.33701,0.8059
+VINA,Vina Del Mar  Centro,-71.553,-33.025,seismic,0.334,0.0
+OBS_67,San Fernando::Libertador General Bernardo OEHiggins::Chile 4 responses 216 km (Intensity VII),-70.99,-34.58,macroseismic,0.3311,0.8059
+OBS_16,ChillAn::BAo BAo::Chile 43 responses 94 km (Intensity VII),-72.11,-36.6,macroseismic,0.32908,0.8059
+OBS_75,Santa Cruz::Libertador General Bernardo OHiggins::Chile 7 responses 188 km (Intensity VII),-71.37,-34.63,macroseismic,0.32828,0.8059
+OBSMH_10,Concepcion  Arana & Angol,-73.0546,-36.3287,macroseismic,0.32182,0.8059
+OBSMH_133,Talcahuano  Blanco Encalada,-73.1117,-36.7136,macroseismic,0.31792,0.8059
+OBS_52,PeAtaflor::Metropolitana::Chile 7 responses 303 km (Intensity VII),-70.92,-33.62,macroseismic,0.3152,0.8059
+OBSAS_53,Lota (Intensity VII),-73.16,-37.09,macroseismic,0.31451,0.8059
+UTM:(19H 033 625 10000),,-70.7832,-33.8324,macroseismic,0.31401,0.8059
+OBSMH_37,Concepcion  Plaza Espana,-73.0585,-36.8297,macroseismic,0.31236,0.8059
+OBSMH_42,Concepcion  San Martin & Lincoyan,-73.0527,-36.8304,macroseismic,0.31199,0.8059
+OBSMH_33,Concepcion O'Higgins & Rengo,-73.0517,-36.8286,macroseismic,0.31196,0.8059
+OBSMH_36,Concepcion  Plaza de la Independencia,-73.0502,-36.8271,macroseismic,0.31189,0.8059
+OBSMH_13,Concepcion  Arana & Colo Colo,-73.0488,-36.8257,macroseismic,0.31183,0.8059
+OBSMH_31,Concepcion  O'Higgins & Colo Colo,-73.0476,-36.8271,macroseismic,0.31173,0.8059
+OBSMH_25,Concepcion  Freire & Paicavi,-73.0432,-36.822,macroseismic,0.31154,0.8059
+OBS_49,Paine::Metropolitana::Chile 10 responses 294 km (Intensity VII),-70.75,-33.82,macroseismic,0.31152,0.8059
+OBSMH_22,Concepcion  Freire & Galvarino,-73.039,-36.8209,macroseismic,0.3113,0.8059
+OBSMH_23,Concepcion  Freire & Licentur,-73.0361,-36.8202,macroseismic,0.31114,0.8059
+OBS_39,Los Angeles::BAo BAo::Chile 35 responses 175 km (Intensity VII),-72.36,-37.46,macroseismic,0.31036,0.8059
+OBSAS_50,Penco (Intensity VII),-73.0,-36.74,macroseismic,0.31027,0.8059
+OBSAS_51,Tome (Intensity VII),-72.95,-36.62,macroseismic,0.30929,0.8059
+F,Santiago Centro,-70.652,-33.467,seismic,0.309,0.0
+OBSAS_44,Cobquecura (Intensity VII),-72.78,-36.13,macroseismic,0.30804,0.8059
+LACH,Colegio Las Americas,-70.531,-33.45,seismic,0.308,0.0
+OBSAS_49,Bulnes (Intensity VII),-72.93,-36.74,macroseismic,0.30617,0.8059
+OBSAS_25,La Boca (Intensity VII),-71.84,-33.93,macroseismic,0.30525,0.8059
+OBS_59,Rancagua::Libertador General Bernardo OEHiggins::Chile 11 responses 265 km (Intensity VII),-70.74,-34.17,macroseismic,0.30431,0.8059
+VAU,Valparaiso UTFSM,-71.595,-33.036,seismic,0.304,0.0
+OBSMH_75,Constitucion  Onaderra Vial,-72.411,-35.3333,macroseismic,0.30306,0.8059
+OBSMH_51,Constitucion  Freire Egana N,-72.41,-35.3337,macroseismic,0.303,0.8059
+OBSMH_76,Constitucion  Zanartu Infante,-72.4107,-35.3375,macroseismic,0.30296,0.8059
+OBSAS_42,Chanco (Intensity VII),-72.52,-35.73,macroseismic,0.30112,0.8059
+OBSMH_92,Nacimiento / water tank,-72.9288,-37.1234,macroseismic,0.30064,0.8059
+UTM:(19H 026 603 10000),,-71.6007,-35.801,macroseismic,0.30057,0.8059
+HTR,Hosp. Tisne RM,-70.579,-33.5,seismic,0.3,0.0
+OBS_79,Talagante::Metropolitana::Chile 15 responses 299 km (Intensity VII),-70.93,-33.66,macroseismic,0.29887,0.8059
+OBSAS_23,El Convento (Intensity VII),-71.62,-33.77,macroseismic,0.298,0.8059
+UTM:(19H 032 627 10000),,-70.8872,-33.6504,macroseismic,0.29624,0.8059
+OBSAS_28,Litueche (Intensity VII),-71.73,-34.12,macroseismic,0.29505,0.8059
+HSOR,Santiago Penalolen,-70.579,-33.501,seismic,0.295,0.0
+OBSAS_24,San Enrique (Intensity VII),-71.61,-33.91,macroseismic,0.29422,0.8059
+OBSAS_45,Quirihue (Intensity VII),-72.55,-36.28,macroseismic,0.29364,0.8059
+OBSMH_98,Quirihue,-72.5418,-36.2817,macroseismic,0.29324,0.8059
+UTM:(19H 032 619 10000),,-70.9032,-34.3716,macroseismic,0.29171,0.8059
+OBSAS_41,Empedrado (Intensity VII),-72.27,-35.59,macroseismic,0.2915,0.8059
+OBSAS_52,Florida (Intensity VII),-72.66,-36.82,macroseismic,0.2915,0.8059
+OBSMH_86,Licanten,-72.0092,-34.986,macroseismic,0.29031,0.8059
+OBS_32,Laja::BAo BAo::Chile 3 responses 152 km (Intensity VII),-72.71,-37.28,macroseismic,0.2886,0.8059
+OBSAS_30,La Estrella (Intensity VII),-71.64,-34.26,macroseismic,0.28818,0.8059
+UTM:(19H 017 586 10000),,-72.6667,-37.3049,macroseismic,0.28656,0.8059
+OBSAS_46,Ninhue (Intensity VII),-72.4,-36.39,macroseismic,0.2857,0.8059
+OBSAS_48,Quillon (Intensity VII),-72.47,-36.74,macroseismic,0.28445,0.8059
+OBSMH_1,Angol,-72.709,-37.7989,macroseismic,0.28399,0.8059
+UTM:(19H 017 581 10000),,-72.6889,-37.7546,macroseismic,0.28355,0.8059
+OBSAS_36,Hualane (Intensity VII),-71.81,-34.98,macroseismic,0.28236,0.8059
+OBS_37,Linares::Maule::Chile 10 responses 103 km (Intensity VII),-71.59,-35.84,macroseismic,0.2816,0.8059
+UTM:(19H 027 606 10000),,-71.4817,-35.5331,macroseismic,0.28159,0.8059
+UTM:(19H 029 612 10000),,-71.2463,-34.9969,macroseismic,0.28,0.8059
+OBSAS_33,Las Pataguas (Intensity VII),-71.5,-34.5,macroseismic,0.27862,0.8059
+OBSAS_39,Pencahue (Intensity VII),-71.81,-35.34,macroseismic,0.27717,0.8059
+UTM:(19H 031 617 10000),,-71.0162,-34.5501,macroseismic,0.27678,0.8059
+OBS_63,San Antonio::ValparaAso::Chile 42 responses 275 km (Intensity VII),-71.61,-33.6,macroseismic,0.27588,0.8059
+OBSAS_47,San Carlos (Intensity VII),-71.96,-36.42,macroseismic,0.27,0.8059
+HSRR,Hosp. Sotero de Rio RM,-70.582,-33.57,seismic,0.27,0.0
+ANTU,Cien Agronomicas UC,-70.633,-33.569,seismic,0.27,0.0
+OBSAS_31,Peumo (Intensity VII),-71.17,-34.38,macroseismic,0.26972,0.8059
+OBS_29,Graneros::Libertador General Bernardo OHiggins::Chile 4 responses 274 km (Intensity VII),-70.72,-34.07,macroseismic,0.26968,0.8059
+OBSAS_43,Retiro (Intensity VII),-71.77,-36.03,macroseismic,0.26803,0.8059
+OBSMH_100,Retiro,-71.7661,-36.0524,macroseismic,0.2677,0.8059
+OBSAS_40,Bobadilla (Intensity VII),-71.58,-35.55,macroseismic,0.26742,0.8059
+OBSAS_35,Rauco (Intensity VII),-71.31,-34.93,macroseismic,0.2666,0.8059
+OBSAS_32,San Vicente (Intensity VII),-71.08,-34.44,macroseismic,0.26523,0.8059
+HSOT,Santiago Puente Alto,-70.581,-33.577,seismic,0.265,0.0
+OBS_65,San Clemente::Maule::Chile 3 responses 120 km (Intensity VII),-71.49,-35.53,macroseismic,0.26493,0.8059
+OBS_25,CuricA::Maule::Chile 24 responses 170 km (Intensity VII),-71.24,-34.98,macroseismic,0.2631,0.8059
+OBSAS_34,Teno (Intensity VII),-71.16,-34.87,macroseismic,0.26132,0.8059
+OBSAS_38,Cumpeo (Intensity VII),-71.27,-35.28,macroseismic,0.25952,0.8059
+UTM:(19H 033 626 10000),,-70.7813,-33.7422,macroseismic,0.25916,0.8059
+OBS_60,Rengo::Libertador General Bernardo OHiggins::Chile 4 responses 237 km (Intensity VII),-70.87,-34.41,macroseismic,0.25496,0.8059
+UTM:(19H 025 605 10000),,-71.7051,-35.6184,macroseismic,0.25407,0.8059
+OBSMH_85,Graneros,-70.7263,-34.0644,macroseismic,0.25389,0.8059
+OBSMH_99,Rancagua,-70.7407,-34.1707,macroseismic,0.25251,0.8059
+OBSAS_27,Rengo (Intensity VII),-70.67,-34.04,macroseismic,0.25113,0.8059
+UTM:(19H 034 622 10000),,-70.6805,-34.1043,macroseismic,0.25041,0.8059
+OBSAS_54,Pomaire (Intensity VII),-72.17,-33.65,macroseismic,0.24767,0.8059
+OBSAS_29,Machali (Intensity VII),-70.66,-34.19,macroseismic,0.24752,0.8059
+OBSMH_105,Santiago  airport,-70.7936,-33.3967,macroseismic,0.24412,0.8059
+OBSMH_122,Santiago  overpass  Vespucio Norte & Lo Boza,-70.7602,-33.3865,macroseismic,0.2424,0.8059
+OBSAS_55,Santiago (Intensity VII),-70.67,-33.45,macroseismic,0.24217,0.8059
+OBS_18,Colina::Metropolitana::Chile 15 responses 303 km (Intensity VII),-70.77,-33.7,macroseismic,0.24187,0.8059
+OBSMH_114,Santiago  Embajodor Gomez,-70.6976,-33.4156,macroseismic,0.24161,0.8059
+OBS_8,Buin::Metropolitana::Chile 5 responses 302 km (Intensity VII),-70.75,-33.73,macroseismic,0.24156,0.8059
+OBSMH_107,Santiago  Av Libertador Bernardo O'Higgins,-70.6468,-33.443,macroseismic,0.24087,0.8059
+OBSMH_111,Santiago  Don Manuel building,-70.5985,-33.4754,macroseismic,0.24019,0.8059
+EMMS,Estacion Metro Mirador - Santiago,-70.606,-33.513,seismic,0.24,0.0
+OBSMH_126,Santiago  Parque Dorsal building,-70.6611,-33.3943,macroseismic,0.23914,0.8059
+OBSMH_127,Santiago  Regina Oriente building,-70.5954,-33.4475,macroseismic,0.23888,0.8059
+OBSMH_119,Santiago  Los Reyes de Huechuraba,-70.6709,-33.3468,macroseismic,0.23717,0.8059
+OBS_89,Villa Alemana::ValparaAso::Chile 12 responses 342 km (Intensity VII),-71.36,-33.04,macroseismic,0.23629,0.8059
+ME,Santiago La Florida,-70.605,-33.154,seismic,0.236,0.0
+UTM:(19H 034 621 10000),,-70.6822,-34.1945,macroseismic,0.23368,0.8059
+OBS_40,MachalA::Libertador General Bernardo OHiggins::Chile 8 responses 268 km (Intensity VII),-70.67,-34.18,macroseismic,0.2333,0.8059
+OBS_53,Puente Alto::Metropolitana::Chile 38 responses 322 km (Intensity VII),-70.57,-33.61,macroseismic,0.22897,0.8059
+UTM:(19H 034 629 10000),,-70.6681,-33.4733,macroseismic,0.2285,0.8059
+OBS_77,Santiago::Metropolitana::Chile 951 responses 332 km (Intensity VII),-70.64,-33.46,macroseismic,0.22679,0.8059
+UTM:(19H 025 634 10000),,-71.6225,-33.0059,macroseismic,0.22583,0.8059
+OBS_68,San Javier::Maule::Chile 4 responses 96 km (Intensity VII),-71.74,-35.59,macroseismic,0.2255,0.8059
+OBS_91,ViAta del Mar::ValparaAso::Chile 114 responses 339 km (Intensity VII),-71.55,-33.01,macroseismic,0.22441,0.8059
+UTM:(19H 026 634 10000),,-71.5156,-33.0081,macroseismic,0.22349,0.8059
+OBSAS_60,Rapel (Intensity VII),-71.73,-33.94,macroseismic,0.21922,0.8059
+OBS_36,Limache::ValparaAso::Chile 8 responses 347 km (Intensity VII),-71.27,-33.02,macroseismic,0.21891,0.8059
+OBS_11,Calera::ValparaAso::Chile 6 responses 373 km (Intensity VII),-71.19,-32.79,macroseismic,0.21886,0.8059
+OBSAS_74,Coelemu (Intensity VII),-72.7,-36.49,macroseismic,0.21814,0.8059
+OBS_83,Teno::Maule::Chile 4 responses 184 km (Intensity VII),-71.16,-34.86,macroseismic,0.21696,0.8059
+OBS_9,Bulnes::BAo BAo::Chile 3 responses 100 km (Intensity VII),-72.3,-36.74,macroseismic,0.21682,0.8059
+OBS_88,ValparaAso::ValparaAso::Chile 47 responses 333 km (Intensity VII),-71.64,-33.04,macroseismic,0.21487,0.8059
+OBSAS_65,Paredones (Intensity VII),-71.89,-34.66,macroseismic,0.21328,0.8059
+OBSAS_77,Ranquil/Nipas (Intensity VII),-72.6,-36.64,macroseismic,0.21322,0.8059
+OBSAS_59,San Pedro (Intensity VII),-71.53,-33.93,macroseismic,0.21263,0.8059
+OBS_57,QuilpuAc::ValparaAso::Chile 23 responses 337 km (Intensity VII),-71.5,-33.04,macroseismic,0.21165,0.8059
+OBSAS_63,Marchigue (Intensity VII),-71.61,-34.4,macroseismic,0.20833,0.8059
+OBSAS_80,Angol (Intensity VII),-72.7,-37.8,macroseismic,0.20779,0.8059
+OBSAS_62,San Jose (Intensity VII),-71.5,-34.23,macroseismic,0.20746,0.8059
+OBS_82,Temuco::AraucanAa::Chile 50 responses 313 km (Intensity VII),-72.58,-38.73,macroseismic,0.20668,0.8059
+UTM:(19H 028 634 10000),,-71.3016,-33.0123,macroseismic,0.20589,0.8059
+OBS_30,La Ligua::ValparaAso::Chile 10 responses 406 km (Intensity VII),-71.24,-32.46,macroseismic,0.2054,0.8059
+OBSAS_78,Cabrero (Intensity VII),-72.4,-37.03,macroseismic,0.20433,0.8059
+OBSAS_75,San Nicolas (Intensity VII),-72.19,-36.5,macroseismic,0.20268,0.8059
+OBSAS_67,La Huerta (Intensity VII),-71.67,-35.07,macroseismic,0.20223,0.8059
+OBSAS_79,Los Angeles (Intensity VII),-72.35,-37.47,macroseismic,0.20047,0.8059
+OBSAS_70,San Javier (Intensity VII),-71.74,-35.6,macroseismic,0.19902,0.8059
+OBSAS_71,Villa Alegre (Intensity VII),-71.74,-35.67,macroseismic,0.19844,0.8059
+OBSAS_57,El Monte (Intensity VII),-71.02,-33.68,macroseismic,0.19662,0.8059
+OBSAS_66,Nancagua (Intensity VII),-71.22,-34.67,macroseismic,0.19572,0.8059
+OBS_64,San Bernardo::Metropolitana::Chile 13 responses 316 km (Intensity VII),-70.7,-33.6,macroseismic,0.19502,0.8059
+OBSAS_73,Longavi (Intensity VII),-71.68,-35.97,macroseismic,0.19489,0.8059
+OBSAS_68,Pelarco (Intensity VII),-71.45,-35.38,macroseismic,0.19446,0.8059
+UTM:(19H 028 640 10000),,-71.2878,-32.4714,macroseismic,0.19392,0.8059
+OBSAS_72,Linares (Intensity VII),-71.59,-35.85,macroseismic,0.19377,0.8059
+OBSAS_56,Talagante (Intensity VII),-70.93,-33.67,macroseismic,0.19366,0.8059
+OBSAS_69,San Clemente (Intensity VII),-71.48,-35.55,macroseismic,0.19364,0.8059
+UTM:(19H 018 570 10000),,-72.6244,-38.7475,macroseismic,0.19349,0.8059
+ROC1,Recinto d. SHOA  Cerro,-71.016,-32.976,seismic,0.188,0.0
+OBS_56,Quillota::ValparaAso::Chile 9 responses 362 km (Intensity VII),-71.26,-32.88,macroseismic,0.1864,0.8059
+OBSAS_99,Lebu (Intensity VI),-73.67,-37.6,macroseismic,0.18583,0.8059
+OBSAS_61,Rancagua (Intensity VII),-70.74,-34.16,macroseismic,0.18512,0.8059
+OBS_90,Villarrica::AraucanAa::Chile 25 responses 376 km (Intensity VII),-72.23,-39.28,macroseismic,0.1813,0.8059
+UTM:(19H 022 564 10000),,-72.189,-39.3007,macroseismic,0.1804,0.8059
+UTM:(19H 031 615 10000),,-71.0207,-34.7304,macroseismic,0.17683,0.8059
+OBS_38,Los Andes::ValparaAso::Chile 5 responses 393 km (Intensity VII),-70.6,-32.83,macroseismic,0.17574,0.8059
+OBSAS_100,Los Alamos (Intensity VI),-73.46,-37.62,macroseismic,0.17555,0.8059
+OBSAS_101,Tres Pinos (Intensity VI),-73.41,-37.63,macroseismic,0.17343,0.8059
+OBSAS_97,Curanilahue (Intensity VI),-73.35,-37.47,macroseismic,0.17245,0.8059
+OBSAS_95,Arauco (Intensity VI),-73.28,-37.26,macroseismic,0.17163,0.8059
+UCS,Universidad de Chile - Santiago,-70.651,-33.44,seismic,0.17,0.0
+OBSMH_103,San Pedro,-73.0969,-36.8378,macroseismic,0.16888,0.8059
+OBSMH_79,Coronel,-73.1412,-37.0341,macroseismic,0.16864,0.8059
+OBSMH_14,Concepcion  Arana & Lincoyan - Rengo,-73.053,-36.8278,macroseismic,0.16748,0.8059
+OBSMH_41,Concepcion  Roosevelt & MacIver,-73.0361,-36.8231,macroseismic,0.16696,0.8059
+OBSMH_19,Concepcion  Collao & Guias,-73.0282,-36.8154,macroseismic,0.16677,0.8059
+OBS_33,Lampa::Metropolitana::Chile 4 responses 336 km (Intensity VI),-70.9,-33.28,macroseismic,0.16535,0.8059
+OBSMH_48,Constitucion  Bulnes Vial S,-72.4074,-35.3325,macroseismic,0.16256,0.8059
+OBSAS_88,Trehuaco (Intensity VI),-72.67,-36.43,macroseismic,0.15949,0.8059
+OBSAS_81,San Antonio (Intensity VI),-71.61,-33.59,macroseismic,0.1572,0.8059
+OBSAS_96,La Laja (Intensity VI),-72.7,-37.27,macroseismic,0.15472,0.8059
+OBSMH_97,Quillon,-72.4786,-36.7548,macroseismic,0.15276,0.8059
+OBSAS_93,Yumbel (Intensity VI),-72.55,-37.1,macroseismic,0.15235,0.8059
+OBSAS_92,Monteaguila (Intensity VI),-72.44,-37.08,macroseismic,0.15022,0.8059
+OBSAS_83,Las Cabras (Intensity VI),-71.31,-34.29,macroseismic,0.14783,0.8059
+OBSAS_90,General Cruz (Intensity VI),-72.23,-36.96,macroseismic,0.14691,0.8059
+OBSMH_6,Chillan,-72.102,-36.6069,macroseismic,0.14636,0.8059
+OBSAS_91,Pemuco (Intensity VI),-72.08,-36.98,macroseismic,0.14432,0.8059
+OBSAS_89,San Ignacio (Intensity VI),-72.03,-36.8,macroseismic,0.14428,0.8059
+OBSAS_94,Yungay (Intensity VI),-72.02,-37.12,macroseismic,0.14276,0.8059
+OBSAS_87,Yerbas Buenas (Intensity VI),-71.57,-35.75,macroseismic,0.14222,0.8059
+OBSMH_91,Molina,-71.3206,-35.0954,macroseismic,0.14203,0.8059
+HVAL,Hosp. Valdivia,-73.24,-39.83,seismic,0.14,0.0
+OBSAS_85,Chimbarongo (Intensity VI),-71.05,-34.7,macroseismic,0.13899,0.8059
+OBSAS_86,Romeral (Intensity VI),-71.12,-34.96,macroseismic,0.13833,0.8059
+OBSAS_84,Requinoa (Intensity VI),-70.86,-34.4,macroseismic,0.13665,0.8059
+OBSAS_105,Valparaiso (Intensity VI),-71.6,-33.05,macroseismic,0.13044,0.8059
+VALD,Valdivia,-73.213,-39.824,seismic,0.13,0.0
+OBSAS_103,Vina del Mar (Intensity VI),-71.52,-33.01,macroseismic,0.12778,0.8059
+UTM:(19H 013 558 10000),,-73.2634,-39.8066,macroseismic,0.10146,0.8059
+OBS_86,Valdivia::Los Lagos::Chile 38 responses 436 km (Intensity VI),-73.23,-39.82,macroseismic,0.10127,0.8059
+OBSAS_104,Canete (Intensity V),-73.4,-37.8,macroseismic,0.09215,0.8059
+OBSMH_9,Concepcion  airport,-73.0596,-36.7769,macroseismic,0.09026,0.8059
+OBSAS_107,Contulmo (Intensity V),-73.23,-38.01,macroseismic,0.08828,0.8059
+OBSAS_108,Puren (Intensity V),-73.08,-38.02,macroseismic,0.08595,0.8059
+OBSAS_106,Los Sauces (Intensity V),-72.83,-37.98,macroseismic,0.08281,0.8059
+OBSAS_102,Renaico (Intensity V),-72.58,-37.67,macroseismic,0.08068,0.8059
+OBS_48,Ovalle::Coquimbo::Chile 3 responses 606 km (Intensity VI),-71.2,-30.59,macroseismic,0.07582,0.8059
+OBS_47,Osorno::Los Lagos::Chile 25 responses 518 km (Intensity VI),-73.16,-40.57,macroseismic,0.07202,0.8059
+UTM:(19H 014 550 10000),,-73.1909,-40.5297,macroseismic,0.06386,0.8059
+OBS_55,Puerto Varas::Los Lagos::Chile 10 responses 602 km (Intensity V),-72.99,-41.33,macroseismic,0.06291,0.8059
+UTM:(19H 026 494 10000),,-72.0138,-45.6088,macroseismic,0.05911,0.8059
+OBSAS_109,Los Vilos (Intensity V),-71.51,-31.91,macroseismic,0.05479,0.8059
+OBSAS_111,Salamanca (Intensity V),-70.97,-31.77,macroseismic,0.05273,0.8059
+OBS_54,Puerto Montt::Los Lagos::Chile 21 responses 617 km (Intensity V),-72.94,-41.47,macroseismic,0.05219,0.8059
+UTM:(19H 016 541 10000),,-73.004,-41.3469,macroseismic,0.05219,0.8059
+OBSAS_110,Illapel (Intensity V),-71.12,-31.6,macroseismic,0.05191,0.8059
+UTM:(19H 017 540 10000),,-72.8901,-41.4408,macroseismic,0.04904,0.8059
+OBS_17,Coihaique::AisAcn::Chile 4 responses 1074 km (Intensity V),-72.07,-45.57,macroseismic,0.0433,0.8059
+OBS_69,San Juan::San Juan::Argentina 25 responses 621 km (Intensity V),-68.53,-31.54,macroseismic,0.04069,0.8059
+OBS_1,Ancud::Los Lagos::Chile 4 responses 668 km (Intensity V),-73.83,-41.87,macroseismic,0.04069,0.8059
+OBS_26,Cutral CA::NeuquAcn::Argentina 24 responses 456 km (Intensity V),-69.24,-38.94,macroseismic,0.04069,0.8059
+UTM:(19H 054 634 10000),,-68.5181,-33.0326,macroseismic,0.03944,0.8059
+OBS_42,Mendoza::Mendoza::Argentina 154 responses 490 km (Intensity V),-68.83,-32.89,macroseismic,0.03757,0.8059
+UTM:(19H 051 636 10000),,-68.8398,-32.8529,macroseismic,0.03746,0.8059
+OBS_71,San MartAn::Mendoza::Argentina 10 responses 501 km (Intensity V),-68.49,-33.07,macroseismic,0.03563,0.8059
+OBS_72,San Rafael::Mendoza::Argentina 13 responses 424 km (Intensity IV),-68.34,-34.62,macroseismic,0.03002,0.8059
+COPI,Copiapo,-70.31,-27.39,seismic,0.03,0.0
+VICH,Punta de Chungos,-71.498,-31.88,seismic,0.03,0.0
+OBS_70,San Luis::San Luis::Argentina 4 responses 652 km (Intensity IV),-66.35,-33.31,macroseismic,0.02465,0.8059
+UTM:(19H 056 616 10000),,-68.2907,-34.6549,macroseismic,0.02203,0.8059
+OBS_31,La Serena::Coquimbo::Chile 23 responses 680 km (Intensity IV),-71.25,-29.9,macroseismic,0.02124,0.8059
+VALL,Vallenar,-70.755,-28.577,seismic,0.02,0.0
+UTM:(19H 009 535 10000),,-73.8785,-41.8532,macroseismic,0.01831,0.8059
+OBS_19,Comodoro Rivadavia::Chubut::Argentina 3 responses 1190 km (Intensity IV),-67.49,-45.86,macroseismic,0.01831,0.8059
+OBS_43,Mercedes::San Luis::Argentina 3 responses 708 km (Intensity IV),-65.47,-33.69,macroseismic,0.01578,0.8059
+UTM:(19H 030 544 10000),,-71.3229,-41.1229,macroseismic,0.01578,0.8059
+OBS_23,Coquimbo::Coquimbo::Chile 8 responses 672 km (Intensity IV),-71.33,-29.96,macroseismic,0.01578,0.8059
+UTM:(19H 074 631 10000),,-66.3695,-33.2763,macroseismic,0.01578,0.8059

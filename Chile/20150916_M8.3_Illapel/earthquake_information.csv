@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2015
+Country,Chile
+Region,Illapel
+Event_Name,Illapel_2015
+Local_Date,16/09/2015
+Local_Time,19:54:33
+Latitude,-31.5729
+Longitude,-71.6744
+Depth_(km),22.44
+Mw,8.3
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse
+Tectonic_region_type,Subduction Intraslab
+Fatalities,13-19
+Injured,14-34
+Displaced_Population,>16646
+Affected_Population,688-681499
+Affected_Units,
+Damaged_Units,1791-10685 Units
+Collapsed_Units,1069-2872 Units
+Economic_Losses,600-900 M USD
+Insured_Losses,350 M USD
+Induced_Effects,"Tsunami, Landslides"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7a/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2015_Illapel_earthquake

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <multiPlanesRupture>
+        <magnitude>
+            8.30000
+        </magnitude>
+        <rake>
+            83
+        </rake>
+        <hypocenter depth="15.05000" lat="-30.91008" lon="-71.89279"/>
+        <planarSurface>
+            <topLeft depth="0.10000" lat="-31.60000" lon="-72.40000"/>
+            <topRight depth="0.10000" lat="-30.18731" lon="-72.32965"/>
+            <bottomLeft depth="30.00000" lat="-31.66040" lon="-71.47626"/>
+            <bottomRight depth="30.00000" lat="-30.21820" lon="-71.39284"/>
+        </planarSurface>
+        <planarSurface>
+            <topLeft depth="0.10000" lat="-32.51163" lon="-72.49442"/>
+            <topRight depth="0.10000" lat="-31.60000" lon="-72.40000"/>
+            <bottomLeft depth="17.50000" lat="-32.54699" lon="-71.96364"/>
+            <bottomRight depth="17.50000" lat="-31.64838" lon="-71.88247"/>
+        </planarSurface>
+    </multiPlanesRupture>
+</nrml>
+<!-- Rupture XML automatically generated from USGS (us20003k7a).
+Reference:  Hayes first fff model 6:56 pm, broke into two planes.
+Rake angle defined by Matthew_Herman_et_al_2017. -->

@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Source: Hayes, G. (2011b) (cut). USGS NEIC",
+      "mech":"ALL",
+      "time":"2010-02-27T06:34:11.000000Z",
+      "network":"unknown",
+      "rake":0.0,
+      "mag":8.8,
+      "depth":22.9,
+      "id":"official20100227063411530_30",
+      "lon":-72.898,
+      "lat":-36.122,
+      "netid":"official",
+      "locstring":"offshore Bio-Bio, Chile",
+      "productcode":"official20100227063411530_30"
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -72.960617,
+                        -33.426811,
+                        2.8622
+                     ],
+                     [
+                        -74.537064,
+                        -37.906261,
+                        2.8622
+                     ],
+                     [
+                        -72.822333,
+                        -37.950314,
+                        52.305
+                     ],
+                     [
+                        -71.184822,
+                        -33.853769,
+                        52.305
+                     ],
+                     [
+                        -72.960617,
+                        -33.426811,
+                        2.8622
+                     ]
+                  ]
+               ]
+            ]
+         },
+         "properties":{
+            "rupture type":"rupture extent"
+         }
+      }
+   ]
+}

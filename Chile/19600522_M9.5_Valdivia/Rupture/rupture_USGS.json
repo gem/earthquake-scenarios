@@ -1,0 +1,60 @@
+{
+   "type":"FeatureCollection",
+   "metadata":{
+      "reference":"Source: Sergio Barrientos, personal communication, 2020",
+      "id":"official19600522191120_30",
+      "network":"unknown",
+      "netid":"official",
+      "productcode":"official19600522191120_30",
+      "time":"1960-05-22T19:11:20.000000Z",
+      "lat":-38.143,
+      "lon":-73.407,
+      "depth":25.0,
+      "mag":9.5,
+      "locstring":"1960 Great Chilean Earthquake (Valdivia Earthquake)",
+      "mech":"ALL",
+      "rake":0.0
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "rupture type":"rupture extent"
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -75.78,
+                        -45.86,
+                        0.0
+                     ],
+                     [
+                        -74.81,
+                        -37.67,
+                        0.0
+                     ],
+                     [
+                        -73.03,
+                        -37.82,
+                        40.0
+                     ],
+                     [
+                        -73.76,
+                        -45.93,
+                        40.0
+                     ],
+                     [
+                        -75.78,
+                        -45.86,
+                        0.0
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}

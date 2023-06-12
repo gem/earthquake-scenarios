@@ -1,0 +1,22 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\Chile\19600522_M9.5_Valdivia\OpenQuake_gmfs\Sensitivity\job_rup-Kanamori_and_Cipar_1974_gmpe-GEM_all.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 2702271941 (total size 280.3 KB)
+Extracting the hazard sites from the site model
+Read N=6203 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\Chile\19600522_M9.5_Valdivia\OpenQuake_gmfs\stationlist_all.csv
+min_iml=[1.e-10]
+There are 3 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2015SInterHigh, IMT: PGA, Nominal bias (mean): -0.044
+GMM: MontalvaEtAl2017SInter, IMT: PGA, Nominal bias (mean): 0.274
+GMM: ZhaoEtAl2006SInter, IMT: PGA, Nominal bias (mean): -0.255
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '436.69 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 95 seconds from event_based
+Stored 217.99 KB of GMFs
+Checking stored GMFs
+Your results are expected to have a large dependency from the rupture seed: 7%
+Exposing the outputs to the database
+Stored 956.22 KB on C:\Users\Luis Martins\oqdata/calc_276.hdf5 in 100 seconds

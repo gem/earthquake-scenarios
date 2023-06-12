@@ -1,0 +1,10 @@
+ID_1,NAME_1,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,DS1_SLIGHT,DS3_EXTENSIVE,BUILDINGS_COLLAPSE,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+3,Atacama,,,,2,,,2.0,,,Shaking,Informe_CCT_2015_AnalisisEventos,
+4,Coquimbo,,,,12337,,,7298.0,2736.0,2303.0,Shaking,Informe_CCT_2015_AnalisisEventos,
+5,Valparaíso,,,,8,,,,6.0,2.0,Shaking,Informe_CCT_2015_AnalisisEventos,
+6,Libertador General Bernardo O'Higgins,,,,2,,,1.0,1.0,,Shaking,Informe_CCT_2015_AnalisisEventos,
+4,Coquimbo,,,,2705,2440.0,,,,,Shaking,Wikipedia_Spanish,
+5,Valparaíso,,,,6,2.0,,,,,Shaking,Wikipedia_Spanish,
+6,Libertador General Bernardo O'Higgins,,,,1,,,,,,Shaking,Wikipedia_Spanish,
+4,Coquimbo,Adobe,ADO,,2336,,,174.0,292.0,,Shaking,Fernandez_et_al_2017,
+4,Coquimbo,,,,7194,,,1638.0,1708.0,,Shaking,Fernandez_Thesis_2017,

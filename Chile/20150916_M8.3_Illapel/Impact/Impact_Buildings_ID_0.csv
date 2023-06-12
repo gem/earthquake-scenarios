@@ -1,0 +1,10 @@
+ID_0,NAME_0,OCCUPANCY,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,DS1_SLIGHT,DS2_MODARATE_DAMAGE,DS3_EXTENSIVE,BUILDINGS_COLLAPSE,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+48,CHL,RES,Adobe,ADO,,2658,,,225,462.0,795,,Shaking,Fernandez_Thesis_2017,
+48,CHL,RES,Brickwork,,,1610,,,574,503.0,370,,Shaking,Fernandez_Thesis_2017,
+48,CHL,RES,Reinforced_concrete,CR/RES,,62,,,13,18.0,18,,Shaking,Fernandez_Thesis_2017,
+48,CHL,RES,Wood ,W/RES,,599,,,231,115.0,115,,Shaking,Fernandez_Thesis_2017,
+48,CHL,RES,Other,RES,,144,,,39,36.0,31,,Shaking,Fernandez_Thesis_2017,
+48,CHL,RES,N/R,MATO/RES,,2138,,,621,560.0,564,,Shaking,Fernandez_Thesis_2017,
+48,CHL,COM,Brickwork,,,12,,,3,8.0,1,,Shaking,Fernandez_Thesis_2017,
+48,CHL,COM,Reinforced_concrete,CR/COM,,62,,,23,6.0,33,,Shaking,Fernandez_Thesis_2017,
+48,CHL,,,,,10044,2305.0,,7301,,2743,2305.0,Shaking,Informe_CCT_2015_AnalisisEventos,

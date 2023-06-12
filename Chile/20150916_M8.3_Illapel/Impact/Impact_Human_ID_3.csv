@@ -1,0 +1,12 @@
+ID_1,NAME_1,ID_2,NAME_2,ID_3,NAME_3,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,COMMENTS,REFERENCE
+4,Coquimbo,41,Elqui,4102,Coquimbo,7,7,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,42,Choapa,4201,Illapel,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,43,Limarí,4301,Ovalle,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,41,Elqui,4104,La Higuera,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+5,Valparaíso,51,Valparaíso,5101,Valparaíso,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+5,Valparaíso,58,Marga Marga,5803,Olmué,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+13,Metropolitana de Santiago,131,Santiago,13119,Maipú,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,43,Limarí,4303,Monte Patria,1,1,,,,Shaking_and_Tsunami,,Wikipedia_Spanish
+4,Coquimbo,41,Elqui,4102,Coquimbo,11,11,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+5,Valparaíso,51,Valparaíso,5101,Valparaíso,3,3,,,,Shaking_and_Tsunami,,NOAA_Earthquake
+13,Metropolitana de Santiago,131,Santiago,13101,Santiago,1,1,,,,Shaking_and_Tsunami,,NOAA_Earthquake

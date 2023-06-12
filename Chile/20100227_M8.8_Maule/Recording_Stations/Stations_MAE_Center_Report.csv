@@ -1,0 +1,6 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,PGA_VALUE,PGA_LN_SIGMA,PGASTATION_Name,PGA_VALUE_1,PGA_VALUE_2,PGA_VALUE_V
+CLCH,CLCH,-33.3961,-70.5369,seismic,MAE_Center_Report,0.23,0,Santiago (Cerro Galán),0.21,0.23,0.11
+MELP,MELP,-33.6874,-71.2138,seismic,MAE_Center_Report,0.78,0,Melipilla,0.57,0.78,0.39
+OLMU,OLMU,-32.994,-71.173,seismic,MAE_Center_Report,0.35,0,Olmué (10 km West of El Roble),0.35,0.25,0.15
+ROC1,ROC1,-32.9759,-71.0156,seismic,MAE_Center_Report,0.19,0,Cerro El Roble,0.19,0.13,0.11
+STL,STL,-33.4405,-70.6428,seismic,MAE_Center_Report,0.34,0,Santiago (Cerro Santa Lucía),0.24,0.34,0.24

@@ -1,0 +1,22 @@
+Luis Martins@GEM-LAPTOP-LM running D:\consequences_database\ecd\Chile\20150916_M8.3_Illapel\OpenQuake_gmfs\Sensitivity\job_rup-USGS_gmpe-USGS_seismic.ini [--hc=None]
+Using engine version 3.16.0-gite16d553af6
+Using 20 cores on GEM-LAPTOP-LM
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 1467167949 (total size 284.52 KB)
+Extracting the hazard sites from the site model
+Read N=6304 hazard sites and L=1 hazard levels
+Reading station data from D:\consequences_database\ecd\Chile\20150916_M8.3_Illapel\OpenQuake_gmfs\stationlist_seismic.csv
+min_iml=[1.e-10]
+There are 3 realization(s)
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias (mean): -0.531
+GMM: MontalvaEtAl2017SInter, IMT: PGA, Nominal bias (mean): -0.436
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias (mean): 0.418
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '330.09 KB', 'sig_eps': '351 B', 'times': '309 B', 'hcurves': '5 B'} in 43 seconds from event_based
+Stored 164.69 KB of GMFs
+Checking stored GMFs
+Your results are expected to have a large dependency from the rupture seed: 50%
+Exposing the outputs to the database
+Stored 946.79 KB on C:\Users\Luis Martins\oqdata/calc_257.hdf5 in 48 seconds

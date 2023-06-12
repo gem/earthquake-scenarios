@@ -1,0 +1,85 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+C11O,C11O,-70.959,-30.696,seismic,0.83008,
+C23O,C23O,-70.97,-31.784,seismic,0.72626,
+C32O,C32O,-70.707,-30.855,seismic,0.54224,
+C18O,C18O,-70.669,-30.278,seismic,0.50585,
+C26O,C26O,-71.49,-30.259,seismic,0.3643,
+CO06,CO06,-71.635,-30.674,seismic,0.36112,
+CO03,CO03,-70.689,-30.839,seismic,0.34746,
+GO04,GO04,-70.799,-30.173,seismic,0.34353,
+C10O,C10O,-71.082,-30.234,seismic,0.31204,
+C14O,C14O,-70.491,-30.123,seismic,0.29795,
+C20O,C20O,-71.337,-29.968,seismic,0.25536,
+C09O,C09O,-71.2,-29.511,seismic,0.18764,
+C01O,C01O,-71.238,-29.877,seismic,0.17595,
+V02A,V02A,-71.518,-33.023,seismic,0.13954,
+C33O,C33O,-71.251,-29.911,seismic,0.13948,
+V15A,V15A,-71.232,-32.915,seismic,0.13889,
+VA03,VA03,-70.551,-32.764,seismic,0.13802,
+C22O,C22O,-71.351,-29.966,seismic,0.12741,
+C27O,C27O,-70.745,-29.384,seismic,0.12649,
+C19O,C19O,-71.369,-30.093,seismic,0.11842,
+R13M,R13M,-70.767,-33.216,seismic,0.11321,
+R12M,R12M,-70.622,-33.389,seismic,0.10291,
+C28O,C28O,-71.308,-29.291,seismic,0.09701,
+R21M,R21M,-70.796,-33.381,seismic,0.08758,
+VA06,VA06,-71.298,-32.561,seismic,0.08519,
+ROC1,ROC1,-71.016,-32.976,seismic,0.0824,
+R18M,R18M,-70.749,-33.508,seismic,0.07125,
+MT05,MT05,-70.738,-33.392,seismic,0.06393,
+R16M,R16M,-70.659,-33.4,seismic,0.06111,
+R19M,R19M,-71.217,-33.699,seismic,0.06081,
+V17A,V17A,-71.614,-33.605,seismic,0.0599,
+V09A,V09A,-71.604,-33.048,seismic,0.055,
+VA01,VA01,-71.637,-33.023,seismic,0.05048,
+V01A,V01A,-71.622,-33.053,seismic,0.04983,
+R20M,R20M,-70.929,-33.665,seismic,0.04974,
+R05M,R05M,-70.534,-33.443,seismic,0.04539,
+LMEL,LMEL,-70.207,-33.848,seismic,0.04394,
+R23M,R23M,-70.701,-33.585,seismic,0.04122,
+R22M,R22M,-70.592,-33.453,seismic,0.03879,
+V07A,V07A,-71.669,-33.365,seismic,0.03724,
+VA05,VA05,-71.614,-33.657,seismic,0.03722,
+R14M,R14M,-70.546,-33.397,seismic,0.03682,
+V16A,V16A,-71.605,-33.59,seismic,0.03533,
+MT09,MT09,-70.989,-33.776,seismic,0.03402,
+R02M,R02M,-70.66,-33.473,seismic,0.03154,
+V24A,V24A,-71.613,-33.622,seismic,0.02896,
+AC04,AC04,-71.074,-28.205,seismic,0.02764,
+MT01,MT01,-71.251,-33.864,seismic,0.02346,
+V22A,V22A,-71.636,-33.02,seismic,0.02076,
+M02L,M02L,-70.812,-35.0,seismic,0.01696,
+M11L,M11L,-71.632,-35.44,seismic,0.01437,
+M09L,M09L,-72.281,-35.591,seismic,0.01259,
+M03L,M03L,-71.231,-34.976,seismic,0.01053,
+M13L,M13L,-71.823,-36.143,seismic,0.00849,
+C11O Componente,C11O Componente,-70.9589,-30.69646,seismic,0.8301,0.0
+CO03 Componente,CO03 Componente,-70.6891,-30.8389,seismic,0.34744,0.0
+C.GO04 Componente,GO04 Componente,-70.7993,-30.1727,seismic,0.34352,0.0
+C09O Componente,C09O Componente,-71.20015,-29.51059,seismic,0.18764,0.0
+C01O Componente,C01O Componente,-71.23788,-29.877,seismic,0.17594,0.0
+V02A Componente,V02A Componente,-71.51783,-33.02312,seismic,0.13954,0.0
+VA03 Componente,VA03 Componente,-70.5508,-32.7637,seismic,0.13804,0.0
+C.ROC1 Componente,ROC1 Componente,-71.0156,-32.9756,seismic,0.0824,0.0
+BO01,Tunca,-71.0848,-34.3917,seismic,0.07725,0.0
+LCO,"Las Campanas Astronomical Observatory, Chile",-70.7005,-29.011,seismic,0.06659,0.0
+MT05 Componente,MT05 Componente,-70.7381,-33.3919,seismic,0.06393,0.0
+V09A Componente,V09A Componente,-71.60439,-33.04821,seismic,0.055,0.0
+VA01 Componente,VA01 Componente,-71.6374,-33.0229,seismic,0.05048,0.0
+V01A Componente,V01A Componente,-71.62202,-33.05312,seismic,0.04982,0.0
+C.LMEL Componente,LMEL Componente,-70.2075,-33.8476,seismic,0.04394,0.0
+VA05 Componente,VA05 Componente,-71.61428,-33.65711,seismic,0.03722,0.0
+MT09 Componente,MT09 Componente,-70.98867,-33.77622,seismic,0.03402,0.0
+BO02,Daracena,-70.7814,-34.7924,seismic,0.02933,0.0
+AC04 Componente,AC04 Componente,-71.0739,-28.2046,seismic,0.02764,0.0
+AC06,"Copiapo, Mina Casimiro Domeyco",-70.35469,-27.35712,seismic,0.02522,0.0
+MT01 Componente,MT01 Componente,-71.2509,-33.8641,seismic,0.02346,0.0
+C .GO03,"Copiapo (Tierra Amarilla), Chile",-70.2347,-27.5937,seismic,0.02028,0.0
+AC02,Maricunga,-69.1291,-26.8355,seismic,0.01718,0.0
+ML02,Panimavida,-71.4181,-35.7626,seismic,0.01709,0.0
+BO03,Pichilemu,-71.9612,-34.49605,seismic,0.00897,0.0
+LR03,Panguipulli,-72.3457,-39.63218,seismic,0.00835,0.0
+VA04,Juan Fernandez,-78.8299,-33.6427,seismic,0.00827,0.0
+C .GO05,"Hualane, Chile",-71.9303,-35.0099,seismic,0.00524,0.0
+C .CCSP,Concepcion San Pedro,-72.7112,-36.8442,seismic,0.00339,0.0
+LC01,Cunco,-71.8761,-38.8975,seismic,0.00143,0.0

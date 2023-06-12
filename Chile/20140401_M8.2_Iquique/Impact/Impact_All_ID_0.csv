@@ -1,0 +1,8 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+CHL,Chile,7,7,,,,,2600,,Buildings,100000000.0,,USD,,,NOAA,
+CHL,Chile,6,6,,,513387.0,,,,,100000000.0,,USD,,,EM-DAT,Geo_Location: Arica y Painacota (Adm1). Iquique (Adm2).
+CHL,Chile,7,7,28.0,,,,,,,,,,Tsunami,,EID,
+CHL,Chile,6-7,6-7,200.0,,,,2500-9547,,Buildings,,,,,,Wikipedia,"Peru had 9 injured. Of BUILDING_DAMAGED, 147 buildings were damaged in the  Arica y Parinacota region (in the Arica, Camarones, and Putre districts) and 9,400 in the Tarapacá region (in the communes of Iquique, Alto Hospicio, Huara, and Pozo Almonte), and irreparable damage was evidenced in approximately one thousand of them."
+CHL,Chile,3,3,,,,,,,,,,,Landslide,,UTSU,3 people have been killed due to shock.
+CHL,Chile,7,7,200.0,,,,,,,,,,,,ITIC,
+CHL,Chile,,,,,,,9780,,Buildings,,,,,,Alejandra_Isabel_Tapia_Tapia_Thesis_2017,

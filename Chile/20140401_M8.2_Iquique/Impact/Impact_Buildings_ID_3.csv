@@ -1,0 +1,5 @@
+ID_1,NAME_1,ID_2,NAME_2,ID_3,NAME_3,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODARATE_DAMAGE,DS3_EXTENSIVE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+1,Tarapacá,11,Iquique,1101,Iquique,,,,4760,2202,,2564,,,Shaking,Alejandra_Isabel_Tapia_Tapia_Thesis_2017,
+1,Tarapacá,11,Iquique,1107,Alto Hospicio,,,,3940,2283,,1657,,,Shaking,Alejandra_Isabel_Tapia_Tapia_Thesis_2017,
+1,Tarapacá,14,Tamarugal,1404,Huara,,,,167,95,,72,,,Shaking,Alejandra_Isabel_Tapia_Tapia_Thesis_2017,
+1,Tarapacá,14,Tamarugal,1401,Pozo Almonte,,,,907,518,,389,,,Shaking,Alejandra_Isabel_Tapia_Tapia_Thesis_2017,
