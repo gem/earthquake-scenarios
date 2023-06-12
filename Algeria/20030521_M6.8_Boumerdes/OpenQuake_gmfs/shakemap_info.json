@@ -1,0 +1,296 @@
+{
+    "multigmpe": {
+        "PGA": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000bxpg_custom"
+        },
+        "PGV": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000bxpg_custom"
+        },
+        "SA(0.3)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000bxpg_custom"
+        },
+        "SA(1.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000bxpg_custom"
+        },
+        "SA(3.0)": {
+            "gmpes": [
+                {
+                    "gmpes": [
+                        "[AbrahamsonEtAl2014]",
+                        "[BooreEtAl2014]",
+                        "[CampbellBozorgnia2014]",
+                        "[ChiouYoungs2014]"
+                    ],
+                    "weights": [
+                        0.25,
+                        0.25,
+                        0.25,
+                        0.25
+                    ],
+                    "name": "active_crustal_nshmp2014"
+                }
+            ],
+            "weights": [
+                1.0
+            ],
+            "name": "gmpe_usp000bxpg_custom"
+        }
+    },
+    "input": {
+        "event_information": {
+            "depth": "12.0",
+            "event_id": "usp000bxpg",
+            "eventsource": "us",
+            "netid": "us",
+            "eventsourcecode": "p000bxpg",
+            "id": "usp000bxpg",
+            "productcode": "usp000bxpg",
+            "productsource": "atlas",
+            "producttype": "shakemap",
+            "event_ref": "source: Bendimerad, F. (2004). The 21 May 2003 Boumerdes earthquake lessons learned and recommendations, 13th World Conference on Earthquake Engineering Conference Proceedings. Vancouver, B.C., Canada.",
+            "fault_ref": "source: Bendimerad, F. (2004). The 21 May 2003 Boumerdes earthquake lessons learned and recommendations, 13th World Conference on Earthquake Engineering Conference Proceedings. Vancouver, B.C., Canada.",
+            "intensity_observations": "168",
+            "latitude": "36.964",
+            "longitude": "3.634",
+            "location": "northern Algeria",
+            "magnitude": "6.8",
+            "origin_time": "2003-05-21T18:44:20.000000Z",
+            "seismic_stations": "13",
+            "src_mech": "RS",
+            "event_description": "ShakeMap Atlas v4",
+            "event_type": "ACTUAL"
+        }
+    },
+    "strec": {
+        "TectonicRegion": "Active",
+        "FocalMechanism": "RS",
+        "TensorType": "Mww",
+        "TensorSource": "duputel_052103h",
+        "KaganAngle": null,
+        "CompositeVariability": null,
+        "NComposite": 0,
+        "DistanceToStable": null,
+        "DistanceToActive": 0,
+        "DistanceToSubduction": null,
+        "DistanceToVolcanic": null,
+        "Oceanic": false,
+        "DistanceToOceanic": null,
+        "DistanceToContinental": 0,
+        "SlabModelRegion": "",
+        "SlabModelDepth": null,
+        "SlabModelDepthUncertainty": null,
+        "SlabModelDip": null,
+        "SlabModelStrike": null,
+        "SlabModelMaximumDepth": null
+    },
+    "output": {
+        "ground_motions": {
+            "SA(0.3)": {
+                "units": "g",
+                "bias": "0.128",
+                "max_grid": "2.03",
+                "max": "2.03"
+            },
+            "SA(3.0)": {
+                "units": "g",
+                "bias": "0.148",
+                "max_grid": "0.371",
+                "max": "0.371"
+            },
+            "SA(1.0)": {
+                "units": "g",
+                "bias": "0.33",
+                "max_grid": "1.462",
+                "max": "1.462"
+            },
+            "PGA": {
+                "units": "g",
+                "bias": "0.319",
+                "max_grid": "1.278",
+                "max": "1.23"
+            },
+            "PGV": {
+                "units": "cms",
+                "bias": "0.124",
+                "max_grid": "4.704",
+                "max": "4.704"
+            },
+            "MMI": {
+                "units": "intensity",
+                "bias": "0.225",
+                "max_grid": "9.194",
+                "max": "9.194"
+            }
+        },
+        "map_information": {
+            "grid_points": {
+                "longitude": "533",
+                "latitude": "421",
+                "units": ""
+            },
+            "grid_spacing": {
+                "longitude": "0.0166667",
+                "latitude": "0.0166667",
+                "units": "degrees"
+            },
+            "grid_span": {
+                "longitude": "8.867",
+                "latitude": "7.0",
+                "units": "degrees"
+            },
+            "min": {
+                "longitude": "-0.483",
+                "latitude": "33.317",
+                "units": "degrees"
+            },
+            "max": {
+                "longitude": "8.383",
+                "latitude": "40.317",
+                "units": "degrees"
+            }
+        },
+        "uncertainty": {
+            "grade": "A",
+            "mean_uncertainty_ratio": "0.911",
+            "total_flagged_mi": "0",
+            "total_flagged_pgm": "0"
+        }
+    },
+    "processing": {
+        "ground_motion_modules": {
+            "gmpe": {
+                "module": "gmpe_usp000bxpg_custom",
+                "reference": ""
+            },
+            "ipe": {
+                "module": "VirtualIPE",
+                "reference": ""
+            },
+            "gmice": {
+                "module": "WGRW12",
+                "reference": ""
+            },
+            "ccf": {
+                "module": "LothBaker2013",
+                "reference": ""
+            },
+            "basin_correction": {
+                "module": "None",
+                "reference": ""
+            },
+            "directivity": {
+                "module": "None",
+                "reference": ""
+            }
+        },
+        "miscellaneous": {
+            "bias_max_dsigma": "1.5",
+            "bias_max_mag": "7.7",
+            "bias_max_range": "120.0",
+            "median_dist": "True",
+            "do_outliers": true,
+            "outlier_deviation_level": "3.0",
+            "outlier_max_mag": "7.0"
+        },
+        "shakemap_versions": {
+            "shakemap_revision": "4.0.2+335.gcbad862",
+            "shakemap_revision_id": "cbad8622bd520e1936447620edfb3a4feea1a8d9",
+            "process_time": "2020-06-04T00:36:59Z",
+            "map_version": 1,
+            "map_comment": "ShakeMap Atlas v4",
+            "map_data_history": [
+                [
+                    "2020-06-04T00:36:37Z",
+                    "atlas",
+                    1,
+                    "ShakeMap Atlas v4"
+                ]
+            ],
+            "map_status": "automatic"
+        },
+        "site_response": {
+            "vs30default": "760.0",
+            "site_correction": "GMPE native"
+        }
+    }
+}

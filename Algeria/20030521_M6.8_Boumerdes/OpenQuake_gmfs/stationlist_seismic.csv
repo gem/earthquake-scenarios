@@ -1,0 +1,13 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+KED2,Keddara 2,3.39,36.65,seismic,0.58,0.0
+DEB,Dar El Beida,3.22,36.71,seismic,0.52,0.0
+KOUB,Kouba,3.07,36.72,seismic,0.31,0.0
+HUSS,Hussein Dey,3.09,36.75,seismic,0.27,0.0
+TIZI,Tizi Ouzou,4.04,36.7,seismic,0.2,0.0
+ELAF,El Afroun,2.6,36.46,seismic,0.16,0.0
+AZAZ,Azazga,4.35,36.74,seismic,0.12,0.0
+HARI,Hammam Righa,2.42,36.37,seismic,0.1,0.0
+BLID,Blida,2.79,36.47,seismic,0.05,0.0
+MILI,Miliana,2.2,36.3,seismic,0.03,0.0
+AIDE,Ain Defla,1.98,36.31,seismic,0.03,0.0
+TIPA,Tipaza City,2.42,36.59,seismic,0.03,0.0

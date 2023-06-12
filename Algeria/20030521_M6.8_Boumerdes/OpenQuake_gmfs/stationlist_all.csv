@@ -1,0 +1,150 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+OBS_164,Dellys,3.897,36.9197,macroseismic,1.43185,0.8059
+OBS_167,Tidjelabine,3.5015,36.7422,macroseismic,1.43185,0.8059
+OBS_168,Zemmouri,3.606,36.7794,macroseismic,1.43185,0.8059
+OBS_160,Boudoraou,3.4224,36.7194,macroseismic,1.43185,0.8059
+OBS_162,Corso,3.4567,36.7518,macroseismic,1.43185,0.8059
+OBS_161,Boumderdes,3.4761,36.765,macroseismic,1.43185,0.8059
+OBS_165,Reghaia,3.3388,36.7362,macroseismic,1.43185,0.8059
+OBS_166,Thenia,3.5627,36.7182,macroseismic,1.43164,0.8059
+OBS_163,Sidi Daoud,3.8507,36.8525,macroseismic,1.34551,0.8059
+OBS_159,Bordj Menaiel,3.7149,36.7494,macroseismic,1.3048,0.8059
+OBS_147,Ain Taya,3.3119,36.7902,macroseismic,0.76847,0.8059
+OBS_157,Takdempt,3.8567,36.9137,macroseismic,0.76847,0.8059
+OBS_153,El Kerma,3.5119,36.7614,macroseismic,0.76847,0.8059
+OBS_158,Z.Bah,3.5582,36.801,macroseismic,0.76847,0.8059
+OBS_150,Cap Djenet,3.7313,36.8825,macroseismic,0.76847,0.8059
+OBS_155,Ouled Moussa,3.3612,36.6871,macroseismic,0.7381,0.8059
+OBS_154,Si Mustapha,3.6224,36.7206,macroseismic,0.72693,0.8059
+OBS_148,Ben N'Choud,3.8836,36.8705,macroseismic,0.72056,0.8059
+OBS_149,Baghha,3.8567,36.8249,macroseismic,0.69222,0.8059
+OBS_156,Rouiba,3.2687,36.7266,macroseismic,0.68507,0.8059
+OBS_151,Ouled Aissa,3.8299,36.7974,macroseismic,0.68247,0.8059
+OBS_152,Dar El Beida,3.194,36.7038,macroseismic,0.61609,0.8059
+KED2,Keddara 2,3.39,36.65,seismic,0.58,0.0
+DEB,Dar El Beida,3.22,36.71,seismic,0.52,0.0
+OBS_137,Keddara,3.4761,36.6427,macroseismic,0.38502,0.8059
+OBS_132,Beni Amrana,3.5806,36.6703,macroseismic,0.37664,0.8059
+OBS_142,Souk El Had,3.6,36.6799,macroseismic,0.37561,0.8059
+OBS_135,El Marsa,3.2522,36.8153,macroseismic,0.36485,0.8059
+OBS_138,Khemis El Kheche,3.3313,36.6499,macroseismic,0.36017,0.8059
+OBS_141,Naciria,3.8313,36.7362,macroseismic,0.34303,0.8059
+OBS_144,Taourga,3.9507,36.7986,macroseismic,0.34034,0.8059
+OBS_128,Afir,4.006,36.8285,macroseismic,0.33948,0.8059
+OBS_133,Chabet el Ameur,3.7,36.6391,macroseismic,0.3373,0.8059
+OBS_145,Tigziri,4.1313,36.8825,macroseismic,0.33366,0.8059
+OBS_139,Lakhdaria,3.5881,36.5588,macroseismic,0.33261,0.8059
+OBS_143,Tadmait,3.9,36.729,macroseismic,0.32896,0.8059
+OBS_129,Attouch,4.0313,36.7998,macroseismic,0.32713,0.8059
+OBS_146,Timezrit,3.8224,36.6715,macroseismic,0.32599,0.8059
+OBS_140,Makouda,4.0761,36.789,macroseismic,0.31761,0.8059
+OBS_134,El Harrach,3.1284,36.7182,macroseismic,0.31274,0.8059
+KOUB,Kouba,3.07,36.72,seismic,0.31,0.0
+OBS_136,H.D.,3.0791,36.729,macroseismic,0.30115,0.8059
+OBS_131,Belouizdad,3.0731,36.7494,macroseismic,0.30072,0.8059
+OBS_130,B. Announ,3.0522,36.7698,macroseismic,0.29649,0.8059
+HUSS,Hussein Dey,3.09,36.75,seismic,0.27,0.0
+TIZI,Tizi Ouzou,4.04,36.7,seismic,0.2,0.0
+OBS_124,Sidi Naaman,3.9836,36.7482,macroseismic,0.17232,0.8059
+OBS_121,Mefiah,3.2224,36.6199,macroseismic,0.17114,0.8059
+OBS_109,D.B.K.,3.9821,36.729,macroseismic,0.16987,0.8059
+OBS_115,Kadria,3.6791,36.5276,macroseismic,0.16728,0.8059
+OBS_114,Guerrouma,3.4328,36.482,macroseismic,0.16635,0.8059
+OBS_119,Les Eucalyptus,3.1403,36.6511,macroseismic,0.16467,0.8059
+OBS_117,Kouba,3.0955,36.699,macroseismic,0.16245,0.8059
+OBS_127,Tizi Ouzou,4.0731,36.7194,macroseismic,0.16215,0.8059
+OBS_100,Aomar,3.7522,36.5168,macroseismic,0.16088,0.8059
+ELAF,El Afroun,2.6,36.46,seismic,0.16,0.0
+OBS_103,Bab El Oued,3.0418,36.7986,macroseismic,0.15793,0.8059
+OBS_110,Deux Bassins,3.2925,36.4688,macroseismic,0.15779,0.8059
+OBS_97,Aghrib,4.3328,36.7986,macroseismic,0.15388,0.8059
+OBS_126,Tablai,3.3104,36.4089,macroseismic,0.15232,0.8059
+OBS_102,Azzefoun,4.4313,36.8885,macroseismic,0.15172,0.8059
+OBS_112,Draria,2.9896,36.7074,macroseismic,0.15146,0.8059
+OBS_99,Ait Hag,4.1552,36.6463,macroseismic,0.15026,0.8059
+OBS_108,Cheraga,2.9597,36.7698,macroseismic,0.14966,0.8059
+OBS_122,Mezghana,3.3224,36.3705,macroseismic,0.14916,0.8059
+OBS_101,Azazga,4.3731,36.7494,macroseismic,0.14778,0.8059
+OBS_116,Khabbouzia,3.6,36.3189,macroseismic,0.14685,0.8059
+OBS_118,Larba.N.I.,4.2134,36.6283,macroseismic,0.14609,0.8059
+OBS_98,Ain Benian,2.9134,36.801,macroseismic,0.14578,0.8059
+OBS_125,Souidamia,2.9104,36.6894,macroseismic,0.14452,0.8059
+OBS_111,Douera,2.9104,36.6595,macroseismic,0.1438,0.8059
+OBS_104,Beni Yenni,4.2134,36.5707,macroseismic,0.14201,0.8059
+OBS_107,Bouira,3.9015,36.3705,macroseismic,0.14104,0.8059
+OBS_106,Boufarik,2.891,36.5803,macroseismic,0.14004,0.8059
+OBS_105,Blida,2.8313,36.4808,macroseismic,0.13344,0.8059
+OBS_120,Mechdallah,4.2687,36.3597,macroseismic,0.12889,0.8059
+OBS_113,El Hamdania,2.7313,36.4484,macroseismic,0.12835,0.8059
+OBS_123,Mouzaia,2.6896,36.47,macroseismic,0.12736,0.8059
+AZAZ,Azazga,4.35,36.74,seismic,0.12,0.0
+HARI,Hammam Righa,2.42,36.37,seismic,0.1,0.0
+OBS_78,Ibouharene,3.8821,36.6823,macroseismic,0.09207,0.8059
+OBS_69,Boukhalia,4.0209,36.729,macroseismic,0.0896,0.8059
+OBS_79,Iflissen,4.2522,36.8717,macroseismic,0.08955,0.8059
+OBS_95,Tizi Ghendil,3.7716,36.5779,macroseismic,0.08942,0.8059
+OBS_93,Tiemitine,3.9836,36.6499,macroseismic,0.08605,0.8059
+OBS_85,Ouaguenouni,4.1746,36.759,macroseismic,0.08583,0.8059
+OBS_73,Draa El Mizan,3.8358,36.5384,macroseismic,0.08473,0.8059
+OBS_72,Djebahia,3.7627,36.4592,macroseismic,0.08287,0.8059
+OBS_89,Souk El Khemis,3.6284,36.3873,macroseismic,0.08221,0.8059
+OBS_66,Beni Messous,2.9776,36.7818,macroseismic,0.08122,0.8059
+OBS_68,Binouta,2.9985,36.6499,macroseismic,0.08066,0.8059
+OBS_70,Chebli,3.0075,36.5779,macroseismic,0.07916,0.8059
+OBS_84,Ouadhia,4.0985,36.56,macroseismic,0.07839,0.8059
+OBS_77,Hammam Melouana,3.0463,36.4796,macroseismic,0.07732,0.8059
+OBS_58,Ain Lalous,3.7522,36.3201,macroseismic,0.07688,0.8059
+OBS_57,Ain Lahdjar,3.8015,36.3309,macroseismic,0.07638,0.8059
+OBS_65,Beni Mered,2.8687,36.5396,macroseismic,0.07371,0.8059
+OBS_60,Ait Saada,4.2806,36.5228,macroseismic,0.07333,0.8059
+OBS_86,Ouled Yaich,2.8493,36.4988,macroseismic,0.0724,0.8059
+OBS_62,Bechloul,4.0731,36.3201,macroseismic,0.07108,0.8059
+OBS_61,Akiadou,4.593,36.6415,macroseismic,0.07093,0.8059
+OBS_76,El Esnam,4.0716,36.3118,macroseismic,0.07088,0.8059
+OBS_59,Ait Laaziz,4.4328,36.5204,macroseismic,0.07075,0.8059
+OBS_74,El Adjiba,4.1537,36.3309,macroseismic,0.07013,0.8059
+OBS_71,Choria,4.3149,36.3597,macroseismic,0.06855,0.8059
+OBS_67,Beni Shimane,2.7627,36.3501,macroseismic,0.06787,0.8059
+OBS_75,El Affroun,2.6179,36.4604,macroseismic,0.06686,0.8059
+OBS_64,Ben Chicao,2.843,36.1981,macroseismic,0.0665,0.8059
+OBS_82,Medea,2.7442,36.2594,macroseismic,0.0661,0.8059
+OBS_90,Tamesguida,2.6806,36.3201,macroseismic,0.06606,0.8059
+OBS_94,Tipaza,2.4942,36.5896,macroseismic,0.0657,0.8059
+OBS_87,Sd.Aissa,3.7733,35.8821,macroseismic,0.06413,0.8059
+OBS_63,Bejaia,5.064,36.7594,macroseismic,0.06377,0.8059
+OBS_83,Merad,2.4244,36.4717,macroseismic,0.06372,0.8059
+OBS_92,Tichy,5.1686,36.6462,macroseismic,0.06158,0.8059
+OBS_80,Ksar Boukhari,2.75,35.8774,macroseismic,0.06075,0.8059
+OBS_88,Sidi Ghiles,2.1047,36.5802,macroseismic,0.05989,0.8059
+OBS_96,Ziama.Man,5.4767,36.6745,macroseismic,0.05819,0.8059
+OBS_81,Larhat,1.8081,36.533,macroseismic,0.05662,0.8059
+OBS_91,Tenes,1.314,36.5047,macroseismic,0.05268,0.8059
+BLID,Blida,2.79,36.47,seismic,0.05,0.0
+OBS_56,Zaouia,3.2239,36.4197,macroseismic,0.043,0.8059
+OBS_35,Akbou,4.5233,36.4623,macroseismic,0.03456,0.8059
+OBS_39,Bni.Ourtilane,4.7965,36.4434,macroseismic,0.03015,0.8059
+MILI,Miliana,2.2,36.3,seismic,0.03,0.0
+AIDE,Ain Defla,1.98,36.31,seismic,0.03,0.0
+TIPA,Tipaza City,2.42,36.59,seismic,0.03,0.0
+OBS_37,B.B.Arreridj,4.6163,36.0566,macroseismic,0.026,0.8059
+OBS_34,Ain El Hadjel,3.8663,35.6745,macroseismic,0.02575,0.8059
+OBS_44,Kherrata,5.2849,36.4858,macroseismic,0.02471,0.8059
+OBS_48,M'sila,4.5233,35.7028,macroseismic,0.0227,0.8059
+OBS_33,Ain Defla,1.9651,36.2547,macroseismic,0.02264,0.8059
+OBS_38,B.Ghedir,4.8953,35.8962,macroseismic,0.02245,0.8059
+OBS_55,T.I.Ziad,2.1453,35.9811,macroseismic,0.02243,0.8059
+OBS_40,Chahbounia,2.6105,35.5425,macroseismic,0.02182,0.8059
+OBS_51,Setif,5.407,36.1745,macroseismic,0.02165,0.8059
+OBS_43,Jijel,5.7849,36.8208,macroseismic,0.02135,0.8059
+OBS_50,Sd.Abdelaziz,6.0465,36.8443,macroseismic,0.01953,0.8059
+OBS_45,Magra,5.0756,35.5991,macroseismic,0.0194,0.8059
+OBS_32,A.Azel,5.5058,35.816,macroseismic,0.01904,0.8059
+OBS_53,Sidi Akacha,1.2965,36.467,macroseismic,0.01857,0.8059
+OBS_41,Chlef,1.3314,36.1557,macroseismic,0.01817,0.8059
+OBS_52,Settara,6.3314,36.717,macroseismic,0.0178,0.8059
+OBS_47,Mila,6.2674,36.4528,macroseismic,0.01772,0.8059
+OBS_42,Collo,6.5465,37.0189,macroseismic,0.01694,0.8059
+OBS_36,Ami Moussa,1.1105,35.8585,macroseismic,0.01649,0.8059
+OBS_46,Mazouna,0.907,36.1132,macroseismic,0.01622,0.8059
+OBS_54,Skikda,6.907,36.8774,macroseismic,0.01548,0.8059
+OBS_49,Relizane,0.5581,35.7358,macroseismic,0.01447,0.8059

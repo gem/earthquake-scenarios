@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                3.4227,
+                                36.78431,
+                                0.0
+                            ],
+                            [
+                                3.96618,
+                                37.10784,
+                                0.0
+                            ],
+                            [
+                                4.05314,
+                                37.00588,
+                                15.0
+                            ],
+                            [
+                                3.51207,
+                                36.68823,
+                                15.0
+                            ],
+                            [
+                                3.4227,
+                                36.78431,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            }
+        }
+    ],
+    "metadata": {
+        "mag": 6.8,
+        "locstring": "northern Algeria",
+        "lon": 3.634,
+        "netid": "us",
+        "time": "2003-05-21T18:44:20.000000Z",
+        "id": "usp000bxpg",
+        "lat": 36.964,
+        "depth": 12.0,
+        "reference": "source: Bendimerad, F. (2004). The 21 May 2003 Boumerdes earthquake lessons learned and recommendations, 13th World Conference on Earthquake Engineering Conference Proceedings. Vancouver, B.C., Canada.",
+        "mech": "ALL",
+        "rake": 0.0,
+        "network": "USGS National Earthquake Information Center, PDE",
+        "productcode": "usp000bxpg"
+    }
+}
