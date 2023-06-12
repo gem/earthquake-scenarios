@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+	<logicTreeBranchSet branchSetID="bs_02" uncertaintyType="gmpeModel" applyToTectonicRegionType="Subduction Interface - North East Correction">
+			<logicTreeBranch branchID="b_02_06">
+				<uncertaintyModel>AbrahamsonEtAl2015SInter</uncertaintyModel>
+				<uncertaintyWeight>0.50000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_02_07">
+				<uncertaintyModel>ParkerEtAl2020SInter</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_02_08">
+				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+				<uncertaintyWeight>0.25000</uncertaintyWeight>
+			</logicTreeBranch>
+	</logicTreeBranchSet>
+</logicTree>
+</nrml>
+
+

@@ -1,0 +1,18 @@
+job_id: 128
+job_description: 20180618_M5.5_Osaka median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Japan/20180618_M5.5_Osaka/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 4094372226 (total size 342.07 KB)
+Extracting the hazard sites from the site model
+Read N=6325 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '445.56 KB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 222.48 KB of GMFs
+Exposing the outputs to the database
+Stored 924.49 KB on /Users/martina.caruso/oqdata/calc_128.hdf5 in 0 seconds

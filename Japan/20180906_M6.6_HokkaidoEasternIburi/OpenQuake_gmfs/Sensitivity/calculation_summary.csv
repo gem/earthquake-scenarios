@@ -1,0 +1,57 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,1.34444,0.046,0.04,0.046
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,1.34444,-0.083,0.047,0.083
+134,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",35, Seismic, GEM, USGS,ZhaoEtAl2016Asc,PGA,1.34444,0.205,0.044,0.205
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,ZhaoEtAl2016SSlab,PGA,1.34444,-0.224,0.046,0.224
+134,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",35, Seismic, GEM, USGS,ChiouYoungs2014,PGA,1.34444,-0.231,0.039,0.231
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,ChiouYoungs2014,PGA,1.34444,-0.231,0.039,0.231
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,ZhaoEtAl2016SInter,PGA,1.34444,-0.333,0.044,0.333
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,1.34444,0.372,0.047,0.372
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,1.34444,0.411,0.038,0.411
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AtkinsonBoore2003SInter,PGA,1.34444,0.497,0.036,0.497
+134,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",35, Seismic, GEM, USGS,BooreEtAl2014,PGA,1.34444,0.83,0.043,0.83
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,BooreEtAl2014,PGA,1.34444,0.83,0.043,0.83
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AtkinsonBoore2003SSlab,PGA,1.34444,0.964,0.042,0.964
+135,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",130, Seismic, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,1.34444,1.423,0.042,1.423
+132,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,BooreEtAl2014,PGA,0.5242807,,,
+132,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ChiouYoungs2014,PGA,0.30917218,,,
+132,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ZhaoEtAl2016Asc,PGA,0.20049325,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.26944503,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.11170888,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2015SSlab,PGA,0.26615366,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.12764974,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SSlab,PGA,0.26211968,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SSlabCascadia,PGA,0.17600167,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,BooreEtAl2014,PGA,0.5242807,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.15506704,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ChiouYoungs2014,PGA,0.30917218,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.2360901,,,
+133,"20180906_M6.6_HokkaidoEasternIburi median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016SSlab,PGA,0.40169296,,,

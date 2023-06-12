@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="Active Shallow Crustal">
+
+        <logicTreeBranch branchID='b0'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.07218750000000007</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b1'>
+            <uncertaintyModel>
+                BooreEtAl2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.07218750000000007</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b2'>
+            <uncertaintyModel>
+                CampbellBozorgnia2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.07218750000000007</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                ChiouYoungs2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.07218750000000007</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b4'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.0075</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b5'>
+            <uncertaintyModel>
+                ZhaoEtAl2016SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.015</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b6'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2015SInter
+            </uncertaintyModel>
+            <uncertaintyWeight>0.015</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b7'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.11231412499999995</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b8'>
+            <uncertaintyModel>
+                AtkinsonBoore2003SSlabCascadia
+            </uncertaintyModel>
+            <uncertaintyWeight>0.11231412499999995</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b9'>
+            <uncertaintyModel>
+                ZhaoEtAl2016SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.2245608749999999</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b10'>
+            <uncertaintyModel>
+                AbrahamsonEtAl2015SSlab
+            </uncertaintyModel>
+            <uncertaintyWeight>0.2245608749999999</uncertaintyWeight>
+        </logicTreeBranch>
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

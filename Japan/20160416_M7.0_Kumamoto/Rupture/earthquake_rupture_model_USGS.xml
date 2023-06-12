@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+<singlePlaneRupture>
+    <magnitude>
+        7.00000
+    </magnitude>
+    <rake>
+        -150
+    </rake>
+    <hypocenter depth="7.25000" lat="32.85448" lon="130.89425"/>
+    <planarSurface>
+        <topLeft depth="0.50000" lat="32.90290" lon="131.02000"/>
+        <topRight depth="0.50000" lat="32.77220" lon="130.79500"/>
+        <bottomLeft depth="14.00000" lat="32.93420" lon="130.99200"/>
+        <bottomRight depth="14.00000" lat="32.80860" lon="130.77000"/>
+    </planarSurface>
+</singlePlaneRupture>
+</nrml>
+<!-- Rupture XML automatically generated from USGS (us20005iis); rake angle defined by USGS NP1 -->

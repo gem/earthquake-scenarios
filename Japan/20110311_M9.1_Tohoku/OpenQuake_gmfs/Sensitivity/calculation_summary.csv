@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+23,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",383, Seismic, USGS, USGS,ZhaoEtAl2016SInter,PGA,2.75312,0.163,0.034,0.163
+22,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",392, Seismic, USGS, JMA,ZhaoEtAl2016SInter,PGA,2.75312,-0.305,0.034,0.305
+24,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",394, Seismic, USGS, GCMT,ZhaoEtAl2016SInter,PGA,2.75312,0.385,0.033,0.385
+27,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",395, Seismic, GEM, GCMT,ParkerEtAl2020SInter,PGA,2.75312,-0.433,0.027,0.433
+27,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",395, Seismic, GEM, GCMT,ZhaoEtAl2006SInter,PGA,2.75312,-0.659,0.036,0.659
+26,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",383, Seismic, GEM, USGS,ParkerEtAl2020SInter,PGA,2.75312,-0.68,0.025,0.68
+26,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",383, Seismic, GEM, USGS,ZhaoEtAl2006SInter,PGA,2.75312,-0.872,0.037,0.872
+24,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",394, Seismic, USGS, GCMT,AtkinsonBoore2003SInter,PGA,2.75312,-0.91,0.028,0.91
+24,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",394, Seismic, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.021,0.036,1.021
+27,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",395, Seismic, GEM, GCMT,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.021,0.036,1.021
+23,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",383, Seismic, USGS, USGS,AtkinsonBoore2003SInter,PGA,2.75312,-1.057,0.028,1.057
+26,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",383, Seismic, GEM, USGS,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.066,0.037,1.066
+23,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",383, Seismic, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.066,0.037,1.066
+25,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",389, Seismic, GEM, JMA,ZhaoEtAl2006SInter,PGA,2.75312,-1.09,0.037,1.09
+22,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",392, Seismic, USGS, JMA,AtkinsonBoore2003SInter,PGA,2.75312,-1.23,0.028,1.23
+25,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",389, Seismic, GEM, JMA,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.261,0.036,1.261
+22,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",392, Seismic, USGS, JMA,AbrahamsonEtAl2015SInter,PGA,2.75312,-1.261,0.036,1.261
+25,"{20110311_M9.1_Tohoku} median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
+",389, Seismic, GEM, JMA,ParkerEtAl2020SInter,PGA,2.75312,-1.266,0.02,1.266
+18,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AbrahamsonEtAl2015SInter,PGA,0.30760396,,,
+18,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,AtkinsonBoore2003SInter,PGA,0.22879232,,,
+18,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
+",0, None, USGS, GCMT,ZhaoEtAl2016SInter,PGA,0.42561588,,,
+19,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",0, None, GEM, JMA,AbrahamsonEtAl2015SInter,PGA,0.39434096,,,
+19,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",0, None, GEM, JMA,ParkerEtAl2020SInter,PGA,0.371073,,,
+19,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:JMA
+",0, None, GEM, JMA,ZhaoEtAl2006SInter,PGA,0.52518827,,,
+21,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,AbrahamsonEtAl2015SInter,PGA,0.30760396,,,
+21,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,ParkerEtAl2020SInter,PGA,0.28627715,,,
+21,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",1, None, GEM, GCMT,ZhaoEtAl2006SInter,PGA,0.4113707,,,
+20,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,AbrahamsonEtAl2015SInter,PGA,0.3674009,,,
+20,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ParkerEtAl2020SInter,PGA,0.35005453,,,
+20,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ZhaoEtAl2006SInter,PGA,0.53217125,,,
+17,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.3674009,,,
+17,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.26543257,,,
+17,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.60288584,,,
+16,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,AbrahamsonEtAl2015SInter,PGA,0.39434096,,,
+16,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,AtkinsonBoore2003SInter,PGA,0.2520902,,,
+16,"{20110311_M9.1_Tohoku} median gmf, Stations:None, gmlt:USGS, Rupture:JMA
+",1, None, USGS, JMA,ZhaoEtAl2016SInter,PGA,0.73735,,,

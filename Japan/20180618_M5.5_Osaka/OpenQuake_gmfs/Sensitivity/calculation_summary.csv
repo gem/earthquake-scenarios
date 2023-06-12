@@ -1,0 +1,41 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+130,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",98, Seismic, GEM, USGS,ZhaoEtAl2016Asc,PGA,0.8104,0.117,0.043,0.117
+130,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",98, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.8325892,0.4,0.042,0.4
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.8325892,0.4,0.042,0.4
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.8104,0.549,0.038,0.549
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.8104,0.789,0.043,0.789
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.8104,0.825,0.045,0.825
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.8104,0.919,0.047,0.919
+130,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",98, Seismic, GEM, USGS,ChiouYoungs2014,PGA,0.8104,0.921,0.047,0.921
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.8104,0.921,0.047,0.921
+131,"20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",232, Seismic, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.91358036,2.836,0.036,2.836
+128,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,BooreEtAl2014,PGA,0.4447714,,,
+128,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ChiouYoungs2014,PGA,0.2525066,,,
+128,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",0, None, GEM, USGS,ZhaoEtAl2016Asc,PGA,0.3046367,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.25605524,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AbrahamsonEtAl2015SInter,PGA,0.120766446,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,AtkinsonBoore2003SInter,PGA,0.08995196,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,BooreEtAl2014,PGA,0.4447714,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.25005993,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ChiouYoungs2014,PGA,0.2525066,,,
+129,"20180618_M5.5_Osaka median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",0, None, USGS, USGS,ZhaoEtAl2016SInter,PGA,0.38673052,,,

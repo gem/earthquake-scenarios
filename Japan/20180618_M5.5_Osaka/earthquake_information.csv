@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2018
+Country,Japan
+Region,Osaka
+Event_Name,Osaka_2018
+Local_Date,18/06/2018
+Local_Time,07:58:35
+Latitude,34.825
+Longitude,135.639
+Depth_(km),10.3
+Mw,5.5
+Max_Intensity_(MMI),VIII
+Fault_mechanism,"Complex (strike-slip, reverse)"
+Tectonic_region_type,Active Shallow Crustal
+Fatalities,5
+Injured,417-421
+Displaced_Population,267-2700
+Affected_Population,
+Affected_Units,
+Damaged_Units,6766-8086 Units
+Collapsed_Units,3 Units
+Economic_Losses,3250-7000 M USD
+Insured_Losses,
+Induced_Effects,"Landslide, Fire"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us1000eu1c/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2018_Osaka_earthquake

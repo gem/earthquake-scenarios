@@ -1,0 +1,26 @@
+job_id: 131
+job_description: 20180618_M5.5_Osaka median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Japan/20180618_M5.5_Osaka/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git8980c54d7f
+Using 10 cores on Gems-MBP.homenet.telecomitalia.it
+Running EventBasedCalculator with concurrent_tasks = 20
+Checksum of the inputs: 2453590262 (total size 402.09 KB)
+Extracting the hazard sites from the site model
+Read N=6892 hazard sites and L=1 hazard levels
+Reading station data from /Users/martina.caruso/Documents/wip/ecd/Japan/20180618_M5.5_Osaka/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AbrahamsonEtAl2014, IMT: PGA, Nominal bias mean: 0.825, Nominal bias stddev: 0.045
+GMM: AbrahamsonEtAl2015SInter, IMT: PGA, Nominal bias mean: 0.919, Nominal bias stddev: 0.047
+GMM: AtkinsonBoore2003SInter, IMT: PGA, Nominal bias mean: 2.836, Nominal bias stddev: 0.036
+GMM: BooreEtAl2014, IMT: PGA, Nominal bias mean: 0.400, Nominal bias stddev: 0.042
+GMM: CampbellBozorgnia2014, IMT: PGA, Nominal bias mean: 0.549, Nominal bias stddev: 0.038
+GMM: ChiouYoungs2014, IMT: PGA, Nominal bias mean: 0.921, Nominal bias stddev: 0.047
+GMM: ZhaoEtAl2016SInter, IMT: PGA, Nominal bias mean: 0.789, Nominal bias stddev: 0.043
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.11 MB', 'sig_eps': '407 B', 'times': '332 B', 'hcurves': '5 B'} in 231 seconds from event_based
+Stored 565.61 KB of GMFs
+Exposing the outputs to the database
+Stored 1.19 MB on /Users/martina.caruso/oqdata/calc_131.hdf5 in 232 seconds

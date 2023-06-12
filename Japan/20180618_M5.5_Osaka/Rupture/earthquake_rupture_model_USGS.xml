@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <singlePlaneRupture>
+        <magnitude>5.5</magnitude>
+        <rake>160</rake>
+        <hypocenter lat="34.8246" lon="135.6389" depth="10.3"/>
+        <planarSurface strike="60" dip="80">
+            <topLeft lon="135.60356" lat="34.81263" depth="7.68590"/>
+            <topRight lon="135.66920" lat="34.84374" depth="7.68590"/>
+            <bottomLeft lon="135.60861" lat="34.80545" depth="12.91410"/>
+            <bottomRight lon="135.67425" lat="34.83656" depth="12.91410"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>
+<!-- USGS used for hypocenter definition, but strike/rake/dip approximately taken from Kato and Ueda 2019; improved model would represent complex geometry with two planes -->
