@@ -1,0 +1,23 @@
+job_id: 28
+job_description: 20110511_M5.1_Lorca median gmf, Stations:Seismic, gmlt:USGS, Rupture:ESM
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Spain/20110511_M5.1_Lorca/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2802096950 (total size 273.35 KB)
+Entering SLOW MODE. You have 2.4 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=4006 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Spain/20110511_M5.1_Lorca/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: AkkarEtAlRjb2014, IMT: PGA, Nominal bias mean: 1.670, Nominal bias stddev: 0.095
+GMM: CauzziEtAl2014, IMT: PGA, Nominal bias mean: 1.335, Nominal bias stddev: 0.093
+GMM: ZhaoEtAl2016Asc, IMT: PGA, Nominal bias mean: 0.894, Nominal bias stddev: 0.086
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '282.5 KB', 'sig_eps': '351 B', 'times': '332 B', 'hcurves': '5 B'} in 19 seconds from event_based
+Stored 140.96 KB of GMFs
+Exposing the outputs to the database
+Stored 860.62 KB on /Users/chago/oqdata/calc_28.hdf5 in 20 seconds

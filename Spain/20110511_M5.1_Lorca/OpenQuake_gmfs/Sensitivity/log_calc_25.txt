@@ -1,0 +1,25 @@
+job_id: 25
+job_description: 20110511_M5.1_Lorca median gmf, Stations:Seismic, gmlt:GEM, Rupture:ESM
+
+chago@MacBook-Pro-de-Santiago.local running /Users/chago/GEM/ecd/Spain/20110511_M5.1_Lorca/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.17.0-git60e4ac41e1
+Using 8 cores on MacBook-Pro-de-Santiago.local
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2791024746 (total size 274.43 KB)
+Entering SLOW MODE. You have 2.2 GB available, but the engine would like at least 0.5 GB per core, i.e. 4.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=4006 hazard sites and L=1 hazard levels
+Reading station data from /Users/chago/GEM/ecd/Spain/20110511_M5.1_Lorca/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 2.142, Nominal bias stddev: 0.105
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 2.689, Nominal bias stddev: 0.105
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 1.595, Nominal bias stddev: 0.105
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 2.594, Nominal bias stddev: 0.105
+GMM: KothaEtAl2020ESHM20SlopeGeology, IMT: PGA, Nominal bias mean: 1.691, Nominal bias stddev: 0.105
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '470.29 KB', 'sig_eps': '379 B', 'times': '332 B', 'hcurves': '5 B'} in 32 seconds from event_based
+Stored 234.91 KB of GMFs
+Exposing the outputs to the database
+Stored 900.96 KB on /Users/chago/oqdata/calc_25.hdf5 in 32 seconds
