@@ -19,21 +19,24 @@
 
 # 🔎 GEM Earthquake Scenario Database
 
+The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing the various components of the models, often through the assessment of damage and losses considering the characteristics of past events[^1]. In this context, the GEM Foundation and its partners have expanded the OpenQuake scenario damage and loss calculator to use directly USGS ShakeMaps[^2][^3][^4], or earthquake data from other providers (e.g., INGV, EFEHR) or the scientific literature. This functionality allows users to generate cross-correlated ground motion fields considering recordings from seismic stations [^5], and to compute a number of risk metrics based on different rupture solutions and ground motion models, and to compare the results against past observations and damage reports. An overview of the functionalities implemented within the OpenQuake-engine can be found in https://github.com/gem/oq-engine/issues/8317.
+
 # ✨ Overview
 
-> The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
+The Earthquake Scenario Database (ESD) aims at providing both earthquake and impact data for users to perform earthquake scenarios using GEM or their own models for validation and verification purposes. This database serves as a complement to the [USGS ShakeMap](https://earthquake.usgs.gov/data/shakemap/) Atlas and AtlasCat. The former resource has ShakeMaps for a comprehensive catalogue of nearly all near-damaging and damaging events worldwide for the past 120 years, and can be used directly for impact assessment within the OpenQuake-engine [^4]. The latter provides aggregate losses for each event separated by cause. The ESD builds upon these sources of data by collecting additional earthquake and impact information, often documented spatially and with greater detail.
 
-This repository is a collection of earthquake footprints and consequences from past events.
+> The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
 
 <div align='left'>
     <img src="./World/eq_events.png" alt="GEM's ECD events" width="700"/>
 </div>
 
-Find the global summary impact data in the [World folder](./World).
+This database is open and aims at being a community effort, that enables users to add new events (see [contributing guidelines](./contribute_guidelines.md)) or to provide additional data to existing entries. We aim to continue expanding the ESD by leveraging on data often collected within the scope of GEM projects, as well as data previously collected as part of the [GEM Earthquake Consequences Database](https://www.globalquakemodel.org/gempublications/Introduction-to-the-GEM-Earthquake-Consequences-Database-(GEMECD)).
+
 
 ## 🗺️ Database coverage
 
-The following events are available in the database.
+The following events are available in the database, and the global summary of impact data is available in the [World folder](./World).
 
 <details>
 <summary> Table with available events
@@ -194,3 +197,9 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
 
+# References
+[^1]: Villar-Vega, M., Silva, V. (2017). Assessment of earthquake damage considering the characteristics of past events in South America. Earthquake Engineering and Soil Dynamics, 99:86-96.
+[^2]: Silva V, Horspool N (2019). Combining USGS ShakeMaps and the OpenQuake-engine for damage and loss assessment. Earthquake Engineering and Structural Dynamics. 48(6):634-652.
+[^3]: Worden, C. B., Thompson, E. M., Hearne, M. G., & Wald, D. J. (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. URL: http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ.
+[^4]: Wald, D. J., Worden, C. B., Thompson, E. M., & Hearne, M. G. (2022). ShakeMap operations, policies, and procedures. Earthquake Spectra, 38(1), 756–777. DOI: https://doi.org/10.1177/87552930211030298.
+[^5]: Engler, D. T., Worden, C. B., Thompson, E. M., & Jaiswal, K. S. (2022). Partitioning Ground Motion Uncertainty When Conditioned on Station Data. Bulletin of the Seismological Society of America, 112(2), 1060–1079. DOI: https://doi.org/10.1785/0120210177.
