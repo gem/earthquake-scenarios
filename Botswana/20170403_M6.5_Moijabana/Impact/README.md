@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -41,8 +40,11 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### National databases / references
 
+- [AllAfrica](https://allafrica.com/stories/201704050039.html)
+
+- [Botswana National Disaster Management Office](https://www.gov.bw/taxonomy/term/136)
+
 
 ### Other useful references
 
-- **Statistics_Botswana_2018:** Botswana environment statistics: natural disasters digest 2017.
-
+- **Statistics_Botswana_2018:** Statistics Botswana (2018). Botswana environment statistics: natural disasters digest 2017. Available online at: https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Environment%20Natural%20Disaster%20Digest_2017.pdf.

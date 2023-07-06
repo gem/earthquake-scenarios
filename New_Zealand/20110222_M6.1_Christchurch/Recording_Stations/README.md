@@ -12,6 +12,7 @@ The reference datasets were used in the following priority order:
 
 - `Stations_GeoNet`: GeoNet Strong Motion Recording stations. Available online at: https://strongmotion.geonet.org.nz/#/event/3468575. Last accessed May 2023.
 
-- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/usp000huvq/atlas/1594175310841/download/stationlist.json/shakemap/stations). Last accessed May 2023.
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/usp000huvq/atlas/1594175310841/download/stationlist.json). Last accessed May 2023.
+
 
 ## Notes

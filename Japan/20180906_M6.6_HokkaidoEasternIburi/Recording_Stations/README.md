@@ -10,9 +10,9 @@ When the same station data is found in multiple sources, the information from th
 
 The reference datasets were used in the following priority order:
 
-- `Stations_NIED`: Seismic data provided are downloaded from the [National Research Institute for Earth Science and Disaster Prevention (NIED) website](https://www.bosai.go.jp/e/index.html), which notably includes stations from the KiK-net and K-net networks. Last accessed December 2022.
+- `Stations_NIED`: Seismic data provided are downloaded from the National Research Institute for Earth Science and Disaster Prevention (NIED) website (https://www.bosai.go.jp/e/index.html), which notably includes stations from the KiK-net and K-net networks. Last accessed December 2022.
 
-- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/earthquakes/eventpage/us600042fx/shakemap/intensity). Last accessed December 2022.
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/us2000h8ty/atlas/1594401324136/download/stationlist.json). Last accessed December 2022.
 
 
 ## Notes

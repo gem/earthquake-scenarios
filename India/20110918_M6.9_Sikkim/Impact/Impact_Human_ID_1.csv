@@ -1,6 +1,6 @@
 ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS,HOSPITALIZED_FOR_MORE_THAN_7DAYS
 Z1100000000,Sikkim,63,63,597,,,,,,,8080,Ground_shaking,Government_of_Sikkim_2012,"India: 63 human lives were lost in Sikkim (44 in North, 14 in East, 1 in South and 4 in West Districts). 735 families/persons affected in East Sikkim, 396 in West Sikkim, 6319* plus floating population in North Sikkim, 630 in South Sikkim. 204 relief Camps Opened. Available the list of injured persons who were hospitalized for more than 7 days, and also the detailed of the deceased persons.",174
-Z1100000000,Sikkim,77,77,710,,,,61245,,,,Ground_shaking,Ministry_of_Home_Affairs_Govt_of_India-Sikkim_earthquake_2011,"India: The details of damage are reported by the State Government (tentatively) (as on Sept 28, 2011).",
+Z1100000000,Sikkim,77,77,710,,,,61245,,,,Ground_shaking,National_Institute_of_Disaster_Management_2011,"India: The details of damage are reported by the State Government (tentatively) (as on Sept 28, 2011).",
 1,Koshi,6,6,25,,,,,,,,Ground_shaking,USGS,"Nepal: 6 people killed, 25 injured and at least 4,300 buildings destroyed or damaged in the Sankhuwasabha-Panchthar-Ilam area, Nepal.",
 54,Tibet,7,7,136,,,,,,,,Ground_shaking,USGS,"China: 7 people killed and 136 injured in Tibet, China.",
 ,Paro/Thimphu,1,1,16,,,,,,,,Ground_shaking,USGS,"Bhutan: 1 person killed (Chhukha) and 16 injured (Haa) in the Paro-Thimphu area, Bhutan.",

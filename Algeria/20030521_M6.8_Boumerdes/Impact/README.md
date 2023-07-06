@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -35,9 +34,9 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 - **Bendimerad_2004:** Bendimerad F (2004). The 21 May 2003 Boumerdes earthquake lessons learned and recommendations. 13th World Conference on Earthquake Engineering (Vancouver, Canada).
 
-- **Hamdache_et_al_2004:** Hamdache M, Peláez J A, Yelles-Chauche A K (2004). The Algiers, Algeria Earthquake (Mw 6. 8) of 21 May 2003: Preliminary Report. Seismological Research Letters, 75(3):360-367. https://doi.org/10.1785/gssrl.75.3.360.
+- **Hamdache_et_al_2004:** Hamdache M, Peláez JA, Yelles-Chauche AK (2004). The Algiers, Algeria Earthquake (Mw 6. 8) of 21 May 2003: Preliminary Report. Seismological Research Letters, 75(3):360-367. https://doi.org/10.1785/gssrl.75.3.360.
 
-- **Hellel_et_al_2010:** Hellel M, Chatelain J L, Guillier B, Machane D, Salem R B, Oubaiche E H, Haddoum H (2010). Heavier damages without site effects and site effects with lighter damages: Boumerdes City (Algeria) after the May 2003 earthquake. Seismological Research Letters, 81(1):37-43. https://doi.org/10.1785/gssrl.81.1.37.
+- **Hellel_et_al_2010:** Hellel M, Chatelain JL, Guillier B, Machane D, Salem RB, Oubaiche EH, Haddoum H (2010). Heavier damages without site effects and site effects with lighter damages: Boumerdes City (Algeria) after the May 2003 earthquake. Seismological Research Letters, 81(1):37-43. https://doi.org/10.1785/gssrl.81.1.37.
 
 - **Meslem_et_al_2009:** Meslem A, Yamazaki F, Maruyama Y (2009). Evaluation of buildings quality and soil condition in Boumerdes city using damage data following the 2003 Algeria earthquake. International Conference on Structural Safety and Reliability (Osaka, Japan).
 
@@ -46,6 +45,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - **Meslem_et_al_2012:** Meslem A, Yamazaki F, Maruyama Y, Benouar D, Kibboua A, Mehani Y (2012). The effects of building characteristics and site conditions on the damage distribution in Boumerdes after the 2003 Algeria earthquake. Earthquake Spectra, 28(1):185-216. https://doi.org/10.1193/1.3675581.
 
 - **Ousalem_Bechtoula_2005:** Ousalem H, Bechtoula H (2005). Inventory survey of the 2003 Zemmouri (Algeria) earthquake: Case study of Dergana City. Journal of Advanced Concrete Technology, 3(1):175-183. https://doi.org/10.3151/jact.3.175.
+
 
 ### Global databases / references
 
@@ -57,12 +57,16 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5694)
 
+- [CNN](https://edition.cnn.com/2003/WORLD/africa/05/22/quake.algeria/)
+
+
 ### National databases / references
 
-- **République_Algérienne_Démocratique_et_Populaire_Ministère_de_l’Habitat:** Séisme de BOUMERDES 21 mai 2003. Rapport préliminaire.
+- **AFPS_2003:** AFPS (2003). Le séisme du 21 Mai 2033 en Algérie. Rapport préliminaire de la mission AFPS.
 
-- **AFPS_2003:** Le séisme du 21 Mai 2033 en Algérie. Rapport préliminaire de la mission AFPS.
+- **République_Algérienne_Démocratique_et_Populaire_Ministère_de_l’Habitat_2003:** République Algériene Démocratique et Populaire, Ministère de l'Habitat (2003). Séisme de BOUMERDES 21 mai 2003. Rapport préliminaire.
+
 
 ### Other useful references
 
-- **Japanese_Reconaissance_Team_2004_:** Available online at http://www.jsce.or.jp/library/eq_repo/Vol2/04/algeriareport.pdf.
+- **Japanese_Reconaissance_Team_2004:** Japan Association of Earthquake Engineering (JAEE), Japan Society of Civil Engineering (JSCE), Architectural Institute of Japan (AIJ), Japan Geotechnical Engineering Society (JGES) (2004). Boumerdes earthquake, May 21, 2003. Available online at http://www.jsce.or.jp/library/eq_repo/Vol2/04/algeriareport.pdf.

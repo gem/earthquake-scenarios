@@ -10,6 +10,7 @@ When the same station data is found in multiple sources, the information from th
 
 The reference datasets were used in the following priority order:
 
-- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`]https://earthquake.usgs.gov/product/shakemap/us6000f65h/us/1660684316215/download/stationlist.json/shakemap/stations. Last accessed April 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_USGS.xml`.
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/us6000f65h/us/1660684316215/download/stationlist.json). Last accessed April 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_USGS.xml`.
+
 
 ## Notes

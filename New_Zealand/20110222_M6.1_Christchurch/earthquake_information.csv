@@ -19,8 +19,8 @@ Affected_Population,301500
 Affected_Units,
 Damaged_Units,100000
 Collapsed_Units,
-Economic_Losses,15000-40000 M USD
+Economic_Losses,15000 M USD
 Insured_Losses,3500-12000 M USD
-Induced_Effects,Liquefaction
+Induced_Effects,"Liquefaction, landslides"
 USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000huvq/executive
 Wikipedia page,https://en.wikipedia.org/wiki/2011_Christchurch_earthquake

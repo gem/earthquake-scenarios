@@ -1,8 +1,8 @@
 ID_1,NAME_1,ID_2,NAME_2,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
-Z1100000000,Sikkim,Z1124100000,North District,59,59,,,,,20160,,,,Ground_shaking,Ministry_of_Home_Affairs_Govt_of_India-Sikkim_earthquake_2011,
-Z1100000000,Sikkim,Z1124300000,South District,1,1,,,,,2755,,,,Ground_shaking,Ministry_of_Home_Affairs_Govt_of_India-Sikkim_earthquake_2011,
-Z1100000000,Sikkim,Z1124400000,East District,13,13,,,,,20160,,,,Ground_shaking,Ministry_of_Home_Affairs_Govt_of_India-Sikkim_earthquake_2011,
-Z1100000000,Sikkim,Z1124200000,West District,4,4,,,,,18170,,,,Ground_shaking,Ministry_of_Home_Affairs_Govt_of_India-Sikkim_earthquake_2011,
+Z1100000000,Sikkim,Z1124100000,North District,59,59,,,,,20160,,,,Ground_shaking,National_Institute_of_Disaster_Management_2011,
+Z1100000000,Sikkim,Z1124300000,South District,1,1,,,,,2755,,,,Ground_shaking,National_Institute_of_Disaster_Management_2011,
+Z1100000000,Sikkim,Z1124400000,East District,13,13,,,,,20160,,,,Ground_shaking,National_Institute_of_Disaster_Management_2011,
+Z1100000000,Sikkim,Z1124200000,West District,4,4,,,,,18170,,,,Ground_shaking,National_Institute_of_Disaster_Management_2011,
 Z1100000000,Sikkim,Z1124100000,North District,,,,,,,,,,735,Ground_shaking,Government_of_Sikkim_2012,"India: Number of families/persons affected; i.e. 735 families/persons affected in East Sikkim, 396 in West Sikkim, 6319* plus floating population in North Sikkim, 630 in South Sikkim. 204 relief Camps Opened."
 Z1100000000,Sikkim,Z1124300000,South District,,,,,,,,,,396,Ground_shaking,Government_of_Sikkim_2012,"India: Number of families/persons affected; i.e. 735 families/persons affected in East Sikkim, 396 in West Sikkim, 6319* plus floating population in North Sikkim, 630 in South Sikkim. 204 relief Camps Opened."
 Z1100000000,Sikkim,Z1124400000,East District,,,,,,,,,,6319,Ground_shaking,Government_of_Sikkim_2012,"India: Number of families/persons affected; i.e. 735 families/persons affected in East Sikkim, 396 in West Sikkim, 6319* plus floating population in North Sikkim, 630 in South Sikkim. 204 relief Camps Opened."

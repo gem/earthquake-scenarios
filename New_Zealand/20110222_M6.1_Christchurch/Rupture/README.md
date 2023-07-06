@@ -7,6 +7,7 @@
 | Fault mechanism       | Oblique thrust         |
 | Tectonic region type | Active shallow crustal |
 
+
 ### Preferred nodal plane solution
 
 | source   |   longitude |   latitude |   depth |   strike |     dip |   rake |   mag |
@@ -16,9 +17,11 @@
 | SCARDEC  |     172.68  |    -43.58  |     6   |  62.0809 | 58.9997 |    138 |  6.2  |
 | USGS     |     172.691 |    -43.541 |     3.7 |  56.0919 | 61.0022 |    147 |  6.35 |
 
+
 ### Rupture figure
 
 ![](earthquake_ruptures.png)
+
 
 ## References
 

@@ -4,7 +4,7 @@
 
 | atribute             | description    |
 |:---------------------|:---------------|
-| Fault mechanism       | Thrust/reverse |
+| Fault mechanism      | Thrust/reverse |
 | Tectonic region type | Subduction     |
 
 ### Preferred nodal plane solution
@@ -29,11 +29,11 @@
 
 ## References
 
-- `EQUAKE_Hayes.pdf`: Hayes, G. P., Briggs, R. W., Barnhart, W. D., Yeck, W. L., McNamara, D. E., Wald, D. J., ... & Samsonov, S. V. (2015). Rapid characterization of the 2015 M w 7.8 Gorkha, Nepal, earthquake sequence and its seismotectonic context. Seismological Research Letters, 86(6), 1557-1567. https://doi.org/10.1785/0220150145. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Hayes.xml`.
+- `EQUAKE_Hayes.pdf`: Hayes GP, Briggs RW, Barnhart WD, Yeck WL, McNamara DE, Wald DJ, Nealy JL, Benz HM, Gold RD, Jaiswal KS,  Marano K, Earle PS, Hearne MG, Smoczyk GM, Wald LA, Samsonov SV (2015). Rapid characterization of the 2015 Mw 7.8 Gorkha, Nepal, earthquake sequence and its seismotectonic context. Seismological Research Letters, 86(6):1557-1567. https://doi.org/10.1785/0220150145. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Hayes.xml`.
 
-- `EQUAKE_Kobayashi.pdf`: Kobayashi, T., Morishita, Y., & Yarai, H. (2015). Detailed crustal deformation and fault rupture of the 2015 Gorkha earthquake, Nepal, revealed from ScanSAR-based interferograms of ALOS-2. Earth, Planets and Space, 67(1), 1-13. https://doi.org/10.1186/s40623-015-0359-z. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Kobayashi.xml`.
+- `EQUAKE_Kobayashi.pdf`: Kobayashi T, Morishita Y, Yarai H (2015). Detailed crustal deformation and fault rupture of the 2015 Gorkha earthquake, Nepal, revealed from ScanSAR-based interferograms of ALOS-2. Earth, Planets and Space, 67(1):1-13. https://doi.org/10.1186/s40623-015-0359-z. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Kobayashi.xml`.
 
-- `EQUAKE_Yagi.pdf`: Yagi, Y., & Okuwaki, R. (2015). Integrated seismic source model of the 2015 Gorkha, Nepal, earthquake. Geophysical Research Letters, 42(15), 6229-6235. https://doi.org/10.1002/2015GL064995. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Yagi.xml`.
+- `EQUAKE_Yagi.pdf`: Yagi Y, Okuwaki R (2015). Integrated seismic source model of the 2015 Gorkha, Nepal, earthquake. Geophysical Research Letters, 42(15):6229-6235. https://doi.org/10.1002/2015GL064995. Available online at: http://equake-rc.info/SRCMOD/searchmodels/listevents/. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_Yagi.xml`.
 
 - `GCMT.pdf`: Global Centroid Moment Tensor (GCMT) Catalog. Available online at: https://www.globalcmt.org/cgi-bin/globalcmt-cgi-bin/CMT5/form?itype=ymd&yr=2015&mo=04&day=25&otype=ymd&oyr=2015&omo=04&oday=25&jyr=1976&jday=1&ojyr=1976&ojday=1&nday=1&lmw=7&umw=10&lms=0&ums=10&lmb=0&umb=10&llat=-90&ulat=90&llon=-180&ulon=180&lhd=0&uhd=1000&lts=-9999&uts=9999&lpe1=0&upe1=90&lpe2=0&upe2=90&list=0. Last accessed March 2023. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_GCMT.xml`.
 

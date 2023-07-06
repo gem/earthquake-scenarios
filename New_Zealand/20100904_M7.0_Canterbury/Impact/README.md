@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -31,11 +30,11 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### Publications
 
-- **Ingham_and_Griffith_2011:** Ingham, J., & Griffith, M. (2010). Performance of unreinforced masonry buildings during the 2010 Darfield (Christchurch, NZ) earthquake. Australian Journal of Structural Engineering, 11(3), 207-224. https://doi.org/10.1080/13287982.2010.11465067.
+- **Ingham_and_Griffith_2011:** Ingham J, Griffith M (2010). Performance of unreinforced masonry buildings during the 2010 Darfield (Christchurch, NZ) earthquake. Australian Journal of Structural Engineering, 11(3):207-224. https://doi.org/10.1080/13287982.2010.11465067.
 
-- **Johnston_et_al_2014:** Johnston, D., Standring, S., Ronan, K., Lindell, M., Wilson, T., Cousins, J., ... & Bissell, R. (2014). The 2010/2011 Canterbury earthquakes: context and cause of injury. Natural Hazards, 73, 627-637. https://doi.org/10.1007/s11069-014-1094-7.
+- **Johnston_et_al_2014:** Johnston D, Standring S, Ronan K, Lindell M, Wilson T, Cousins J, Aldridge E, Ardagh MW, Deely JM, Jensen S, Kirsch T, Bissell R (2014). The 2010/2011 Canterbury earthquakes: context and cause of injury. Natural Hazards, 73:627-637. https://doi.org/10.1007/s11069-014-1094-7.
 
-- **Kam_et_al_2010:** Kam, W. Y., Pampanin, S., Dhakal, R., Gavin, H. P., & Roeder, C. (2010). Seismic performance of reinforced concrete buildings in the September 2010 Darfield (Canterbury) earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 43(4), 340-350. https://doi.org/10.5459/bnzsee.43.4.340-350.
+- **Kam_et_al_2010:** Kam WY, Pampanin S, Dhakal R, Gavin HP, Roeder C (2010). Seismic performance of reinforced concrete buildings in the September 2010 Darfield (Canterbury) earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 43(4):340-350. https://doi.org/10.5459/bnzsee.43.4.340-350.
 
 
 ### Global databases / references

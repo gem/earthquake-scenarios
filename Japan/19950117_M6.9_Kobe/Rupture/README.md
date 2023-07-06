@@ -4,7 +4,7 @@
 
 | atribute             | description               |
 |:---------------------|:--------------------------|
-| Fault mechanism       | Right-lateral strike slip |
+| Fault mechanism      | Right-lateral strike slip |
 | Tectonic region type | Active Shallow Crustal    |
 
 ### Preferred nodal plane solution

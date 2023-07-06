@@ -1,6 +1,6 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-JPN,Japan,5.0,5.0,417.0,,,,6766.0,,Buildings,7000000000,,USD,,,NOAA,"The statistic assigned to BUILDINGS_DAMAGED is expressed as ""Houses damaged"" in the main reference."
-JPN,Japan,5.0,5.0,417.0,,20298.0,,,,,3250000000-3507081000,,USD,,,EM-DAT,"Geo locations: Hyoogo, Kyooto, Nara, Oosaka (Adm1)."
-JPN,Japan,5.0,5.0,421.0,267.0,,,8086.0,3.0,Buildings,,,,"8 fire indcidents, 1 landslide",,Japan Cabinet Office Emergency Disaster Management Report (2018/06/25),"This should be taken as the most reliable source as it is an official report from the Japanese government one week following the event; DISPLACED_POPULATION refers to evacuees in shelters; building damage refers to housing damage where BUILDINGS_DAMAGED is the sum of those partially destroyed (14) and partially damaged (8,072). "
-JPN,Japan,,,,2700.0,,,,,,,,,,,IDMC,
-JPN,Japan,,,,469.0,,,,,,,,,,,Japan Times,People in public shelters on week following the earthquake (https://www.japantimes.co.jp/news/2018/06/25/national/osaka-takes-stock-week-violent-rush-hour-quake/)
+JPN,Japan,5,5,417,,,,6766,,Buildings,7000000000,,USD,,,NOAA,"The statistic assigned to BUILDINGS_DAMAGED is expressed as ""Houses damaged"" in the main reference."
+JPN,Japan,5,5,417,,20298,,,,,3250000000-3507081000,,USD,,,EM-DAT,"Geo locations: Hyoogo, Kyooto, Nara, Oosaka (Adm1)."
+JPN,Japan,5,5,421,267,,,8086,3,Buildings,,,,"8 fire indcidents, 1 landslide",,Japan_Cabinet_Office_Emergency_Disaster_Management_2018,"This should be taken as the most reliable source as it is an official report from the Japanese government one week following the event; DISPLACED_POPULATION refers to evacuees in shelters; building damage refers to housing damage where BUILDINGS_DAMAGED is the sum of those partially destroyed (14) and partially damaged (8,072). "
+JPN,Japan,,,,2700,,,,,,,,,,,IDMC,
+JPN,Japan,,,,469,,,,,,,,,,,Japan Times,People in public shelters on week following the earthquake (https://www.japantimes.co.jp/news/2018/06/25/national/osaka-takes-stock-week-violent-rush-hour-quake/)

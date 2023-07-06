@@ -12,7 +12,8 @@ The reference datasets were used in the following priority order:
 
 - `Stations_NIED`: Seismic data provided are downloaded from the National Research Institute for Earth Science and Disaster Prevention (NIED) website (https://www.bosai.go.jp/e/index.html), which notably includes stations from the KiK-net and K-net networks. Last accessed April 2023.
 
-- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/official20110311054624120_30/atlas/1594161746661/download/stationlist.json/shakemap/stations). Last accessed April 2023.
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/official20110311054624120_30/atlas/1594161746661/download/stationlist.json). Last accessed April 2023.
+
 
 ## Notes
 
