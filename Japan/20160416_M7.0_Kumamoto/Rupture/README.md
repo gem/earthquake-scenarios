@@ -19,4 +19,4 @@
 
 ## References
 
-- `earthquake_rupture_model_USGS.xml`: `USGS.json` rupture. https://earthquake.usgs.gov/product/shakemap/us20005iis/atlas/1594162257045/download/rupture.json. Last accessed December 2022. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_USGS.xml`.
+- `USGS.json`: USGS rupture. Available online at: https://earthquake.usgs.gov/product/shakemap/us20005iis/atlas/1594162257045/download/rupture.json. Last accessed December 2022. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_USGS.xml`.

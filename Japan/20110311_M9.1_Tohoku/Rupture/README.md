@@ -4,7 +4,7 @@
 
 | atribute             | description            |
 |:---------------------|:-----------------------|
-| Fault mechanism       | Thrust/reverse         |
+| Fault mechanism      | Thrust/reverse         |
 | Tectonic region type | Subduction interface   |
 
 ### Preferred nodal plane solution

@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -22,22 +21,24 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ## Notes
 
+
 ## References
+
 
 ### Detailed online databases
 
 
 ### Publications
 
-- **Ingham_and_Griffith_2011:** Ingham, J. M., & Griffith, M. C. (2011). The performance of earthquake strengthened URM buildings in the Christchurch CBD in the 22 February 2011 earthquake. Addendum Report to the Royal Commission of Inquiry.
+- **Ingham_and_Griffith_2011:** Ingham JM, Griffith MC (2011). The performance of earthquake strengthened URM buildings in the Christchurch CBD in the 22 February 2011 earthquake. Addendum Report to the Royal Commission of Inquiry.
 
-- **Johnston_et_al_2014:** Johnston, D., Standring, S., Ronan, K., Lindell, M., Wilson, T., Cousins, J., ... & Bissell, R. (2014). The 2010/2011 Canterbury earthquakes: context and cause of injury. Natural Hazards, 73, 627-637. https://doi.org/10.1007/s11069-014-1094-7.
+- **Johnston_et_al_2014:** Johnston D, Standring S, Ronan K, Lindell M, Wilson T, Cousins J, Aldridge E, Ardagh MW, Deely JM, Jensen S, Kirsch T, Bissell R (2014). The 2010/2011 Canterbury earthquakes: context and cause of injury. Natural Hazards, 73:627-637. https://doi.org/10.1007/s11069-014-1094-7.
 
-- **Kam_et_al_2011:** Kam, W. Y., Pampanin, S., & Elwood, K. (2011). Seismic performance of reinforced concrete buildings in the 22 February Christchurch (Lyttleton) earthquake.
+- **Kam_et_al_2010:** Kam WY, Pampanin S, Dhakal R, Gavin HP, Roeder C (2010). Seismic performance of reinforced concrete buildings in the September 2010 Darfield (Canterbury) earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 43(4):340-350. https://doi.org/10.5459/bnzsee.43.4.340-350.
 
-- **Lin_et_al_2014:** Lin, S. L., Uma, S., Nayyerloo, M., Buxton, R., & King, A. (2014, July). Engineering characterisation of building performance with detailed engineering evaluation (DEE) data from the Canterbury earthquake sequence. In Proceedings of the ASEC 2014 Conference, Structural Engineering in Australasia–World Standards, Auckland, New Zealand.
+- **Lin_et_al_2014:** Lin SL, Uma S, Nayyerloo M, Buxton R, King A (2014). Engineering characterisation of building performance with detailed engineering evaluation (DEE) data from the Canterbury earthquake sequence. ASEC 2014 Conference, Structural Engineering in Australasia–World Standards (Auckland, New Zealand). Data available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
 
-- **Moon_et_al_2014:** Moon, L., Dizhur, D., Senaldi, I., Derakhshan, H., Griffith, M., Magenes, G., & Ingham, J. (2014). The demise of the URM building stock in Christchurch during the 2010–2011 Canterbury earthquake sequence. Earthquake Spectra, 30(1), 253-276. https://doi.org/10.1193/022113EQS044M.
+- **Moon_et_al_2014:** Moon L, Dizhur D, Senaldi I, Derakhshan H, Griffith M, Magenes G, Ingham J (2014). The demise of the URM building stock in Christchurch during the 2010–2011 Canterbury earthquake sequence. Earthquake Spectra, 30(1):253-276. https://doi.org/10.1193/022113EQS044M.
 
 
 ### Global databases / references
@@ -55,15 +56,15 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### National databases / references
 
-- [New Zealand Police](https://www.police.govt.nz/news/major-events/previous-major-events/christchurch-earthquake/list-deceased)
+- **New_Zealand_Police:** New Zealand Police data, available online at https://www.police.govt.nz/news/major-events/previous-major-events/christchurch-earthquake/list-deceased.
 
-- **Caterbury_Earthquake_Royal_Commission-Volume_4:** Canterbury Earthquake Royal Commission Volume 4: Earthquake Prone Buildings. Available online at: https://canterbury.royalcommission.govt.nz/Final-Report---Part-Two.
+- **Caterbury_Earthquake_Royal_Commission_2012:** Canterbury Earthquake Royal Commission (2012). Volume 4: Earthquake Prone Buildings. Available online at: https://canterbury.royalcommission.govt.nz/Final-Report---Part-Two. Data available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
 
 
 ### Other useful references
 
-- **EEFIT report + Cambridge Earthquake Impact Database:** A Field Report by EEFIT. The Mw 6.3 Christchurch, New Zealand Earthquake of 22 February 2011. Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
+- **EEFIT report + Cambridge Earthquake Impact Database:** Wilkinson S, Free M, Grant D, Boon D, Paganoni S, Mason A, Williams E, Fraser S, Haskell J (2011). A Field Report by EEFIT. The Mw 6.3 Christchurch, New Zealand Earthquake of 22 February 2011. Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
 
-- **University of Otago + Cambridge Earthquake Impact Database:** Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600. 
+- **University of Otago + Cambridge Earthquake Impact Database:** University of Otago (2012). Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=75&pid=32&prcid=17&ppid=600.
 
 - `ISC Search the Event Bibliography:` International Seismological Centre Online Event Bibliography. (http://www.isc.ac.uk/cgi-bin/bibsearch.pl?searchshape=POLY&coordvals=&start_year=2011&start_month=02&start_day=21&stime=00%3A00%3A00&end_year=2011&end_month=02&end_day=22&etime=00%3A00%3A00&minyear=&maxyear=&sortby=day&publisher=&authors=). Last accessed May 2023.

@@ -42,9 +42,12 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10418)
 
+- [IDMC](https://www.internal-displacement.org)
+
 
 ### National databases / references
 
-- Japan Cabinet Office Emergency Disaster Management Report (2019/09/30, 2019/06/19)). Available online at: https://www.adrc.asia/view_disaster_en.php?NationCode=&Lang=en&Key=2337.
+- **Japan_Cabinet_Office_Emergency_Disaster_Management_2019:** Japan Cabinet Office Emergency Disaster Management (2019). Report 2019/09/30, 2019/06/19. Available online at: https://www.adrc.asia/view_disaster_en.php?NationCode=&Lang=en&Key=2337.
+
 
 ### Other useful references

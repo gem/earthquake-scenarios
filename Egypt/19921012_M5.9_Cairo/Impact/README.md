@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -31,7 +30,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### Publications
 
-- **Hussein_1999:** Hussein, H. M. (1999). Source process of the October 12, 1992 Cairo earthquake.
+- **Hussein_1999:** Hussein HM (1999). Source process of the October 12, 1992 Cairo earthquake. Annali di Geofisica 42(4):665-674. https://doi.org/10.4401/ag-3746.
 
 
 ### Global databases / references

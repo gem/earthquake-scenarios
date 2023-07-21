@@ -4,8 +4,9 @@
 
 | atribute             | description            |
 |:---------------------|:-----------------------|
-| Fault mechanism       | Strike slip            |
+| Fault mechanism      | Strike slip            |
 | Tectonic region type | Active shallow crustal |
+
 
 ### Preferred nodal plane solution
 
@@ -15,9 +16,11 @@
 | JMA      |     172.072 |    -43.318 |       5 |  86.2502 | 86.9979 |    153 |     7 |
 | SCARDEC  |     171.83  |    -43.52  |       9 |  89.2515 | 77.0035 |    171 |     7 |
 
+
 ### Rupture figure
 
 ![](earthquake_ruptures.png)
+
 
 ## References
 

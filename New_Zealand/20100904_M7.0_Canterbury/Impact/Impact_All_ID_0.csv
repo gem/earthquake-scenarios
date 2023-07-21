@@ -1,5 +1,4 @@
 ﻿ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-NZL,New_Zealand,2,0,100,,,,,,,,2100000000-3500000000,USD,,,Wikipedia ENG,"2 seriousy injured, one by a falling chimney and a second by flying glass. One person died of a heart attack suffered during the quake, with the coroner's report identifying the earthquake as being a contributing factor. Another person died after falling during the quake."
 NZL,New_Zealand,0,0,2,,,,,,,,2000000000-4500000000,USD,,,Verisk,Two people were seriously injured as a result of falling masonry and glass.
 NZL,New_Zealand,0,0,,,,,,,,6500000000,,USD,,,NOAA,
 NZL,New_Zealand,0,0,2,,300002,,,,,6500000000,5000000000,USD,,,EM-DAT,"Insured Damages and Total Damages, unadjusted ('000 US$)"

@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 

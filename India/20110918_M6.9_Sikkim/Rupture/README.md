@@ -4,7 +4,7 @@
 
 | atribute             | description          |
 |:---------------------|:---------------------|
-| Fault mechanism       | Strike-slip          |
+| Fault mechanism      | Strike-slip          |
 | Tectonic region type | Subduction intraslab |
 
 ### Preferred nodal plane solution

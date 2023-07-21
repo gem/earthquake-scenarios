@@ -7,7 +7,4 @@
 
 The reference datasets were used in the following priority order:
 
-- `Stations_USGS`: USGS Recording stations. Raw file `stationlist.json`. Last accessed November 2022.
-
-
-
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/usp000cmxe/atlas/1594171955188/download/stationlist.json). Last accessed November 2022.

@@ -4,7 +4,7 @@
 
 | atribute             | description          |
 |:---------------------|:---------------------|
-| Fault mechanism       | Oblique-reverse      |
+| Fault mechanism      | Oblique-reverse      |
 | Tectonic region type | Active Shallow Crust |
 
 ### Preferred nodal plane solution

@@ -1,6 +1,5 @@
 # IMPACT DATA COLLECTION
 
-
 Information at different administrative levels is collected for the consequences of the event, 
 which include building damage, economic losses, and human impact due to the earthquake and its induced effects.
 
@@ -42,10 +41,12 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10177)
 
+- [IDMC](https://www.internal-displacement.org)
+
 
 ### National databases / references
 
-- Japan Cabinet Office Emergency Disaster Management Report (2017/04/14). Available online at: https://www.adrc.asia/view_disaster_en.php?NationCode=&Lang=en&Key=2088.
+- **Japan_Cabinet_Office_Emergency_Disaster_Management_2017:** Japan Cabinet Office Emergency Disaster Management (2017). Report 2017/04/14. Available online at: https://www.adrc.asia/view_disaster_en.php?NationCode=&Lang=en&Key=2088.
 
 
 ### Other useful references
