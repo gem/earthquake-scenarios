@@ -1,0 +1,31 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: earthquake-scenarios tests
+
+on:
+  pull_request:
+
+jobs:
+  engine:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-22.04]
+        python-version: ["3.10"]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python  ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version:  ${{ matrix.python-version }}
+    - name: Install OQ-Engine
+      run: |
+        curl -O https://raw.githubusercontent.com/gem/oq-engine/master/install.py
+        python install.py user
+    - name: Run tests
+      run: |
+        source ~/openquake/bin/activate
+        pip install pytest
+        oq dbserver start
+        pytest -vs --color=yes tests
