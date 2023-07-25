@@ -21,3 +21,23 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+
+### Publications
+
+- **EERI_1981:** Berz G, Hettler K (1981). Earthquake in Greece, February/March 1981 EERI Earthquake Reconnaissance Team Report. Available online at: https://www.eeri.org/lfe/pdf/Greece_AlcionidesIsles_Berz%26Hettler_Nov81.pdf
+- Abercrombie, R. E., Main, I. G., Douglas, A., & Burton, P. W. (1995). The nucleation and rupture process of the 1981 Gulf of Corinth earthquakes from deconvolved broad-band data. Geophysical Journal International, 120(2), 393-405.
+- ADRIESEISMIC (2021) Report on collective norms and incentives. WPT1 – Harmonization of regulative and incentive-based approaches. Available in: https://adriseismic.adrioninterreg.eu/wp-content/uploads/2021/11/DT.1.1.1_Report-on-collected-norms-and-incentives_final-with-annexes.pdf
+
+
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ccb/executive) 
+- Wikipedia [English](https://en.wikipedia.org/wiki/1981_Gulf_of_Corinth_earthquakes)
+
+### National databases / references
+
+### Other useful references

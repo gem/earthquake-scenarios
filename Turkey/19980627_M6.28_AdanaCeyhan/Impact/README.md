@@ -21,3 +21,19 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+- PAGERCAT. Allen, T. I., Marano, K. D., Earle, P. S., & Wald, D. J. (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1), 57-62. Available in: https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/
+
+### Publications
+- Ulusay, R., & Kuru, T. (2004). 1998 Adana-Ceyhan (Turkey) earthquake and a preliminary microzonation based on liquefaction potential for Ceyhan Town. Natural Hazards, 32, 59-88.
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0008qkc/executive) 
+- [Wikipedia English](https://en.wikipedia.org/wiki/1998_Adana%E2%80%93Ceyhan_earthquake)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5497)
+
+### National databases / references

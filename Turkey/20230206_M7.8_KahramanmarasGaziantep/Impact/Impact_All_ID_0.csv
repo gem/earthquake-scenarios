@@ -1,6 +1,4 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,ECONOMIC_RES_DAMAGES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-TUR,Turkey,48440,48440,115000,,,,,,,,,,,,,,Wikipedia English,Data accessed on 15/03/23
-SYR,Syria,7250,7250,14500,,,,,,,,,,,,,,Wikipedia English,Data accessed on 15/03/23
 TUR,Turkey,43566,43566,,,,,43000,156000,Buildings,,,,,,,,https://temblor.net/temblor/preliminary-report-2023-turkey-earthquakes-15027/,Data accessed on 23/02/23
 TUR,Turkey,,,,,,507000,,,Dwellings,,,,,,,,https://temblor.net/temblor/preliminary-report-2023-turkey-earthquakes-15027/,Data accessed on 23/02/23
 TUR,Turkey,,,,,,140000,42500,15910,Buildings,,,,,,,,https://hasar.6subatdepremi.org/,Data accessed on 05/03/23
@@ -10,3 +8,5 @@ SYR,Syria,3688,,14777,,,,2090,762,Buildings,,,,,,,,White Helmets,Data accessed o
 TUR,Turkey,,,,,,,312931,,Buildings,1.03E+11,56900000000,,,USD,,,UNDP PDNA Report,
 TUR,Turkey,,,,,,,894130,,Housing Units,,,,,,,,UNDP PDNA Report,
 TUR,Turkey,,,,1500000,,,,,,,,,,,,,https://news.un.org/en/story/2023/02/1133717,
+TUR,Turkey,48440,48440,115000,,,,,,,,,,,,,,Wikipedia English,
+SYR,Syria,7250,7250,14500,,,,,,,,,,,,,,Wikipedia English,

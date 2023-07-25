@@ -21,3 +21,18 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+
+### Publications
+- Onat, O., Yön, B., Öncü, M. E., Varolgüneş, S., Karaşin, A., & Cemalgil, S. (2022). Field reconnaissance and structural assessment of the October 30, 2020, Samos, Aegean Sea earthquake: an example of severe damage due to the basin effect. Natural Hazards, 112(1), 75-117.
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7y0/executive) 
+- [Wikipedia English](https://en.wikipedia.org/wiki/2020_Aegean_Sea_earthquake)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10521)
+
+### National databases / references

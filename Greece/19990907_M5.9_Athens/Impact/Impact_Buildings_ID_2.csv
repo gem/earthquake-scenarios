@@ -1,0 +1,13 @@
+﻿ID,NAME,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,Red,Yellow,Green,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+,Acharnes,38.08,23.73,Residential,,,,1340,7200,11964,20504,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Ano Liosia,38.08,23.7,Residential,,,,1107,3132,2605,6844,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Aspropyrgos,38.07,23.58,Residential,,,,175,881,4595,5651,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Drapetsona,37.95,23.62,Residential,,,,154,611,4351,5116,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Eleusina,38.03,23.53,Residential,,,,105,1065,6790,7960,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Fyli,38.1,3.67,Residential,,,,135,374,400,909,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Kamateron,38.07,23.7,Residential,,,,140,1410,4956,6506,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Kifisia,38.07,23.82,Residential,,,,168,1283,14084,15535,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Metamorfossi,38.07,23.75,Residential,,,,115,1481,6095,7691,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Nea Philadelphia,38,78,Residential,,,,399,3766,5990,10155,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Thrakomakedones,38.12,23.75,Residential,,,,82,923,199,1204,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,
+,Zefyri,38.08,23.72,Residential,,,,61,858,1459,2378,,,,,Buildings,Shaking,CEQID/ESYE damage census 1,

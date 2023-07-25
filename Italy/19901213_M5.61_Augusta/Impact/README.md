@@ -32,12 +32,16 @@ https://emidius.mi.ingv.it/ASMI/event/19901213_0024_000
 - Da.DO: Database di Danno Osservato. Piattaforma del Dipartamento della Protezione Civile, sviluppata dalla Fondazione Eucentre. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato
 
 ### Publications
-- THE AUGUSTA, SICILY EARTHQUAKE OF 13 DECEMBER 1990. EEFIT REPORT. **Report-eefit-Augusta-Sicily.pdf** Available in: https://www.istructe.org/IStructE/media/Public/Resources/report-eefit-augusta-sicily-20190809.pdf
+- EEFIT (1990) THE AUGUSTA, SICILY EARTHQUAKE OF 13 DECEMBER 1990. EEFIT REPORT.
+Available in: https://www.istructe.org/IStructE/media/Public/Resources/report-eefit-augusta-sicily-20190809.pdf
 - Correlation between earthquake damage and seismic site effects: The study case of Lentini and Carlentini, Italy. Available in: https://www.sciencedirect.com/science/article/pii/S0013795217315557?casa_token=5pB-dscvoSwAAAAA:27omJ2Krfsc9EkNX_rCp-Jo8JZNfy5CqPsE8PbYQdpCzeE7DW97nHI2yJx4B3KaiiLG-H1Bk
+- Catenacci, V. (1992). Il dissesto geologico e geoambientale in Italia dal dopoguerra al 1990. Available in: https://www.isprambiente.gov.it/it/pubblicazioni/periodici-tecnici/memorie-descrittive-della-carta-geologica-ditalia/memdes_47_cron_siciliane.pdf
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0004j1w/executive) 
 - Wikipedia [English](https://en.wikipedia.org/wiki/1990_Carlentini_earthquake) and [Italian](https://it.wikipedia.org/wiki/Terremoto_di_Carlentini_del_1990)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5268)
 
 ### National databases / references
 

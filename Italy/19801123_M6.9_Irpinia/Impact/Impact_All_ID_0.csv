@@ -1,9 +1,9 @@
 ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-ITA,Italy,2483.0,2483.0,7700.0,250000.0,,,,,,3000000000-4000000000,,,USD,,,Wikipedia English,
-ITA,Italy,2914.0,2914.0,8848.0,280000.0,6000000.0,,362000.0,,Buildings,3000000000-4000000000,66000000.0,,USD,,,Wikipedia Italian,
-ITA,Italy,4689.0,4689.0,7700.0,,,,,,,20000000,65762680.0,,USD,,,NOAA,
-ITA,Italy,4689.0,4689.0,7700.0,,400000.0,,,,,20000000,65762680.0,,USD,,,EM-DAT,
-ITA,Italy,,,,,,,,,,3000000000-4000000000,,,USD,,,USGS,
-ITA,Italy,3000.0,3000.0,8000.0,280000.0,,,,,,,,,,,,ISAAC,"https://isaacantisismica.com/en/the-1980-Irpinia-earthquake/#:~:text=500%20municipalities%20out%20of%20700,Angelo%20dei%20Lombardi%20and%20Santomenna."
-ITA,Italy,2914.0,2914.0,8848.0,280000.0,,,,,,,,,,,,Da.Do,
-ITA,Italy,2735.0,2735.0,9000.0,394000.0,,,275000.0,77000.0,Buildings,57000000,,,,,,INGV,http://terremoto80.ingv.it/
+ITA,Italy,2483,2483,8934,250000,,,,,,30000000000-40000000000,,,USD,,,USGS PAGERCAT Earthquake Catalogue,
+ITA,Italy,2914,2914,8848,280000,,,,,,,,,,,,Archivio Fotografico PCI,https://immaginidelnovecento.fondazionegramsci.org/photo/detail/IT-GRAMSCI-FT0001-0061742/terremoto-irpinia-1980-sandro-pertini-sui-luoghi-della-tragedia
+ITA,Italy,4689,4689,7700,,,,,,,20000000000,65762680,,USD,,,NOAA,
+ITA,Italy,4689,4689,7700,,400000,,,,,20000000000,65762680,,USD,,,EM-DAT,
+ITA,Italy,3000,3000,8000,280000,,,,,,,,,,,,ISAAC,"https://isaacantisismica.com/en/the-1980-Irpinia-earthquake/#:~:text=500%20municipalities%20out%20of%20700,Angelo%20dei%20Lombardi%20and%20Santomenna."
+ITA,Italy,2914,2914,8848,280000,,,,,,,,,,,,Da.Do,
+ITA,Italy,2735,2735,9000,394000,,479973,275263,77342,Buildings,57000000,,,ITL,,,INGV,http://terremoto80.ingv.it/
+ITA,Italy,,,,,,,,,,32363593779,,,,,,Corriere,https://www.corriere.it/europeo/cronache/2010/14/europeo-14-sergio-rizzo-professionisti-macerie_d09409de-cfa7-11df-8a5d-00144f02aabe.shtml

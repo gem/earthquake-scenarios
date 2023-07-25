@@ -30,6 +30,7 @@ For this particular event most of the building damage data was collected and agg
 - AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
 https://emidius.mi.ingv.it/ASMI/event/19801123_1834_000
 - Da.DO: Database di Danno Osservato. Piattaforma del Dipartamento della Protezione Civile, sviluppata dalla Fondazione Eucentre. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato
+- PAGERCAT. Allen, T. I., Marano, K. D., Earle, P. S., & Wald, D. J. (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1), 57-62. Available in: https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/
 
 ### Publications
 - The Scientific Landscape of November 23rd, 1980 Irpinia-Basilicata Earthquake: Taking Stock of (Almost) 40 Years of Studies https://www.mdpi.com/2076-3263/10/12/482
@@ -37,6 +38,8 @@ https://emidius.mi.ingv.it/ASMI/event/19801123_1834_000
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ay4/executive) 
 - Wikipedia [English](https://en.wikipedia.org/wiki/1980_Irpinia_earthquake) and [Italian](https://it.wikipedia.org/wiki/Terremoto_dell%27Irpinia_del_1980)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/4903)
 
 ### National databases / references
 - Terremoto80 (INGV) http://terremoto80.ingv.it
