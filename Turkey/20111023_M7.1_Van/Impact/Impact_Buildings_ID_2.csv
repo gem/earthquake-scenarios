@@ -1,4 +1,4 @@
-﻿ID,NAME,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,No Damage,Slight damaged,Moderate damaged,Heavily damaged and collapsed,Undamaged,Lightly damaged,Moderately-Slightly,Moderately damaged,Severely,Heavily damaged,Collapsed,None,Light,Medium,Heavy/Collapsed,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,No Damage,Slight damaged,Moderate damaged,Heavily damaged and collapsed,Undamaged,Lightly damaged,Moderately-Slightly,Moderately damaged,Severely,Heavily damaged,Collapsed,None,Light,Medium,Heavy/Collapsed,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
 ,Affected area,38.499,43.39,All,,,,,,,,11469,,17923,,11847,,2309,,,,,43548,,,,,Buildings,Shaking,CEQID/CEDIM,
 ,Affected area,38.499,43.39,Dwellings,,,,,,,,,,,,,,,18890,25920,9308,13201,67319,,,,,Buildings,Shaking,CEQID/TMMOB,
 ,Affected area,38.499,43.39,Commercial,,,,,,,,,,,,,,,2842,4993,2287,1256,11378,,,,,Buildings,Shaking,CEQID/TMMOB,

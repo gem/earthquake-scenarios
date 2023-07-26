@@ -1,4 +1,4 @@
-﻿ID,NAME,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D0+D1,D2,D3,D4,D5,D3+D4+D5,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D0+D1,D2,D3,D4,D5,D3+D4+D5,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
 ,Aiyion city,38.25,2.08,1-2F older than 1959,,,,,,62,24,,,,9,95,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built prior to 1959,
 ,Aiyion city,38.25,2.08,1-2F 1959-1984,,,,,,417,73,,,,6,496,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built between 1959 and 1984,
 ,Aiyion city,38.25,2.08,1-2F younger than 1984,,,,,,49,0,,,,0,49,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built after 1984,
