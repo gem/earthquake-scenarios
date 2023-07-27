@@ -146,7 +146,7 @@ def read_log(log):
             ini = line.find('INFO]')
             if ini != -1:
                 line = line[ini + 6 :] # Remove info from initial paragraph                
-            gmpe = line.split(':')[1].split(',')[0].strip() 
+            gmpe = line.split(':')[1].split(',')[0].strip(' [] ') 
             imt = line.split(':')[2].split(',')[0].strip()
             bias_mean = float(line.split(':')[3].split(",")[0].replace('\n', '').strip())
             bias_stdv = float(line.split(':')[4].replace('\n', '').strip())
