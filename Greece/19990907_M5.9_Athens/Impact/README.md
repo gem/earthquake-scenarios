@@ -25,6 +25,8 @@ Check the definitions of the parameters used in the impact files in the [impact 
 ## References
 
 ### Detailed online databases
+- CEQID: Cambridge Earthquake Impact Database. Open access. 
+http://www.ceqid.org/CEQID/Home.aspx?p=32
 
 ### Publications
 

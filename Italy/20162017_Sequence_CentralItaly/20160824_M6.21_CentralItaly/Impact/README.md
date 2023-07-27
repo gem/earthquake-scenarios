@@ -29,7 +29,8 @@ For this particular event most of the building damage data was collected and agg
 ### Detailed online databases
 - AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
 https://emidius.mi.ingv.it/ASMI/event/20160824_0136_000
-- Da.DO: Database di Danno Osservato. Piattaforma del Dipartamento della Protezione Civile, sviluppata dalla Fondazione Eucentre. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato
+- CEQID: Cambridge Earthquake Impact Database. Open access. 
+http://www.ceqid.org/CEQID/Home.aspx?p=32
 
 ### Publications
 - Stewart et al. (2016) Reconnaissance of 2016 Central Italy Earthquake Sequence. Available in:  https://journals.sagepub.com/doi/pdf/10.1193/080317EQS151M?casa_token=8A3M8I2gav4AAAAA:rWYRv40GpUHcNmnnvloFTWoTZ6Ax5uJYLYVivpSndsk3CEXKqtoaKzD3DXZJMUUWiHaU14l1ycs
@@ -44,6 +45,8 @@ https://emidius.mi.ingv.it/ASMI/event/20160824_0136_000
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d/executive) 
 - Wikipedia [English](https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake) and [Italian](https://es.wikipedia.org/wiki/Terremoto_de_Italia_central_de_agosto_de_2016)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10194)
 
 ### National databases / references
 

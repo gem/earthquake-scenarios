@@ -1,0 +1,24 @@
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,D0,D1,D0+D1,D2,D3,D4,D5,D3+D4+D5,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,
+,Aiyion city,38.25,2.08,1-2F older than 1959,,,,,,62,24,,,,9,95,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built prior to 1959,
+,Aiyion city,38.25,2.08,1-2F 1959-1984,,,,,,417,73,,,,6,496,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built between 1959 and 1984,
+,Aiyion city,38.25,2.08,1-2F younger than 1984,,,,,,49,0,,,,0,49,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 1 to 2 floors built after 1984,
+,Aiyion city,38.25,2.08,3-4F older than 1959,,,,,,4,6,,,,1,11,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 3 to 4 floors built prior to 1959,
+,Aiyion city,38.25,2.08,3-4F 1959-1984,,,,,,196,85,,,,10,291,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 3 to 4 floors built between 1959 and 1984,
+,Aiyion city,38.25,2.08,3-4F younger than 1984,,,,,,97,8,,,,0,105,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 3 to 4 floors built after 1984,
+,Aiyion city,38.25,2.08,5-8F older than 1959,,,,,,0,0,,,,0,0,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 5 to 8 floors built prior to 1959,
+,Aiyion city,38.25,2.08,5-8F 1959-1984,,,,,,26,27,,,,4,57,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 5 to 8 floors built between 1959 and 1984,
+,Aiyion city,38.25,2.08,5-8F younger than 1984,,,,,,38,7,,,,0,45,,,,,Buildings,Shaking,Karantoni & Fardis (RC),Reinforced concrete building with 5 to 8 floors built after 1984,
+,Aiyion city,38.25,2.08,1F Adobe,,,,94,19,,16,20,28,,,177,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry adobe building with 1 floor,
+,Aiyion city,38.25,2.08,2F Adobe,,,,69,34,,47,59,39,,,248,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry adobe building with 2 floors,
+,Aiyion city,38.25,2.08,1F Stone,,,,42,23,,6,9,7,,,87,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry stone building with 1 floor,
+,Aiyion city,38.25,2.08,2F Stone,,,,77,30,,23,19,18,,,167,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry stone building with 2 floors,
+,Aiyion city,38.25,2.08,1F Brick,,,,35,1,,2,0,0,,,38,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry brick building with 1 floor,
+,Aiyion city,38.25,2.08,2F Brick,,,,14,4,,5,6,2,,,31,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry brick building with 2 floors,
+,Aiyion city,38.25,2.08,1F Mixed,,,,29,2,,1,1,8,,,41,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry mixed building with 1 floor,
+,Aiyion city,38.25,2.08,2F Mixed,,,,32,8,,8,7,13,,,68,,,,,Buildings,Shaking,Karantoni & Fardis (URM),Unreinforced masonry mixed building with 2 floors,
+,Aegion,38.249,2.08,LBSM-L,,,,105,13,,62,28,24,21,,253,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Simple stone, 1-2 storeys (no code)"
+,Aegion,38.249,2.08,LBAM-L,,,,154,10,,62,68,73,59,,426,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Adobe, 1-2 storeys (no code)"
+,Aegion,38.249,2.08,MIXM-L,,,,20,2,,13,7,7,3,,52,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Mixed masonry materials, 1-2 storeys (no code)"
+,Aegion,38.249,2.08,MIXS-L,,,,28,1,,2,1,15,0,,47,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Mixed (stone masonry & RC frames), 1-2 storeys (no code)"
+,Aegion,38.249,2.08,LBBM-L,,,,47,2,,5,10,3,2,,69,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Brick masonry, 1-2 storeys (no code)"
+,Aegion,38.249,2.08,LBCB-L,,,,3,0,,1,1,1,1,,7,,,,,Buildings,Shaking,Pomonis et al. (URM),,"Concrete block masonry, 1-2 storeys (no code)"

@@ -21,3 +21,18 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+
+### Publications
+- Mitchell, W. A. (1996). Response to a Damaging Earthquake in an Environment of Political Turmoil:(Dinar, Turkey, October 1, 1995). Natural Hazards Research and Applications Information Center.
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000749b/executive) 
+- [Wikipedia English](https://en.wikipedia.org/wiki/1995_Dinar_earthquake)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5419)
+
+### National databases / references

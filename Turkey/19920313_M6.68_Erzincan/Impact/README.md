@@ -21,3 +21,24 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+- CEQID: Cambridge Earthquake Impact Database. Open access. 
+http://www.ceqid.org/CEQID/Home.aspx?p=32
+- PAGERCAT. Allen, T. I., Marano, K. D., Earle, P. S., & Wald, D. J. (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1), 57-62. Available in: https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/
+
+### Publications
+- EEFIT (1992) THE ERZINCAN, TURKEY EARTHQUAKE OF 13 MARCH 1992. EEFIT REPORT.
+Available in: https://www.istructe.org/IStructE/media/Public/Resources/report-eefit-erzincan-turkey-20190812.pdf
+- Fuenzalida, H., Dorbath, L., Cisternas, A., Eyidogan, H., Barka, A., Rivera, L., ... & Lyberis, N. (1997). Mechanism of the 1992 Erzincan earthquake and its aftershocks, tectonics of the Erzincan Basin and decoupling on the North Anatolian Fault. Geophysical Journal International, 129(1), 1-28.
+- Mitchell, W. A. (1993). Report on the socio-economic impact of the Erzincan, Turkey earthquake of March 13, 1992. In Report on the socio-economic impact of the Erzincan, Turkey earthquake of March 13, 1992. US University of Colorado.
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000547c/executive) 
+- [Wikipedia English](https://en.wikipedia.org/wiki/1992_Erzincan_earthquake)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5317)
+
+### National databases / references

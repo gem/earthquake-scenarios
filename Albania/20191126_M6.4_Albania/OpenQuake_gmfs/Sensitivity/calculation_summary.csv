@@ -1,0 +1,21 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+183,"20191126_M6.4_Albania median gmf, Stations:Seismic, gmlt:GEM_best, Rupture:ESM
+",1, Seismic, GEM_best, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.24291642,0.011,0.117,0.011
+181,"20191126_M6.4_Albania median gmf, Stations:Seismic, gmlt:GEM_best, Rupture:GCMT
+",1, Seismic, GEM_best, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.2292281,0.015,0.117,0.015
+182,"20191126_M6.4_Albania median gmf, Stations:Seismic, gmlt:GEM_best, Rupture:EFEHR
+",1, Seismic, GEM_best, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.24973238,0.065,0.117,0.065
+180,"20191126_M6.4_Albania median gmf, Stations:Seismic, gmlt:GEM_best, Rupture:USGS
+",1, Seismic, GEM_best, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.27506098,0.097,0.117,0.097
+184,"20191126_M6.4_Albania median gmf, Stations:Seismic, gmlt:GEM_best, Rupture:Matrakuetal2023
+",1, Seismic, GEM_best, Matrakuetal2023,KothaEtAl2020ESHM20SlopeGeology,PGA,0.38318452,0.138,0.117,0.138
+175,"20191126_M6.4_Albania median gmf, Stations:None, gmlt:GEM_best, Rupture:USGS
+",8, None, GEM_best, USGS,KothaEtAl2020ESHM20SlopeGeology,PGA,0.24094895,,,
+176,"20191126_M6.4_Albania median gmf, Stations:None, gmlt:GEM_best, Rupture:GCMT
+",6, None, GEM_best, GCMT,KothaEtAl2020ESHM20SlopeGeology,PGA,0.26567847,,,
+177,"20191126_M6.4_Albania median gmf, Stations:None, gmlt:GEM_best, Rupture:EFEHR
+",7, None, GEM_best, EFEHR,KothaEtAl2020ESHM20SlopeGeology,PGA,0.255709,,,
+178,"20191126_M6.4_Albania median gmf, Stations:None, gmlt:GEM_best, Rupture:ESM
+",6, None, GEM_best, ESM,KothaEtAl2020ESHM20SlopeGeology,PGA,0.25366297,,,
+179,"20191126_M6.4_Albania median gmf, Stations:None, gmlt:GEM_best, Rupture:Matrakuetal2023
+",6, None, GEM_best, Matrakuetal2023,KothaEtAl2020ESHM20SlopeGeology,PGA,0.351033,,,

@@ -29,7 +29,6 @@ For this particular event most of the building damage data was collected and agg
 ### Detailed online databases
 - AMSI: Archivio Storico Macrosismico Italiano. Information including location of the event from different sources, studies of the event and shakemaps. Open access. 
 https://emidius.mi.ingv.it/ASMI/event/20170118_1014_000
-- Da.DO: Database di Danno Osservato. Piattaforma del Dipartamento della Protezione Civile, sviluppata dalla Fondazione Eucentre. Limited access. https://egeos.eucentre.it/danno_osservato/web/danno_osservato
 
 ### Publications
 - Stewart et al. (2016) Reconnaissance of 2016 Central Italy Earthquake Sequence. Available in:  https://journals.sagepub.com/doi/pdf/10.1193/080317EQS151M?casa_token=8A3M8I2gav4AAAAA:rWYRv40GpUHcNmnnvloFTWoTZ6Ax5uJYLYVivpSndsk3CEXKqtoaKzD3DXZJMUUWiHaU14l1ycs
@@ -40,10 +39,11 @@ https://emidius.mi.ingv.it/ASMI/event/20170118_1014_000
 - Ludovico et al. (2018) Remarks on damage and response of school buildings after the Central Italy earthquake sequence. Available in: https://link.springer.com/article/10.1007/s10518-018-0332-x
 - Lanzo et al. (2018) Reconnaissance of geotechnical aspects of the 2016 Central Italy earthquakes. Available in: https://link.springer.com/article/10.1007/s10518-018-0350-8
 
-
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10007twj/executive) 
-- Wikipedia [English](https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake) and [Italian](https://it.wikipedia.org/wiki/Sequenza_sismica_del_Centro_Italia_del_2016-2017)
+- Wikipedia [English](https://en.wikipedia.org/wiki/January_2017_Central_Italy_earthquakes) and [Italian](https://it.wikipedia.org/wiki/Sequenza_sismica_del_Centro_Italia_del_2016-2017)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10234)
 
 ### National databases / references
 

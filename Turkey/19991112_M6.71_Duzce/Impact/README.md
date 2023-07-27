@@ -21,3 +21,22 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 
 ## Notes
+
+## References
+
+### Detailed online databases
+- CEQID: Cambridge Earthquake Impact Database. Open access. 
+http://www.ceqid.org/CEQID/Home.aspx?p=32
+- PAGERCAT. Allen, T. I., Marano, K. D., Earle, P. S., & Wald, D. J. (2009). PAGER-CAT: A composite earthquake catalog for calibrating global fatality models. Seismological Research Letters, 80(1), 57-62. Available in: https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/
+
+### Publications
+- Sucuoğlu, H. (2000). The 1999 Kocaeli and Düzce-Turkey Earthquakes. Middle East Technical University.
+- JICA Report (2000) The Study on a Disaster Prevention/Mitigation Basic Plan in Istanbul including Seismic Microzonation in the Republic of Turkey
+
+### Global databases / references
+- [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0009hev/executive) 
+- [Wikipedia English](https://en.wikipedia.org/wiki/1999_D%C3%BCzce_earthquake)
+- [EM-DAT](https://public.emdat.be)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5543)
+
+### National databases / references

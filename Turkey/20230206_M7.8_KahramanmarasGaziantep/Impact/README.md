@@ -22,7 +22,7 @@ _Note: When available, building-level information is included._
 ### Global databases / references
 - Wikipedia [English](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake)
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20/executive) 
-- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxEqMagnitude=7.1&maxYear=2017&minYear=2017&maxLatitude=18.339&minEqMagnitude=7.1&country=MEXICO)
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10662)
 - [EM-DAT](https://public.emdat.be/data)
 
 ### Other sources

@@ -1,0 +1,28 @@
+﻿ID_2,NAME_2,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,No Damage,Slight damaged,Moderate damaged,Heavily damaged and collapsed,Undamaged,Lightly damaged,Moderately-Slightly,Moderately damaged,Severely,Heavily damaged,Collapsed,None,Light,Medium,Heavy/Collapsed,TOTAL,DS2_MODARATE_DAMAGED,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+,Affected area,38.499,43.39,All,,,,,,,,11469,,17923,,11847,,2309,,,,,43548,,,,,Buildings,Shaking,CEQID/CEDIM,
+,Affected area,38.499,43.39,Dwellings,,,,,,,,,,,,,,,18890,25920,9308,13201,67319,,,,,Buildings,Shaking,CEQID/TMMOB,
+,Affected area,38.499,43.39,Commercial,,,,,,,,,,,,,,,2842,4993,2287,1256,11378,,,,,Buildings,Shaking,CEQID/TMMOB,
+,Affected area,38.499,43.39,Barns,,,,,,,,,,,,,,,292,594,102,1282,2270,,,,,Buildings,Shaking,CEQID/TMMOB,
+,Edremit,38.422,45,All,,,,1592,1463,58,477,,,,,,,,,,,,3590,,,,,Buildings,Shaking,CEQID/Van Yüzüncü Yıl University; Istanbul Technical University,
+,Ercis  (city center),39.029,43.359,All,,,,4958,8064,1428,5158,,,,,,,,,,,,19608,,,,,Buildings,Shaking,CEQID/Van Yüzüncü Yıl University; Istanbul Technical University,
+,Ercis (villages),39.029,43.359,All,,,,1617,4750,229,3287,,,,,,,,,,,,9883,,,,,Buildings,Shaking,CEQID/Van Yüzüncü Yıl University; Istanbul Technical University,
+,Van (city center),38.499,43.39,All,,,,18990,25920,9380,13500,,,,,,,,,,,,67790,,,,,Buildings,Shaking,CEQID/Van Yüzüncü Yıl University; Istanbul Technical University,
+,Van (villages),38.499,43.39,All,,,,1296,3210,294,6090,,,,,,,,,,,,10890,,,,,Buildings,Shaking,CEQID/Van Yüzüncü Yıl University; Istanbul Technical University,
+,Ercis,39.029,43.359,1RC,,,,,,,,4,0,,0,,0,0,,,,,4,,,,,Buildings,Shaking,CEQID/METU,1 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,2RC,,,,,,,,13,2,,1,,1,0,,,,,17,,,,,Buildings,Shaking,CEQID/METU,2 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,3RC,,,,,,,,10,10,,6,,5,4,,,,,35,,,,,Buildings,Shaking,CEQID/METU,3 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,4RC,,,,,,,,4,11,,4,,7,17,,,,,43,,,,,Buildings,Shaking,CEQID/METU,4 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,5RC,,,,,,,,3,13,,9,,10,26,,,,,61,,,,,Buildings,Shaking,CEQID/METU,5 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,6RC,,,,,,,,7,10,,9,,14,6,,,,,46,,,,,Buildings,Shaking,CEQID/METU,6 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,7RC,,,,,,,,0,0,,2,,5,3,,,,,10,,,,,Buildings,Shaking,CEQID/METU,7 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,8RC,,,,,,,,0,0,,0,,1,0,,,,,1,,,,,Buildings,Shaking,CEQID/METU,8 storey Reinforced concrete Frame building
+,Ercis,39.029,43.359,9RC,,,,,,,,0,0,,0,,0,0,,,,,0,,,,,Buildings,Shaking,CEQID/METU,9 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,1RC,,,,,,,,1,0,,0,,0,0,,,,,1,,,,,Buildings,Shaking,CEQID/METU,1 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,2RC,,,,,,,,3,0,,0,,0,0,,,,,3,,,,,Buildings,Shaking,CEQID/METU,2 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,3RC,,,,,,,,2,2,,0,,0,0,,,,,4,,,,,Buildings,Shaking,CEQID/METU,3 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,4RC,,,,,,,,4,4,,4,,0,0,,,,,12,,,,,Buildings,Shaking,CEQID/METU,4 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,5RC,,,,,,,,14,24,,11,,9,0,,,,,58,,,,,Buildings,Shaking,CEQID/METU,5 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,6RC,,,,,,,,5,6,,3,,1,0,,,,,15,,,,,Buildings,Shaking,CEQID/METU,6 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,7RC,,,,,,,,7,8,,6,,2,0,,,,,23,,,,,Buildings,Shaking,CEQID/METU,7 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,8RC,,,,,,,,5,3,,1,,0,0,,,,,9,,,,,Buildings,Shaking,CEQID/METU,8 storey Reinforced concrete Frame building
+,Van central,38.499,43.39,9RC,,,,,,,,3,0,,0,,0,0,,,,,3,,,,,Buildings,Shaking,CEQID/METU,9 storey Reinforced concrete Frame building
