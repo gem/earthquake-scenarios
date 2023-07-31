@@ -27,10 +27,18 @@ Check the definitions of the parameters used in the impact files in the [impact 
 ### Detailed online databases
 
 ### Publications
+**Anagnostopoulus et al.:** Anagnostopolous SA, Rinaldis D, Lekidis VA, Margaris VN, Theodulidis NP. The Kalamata, Greece, Earthquake of September 13, 1986. Earthquake Spectra. 1987;3(2):365-402.
+
+**Ioannides. K. & Dikeoulakos. V. (2001): "Experiences and lessons learned from catastrophic earthquake events in Greece and the role of local government in their management (in greek** Available online at: https://www.ekdd.gr/ekdda/files/ergasies_esta/T4/030/10305.pdf
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0002y1v/executive) 
+
 - Wikipedia [English](https://en.wikipedia.org/wiki/1986_Kalamata_earthquake)
+
+- [EM-DAT](https://public.emdat.be)
+
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5108)
 
 ### National databases / references
 
