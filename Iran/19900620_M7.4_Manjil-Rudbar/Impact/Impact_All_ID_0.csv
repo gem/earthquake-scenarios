@@ -1,53 +1,52 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,HOMELESS,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DESTROYED_UNITS,DAMAGED_OR_DESTROYED,DS3_EXTENSIVE,UNIT_TYPES,TAXONOMY,GEM_TAXONOMY,OCCUPANCY,ECONOMIC_LOSSES,INSURED_LOSSES,RECONSTRUCTION_COSTS,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,SHELTERED,DS1_SLIGHT,DS2_MODERATE,DS4_COMPLETE
-IRN,Iran,40000,40000,105000,,105000,500000,,,,,,,,,,,8000000000,115000000,,USD,,,EM-DAT,,,,,,,,
-IRN,Iran,35000,35000,60000,,,,,,,,,,,,,,,,,,,,UTSU,,,,,,,,
-IRN,Iran,14276,14276,60000,,,326849,,,,,,,,,,,,,,,,,MScThesis_Tabasian,,,,,,,,
-IRN,Iran,13000-40000,13000-40000,60000-105000,,,,,100000,,,100000,,Buildings,,,,7200000000,,,USD,,,Berberian_Book_2014,100000 “houses” damaged or destroyed.,,,,,,,
-IRN,Iran,35000,35000,100000,,500000,,,,,,,,,,,,,,,,Landslides,,Zare_1993,,,,,,,,
-IRN,Iran,35000-50000,35000-50000,60000-105000,105000-400000,500000,,,,200000,,200000,,,,,,,,,,,,Wikipedia,,,,,,,,
-IRN,Iran,40000,40000,,,500000,,,,,,,,,,,,,,,,,,Tehrantimes,,,,,,,,
-IRN,Iran,40000,40000,,,500000,,,,314000,314000,,,Buildings,,RES,Residential,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,,7486,7486,,,Buildings,,COM4,Health and training center,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,11,,,,,Buildings,,COM4,Hospitals,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,120140,,,,,Buildings,,RES,Rural and urban houses,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,303,,,,,Buildings,,COM4,Health houses,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,71,,,,,Buildings,,COM4,Rural and urban health centers,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,,,,,,,,1326,,,,,Buildings,,EDU,Schools,,,,,,,Tavakoli_And_Tavakoli_1992,,,,,,,,
-IRN,Iran,>40000,>40000,>60000,,,,,,,,,,,,,,,,,,,,Tatar_And_Hatzfeld_2008,,,,,,,,
-IRN,Iran,>40000,>40000,>60000,,500000,,,,,,,,,,,,,,,,,,Sarkar_et_al_2003,,,,,,,,
-IRN,Iran,13000,13000,105000,,,,,,,,,,,,,,7200000000,,,USD,Tsunami,,Salaree_And_Okal_2015,,,,,,,,
-IRN,Iran,15000,15000,,,500000,,,,,,,,,,,,,,,,,,Ajorlou_et_al_2021,,,,,,,,
-IRN,Iran,35000-50000,35000-50000,60000-105000,,,,,,,,,,,,,,8000000000,,,USD,,,Alchetron,,,,,,,,
-IRN,Iran,>40000,>40000,,,500000,,,,,,,,,,,,,,,,,,Badri_et_al_2006,,,,,,,,
-IRN,Iran,40000,40000,60000,,500000,,,,100000,,,,Buildings,,,,,,,,,,Amini-Hosseini_et_al_2013,"100000 “homes” collapsed. Moreover, of 15,214,719 square metres of damaged property, 69.6 per cent was
-situated in Gilan Province, 28.4 per cent in Zanjan, and the remaining 2.0 per cent in
-East Azerbaijan.",,,,,,,
-IRN,Iran,,,,,,,,196774,,,,196774,Buildings,,,,,,,,,,Amini-Hosseini_et_al_2013,,,,,,,,
-IRN,Iran,13000-40000,13000-40000,105000,,500000,,,,100000,100000,,,Buildings,,,,7200000000,,,USD,,,Berberian_And_Walker_2010,Direct Economic loss is 7200 M USD. 100000 houses destroyed.,,,,,,,
-IRN,Iran,,,,,,,,,,,1300,,,,EDU,Schools,,,,,,,Berberian_And_Walker_2010,,,,,,,,
-IRN,Iran,,,,,,,,,,,7000,,,,EDU,Classrooms,,,,,,,Berberian_And_Walker_2010,,,,,,,,
-IRN,Iran,,,,,,,,,,,87,,,,COM4,Healthcare system and hospitals,,,,,,,Berberian_And_Walker_2010,,,,,,,,
-IRN,Iran,40000,40000,,,500000,,,,,100000,100000,,Buildings,,,,,,2800000000,USD,,,Berberian_et_al_1992,,,,,,,,
-IRN,Iran,,,,,,,,,,,,,,,,,,,200000000000,IRR,,,Berberian_et_al_1992,,,,,,,,
-IRN,Iran,36000,36000,100000,,500000,,,,,,,,,,,,7000000000,100000000,,USD,,,Berz_et_al_1992,,,,,,,,
-IRN,Iran,30000,30000,60000,,,,,,,,,,,,,,,,,,,,Choy_And_Zednik_1997,,,,,,,,
-IRN,Iran,>40000,>40000,,,,,,,,,,,,,,,,,,,,,Gao_And_Wallace_1995,,,,,,,,
-IRN,Iran,13000-40000,13000-40000,50000,,,,,,,,,,,,,,,,,,,,Ghaedi-Vanani_et_al_2021,,,,,,,,
-IRN,Iran,13000-40000,13000-40000,50000,,,,,,,,,,,,,,,,,,,,Ghaedi-Vanani_et_al_2023,,,,,,,,
-IRN,Iran,40000,40000,105000,,,,,,100000,100000,,,Buildings,,,,7200000000,,,USD,,,NOAA,,,,,,,,
-IRN,Iran,>40000,>40000,,,,70000,,,,,,,,,,,,,,,,,Guha-Sapir_And_VOS_2011,,,,,,,,
-IRN,Iran,40000,40000,,,200000,,,,,,,,,,,,,,,,,,Hadian_et_al_2015,,,,,,,,
-IRN,Iran,>40000,>40000,60000,,500000,,,,100000,,100000,,Buildings,,,,,,2800000000,USD,,,Ibrion_et_al_2015,,,,,,,,
-IRN,Iran,,,,,,,,,,,87,,Buildings,,COM4,Healthcare system and hospitals,,,200000000000,IRR,,,Ibrion_et_al_2015,,,,,,,,
-IRN,Iran,15800-35000,15800-35000,60000,,500000,,,,200000,200000,,,Buildings,,RES,Residential,,,,,,,IIEES,,,,,,,,
-IRN,Iran,15000,15000,30000,,500000,,,,,,,,,,,,,,,,,,Izadkhah_And_Amini_2010,,,,,,,,
-IRN,Iran,40000-50000,40000-50000,,,,,,,,,,,,,,,,,,,Rockfall,,Javidfakhr_Ahmadian_2018,,,,,,,,
-IRN,Iran,35000,35000,,,500000,,,,>100000,>100000,,,Buildings,,,,,,,,"Landslides, Rockfall",,Khodashahi_et_al_2018,,,,,,,,
-IRN,Iran,,,,,,,,,1300,1300,,,,,EDU,Schools,,,,,,,Khodashahi_et_al_2018,,,,,,,,
-IRN,Iran,,,,,,,,,7000,7000,,,,,EDU,Classrooms,,,,,,,Khodashahi_et_al_2018,,,,,,,,
-IRN,Iran,35000-40000,35000-40000,60000-100000,,500000,,,100000,,,100000,,Buildings,Adobe,ADO,,,,,,,,Learnig_From_Earthqauke,,,,,,,,
-IRN,Iran,35000,35000,,,,,,100000,,,100000,,Buildings,,RES,Residential,,,,,,,Niazi_And_Bozorgnia_1992,,,,,,,,
-IRN,Iran,37000,37000,60000,,400000,,,,137000,137000,,,Buildings,,,,,,,,,,Molavi_Eshghi_1992,,,,,,,,
-IRN,Iran,50000,50000,,,,,,,,,,,,,,,,,,,,,Worlddata,,,,,,,,
-IRN,Iran,40000-50000,40000-50000,>60000,,>400000,,,,,,,,,,,,,,,,,,USGS,,,,,,,,
-IRN,Iran,45000,45000,,,,,,,,,,,,,,,,,,,,,CEQID,,,,,,,,
+ID_0;NAME_0;FATALITIES;FATALITIES_GROUND_SHAKING;INJURIES;DISPLACED_POPULATION;HOMELESS;AFFECTED_POPULATION;AFFECTED_UNITS;DAMAGED_UNITS;COLLAPSED_UNITS;DESTROYED_UNITS;DAMAGED_OR_DESTROYED;DS3_EXTENSIVE;UNIT_TYPES;TAXONOMY;GEM_TAXONOMY;OCCUPANCY;ECONOMIC_LOSSES;INSURED_LOSSES;RECONSTRUCTION_COSTS;CURRENCY;INDUCED_EFFECTS;FLAG;REFERENCE;COMMENTS;INJURIES_LIGHT;INJURIES_SEVERE;INJURIES_CRITICAL;SHELTERED;DS1_SLIGHT;DS2_MODERATE;DS4_COMPLETE
+IRN;Iran;40000;40000;105000;;105000;500000;;;;;;;;;;;8000000000;115000000;;USD;;;EM-DAT;;;;;;;;
+IRN;Iran;35000;35000;60000;;;;;;;;;;;;;;;;;;;;UTSU;;;;;;;;
+IRN;Iran;14276;14276;60000;;;326849;;;;;;;;;;;;;;;;;MScThesis_Tabasian;;;;;;;;
+IRN;Iran;13000-40000;13000-40000;60000-105000;;;;;100000;;;100000;;Buildings;;;;7200000000;;;USD;;;Berberian_Book_2014;100000 “houses” damaged or destroyed.;;;;;;;
+IRN;Iran;35000;35000;100000;;500000;;;;;;;;;;;;;;;;Landslides;;Zare_1993;;;;;;;;
+IRN;Iran;35000-50000;35000-50000;60000-105000;105000-400000;500000;;;;200000;;200000;;;;;;;;;;;;USGS;;;;;;;;
+IRN;Iran;35000-50000;35000-50000;60000-105000;105000-400000;500000;;;;200000;;200000;;;;;;;;;;;;PAGER-CAT;;;;;;;;
+IRN;Iran;40000;40000;;;500000;;;;;;;;;;;;;;;;;;Tehrantimes;;;;;;;;
+IRN;Iran;40000;40000;;;500000;;;;314000;314000;;;Buildings;;RES;Residential;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;;7486;7486;;;Buildings;;COM4;Health and training center;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;11;;;;;Buildings;;COM4;Hospitals;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;120140;;;;;Buildings;;RES;Rural and urban houses;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;303;;;;;Buildings;;COM4;Health houses;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;71;;;;;Buildings;;COM4;Rural and urban health centers;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;;;;;;;;1326;;;;;Buildings;;EDU;Schools;;;;;;;Tavakoli_And_Tavakoli_1992;;;;;;;;
+IRN;Iran;>40000;>40000;>60000;;;;;;;;;;;;;;;;;;;;Tatar_And_Hatzfeld_2008;;;;;;;;
+IRN;Iran;>40000;>40000;>60000;;500000;;;;;;;;;;;;;;;;;;Sarkar_et_al_2003;;;;;;;;
+IRN;Iran;13000;13000;105000;;;;;;;;;;;;;;7200000000;;;USD;Tsunami;;Salaree_And_Okal_2015;;;;;;;;
+IRN;Iran;15000;15000;;;500000;;;;;;;;;;;;;;;;;;Ajorlou_et_al_2021;;;;;;;;
+IRN;Iran;35000-50000;35000-50000;60000-105000;;;;;;;;;;;;;;8000000000;;;USD;;;Alchetron;;;;;;;;
+IRN;Iran;>40000;>40000;;;500000;;;;;;;;;;;;;;;;;;Badri_et_al_2006;;;;;;;;
+IRN;Iran;40000;40000;60000;;500000;;;;100000;;;;Buildings;;;;;;;;;;Amini-Hosseini_et_al_2013;100000 “homes” collapsed. Moreover of 15214719 square metres of damaged property 69.6 percent was situated in Gilan Province. 28.4 percent in Zanjan and the remaining 2.0 percent in East Azerbaijan.;;;;;;;
+IRN;Iran;;;;;;;;196774;;;;196774;Buildings;;;;;;;;;;Amini-Hosseini_et_al_2013;;;;;;;;
+IRN;Iran;13000-40000;13000-40000;105000;;500000;;;;100000;100000;;;Buildings;;;;7200000000;;;USD;;;Berberian_And_Walker_2010;Direct Economic loss is 7200 M USD. 100000 houses destroyed.;;;;;;;
+IRN;Iran;;;;;;;;;;;1300;;;;EDU;Schools;;;;;;;Berberian_And_Walker_2010;;;;;;;;
+IRN;Iran;;;;;;;;;;;7000;;;;EDU;Classrooms;;;;;;;Berberian_And_Walker_2010;;;;;;;;
+IRN;Iran;;;;;;;;;;;87;;;;COM4;Healthcare system and hospitals;;;;;;;Berberian_And_Walker_2010;;;;;;;;
+IRN;Iran;40000;40000;;;500000;;;;;100000;100000;;Buildings;;;;;;2800000000;USD;;;Berberian_et_al_1992;;;;;;;;
+IRN;Iran;;;;;;;;;;;;;;;;;;;200000000000;IRR;;;Berberian_et_al_1992;;;;;;;;
+IRN;Iran;36000;36000;100000;;500000;;;;;;;;;;;;7000000000;100000000;;USD;;;Berz_et_al_1992;;;;;;;;
+IRN;Iran;30000;30000;60000;;;;;;;;;;;;;;;;;;;;Choy_And_Zednik_1997;;;;;;;;
+IRN;Iran;>40000;>40000;;;;;;;;;;;;;;;;;;;;;Gao_And_Wallace_1995;;;;;;;;
+IRN;Iran;13000-40000;13000-40000;50000;;;;;;;;;;;;;;;;;;;;Ghaedi-Vanani_et_al_2021;;;;;;;;
+IRN;Iran;13000-40000;13000-40000;50000;;;;;;;;;;;;;;;;;;;;Ghaedi-Vanani_et_al_2023;;;;;;;;
+IRN;Iran;40000;40000;105000;;;;;;100000;100000;;;Buildings;;;;7200000000;;;USD;;;NOAA;;;;;;;;
+IRN;Iran;>40000;>40000;;;;70000;;;;;;;;;;;;;;;;;Guha-Sapir_And_VOS_2011;;;;;;;;
+IRN;Iran;40000;40000;;;200000;;;;;;;;;;;;;;;;;;Hadian_et_al_2015;;;;;;;;
+IRN;Iran;>40000;>40000;60000;;500000;;;;100000;;100000;;Buildings;;;;;;2800000000;USD;;;Ibrion_et_al_2015;;;;;;;;
+IRN;Iran;;;;;;;;;;;87;;Buildings;;COM4;Healthcare system and hospitals;;;200000000000;IRR;;;Ibrion_et_al_2015;;;;;;;;
+IRN;Iran;15800-35000;15800-35000;60000;;500000;;;;200000;200000;;;Buildings;;RES;Residential;;;;;;;IIEES;;;;;;;;
+IRN;Iran;15000;15000;30000;;500000;;;;;;;;;;;;;;;;;;Izadkhah_And_Amini_2010;;;;;;;;
+IRN;Iran;40000-50000;40000-50000;;;;;;;;;;;;;;;;;;;Rockfall;;Javidfakhr_Ahmadian_2018;;;;;;;;
+IRN;Iran;35000;35000;;;500000;;;;>100000;>100000;;;Buildings;;;;;;;;Landslides and Rockfall;;Khodashahi_et_al_2018;;;;;;;;
+IRN;Iran;;;;;;;;;1300;1300;;;;;EDU;Schools;;;;;;;Khodashahi_et_al_2018;;;;;;;;
+IRN;Iran;;;;;;;;;7000;7000;;;;;EDU;Classrooms;;;;;;;Khodashahi_et_al_2018;;;;;;;;
+IRN;Iran;35000-40000;35000-40000;60000-100000;;500000;;;100000;;;100000;;Buildings;Adobe;ADO;;;;;;;;Learnig_From_Earthqauke;;;;;;;;
+IRN;Iran;35000;35000;;;;;;100000;;;100000;;Buildings;;RES;Residential;;;;;;;Niazi_And_Bozorgnia_1992;;;;;;;;
+IRN;Iran;37000;37000;60000;;400000;;;;137000;137000;;;Buildings;;;;;;;;;;Molavi_Eshghi_1992;;;;;;;;
+IRN;Iran;50000;50000;;;;;;;;;;;;;;;;;;;;;Worlddata;;;;;;;;
+IRN;Iran;40000-50000;40000-50000;>60000;;>400000;;;;;;;;;;;;;;;;;;USGS;;;;;;;;
+IRN;Iran;45000;45000;;;;;;;;;;;;;;;;;;;;;CEQID + Tehran Housing Foundation ;;;;;;;;

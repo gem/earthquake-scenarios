@@ -1,49 +1,49 @@
 ID_1,NAME_1,ID_2,NAME_2,ID_3,NAME_3,LATITUDE,LONGITUDE,TAXONOMY,GEM_TAXONOMY,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURED,UNINJURED,SLIGHTLY_INJURED,MODERATELY_INJURED,SERIOUSLY_INJURED,CRITICALLY_INJURED,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS
-70912109B33802611131214,Khyber Pakhtunkhwa,60131773B27731586619677,Abbottabad,9618217B85736514127597,Abbottabad,34.1442,73.2024,,,515,,1730,1730,878421,,,,,,,,,,,,,CEQID,
-,,,,9618217B15374795339605,Bagh,33.9975,73.799,,,8157,,6644,6644,378614,,,,,,,,,,,,,CEQID,
-,,,,9618217B81522836346512,Battagram,34.6724,73.0167,,,3232,,3279,3279,300767,,,,,,,,,,,,,CEQID,
-,,,,,Kohistan,35.2416,73.6517,,,661,,639,639,471270,,,,,,,,,,,,,CEQID,
-70912109B14644242859774,Azad Kashmir,60131773B14644242859774,Azad Kashmir,9618217B51068455045491,Mansehra,34.335,73.1968,,,24511,,30585,30585,1097743,,,,,,,,,,,,,CEQID,
-70912109B14644242859774,Azad Kashmir,60131773B14644242859774,Azad Kashmir,9618217B26184783355939,Muzaffarabad,34.3456,73.4793,,,33724,,21374,21374,583875,,,,,,,,,,,,,CEQID,
-,,,,,Neelum,34.3595,73.4725,,,447,,1013,1013,105318,,,,,,,,,,,,,CEQID,
-,,,,9618217B75508148840932,Rawalakot,33.8584,73.7598,,,1025,,1909,1909,408101,,,,,,,,,,,,,CEQID,
-70912109B33802611131214,Khyber Pakhtunkhwa,60131773B32435505478160,Shangla,9618217B90380618483877,Shangla,34.8671,72.6685,,,423,,957,957,433183,,,,,,,,,,,,,CEQID,
-,,,,,Sudhnoti,33.5663,73.8323,,,4,,16,16,334071,,,,,,,,,,,,,CEQID,
-,,,,9618217B99213062387976,Balakot,34.5504,73.3526,InfilledRCD5,CR/LFINF ,7,,,,,0,1,1,0,1,1,0,,,,,,CEQID,Taxonomy Description: RC Frame with masonry infill. Complete collapse of building
-,,,,9618217B99213062387976,Balakot,34.5504,73.3526,ConBlockD5,M+CB/LWALL ,76,,,,6,2,17,50,9,2,50,9,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building
-,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,BrickD5 ,M+CL,0,,,,,,1,,,0,0,0,,,,,,CEQID,Taxonomy Description: Brick Masonry. Complete collapse of building 
-,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,ConBlockD5 ,M+CB/LWALL ,0,,,,1,2,2,11,3,2,11,3,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building
-,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D3,M+STRUB,0,,,,0,1,1,1,0,1,1,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
-,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D4,M+STRUB,2,,,,0,1,5,6,0,1,6,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
-,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D5,M+STRUB,3,,,,1,3,2,5,2,3,5,2,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building
-,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD0/D1,M+CB/LWALL ,4,,,,0,1,1,1,1,1,1,1,,,,,,CEQID,Taxonomy Description: Concrete block walls. no/ slight damage to building
-,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD2,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Moderate damage to building
-,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD3,M+CB/LWALL ,1,,,,0,0,1,0,0,0,0,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Serious damage to building.
-,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD4,M+CB/LWALL ,1,,,,0,1,0,0,0,1,0,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Heavy damage to building.
-,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD5,M+CB/LWALL ,27,,,,0,10,11,14,6,10,14,6,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Chella Bandi ,34.3966,73.4744,Mudstone D4,M+STRUB,0,,,,0,0,0,2,0,0,2,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
-,,,,,Chella Bandi ,34.3966,73.4744,Mudstone D5,M+STRUB,7,,,,0,0,5,6,6,0,6,6,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
-,,,,,Ghanool,,,ConBlockD4,M+CB/LWALL ,0,,,,0,0,1,0,0,0,0,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Heavy damage to building.
-,,,,,Ghanool,,,ConBlockD5,M+CB/LWALL ,1,,,,0,0,0,0,2,0,0,2,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Ghanool,,,Mudstone D5,M+STRUB,27,,,,1,4,5,18,4,4,18,4,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. 
-,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD0/D1,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. no/ slight damage to building.
-,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD2,M+CB/LWALL ,0,,,,0,0,0,0,1,0,0,1,,,,,,CEQID,Taxonomy Description: Concrete block walls. Moderate damage to building.
-,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD4,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Heavy damage to building.
-,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD5,M+CB/LWALL ,8,,,,0,0,9,12,1,0,12,1,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D3,M+STRUB,1,,,,0,0,2,1,0,0,1,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
-,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D4,M+STRUB,2,,,,0,0,4,3,1,0,3,1,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
-,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D5,M+STRUB,11,,,,0,4,9,18,1,4,18,1,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
-,,,,,Kawai,34.6385,73.4283,InfilledRCD5,CR/LFINF ,2,,,,0,0,0,0,1,0,0,1,,,,,,CEQID,Taxonomy Description: RC Frame with masonry infill. Complete collapse of building
-,,,,,Kawai,34.6385,73.4283,ConBlockD5,M+CB/LWALL ,15,,,,0,1,2,2,4,1,2,4,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Kawai,34.6385,73.4283,Mudstone D5,M+STRUB,25,,,,0,0,6,14,2,0,14,2,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. 
-,,,,,Muhallah sadat,,,ConBlockD5,M+CB/LWALL ,0,,,,0,2,1,0,0,2,0,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Muhallah sadat,,,Mudstone D3,M+STRUB,1,,,,0,0,1,0,0,0,0,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
-,,,,,Muhallah sadat,,,Mudstone D4,M+STRUB,0,,,,0,1,1,0,0,1,0,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
-,,,,,Muhallah sadat,,,Mudstone D5,M+STRUB,2,,,,0,4,2,0,0,4,0,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
-,,,,9618217B26184783355939,Muzaffarabad ,34.3781,73.4638,ConBlockD5,M+CB/LWALL ,70,,,,0,7,19,18,3,7,18,3,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,9618217B26184783355939,Muzaffarabad ,34.3781,73.4638,Mudstone D5,M+STRUB,9,,,,0,1,5,2,2,1,2,2,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
-,,,,,Sudhan Gali,,,BrickD5,M+CL,3,,,,0,2,0,0,2,2,0,2,,,,,,CEQID,Taxonomy Description: Brick Masonry. 
-,,,,,Sudhan Gali,,,ConBlockD4,M+CB/LWALL ,1,,,,0,1,0,0,0,1,0,0,,,,,,CEQID,Taxonomy Description: Concrete block walls. Heavy damage to building.
-,,,,,Sudhan Gali,,,ConBlockD5,M+CB/LWALL ,10,,,,0,7,4,6,2,7,6,2,,,,,,CEQID,Taxonomy Description: Concrete block walls. Complete collapse of building. 
-,,,,,Sudhan Gali,,,Mudstone D4,M+STRUB,6,,,,0,3,2,1,0,3,1,0,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
-,,,,,Sudhan Gali,,,Mudstone D5,M+STRUB,43,,,,1,10,16,19,1,10,19,1,,,,,,CEQID,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
+70912109B33802611131214,Khyber Pakhtunkhwa,60131773B27731586619677,Abbottabad,9618217B85736514127597,Abbottabad,34.1442,73.2024,,,515,,1730,1730,878421,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,9618217B15374795339605,Bagh,33.9975,73.799,,,8157,,6644,6644,378614,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,9618217B81522836346512,Battagram,34.6724,73.0167,,,3232,,3279,3279,300767,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,,Kohistan,35.2416,73.6517,,,661,,639,639,471270,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+70912109B14644242859774,Azad Kashmir,60131773B14644242859774,Azad Kashmir,9618217B51068455045491,Mansehra,34.335,73.1968,,,24511,,30585,30585,1097743,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+70912109B14644242859774,Azad Kashmir,60131773B14644242859774,Azad Kashmir,9618217B26184783355939,Muzaffarabad,34.3456,73.4793,,,33724,,21374,21374,583875,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,,Neelum,34.3595,73.4725,,,447,,1013,1013,105318,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,9618217B75508148840932,Rawalakot,33.8584,73.7598,,,1025,,1909,1909,408101,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+70912109B33802611131214,Khyber Pakhtunkhwa,60131773B32435505478160,Shangla,9618217B90380618483877,Shangla,34.8671,72.6685,,,423,,957,957,433183,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,,Sudhnoti,33.5663,73.8323,,,4,,16,16,334071,,,,,,,,,,,,,CEQID + Regional Casualty Statistics ,
+,,,,9618217B99213062387976,Balakot,34.5504,73.3526,InfilledRCD5,CR/LFINF ,7,,,,,0,1,1,0,1,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: RC Frame with masonry infill. Complete collapse of building
+,,,,9618217B99213062387976,Balakot,34.5504,73.3526,ConBlockD5,M+CB/LWALL ,76,,,,6,2,17,50,9,2,50,9,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building
+,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,BrickD5 ,M+CL,0,,,,,,1,,,0,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Brick Masonry. Complete collapse of building 
+,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,ConBlockD5 ,M+CB/LWALL ,0,,,,1,2,2,11,3,2,11,3,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building
+,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D3,M+STRUB,0,,,,0,1,1,1,0,1,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
+,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D4,M+STRUB,2,,,,0,1,5,6,0,1,6,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
+,,,,9618217B15374795339605,Bagh City ,33.9807,73.776,Mudstone D5,M+STRUB,3,,,,1,3,2,5,2,3,5,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building
+,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD0/D1,M+CB/LWALL ,4,,,,0,1,1,1,1,1,1,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. no/ slight damage to building
+,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD2,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Moderate damage to building
+,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD3,M+CB/LWALL ,1,,,,0,0,1,0,0,0,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Serious damage to building.
+,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD4,M+CB/LWALL ,1,,,,0,1,0,0,0,1,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Heavy damage to building.
+,,,,,Chella Bandi ,34.3966,73.4744,ConBlockD5,M+CB/LWALL ,27,,,,0,10,11,14,6,10,14,6,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Chella Bandi ,34.3966,73.4744,Mudstone D4,M+STRUB,0,,,,0,0,0,2,0,0,2,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
+,,,,,Chella Bandi ,34.3966,73.4744,Mudstone D5,M+STRUB,7,,,,0,0,5,6,6,0,6,6,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
+,,,,,Ghanool,,,ConBlockD4,M+CB/LWALL ,0,,,,0,0,1,0,0,0,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Heavy damage to building.
+,,,,,Ghanool,,,ConBlockD5,M+CB/LWALL ,1,,,,0,0,0,0,2,0,0,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Ghanool,,,Mudstone D5,M+STRUB,27,,,,1,4,5,18,4,4,18,4,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. 
+,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD0/D1,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. no/ slight damage to building.
+,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD2,M+CB/LWALL ,0,,,,0,0,0,0,1,0,0,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Moderate damage to building.
+,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD4,M+CB/LWALL ,0,,,,0,0,0,1,0,0,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Heavy damage to building.
+,,,,,Hattian Dupatta ,34.3776,73.5053,ConBlockD5,M+CB/LWALL ,8,,,,0,0,9,12,1,0,12,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D3,M+STRUB,1,,,,0,0,2,1,0,0,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
+,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D4,M+STRUB,2,,,,0,0,4,3,1,0,3,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
+,,,,,Hattian Dupatta ,34.3776,73.5053,Mudstone D5,M+STRUB,11,,,,0,4,9,18,1,4,18,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
+,,,,,Kawai,34.6385,73.4283,InfilledRCD5,CR/LFINF ,2,,,,0,0,0,0,1,0,0,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: RC Frame with masonry infill. Complete collapse of building
+,,,,,Kawai,34.6385,73.4283,ConBlockD5,M+CB/LWALL ,15,,,,0,1,2,2,4,1,2,4,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Kawai,34.6385,73.4283,Mudstone D5,M+STRUB,25,,,,0,0,6,14,2,0,14,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. 
+,,,,,Muhallah sadat,,,ConBlockD5,M+CB/LWALL ,0,,,,0,2,1,0,0,2,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Muhallah sadat,,,Mudstone D3,M+STRUB,1,,,,0,0,1,0,0,0,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Serious damage to building.
+,,,,,Muhallah sadat,,,Mudstone D4,M+STRUB,0,,,,0,1,1,0,0,1,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
+,,,,,Muhallah sadat,,,Mudstone D5,M+STRUB,2,,,,0,4,2,0,0,4,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
+,,,,9618217B26184783355939,Muzaffarabad ,34.3781,73.4638,ConBlockD5,M+CB/LWALL ,70,,,,0,7,19,18,3,7,18,3,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,9618217B26184783355939,Muzaffarabad ,34.3781,73.4638,Mudstone D5,M+STRUB,9,,,,0,1,5,2,2,1,2,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.
+,,,,,Sudhan Gali,,,BrickD5,M+CL,3,,,,0,2,0,0,2,2,0,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Brick Masonry. 
+,,,,,Sudhan Gali,,,ConBlockD4,M+CB/LWALL ,1,,,,0,1,0,0,0,1,0,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Heavy damage to building.
+,,,,,Sudhan Gali,,,ConBlockD5,M+CB/LWALL ,10,,,,0,7,4,6,2,7,6,2,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Concrete block walls. Complete collapse of building. 
+,,,,,Sudhan Gali,,,Mudstone D4,M+STRUB,6,,,,0,3,2,1,0,3,1,0,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Heavy damage to building.
+,,,,,Sudhan Gali,,,Mudstone D5,M+STRUB,43,,,,1,10,16,19,1,10,19,1,,,,,,CEQID + Cambridge Casualty Survey ,Taxonomy Description: Rubble stone and mud- traditional Katcha. Complete collapse of building.

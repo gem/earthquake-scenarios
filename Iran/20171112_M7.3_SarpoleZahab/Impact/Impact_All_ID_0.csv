@@ -2,8 +2,12 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,A
 IRN,Iran,620,620,6603,70000,,,15000,12000,Buildings,,,,,,USGS,"At least 10 people killed and 500 injured in Halabjah, Iraq. "
 IRN,Iran,630,630,7103,,,,,,,,,,,,UTSU,
 IRN,Iran,630,630,12900,,,,14500,15500,Buildings,750000000,,USD,,,NOAA_Earthquake,
-IRN,Iran,620-630,620-630,7000-9388,70000,,,15000-50000,12000-18000,Buildings,5000000000,,EUR,,,Wikipedia,
-IRN,Iran,,,,,,,,,,3000000000000-3500000000000,,IRR,,,Wikipedia,
+IRN,Iran,,,,,,,15000-50000,12000-18000,Buildings,,,,,,Gulf_News ,
+IRN,Iran,620-630,620-630,,,,,,,,,,,,,Tasnim_News + IRNA,
+IRN,Iran,,,,70000,,,,,,,,,,,The_Economist + Tabnak_News,
+IRN,Iran,,,7000-9388,,,,,,,,,,,,Tasnim_News + The_Economis + BBC + NBC_Washingtone,
+IRN,Iran,,,,,,,,,,5000000000,,EUR,,,Hindustantimes ,
+IRN,Iran,,,,,,,,,,3000000000000-3500000000000,,IRR,,,Wikipedia ,The actual reference is not specified by Wiki.
 IRN,Iran,629,629,15249,200000,,,79000,16000,Buildings,,,,,,EID,
 IRN,Iran,444,444,9000,,200000,,,,,740000000,,USD,,,EM-DAT,"Geo Locations: Eslamabad-e gharb, Eylam, Gilan-e gharb, Javanrud, Kermanshah, Mehran, Qasr-e shirin, Sar-e pol-e zahab (Adm2)."
 IRN,Iran,621,621,7817,,1645450,,,,,,,,,,MScThesis_Tabasian,
