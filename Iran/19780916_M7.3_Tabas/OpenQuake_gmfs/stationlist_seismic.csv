@@ -1,4 +1,13 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+1084/01,Tabas,56.92,33.58,seismic,0.898,0.0
+1082/01,Deyhook,57.5,33.29,seismic,0.41064,0.0
+1083/01,Boshrooyeh,57.428,33.863,seismic,0.10709,0.0
+1126,Ferdows,58.16,34.01,seismic,0.09628,0.0
+1086,Bajestan,58.182,34.521,seismic,0.07861,0.0
+1090/02,Kashmar,58.45,35.23,seismic,0.06198,0.0
+1085/02,Sedeh,59.236,33.328,seismic,0.02867,0.0
+1087,Khezri,58.811,34.021,seismic,0.02588,0.0
+1088,Birjand,59.21,32.87,seismic,0.01965,0.0
 Tabas,Tabas,56.92,33.6,seismic,0.911,0.0
 Deyhook,Deyhook,57.43,33.3,seismic,0.393,0.0
 Boshrooyeh,Boshrooyeh,57.43,33.88,seismic,0.104,0.0
@@ -8,12 +17,7 @@ Kashmar,Kashmar,58.45,35.3,seismic,0.0353,0.0
 Sedeh,Sedeh,59.23,33.33,seismic,0.0268,0.0
 Khezri,Khezri,58.81,34.03,seismic,0.0257,0.0
 Birjand,Birjand,59.2,32.86,seismic,0.0184,0.0
-TAB,Tabas,56.92,33.58,seismic,1.10204,0.0
-DAY,Dayhook,57.5,33.29,seismic,0.38571,0.0
 BAJ,Bajestan,58.18,34.52,seismic,0.1898,0.0
-FER,Ferdoos,58.16,34.01,seismic,0.10204,0.0
 BOS,Boshroyeh,57.42,33.86,seismic,0.10204,0.0
-KAS,Kashmar,58.45,35.23,seismic,0.03826,0.0
 KHE,Khezri,58.78,34.05,seismic,0.02898,0.0
 SED,Sedeh,59.23,33.32,seismic,0.02735,0.0
-BRJ,Birjand,59.21,32.87,seismic,0.01663,0.0

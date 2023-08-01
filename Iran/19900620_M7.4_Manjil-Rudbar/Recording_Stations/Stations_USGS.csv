@@ -1,65 +1,65 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
-1357-1,Lahijan,50.03,37.21,seismic,652.3,7.4,0.63,0.0,0.17941,0.0,36.3,null,,null,,null,,inferred,Stations_USGS
-GCR,Gachsar,51.3,36.11,seismic,900.0,4.5,0.63,0.0,0.105102,0.0,4.08,0.0,0.269388,0.0,0.033469,0.0,0.007561,inferred,Stations_USGS
-ZANJAN,ZANJAN,48.48,36.67,seismic,386.11,null,null,0.0,0.135056,,,,,,,,,inferred,Stations_USGS
-1370-2,Robat-Karim,35.47,51.08,seismic,760.0,null,null,0.0,0.01937,0.0,1.24,null,,null,,null,,inferred,Stations_USGS
-1362-1,Abbar,48.97,36.92,seismic,644.49,7.7,0.63,0.0,0.55861,0.0,48.4,null,,null,,null,,inferred,Stations_USGS
-1355,Rudsar,50.283,37.141,seismic,241.62,5.6,0.63,0.0,0.09093,0.0,10.0,null,,null,,null,,inferred,Stations_USGS
-1353,Ghazvin,50.0,36.26,seismic,286.44,6.2,0.63,0.0,0.1896,0.0,15.4,null,,null,,null,,inferred,Stations_USGS
-QAZ,Qazvin,50.02,36.24,seismic,276.17,6.2,0.63,0.0,0.183673,0.0,15.6,0.0,0.785714,0.0,0.109184,0.0,0.035918,inferred,Stations_USGS
-1371-2,Karaj,51.0,35.85,seismic,774.36,4.2,0.63,0.0,0.03568,0.0,3.5,null,,null,,null,,inferred,Stations_USGS
-ROBATKARIM,ROBATKARIM,51.08,35.47,seismic,305.96,null,null,0.0,0.06683,,,,,,,,,inferred,Stations_USGS
-MIYANEH,MIYANEH,47.71,37.42,seismic,377.92,null,null,0.0,0.035229,,,,,,,,,inferred,Stations_USGS
-TON,Tonekabun,50.78,36.81,seismic,845.02,6.6,0.63,0.0,0.136735,0.0,19.5,0.0,0.270408,0.0,0.247959,0.0,0.051837,inferred,Stations_USGS
-1366,Chizar,51.42,35.77,seismic,441.54,null,null,0.0,0.01927,null,null,null,,null,,null,,inferred,Stations_USGS
-TAFRESH,TAFRESH,50.02,34.69,seismic,473.3,null,null,0.0,0.220296,,,,,,,,,inferred,Stations_USGS
-1365,Ardebil,48.28,38.26,seismic,260.37,4.2,0.63,0.0,0.03058,0.0,3.5,null,,null,,null,,inferred,Stations_USGS
-THS,Tehran-Sarif University,51.48,35.7,seismic,380.9,3.5,0.63,0.0,0.012857,0.0,1.24,0.0,0.036837,0.0,0.018673,0.0,0.005143,inferred,Stations_USGS
-HIST_7,Koosk-e-Nosrat,50.88,35.16,seismic,370.63,null,null,0.0,0.027449,,,,,,,,,inferred,Stations_USGS
-1372,Eshtehard,50.366,35.721,seismic,318.77,5.0,0.63,0.0,0.07849,0.0,6.0,null,,null,,null,,inferred,Stations_USGS
-TEHRAN046,TEHRAN046,51.39,35.71,seismic,419.89,null,null,0.0,0.054944,,,,,,,,,inferred,Stations_USGS
-1369,Rudshur,50.901,35.444,seismic,299.37,5.0,0.63,0.0,0.04485,0.0,6.2,null,,null,,null,,inferred,Stations_USGS
-TEHRAN042,TEHRAN042,51.39,35.71,seismic,419.89,null,null,0.0,0.06158,,,,,,,,,inferred,Stations_USGS
-1359,Tonekabon,50.884,36.808,seismic,255.17,null,null,0.0,0.11957,null,null,null,,null,,null,,inferred,Stations_USGS
-1364,Zanjan,48.5,36.66,seismic,392.33,6.2,0.63,0.0,0.12742,0.0,14.6,null,,null,,null,,inferred,Stations_USGS
-TEHRAN047,TEHRAN047,51.32,35.69,seismic,374.31,null,null,0.0,0.013598,,,,,,,,,inferred,Stations_USGS
-RUD,Rudsar,50.3,37.13,seismic,232.11,6.2,0.63,0.0,0.097041,0.0,11.5,0.0,0.291837,0.0,0.122449,0.0,0.02398,inferred,Stations_USGS
-1363-1,Kahrizak,51.35,35.52,seismic,250.51,5.2,0.63,0.0,0.04689,0.0,7.1,null,,null,,null,,inferred,Stations_USGS
-1360,Manjil,49.39,36.76,seismic,900.0,5.6,0.63,0.0,0.44669,0.0,9.37,null,,null,,null,,inferred,Stations_USGS
-ABH,Abhar,49.225,36.15,seismic,345.86,null,null,0.0,0.209184,0.0,55.4,0.0,0.909184,0.0,0.256122,0.0,0.569388,inferred,Stations_USGS
-KAHRIZAK,KAHRIZAK,51.37,35.5,seismic,271.36,null,null,0.0,0.048603,,,,,,,,,inferred,Stations_USGS
-KUSHKENOSRAT,KUSHKENOSRAT,50.9,35.11,seismic,479.23,null,null,0.0,0.028512,,,,,,,,,inferred,Stations_USGS
-TEH,Tehran-Building and Housing Research Center,51.37,35.73,seismic,508.43,4.9,0.63,0.0,0.033061,0.0,4.21,0.0,0.091939,0.0,0.06551,0.0,0.017347,inferred,Stations_USGS
-MZOBS_10,Kahrizak (Intensity V),51.3597,35.5175,macroseismic,250.51,5.0,0.3,0.8059,0.055835,0.875,6.2912,1.0131,0.108575,1.0822,0.098804,1.4737,0.020582,inferred,Stations_USGS
+1357-1,Lahijan,50.03,37.21,seismic,652.3,7.4,0.63,0,0.17941,0,36.3,null,,null,,null,,inferred,Stations_USGS
+GCR,Gachsar,51.3,36.11,seismic,900,4.5,0.63,0,0.105102,0,4.08,0,0.269388,0,0.033469,0,0.007561,inferred,Stations_USGS
+ZANJAN,ZANJAN,48.48,36.67,seismic,386.11,null,null,0,0.135056,,,,,,,,,inferred,Stations_USGS
+1370-2,Robat-Karim,51.08,35.47,seismic,760,null,null,0,0.01937,0,1.24,null,,null,,null,,inferred,Stations_USGS
+1362-1,Abbar,48.97,36.92,seismic,644.49,7.7,0.63,0,0.55861,0,48.4,null,,null,,null,,inferred,Stations_USGS
+1355,Rudsar,50.283,37.141,seismic,241.62,5.6,0.63,0,0.09093,0,10,null,,null,,null,,inferred,Stations_USGS
+1353,Ghazvin,50,36.26,seismic,286.44,6.2,0.63,0,0.1896,0,15.4,null,,null,,null,,inferred,Stations_USGS
+QAZ,Qazvin,50.02,36.24,seismic,276.17,6.2,0.63,0,0.183673,0,15.6,0,0.785714,0,0.109184,0,0.035918,inferred,Stations_USGS
+1371-2,Karaj,51,35.85,seismic,774.36,4.2,0.63,0,0.03568,0,3.5,null,,null,,null,,inferred,Stations_USGS
+ROBATKARIM,ROBATKARIM,51.08,35.47,seismic,305.96,null,null,0,0.06683,,,,,,,,,inferred,Stations_USGS
+MIYANEH,MIYANEH,47.71,37.42,seismic,377.92,null,null,0,0.035229,,,,,,,,,inferred,Stations_USGS
+TON,Tonekabun,50.78,36.81,seismic,845.02,6.6,0.63,0,0.136735,0,19.5,0,0.270408,0,0.247959,0,0.051837,inferred,Stations_USGS
+1366,Chizar,51.42,35.77,seismic,441.54,null,null,0,0.01927,null,null,null,,null,,null,,inferred,Stations_USGS
+TAFRESH,TAFRESH,50.02,34.69,seismic,473.3,null,null,0,0.220296,,,,,,,,,inferred,Stations_USGS
+1365,Ardebil,48.28,38.26,seismic,260.37,4.2,0.63,0,0.03058,0,3.5,null,,null,,null,,inferred,Stations_USGS
+THS,Tehran-Sarif University,51.48,35.7,seismic,380.9,3.5,0.63,0,0.012857,0,1.24,0,0.036837,0,0.018673,0,0.005143,inferred,Stations_USGS
+HIST_7,Koosk-e-Nosrat,50.88,35.16,seismic,370.63,null,null,0,0.027449,,,,,,,,,inferred,Stations_USGS
+1372,Eshtehard,50.366,35.721,seismic,318.77,5,0.63,0,0.07849,0,6,null,,null,,null,,inferred,Stations_USGS
+TEHRAN046,TEHRAN046,51.39,35.71,seismic,419.89,null,null,0,0.054944,,,,,,,,,inferred,Stations_USGS
+1369,Rudshur,50.901,35.444,seismic,299.37,5,0.63,0,0.04485,0,6.2,null,,null,,null,,inferred,Stations_USGS
+TEHRAN042,TEHRAN042,51.39,35.71,seismic,419.89,null,null,0,0.06158,,,,,,,,,inferred,Stations_USGS
+1359,Tonekabon,50.884,36.808,seismic,255.17,null,null,0,0.11957,null,null,null,,null,,null,,inferred,Stations_USGS
+1364,Zanjan,48.5,36.66,seismic,392.33,6.2,0.63,0,0.12742,0,14.6,null,,null,,null,,inferred,Stations_USGS
+TEHRAN047,TEHRAN047,51.32,35.69,seismic,374.31,null,null,0,0.013598,,,,,,,,,inferred,Stations_USGS
+RUD,Rudsar,50.3,37.13,seismic,232.11,6.2,0.63,0,0.097041,0,11.5,0,0.291837,0,0.122449,0,0.02398,inferred,Stations_USGS
+1363-1,Kahrizak,51.35,35.52,seismic,250.51,5.2,0.63,0,0.04689,0,7.1,null,,null,,null,,inferred,Stations_USGS
+1360,Manjil,49.39,36.76,seismic,900,5.6,0.63,0,0.44669,0,9.37,null,,null,,null,,inferred,Stations_USGS
+ABH,Abhar,49.225,36.15,seismic,345.86,null,null,0,0.209184,0,55.4,0,0.909184,0,0.256122,0,0.569388,inferred,Stations_USGS
+KAHRIZAK,KAHRIZAK,51.37,35.5,seismic,271.36,null,null,0,0.048603,,,,,,,,,inferred,Stations_USGS
+KUSHKENOSRAT,KUSHKENOSRAT,50.9,35.11,seismic,479.23,null,null,0,0.028512,,,,,,,,,inferred,Stations_USGS
+TEH,Tehran-Building and Housing Research Center,51.37,35.73,seismic,508.43,4.9,0.63,0,0.033061,0,4.21,0,0.091939,0,0.06551,0,0.017347,inferred,Stations_USGS
+MZOBS_10,Kahrizak (Intensity V),51.3597,35.5175,macroseismic,250.51,5,0.3,0.8059,0.055835,0.875,6.2912,1.0131,0.108575,1.0822,0.098804,1.4737,0.020582,inferred,Stations_USGS
 MZOBS_4,Lahijan (Intensity VII),50.007,37.206,macroseismic,255.58,6.5,0.3,0.8059,0.19833,0.875,18.768,1.0131,0.381324,1.0822,0.264907,1.4737,0.051542,inferred,Stations_USGS
 MZOBS_14,Karaj (Intensity VI),50.987,35.831,macroseismic,505.71,5.5,0.3,0.8059,0.082762,0.875,9.0565,1.0131,0.191555,1.0822,0.139717,1.4737,0.028511,inferred,Stations_USGS
 MZOBS_15,Ghom (Intensity V),50.8764,34.64,macroseismic,241.85,4.5,0.3,0.8059,0.037824,0.875,4.3703,1.0131,0.049897,1.0822,0.069543,1.4737,0.01478,inferred,Stations_USGS
 MZOBS_19,Eshtehard (Intensity VI),50.366,35.721,macroseismic,318.77,5.5,0.3,0.8059,0.086741,0.875,9.0565,1.0131,0.196343,1.0822,0.135753,1.4737,0.027606,inferred,Stations_USGS
 MZOBS_12,Tehran (Chizar) (Intensity V),51.453,35.797,macroseismic,524.71,4.5,0.3,0.8059,0.041762,0.875,4.3703,1.0131,0.056426,1.0822,0.06559,1.4737,0.013841,inferred,Stations_USGS
-OBS_13,Rudsar,50.286,37.135,macroseismic,232.11,6.0,0.3,0.8059,0.141779,0.875,13.0374,1.0131,0.285054,1.0822,0.180801,1.4737,0.035757,inferred,Stations_USGS
+OBS_13,Rudsar,50.286,37.135,macroseismic,232.11,6,0.3,0.8059,0.141779,0.875,13.0374,1.0131,0.285054,1.0822,0.180801,1.4737,0.035757,inferred,Stations_USGS
 MZOBS_3,Rudsar (Intensity VII),50.283,37.141,macroseismic,241.62,6.5,0.3,0.8059,0.193208,0.875,18.768,1.0131,0.376114,1.0822,0.26919,1.4737,0.052477,inferred,Stations_USGS
-OBS_11,Lahijan,49.999,37.21,macroseismic,255.58,6.0,0.3,0.8059,0.145183,0.875,13.0374,1.0131,0.288632,1.0822,0.178191,1.4737,0.035179,inferred,Stations_USGS
-OBS_10,Astaneh,49.954,37.261,macroseismic,180.0,6.0,0.3,0.8059,0.142593,0.875,13.0374,1.0131,0.285913,1.0822,0.180168,1.4737,0.035617,inferred,Stations_USGS
+OBS_11,Lahijan,49.999,37.21,macroseismic,255.58,6,0.3,0.8059,0.145183,0.875,13.0374,1.0131,0.288632,1.0822,0.178191,1.4737,0.035179,inferred,Stations_USGS
+OBS_10,Astaneh,49.954,37.261,macroseismic,180,6,0.3,0.8059,0.142593,0.875,13.0374,1.0131,0.285913,1.0822,0.180168,1.4737,0.035617,inferred,Stations_USGS
 MZOBS_13,Robat-Karim (Intensity VII),51.0833,35.4667,macroseismic,305.96,6.5,0.3,0.8059,0.144738,0.875,18.768,1.0131,0.323127,1.0822,0.321325,1.4737,0.063994,inferred,Stations_USGS
-MZOBS_7,Loshan (Intensity VIII),49.5186,36.6294,macroseismic,471.28,8.0,0.3,0.8059,0.673163,0.875,55.9888,1.0131,1.022113,1.0822,0.730333,1.4737,0.133172,inferred,Stations_USGS
+MZOBS_7,Loshan (Intensity VIII),49.5186,36.6294,macroseismic,471.28,8,0.3,0.8059,0.673163,0.875,55.9888,1.0131,1.022113,1.0822,0.730333,1.4737,0.133172,inferred,Stations_USGS
 OBS_4,Abbar,48.997,36.895,macroseismic,631.67,7.5,0.3,0.8059,0.593562,0.875,38.8932,1.0131,0.853171,1.0822,0.438308,1.4737,0.079986,inferred,Stations_USGS
-OBS_5,Manjil,49.417,36.736,macroseismic,612.46,8.0,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
+OBS_5,Manjil,49.417,36.736,macroseismic,612.46,8,0.3,0.8059,0.810217,0.875,55.9888,1.0131,1.126702,1.0822,0.651918,1.4737,0.117254,inferred,Stations_USGS
 MZOBS_18,Tabriz (Intensity V),46.2833,38.0833,macroseismic,361.07,4.5,0.3,0.8059,0.035598,0.875,4.3703,1.0131,0.04829,1.0822,0.070635,1.4737,0.01504,inferred,Stations_USGS
-OBS_9,Rasht,49.604,37.273,macroseismic,224.68,6.0,0.3,0.8059,0.148516,0.875,13.0374,1.0131,0.292096,1.0822,0.17573,1.4737,0.034635,inferred,Stations_USGS
+OBS_9,Rasht,49.604,37.273,macroseismic,224.68,6,0.3,0.8059,0.148516,0.875,13.0374,1.0131,0.292096,1.0822,0.17573,1.4737,0.034635,inferred,Stations_USGS
 OBS_6,Sefid Rud Dam,49.367,36.73,macroseismic,403.95,7.5,0.3,0.8059,0.560834,0.875,38.8932,1.0131,0.828108,1.0822,0.453813,1.4737,0.083164,inferred,Stations_USGS
 MZOBS_11,Zanjan (Intensity VI),48.4333,36.6667,macroseismic,401.55,5.5,0.3,0.8059,0.104112,0.875,9.0565,1.0131,0.216118,1.0822,0.121384,1.4737,0.024353,inferred,Stations_USGS
 MZOBS_9,Abbar (Intensity IX),48.997,36.895,macroseismic,631.67,8.5,0.3,0.8059,1.105952,0.875,80.5989,1.0131,1.487929,1.0822,0.969632,1.4737,0.171886,inferred,Stations_USGS
-MZOBS_17,Ardebil (Intensity V),48.2833,38.25,macroseismic,260.37,5.0,0.3,0.8059,0.058815,0.875,6.2912,1.0131,0.116096,1.0822,0.095704,1.4737,0.01986,inferred,Stations_USGS
-MZOBS_8,Rudbar (Intensity IX),49.414,36.806,macroseismic,900.0,9.0,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
+MZOBS_17,Ardebil (Intensity V),48.2833,38.25,macroseismic,260.37,5,0.3,0.8059,0.058815,0.875,6.2912,1.0131,0.116096,1.0822,0.095704,1.4737,0.01986,inferred,Stations_USGS
+MZOBS_8,Rudbar (Intensity IX),49.414,36.806,macroseismic,900,9,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
 MZOBS_6,Manjil (Intensity X),49.417,36.736,macroseismic,612.46,9.5,0.3,0.8059,2.060662,0.875,167.0263,1.0131,2.594945,1.0822,2.145035,1.4737,0.369375,inferred,Stations_USGS
 MZOBS_2,Abhar (Intensity VII),49.3667,36.25,macroseismic,583.3,6.5,0.3,0.8059,0.191793,0.875,18.768,1.0131,0.374664,1.0822,0.270406,1.4737,0.052743,inferred,Stations_USGS
-MZOBS_1,Ghazvin (Intensity VII),50.0,36.2667,macroseismic,286.44,6.5,0.3,0.8059,0.205242,0.875,18.768,1.0131,0.388254,1.0822,0.259403,1.4737,0.050344,inferred,Stations_USGS
-OBS_1,Rudbar,49.426,36.81,macroseismic,900.0,9.0,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
+MZOBS_1,Ghazvin (Intensity VII),50,36.2667,macroseismic,286.44,6.5,0.3,0.8059,0.205242,0.875,18.768,1.0131,0.388254,1.0822,0.259403,1.4737,0.050344,inferred,Stations_USGS
+OBS_1,Rudbar,49.426,36.81,macroseismic,900,9,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
 MZOBS_5,Tonkabon (Intensity VII),50.884,36.808,macroseismic,255.17,6.5,0.3,0.8059,0.173152,0.875,18.768,1.0131,0.355056,1.0822,0.287894,1.4737,0.05658,inferred,Stations_USGS
-OBS_14,Qazvin,50.006,36.263,macroseismic,286.44,6.0,0.3,0.8059,0.149919,0.875,13.0374,1.0131,0.293544,1.0822,0.17472,1.4737,0.034412,inferred,Stations_USGS
+OBS_14,Qazvin,50.006,36.263,macroseismic,286.44,6,0.3,0.8059,0.149919,0.875,13.0374,1.0131,0.293544,1.0822,0.17472,1.4737,0.034412,inferred,Stations_USGS
 OBS_7,Lowshan,49.514,36.626,macroseismic,475.51,7.5,0.3,0.8059,0.490281,0.875,38.8932,1.0131,0.771598,1.0822,0.492792,1.4737,0.09121,inferred,Stations_USGS
-OBS_12,Langrud,50.154,37.196,macroseismic,230.85,6.0,0.3,0.8059,0.142015,0.875,13.0374,1.0131,0.285302,1.0822,0.180618,1.4737,0.035716,inferred,Stations_USGS
-MZOBS_16,Urumieh (Intensity IV),45.0833,37.533,macroseismic,274.46,4.0,0.3,0.8059,0.015784,0.875,2.6996,1.0131,0.023522,1.0822,0.048358,1.4737,0.01047,inferred,Stations_USGS
-OBS_2,Jirandeh,49.77,36.693,macroseismic,773.61,9.0,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
-OBS_8,Fuman,49.313,37.223,macroseismic,280.8,6.0,0.3,0.8059,0.161494,0.875,13.0374,1.0131,0.305248,1.0822,0.166934,1.4737,0.032698,inferred,Stations_USGS
+OBS_12,Langrud,50.154,37.196,macroseismic,230.85,6,0.3,0.8059,0.142015,0.875,13.0374,1.0131,0.285302,1.0822,0.180618,1.4737,0.035716,inferred,Stations_USGS
+MZOBS_16,Urumieh (Intensity IV),45.0833,37.533,macroseismic,274.46,4,0.3,0.8059,0.015784,0.875,2.6996,1.0131,0.023522,1.0822,0.048358,1.4737,0.01047,inferred,Stations_USGS
+OBS_2,Jirandeh,49.77,36.693,macroseismic,773.61,9,0.3,0.8059,1.509634,0.875,116.0264,1.0131,1.964966,1.0822,1.442184,1.4737,0.251973,inferred,Stations_USGS
+OBS_8,Fuman,49.313,37.223,macroseismic,280.8,6,0.3,0.8059,0.161494,0.875,13.0374,1.0131,0.305248,1.0822,0.166934,1.4737,0.032698,inferred,Stations_USGS
 OBS_3,Marlik,49.522,36.842,macroseismic,514.46,8.5,0.3,0.8059,1.105952,0.875,80.5989,1.0131,1.487929,1.0822,0.969632,1.4737,0.171886,inferred,Stations_USGS

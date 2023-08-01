@@ -1,0 +1,19 @@
+job_id: 46
+job_description: 19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+
+zkari@Zarin running d:\GEM\GitHub\ESD\earthquake-scenarios\Iran\19970228_M6.1_Golestan\OpenQuake_gmfs\job_stations_none.ini [--hc=None]
+Using engine version 3.17.0-git80b319cca9
+Using 16 cores on Zarin
+Running EventBasedCalculator with concurrent_tasks = 32
+Checksum of the inputs: 2086069996 (total size 203.01 KB)
+Entering SLOW MODE. You have 4.6 GB available, but the engine would like at least 0.5 GB per core, i.e. 8.0 GB: https://github.com/gem/oq-engine/blob/master/doc/faq.md
+Extracting the hazard sites from the site model
+Read N=3754 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '352.83 KB', 'sig_eps': '365 B', 'times': '332 B', 'hcurves': '5 B'} in 0 seconds from event_based
+Stored 176.09 KB of GMFs
+Exposing the outputs to the database
+Stored 607.78 KB on C:\Users\zkari\oqdata/calc_46.hdf5 in 1 seconds
