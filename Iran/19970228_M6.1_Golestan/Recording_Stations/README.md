@@ -15,3 +15,4 @@ The reference datasets were used in the following priority order:
 - `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`]https://earthquake.usgs.gov/product/shakemap/usp0007y0b/atlas/1594168218770/download/stationlist.json/shakemap/stations. Last accessed February 2023.
 
 ## Notes
+- There was an outlier in `Stations_USGS.csv` file which has been deleted by the modeller (STATION_NAME: Ashkhaneh, LAT:37.56 ,LON:56.92).
