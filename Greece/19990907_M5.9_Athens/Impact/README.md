@@ -30,9 +30,16 @@ http://www.ceqid.org/CEQID/Home.aspx?p=32
 
 ### Publications
 
+- **JRC Report** Lessons learnt from earthquake disasters that occurred in Greece. Available at: https://www.preventionweb.net/publication/lessons-learnt-earthquake-disasters-occurred-greece
+
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0009e46/executive) 
+
 - Wikipedia [English](https://en.wikipedia.org/wiki/1999_Athens_earthquake)
+
+- [EM-DAT](https://public.emdat.be)
+
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=1999&minYear=1999&country=GREECE)
 
 ### National databases / references
 

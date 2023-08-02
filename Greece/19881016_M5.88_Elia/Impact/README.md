@@ -28,8 +28,14 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ### Publications
 
+- **Pomonis:** Pomonis, Antonios. (1989). The October 1988 Elia Prefecture Earthquake (SW Greece): Seismic Environment, Building Types and Damage Patterns. Disasters. 13. 101-17.
+
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0003mvg/executive) 
+
+- [EM-DAT](https://public.emdat.be)
+
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5172)
 
 ### National databases / references
 
