@@ -1,13 +1,13 @@
-ID+AF8-0,NAME+AF8-0,FATALITIES,FATALITIES+AF8-GROUND+AF8-SHAKING,INJURIES,DISPLACED+AF8-POPULATION,HOMELESS,AFFECTED+AF8-POPULATION,AFFECTED+AF8-UNITS,DAMAGED+AF8-UNITS,COLLAPSED+AF8-UNITS,DAMAGED+AF8-OR+AF8-DESTROYED,UNIT+AF8-TYPES,ECONOMIC+AF8-LOSSES,INSURED+AF8-LOSSES,RECONSTRUCTION+AF8-COSTS,CURRENCY,INDUCED+AF8-EFFECTS,FLAG,REFERENCE,COMMENTS
-PAK,Pakistan,86000,,+AD4-69000,,4000000,,,,32335,,Buildings,,,,,+ACI-Landslides, rockfalls+ACI-,,USGS,At least 1350 people killed and 6266 injured in India. At least one person killed and some buildings collapsed in Afghanistan.
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,HOMELESS,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,DAMAGED_OR_DESTROYED,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,RECONSTRUCTION_COSTS,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+PAK,Pakistan,86000,,>69000,,4000000,,,,32335,,Buildings,,,,,"Landslides, rockfalls",,USGS,At least 1350 people killed and 6266 injured in India. At least one person killed and some buildings collapsed in Afghanistan.
 IND,India,1350,,6266,,,,,,,,,,,,,,,USGS,
 AFG,Afghanistan,1,,,,,,,,,,,,,,,,,USGS,
-PAK,Pakistan,,,,,,,,,,,,,,,,+ACI-Landslides, seiche+ACI-,,UTSU,
+PAK,Pakistan,,,,,,,,,,,,,,,,"Landslides, seiche",,UTSU,
 PAK,Pakistan,76213,,146599,,,,,,,,,6680000000,,,USD,,,NOAA,
-PAK,Pakistan,73338,,128309,,5000000,,,,,,,5200000000,,5200000000,USD,,,EM+AC0-DAT,+ACI-Geo Locations: Abbottabad District, Batagram District, Gujranwala District, Gujrat District, Islamabad District, Kohistan District, Mansehra District, Rawalpindi District, Shangla District (Adm2).+ACI-
-PAK,Pakistan,86000+AC0-87351,,69000+AC0-75266,2800000,3500000,+AD4-5000000,,,,,,5000000000,,,USD,Landslides,,PAGER+AC0-CAT,+ACI-At least 1350 people were killed and 6266 injured in Jammu and Kashmir in Indian administered Kashmir. In Uri there were over 150 deaths. Four deaths were reported in Afghanistan, including a young girl who died in Jalalabad, after a wall collapsed on her. The quake was felt in Kabul, but the effects were minimal there.+ACI-
-PAK,Pakistan,,,,,,,,,,,,400000000000,,,PKR,,,PAGER+AC0-CAT,
-IND,India,1350,,6266,,,,,,,,,,,,,,,Britannica +- Aljazeera,
+PAK,Pakistan,73338,,128309,,5000000,,,,,,,5200000000,,5200000000,USD,,,EM-DAT,"Geo Locations: Abbottabad District, Batagram District, Gujranwala District, Gujrat District, Islamabad District, Kohistan District, Mansehra District, Rawalpindi District, Shangla District (Adm2)."
+PAK,Pakistan,86000-87351,,69000-75266,2800000,3500000,>5000000,,,,,,5000000000,,,USD,Landslides,,PAGER-CAT,"At least 1350 people were killed and 6266 injured in Jammu and Kashmir in Indian administered Kashmir. In Uri there were over 150 deaths. Four deaths were reported in Afghanistan, including a young girl who died in Jalalabad, after a wall collapsed on her. The quake was felt in Kabul, but the effects were minimal there."
+PAK,Pakistan,,,,,,,,,,,,400000000000,,,PKR,,,PAGER-CAT,
+IND,India,1350,,6266,,,,,,,,,,,,,,,Britannica + Aljazeera,
 AFG,Afghanistan,4,,,,,,,,,,,,,,,,,Wikipedia,Wiki has not specified the actual reference.
 PAK,Pakistan,87351,87351,,,,,,,,,,,,,,,,CEQID,
-PAK,Pakistan,80000+AC0-87350,,200000,2800000,+AD4-4000000,,,780000,,780000,Buildings,,,,,+ACI-Landslides, rockfalls+ACI-,,ERII+AF8-Report,+ACI-The earthquake affected more than 500,000 families. +ACI-
+PAK,Pakistan,80000-87350,,200000,2800000,>4000000,,,780000,,780000,Buildings,,,,,"Landslides, rockfalls",,ERII_Report,"The earthquake affected more than 500,000 families. "
