@@ -32,11 +32,18 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - Abercrombie, R. E., Main, I. G., Douglas, A., & Burton, P. W. (1995). The nucleation and rupture process of the 1981 Gulf of Corinth earthquakes from deconvolved broad-band data. Geophysical Journal International, 120(2), 393-405.
 - ADRIESEISMIC (2021) Report on collective norms and incentives. WPT1 – Harmonization of regulative and incentive-based approaches. Available in: https://adriseismic.adrioninterreg.eu/wp-content/uploads/2021/11/DT.1.1.1_Report-on-collected-norms-and-incentives_final-with-annexes.pdf
 
+- Skassis, A. (2017). Earthquake Early Warning System in Central Greece: Identification
+Determination of magnitude calculation constants. Available in: https://pergamos.lib.uoa.gr/uoa/dl/object/2068675/file.pdf
 
 
 ### Global databases / references
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ccb/executive) 
+
 - Wikipedia [English](https://en.wikipedia.org/wiki/1981_Gulf_of_Corinth_earthquakes)
+
+- [EM-DAT](https://public.emdat.be)
+
+- [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxEqMagnitude=6.7&maxYear=1981&minYear=1981&minEqMagnitude=6.4&country=GREECE)
 
 ### National databases / references
 
