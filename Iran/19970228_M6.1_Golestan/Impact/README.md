@@ -36,6 +36,7 @@ There were no available detailed online databases for this earthquake.
 - Wikipedia [English](https://en.wikipedia.org/wiki/1997_Ardabil_earthquake) and [Persian](https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1%D8%B2%D9%87_%DB%B1%DB%B3%DB%B7%DB%B5_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84)
 - NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5450)
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/iscgem1013321/executive)
+- [USGS_Archive](https://web.archive.org/web/20081004192030/http://earthquake.usgs.gov/eqcenter/eqarchives/significant/sig_1997.php)
 - [ISC](http://isc-mirror.iris.washington.edu/cgi-bin/FormatBibprint.pl?evid=1013321)
 - [EM_DAT](https://public.emdat.be/data)
 - [FDSN](http://fdsn.adc1.iris.edu/networks/detail/I1/)

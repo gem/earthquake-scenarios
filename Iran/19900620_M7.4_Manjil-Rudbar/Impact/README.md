@@ -59,6 +59,7 @@ There were no available detailed online databases for this earthquake.
 
 ### Global databases / references
 - Wikipedia [English](https://en.wikipedia.org/wiki/1990_Manjil%E2%80%93Rudbar_earthquake) and [Persian](https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1%D8%B2%D9%87_%DB%B1%DB%B3%DB%B6%DB%B9_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1_%D9%88_%D9%85%D9%86%D8%AC%DB%8C%D9%84)
+- [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
 - NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5248) and [Tsunami](https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5703)
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/iscgem366754/executive)
 - [ISC](http://isc-mirror.iris.washington.edu/cgi-bin/FormatBibprint.pl?evid=366754)

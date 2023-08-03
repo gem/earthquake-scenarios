@@ -47,6 +47,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - [ISC](http://www.isc.ac.uk/cgi-bin/bibsearch.pl?searchshape=POLY&coordvals=&start_year=1989&start_month=12&start_day=27&stime=00%3A00%3A00&end_year=1989&end_month=12&end_day=28&etime=23%3A00%3A00&minyear=&maxyear=&sortby=day&publisher=&authors=)
 - [Learning_From_Earthquake](https://learningfromearthquakes.org/component/lfe_reports/?view=lfereports&id=117&layout=default)
 - [Worlddata](https://www.worlddata.info/australia/australia/earthquakes.php)
+- [Archive](https://web.archive.org/web/20110310002838/http://www.newcastle.nsw.gov.au/about_newcastle/history_and_heritage/earthquake)
 
 
 ### National databases / references

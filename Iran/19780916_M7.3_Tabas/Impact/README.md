@@ -50,6 +50,7 @@ There were no available detailed online databases for this earthquake.
 - Wikipedia [English](https://en.wikipedia.org/wiki/1978_Tabas_earthquake) and [Persian](https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1%D8%B2%D9%87_%DB%B1%DB%B3%DB%B5%DB%B7_%D8%B7%D8%A8%D8%B3)
 - NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/4815)
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjx/executive)
+- [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
 - [ISC](http://isc-mirror.iris.washington.edu/cgi-bin/FormatBibprint.pl?evid=676813)
 - [EM_DAT](https://public.emdat.be/data)
 - [FDSN](http://fdsn.adc1.iris.edu/networks/detail/I1/)
@@ -66,4 +67,3 @@ There were no available detailed online databases for this earthquake.
 
 
 ### Other useful references
-- Administrative level

@@ -40,12 +40,14 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8409) and [Tsunami](https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4441)
 - [EM-DAT](https://public.emdat.be/data)
 - [UTSU](https://iisee.kenken.go.jp/cgi-bin/utsu/result_eng.cgi)
-- [CEQID](http://www.ceqid.org/CEQID/Home.aspx)
+- [CEQID](http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=66&pid=32&prcid=17&ppid=600)
 - [Learning_From_Earthquakes](https://learningfromearthquakes.org/2009-09-30-padang/)
 - [Preventionweb](https://www.preventionweb.net/publication/west-sumatra-and-jambi-natural-disasters-damage-loss-and-preliminary-needs-assessment)
+- [Reliefweb](https://reliefweb.int/report/indonesia/indonesia-earthquake-situation-report-no-14)
 
 
 ### National databases / references
 - [Prasetya_And_Daryono_eds_2019](https://www.bmkg.go.id/gempabumi/katalog-gempabumi-signifikan.bmkg)
+- [Antara_News](https://web.archive.org/web/20091015095022/http://www.antara.co.id/en/news/1255472809/number-of-fatalities-in-w-sumatra-quake-now-1-115)
 
 ### Other useful references

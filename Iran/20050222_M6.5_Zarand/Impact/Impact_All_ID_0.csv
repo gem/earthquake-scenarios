@@ -2,7 +2,7 @@ ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,H
 IRN,Iran,612,612,1411,,,,,8000,,8000,Building,,,,,,,USGS,"At least 612 people killed and 1,411 injured in Kerman Province. An estimated 8,000 homes damaged or destroyed in the Zarand area. ",,,,,,,,,,
 IRN,Iran,612,612,,,,,,,,,,,,,,,,Worlddata,,,,,,,,,,,
 IRN,Iran,612,612,1411,,,93355,,,,,,,80000000,,USD,,,EM-DAT,Geo Locations: Zarand (Adm2),,,,,,,,,,
-IRN,Iran,612-912,612-912,1411,,,,,8000,,8000,Building,,80000000,,USD,,,Wikipedia,,,,,,,,,,,
+IRN,Iran,612-912,612-912,1411,,,,,8000,,8000,Building,,80000000,,USD,,,PAGER-CAT,,,,,,,,,,,
 IRN,Iran,612,612,1411,,,,,,,,,,,,,,,UTSU,,,,,,,,,,,
 IRN,Iran,,,,,80000,,,,,,,,,,,,,WHO,,,,,,,,,,,
 IRN,Iran,500,500,,,,,,,,,,,,,,,,Weston_et_al_2004,,,,,,,,,,,

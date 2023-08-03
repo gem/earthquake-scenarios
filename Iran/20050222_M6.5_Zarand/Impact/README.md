@@ -29,21 +29,22 @@ There were no available detailed online databases for this earthquake.
 
 ### Publications
 - **Choudhury_et_al_2006:** Swapnamita Choudhury, Sudipta Dasgupta, Arun K. Saraf & Santosh Panda (2006) Remote sensing observations of pre‐earthquake thermal anomalies in Iran, International Journal of Remote Sensing, 27:20, 4381-4396, DOI: 10.1080/01431160600851827. Last accessed April 2022.
-- **Ghasemi_et_al_2005:** Ghasemi, H., Sinaeian, F., BEYT, E. A., & Mirzaei, H. (2005). SEISMICITY OF ZARAND REGION AT SOUTH EAST OF IRAN. Last accessed April 2022.
-- **Ghayamghamian_et_al_2012:** Ghayamghamian, M. R., Ahmadzadeh, S., & Mirzaei, N. (2012). Evaluation of damage functions for non-engineering buildings during the 2005 Dahooiyeh-Zarand earthquake in Iran. Civil Engineering Sharif, 27, 13-19. Last accessed April 2022.
+- **Ghasemi_et_al_2005:** Ghasemi, H., Sinaeian, F., BEYT, E. A., & Mirzaei, H. (2005). SEISMICITY OF ZARAND REGION AT SOUTH EAST OF IRAN. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAIQw7AJahcKEwjIqaKH0ff_AhUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fwww.sid.ir%2FFileServer%2FJE%2F103820050404&psig=AOvVaw206l-P0Z13N7HxJWNg32rN&ust=1688648770188904&opi=89978449. Last accessed April 2022.
+- **Ghayamghamian_et_al_2012:** Ghayamghamian, M. R., Ahmadzadeh, S., & Mirzaei, N. (2012). Evaluation of damage functions for non-engineering buildings during the 2005 Dahooiyeh-Zarand earthquake in Iran. Civil Engineering Sharif, 27, 13-19. https://sjce.journals.sharif.edu/article_624.html?lang=en. Last accessed April 2022.
 - **Golshadi_et_al_2020:**  Golshadi, Z, Rezapour, M, Atzori, S, Salvi, S. Multiple source analysis from InSAR data and new insights into fault activation: The 2005 Zarand, Iran, earthquake. Terra Nova. 2021; 33: 274– 283. https://doi.org/10.1111/ter.12513. Last accessed November 2022.
-- **Hatami_et_al_2007:** Hatami, M, Pakzad, M, Kamalian, N, Mirzaei, N. (2007). Focal mechanism determination of Zarand Dahyiue earthquake by amplitude spectra and polarity. Journal of the Earth and Space Physics, 33(3), 1-1. Last accessed April 2022.
+- **Hatami_et_al_2007:** Hatami, M, Pakzad, M, Kamalian, N, Mirzaei, N. (2007). Focal mechanism determination of Zarand Dahyiue earthquake by amplitude spectra and polarity. Journal of the Earth and Space Physics, 33(3), 1-1. https://jesphys.ut.ac.ir/article_19306.html?lang=en. Last accessed April 2022.
 - **Mirzaei_et_al_2008:** Mirzaei, N, Hatami, M, Pakzad, M, and Kamalian, N. (2008). Calculation of the mechanism of the Esfand 1383 Dahouiye Zarand earthquake based on the spectrum of wave amplitude and polarization. Journal of Earth and Space Physics, 33(3), 0-0. (In Persian). https://sid.ir/paper/432922/fa. Last accessed February 2022.
 - **Nemati_et_al_2013:** Majid Nemati, James Hollingsworth, Zhongwen Zhan, Mohammad Javad Bolourchi, Morteza Talebian, Microseismicity and seismotectonic of the South Caspian Lowlands, NE Iran, Geophysical Journal International, Volume 193, Issue 3, June 2013, Pages 1053–1070, https://doi.org/10.1093/gji/ggs114. Last accessed April 2022.
 - **Nicknam_et_al_2010:**  Ahmad Nicknam, Reza Abbasnia, Mohsen Bozorgnasab & Yasser Eslamian (2010) Synthesizing Strong Motion Using Empirical Green's Function and Genetic Algorithm Approach, Journal of Earthquake Engineering, 14:4, 512-526, DOI: 10.1080/13632460903387103. Last accessed April 2022.  
 - **Rouhollahi_et_al_2012:** R. Rouhollahi, M. R. Ghayamghamian, F. Yaminifard, P. Suhadolc, M. Tatar, Source process and slip model of 2005 Dahuiyeh-Zarand earthquake (Iran) using inversion of near-field strong motion data, Geophysical Journal International, Volume 189, Issue 1, April 2012, Pages 669–680, https://doi.org/10.1111/j.1365-246X.2012.05387.x. Last accessed April 2022.
-- **Weston_et_al_2004:** Weston, J., Ferreira, A. M. G., & Funning, G. J. (2014). Joint earthquake source inversions using seismo-geodesy and 3-D earth models. Geophysical Journal International, 198(2), 671-696. Last accessed April 2022.
-- **William_et_al_2013:** Barnhart, W. D., Lohman, R. B., and Mellors, R. J. (2013), Active accommodation of plate convergence in Southern Iran: Earthquake locations, triggered aseismic slip, and regional strain rates, J. Geophys. Res. Solid Earth, 118, 5699– 5711, doi:10.1002/jgrb.50380. Last accessed April 2022. 
+- **Weston_et_al_2004:** Weston, J., Ferreira, A. M. G., & Funning, G. J. (2014). Joint earthquake source inversions using seismo-geodesy and 3-D earth models. Geophysical Journal International, 198(2), 671-696. https://doi.org/10.1093/gji/ggu110. Last accessed April 2022.
+- **William_et_al_2013:** Barnhart, W. D., Lohman, R. B., and Mellors, R. J. (2013), Active accommodation of plate convergence in Southern Iran: Earthquake locations, triggered aseismic slip, and regional strain rates, J. Geophys. Res. Solid Earth, 118, 5699– 5711. https://doi.org/10.1002/jgrb.50380. Last accessed April 2022. 
 
 
 ### Global databases / references
 - Wikipedia [English](https://en.wikipedia.org/wiki/2005_Zarand_earthquake) and [Persian](https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1%D8%B2%D9%87_%DB%B1%DB%B3%DB%B8%DB%B3_%D8%B2%D8%B1%D9%86%D8%AF) 
-- NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5751)
+- [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
+- NOAA [Earthquake](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/5848)
 - [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000dgpx/executive)
 - [ISC](http://isc-mirror.iris.washington.edu/cgi-bin/FormatBibprint.pl?evid=8007175)
 - [EM_DAT](https://public.emdat.be/data)

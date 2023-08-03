@@ -31,6 +31,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 ### Publications
 - **BAPPENAS_et_al_2006:** https://learningfromearthquakes.org/lfe/pdf/Indonesia_Yogyakarta_Preliminary_Damage_Assessment.pdf. Last accessed April 2023.
 - **Boen_2006:** Boen, T. (2006). Yogya Earthquake 27 May 2006, Structural Damage Report. https://www.semanticscholar.org/paper/Yogya-Earthquake-27-May-2006%2C-Structural-Damage-Boen/7a9355ce291a43fce6e50e3b293b097ed39063e5. Last accessed April 2023.
+- **CGI_2006:** Preliminary Damage and Loss Assessment – Yogyakarta and Central Java Natural Disaster (PDF), The 15th Meeting of The Consultative Group on Indonesia, Jakarta, June 14, 2006. https://message.worldbank.org/isp_error_page.htm. 
 - **EERI_Report:** The Mw 6.3 Java, Indonesia, Earthquake of May 27, 2006. https://learningfromearthquakes.org/lfe/pdf/indonesia_java_eeri_prelim_report.pdf. Last accessed April 2023.
 - **Idham_And_Mohd_2018:** Idham, N. C., & Mohd, M. (2018). Earthquake Vulnerability Level of Reconstructed Houses, Lesson Learned after Ten Years Java Earthquake 2006. In SHS Web of Conferences (Vol. 41, p. 06004). EDP Sciences. https://doi.org/10.1051/shsconf/20184106004. Last accessed May 2023.
 - **Pawirodikromo_2018:** Pawirodikromo, W. (2018). The estimated PGA map of the Mw6.4 2006 Yogyakarta Indonesia earthquake, constructed from the Modified Mercalli intensity IMM. Bulletin of the New Zealand Society for Earthquake Engineering. https://doi.org/10.5459/bnzsee.51.2.92-104. Last accessed May 2023.
@@ -43,9 +44,9 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - [NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/7245)
 - [UTSU](https://iisee.kenken.go.jp/cgi-bin/utsu/result_eng.cgi)
 - [EM_DAT](https://public.emdat.be/data)
-- [CEQID](http://www.ceqid.org/CEQID/Home.aspx)
+- [CEQID](http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=34&pid=32&prcid=17&ppid=600)
 - [Learning_From_Earthquakes](https://learningfromearthquakes.org/component/lfe_reports/?view=lfereports&id=185&layout=default)
-
+- [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
 
 ### National databases / references
 [Prasetya_And_Daryono_eds_2019](https://www.bmkg.go.id/gempabumi/katalog-gempabumi-signifikan.bmkg)

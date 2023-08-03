@@ -25,6 +25,7 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ## References
 
+
 ### Detailed online databases
 
 
@@ -41,6 +42,9 @@ Check the definitions of the parameters used in the impact files in the [impact 
 - [Worlddata](https://www.worlddata.info/asia/pakistan/earthquakes.php)
 - [Learnig_From_Earthqauke](https://www.learningfromearthquakes.org/component/lfe_reports/?view=lfereports&id=189&layout=default)
 - [CEQID](http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=26&pid=32&prcid=17&ppid=600)
+- [PAGER-CAT](https://earthquake.usgs.gov/static/lfs/data/pager/catalogs/)
+- [Britannica](https://www.britannica.com/event/Kashmir-earthquake-of-2005)
+- [Aljazeera](https://www.aljazeera.com/news/2005/10/16/relief-helicopter-crashes-in-pakistan)
 
 
 
