@@ -1,6 +1,8 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
 56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
 ",159, Seismic, Adjusted, USGS,AtkinsonBoore2003SInter,PGA,0.4007305,0.081,0.085,0.081
+186,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Stevens
+",256, Seismic, Adjusted, Stevens,AtkinsonBoore2003SInter,PGA,0.393876,-0.104,0.085,0.104
 55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
 ",173, Seismic, Adjusted, Kobayashi,AtkinsonBoore2003SInter,PGA,0.3910619,-0.159,0.085,0.159
 57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
@@ -15,6 +17,10 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",190, All, Adjusted, Kobayashi,AbrahamsonEtAl2015SInter,PGA,1.49174,0.314,0.071,0.314
 54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
 ",176, Seismic, Adjusted, Hayes,AtkinsonBoore2003SInter,PGA,0.38844472,-0.318,0.085,0.318
+186,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Stevens
+",256, Seismic, Adjusted, Stevens,AbrahamsonEtAl2015SInter,PGA,0.5102436,-0.343,0.114,0.343
+187,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+",216, All, Adjusted, Stevens,AbrahamsonEtAl2015SInter,PGA,1.2735229,0.367,0.071,0.367
 55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
 ",173, Seismic, Adjusted, Kobayashi,AbrahamsonEtAl2015SInter,PGA,0.48094368,-0.37,0.114,0.37
 57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
@@ -27,6 +33,8 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",176, Seismic, Adjusted, Hayes,AbrahamsonEtAl2015SInter,PGA,0.50124514,-0.506,0.114,0.506
 54,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Hayes
 ",176, Seismic, Adjusted, Hayes,Kanno2006Shallow,PGA,1.5617552,0.555,0.085,0.555
+186,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Stevens
+",256, Seismic, Adjusted, Stevens,ZhaoEtAl2006SInter,PGA,1.1631583,0.645,0.111,0.645
 58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
 ",176, All, Adjusted, Hayes,AtkinsonBoore2003SInter,PGA,1.49174,0.645,0.054,0.645
 57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
@@ -39,6 +47,10 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",190, All, Adjusted, Kobayashi,AtkinsonBoore2003SInter,PGA,1.49174,0.741,0.054,0.741
 56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
 ",159, Seismic, Adjusted, USGS,ZhaoEtAl2006SInter,PGA,1.1328212,0.816,0.111,0.816
+186,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Stevens
+",256, Seismic, Adjusted, Stevens,Kanno2006Shallow,PGA,1.5259091,0.824,0.085,0.824
+187,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+",216, All, Adjusted, Stevens,AtkinsonBoore2003SInter,PGA,1.2784573,0.832,0.054,0.832
 57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
 ",160, Seismic, Adjusted, Yagi,Kanno2006Shallow,PGA,2.0661843,0.849,0.085,0.849
 55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
@@ -49,6 +61,8 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",177, All, Adjusted, USGS,AtkinsonBoore2003SInter,PGA,1.49174,0.981,0.054,0.981
 56,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
 ",159, Seismic, Adjusted, USGS,Kanno2006Shallow,PGA,1.6296501,1.044,0.085,1.044
+186,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Stevens
+",256, Seismic, Adjusted, Stevens,AtkinsonMacias2009NSHMP2014,PGA,1.0222933,1.066,0.056,1.066
 55,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Kobayashi
 ",173, Seismic, Adjusted, Kobayashi,AtkinsonMacias2009NSHMP2014,PGA,0.9792515,1.074,0.056,1.074
 57,"20150425_M7.8_Gorkha median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:Yagi
@@ -61,6 +75,8 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",190, All, Adjusted, Kobayashi,ZhaoEtAl2006SInter,PGA,1.6803954,1.339,0.071,1.339
 61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
 ",179, All, Adjusted, Yagi,ZhaoEtAl2006SInter,PGA,1.6520845,1.345,0.071,1.345
+187,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+",216, All, Adjusted, Stevens,ZhaoEtAl2006SInter,PGA,1.6749074,1.369,0.071,1.369
 58,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Hayes
 ",176, All, Adjusted, Hayes,Kanno2006Shallow,PGA,3.4996214,1.415,0.052,1.415
 60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
@@ -71,14 +87,28 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",190, All, Adjusted, Kobayashi,Kanno2006Shallow,PGA,2.119831,1.583,0.052,1.583
 61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
 ",179, All, Adjusted, Yagi,Kanno2006Shallow,PGA,2.3602366,1.593,0.052,1.593
+187,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+",216, All, Adjusted, Stevens,Kanno2006Shallow,PGA,2.2661915,1.617,0.052,1.617
 59,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Kobayashi
 ",190, All, Adjusted, Kobayashi,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.629,0.034,1.629
+187,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+",216, All, Adjusted, Stevens,AtkinsonMacias2009NSHMP2014,PGA,1.3697181,1.648,0.034,1.648
 61,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Yagi
 ",179, All, Adjusted, Yagi,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.66,0.034,1.66
 60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
 ",177, All, Adjusted, USGS,AtkinsonMacias2009NSHMP2014,PGA,1.49174,1.754,0.034,1.754
 60,"20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:USGS
 ",177, All, Adjusted, USGS,Kanno2006Shallow,PGA,2.2467096,1.777,0.052,1.777
+185,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Stevens
+",14, None, Adjusted, Stevens,AbrahamsonEtAl2015SInter,PGA,0.71969014,,,
+185,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Stevens
+",14, None, Adjusted, Stevens,AtkinsonBoore2003SInter,PGA,0.20958813,,,
+185,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Stevens
+",14, None, Adjusted, Stevens,AtkinsonMacias2009NSHMP2014,PGA,0.35232854,,,
+185,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Stevens
+",14, None, Adjusted, Stevens,Kanno2006Shallow,PGA,0.74218094,,,
+185,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Stevens
+",14, None, Adjusted, Stevens,ZhaoEtAl2006SInter,PGA,0.6341995,,,
 50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
 ",5, None, Adjusted, Hayes,AbrahamsonEtAl2015SInter,PGA,0.8327327,,,
 50,"20150425_M7.8_Gorkha median gmf, Stations:None, gmlt:Adjusted, Rupture:Hayes
