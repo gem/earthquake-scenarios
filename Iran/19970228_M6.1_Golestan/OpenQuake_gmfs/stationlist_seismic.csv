@@ -1,38 +1,57 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
-HIST_5,Germy,48.07,39.02,seismic,0.0449,0.0
-20,Miyaneh,47.71,37.43,seismic,0.0166,0.0
-1695,AstaraStation,48.86,38.43,seismic,0.04527,0.0
-5,Bile-Savar,48.32,39.36,seismic,0.01153,0.0
-19,Meshkin Shahr,47.67,38.39,seismic,0.02328,0.0
-24,Razi-Khorasan,48.09,38.63,seismic,0.0465,0.0
-HIST_4,Bilehsavar,48.37,39.38,seismic,0.01153,0.0
+1833/02,Kariq,48.062,37.918,seismic,0.6155,0.0
+1701/01,Ardebil 2,48.258,38.222,seismic,0.16843,0.0
+1693/01,Ardebil 1,48.276,38.226,seismic,0.11447,0.0
+1724,Namin,48.477,38.423,seismic,0.11034,0.0
+1733,Helabad,48.42,37.92,seismic,0.07968,0.0
+1725,Sarab,47.541,37.935,seismic,0.06198,0.0
+1716,Hoorand,47.369,38.858,seismic,0.06157,0.0
+1691,Razi,48.094,38.63,seismic,0.04607,0.0
+1702,Germi,48.057,39.05,seismic,0.04539,0.0
+1695,Astara,48.869,38.422,seismic,0.04444,0.0
+1700,Meshkin Shahr,47.667,38.394,seismic,0.0261,0.0
+1731,Meshkin Shahr,47.67,38.39,seismic,0.0257,0.0
+1690,Niyaraq,48.627,38.265,seismic,0.0252,0.0
+1938/01,Kaleibar,47.043,38.863,seismic,0.02517,0.0
+1730,Tazeh Kandi,47.73,39.03,seismic,0.02511,0.0
+1735,Khalkhal,48.537,37.608,seismic,0.01923,0.0
+1687,Haris,47.119,38.247,seismic,0.01773,0.0
+1732,Givi,48.343,37.683,seismic,0.01671,0.0
+1722,Miyaneh,47.705,37.431,seismic,0.01667,0.0
+1970,Masal,49.127,37.37,seismic,0.01319,0.0
+1836,Khajeh,46.589,38.154,seismic,0.01209,0.0
+1696,Bile-Savar,48.319,39.364,seismic,0.01143,0.0
+1940,Liqvan,46.432,37.833,seismic,0.01095,0.0
 12,Kariq,48.06,37.92,seismic,0.58568,0.0
-25,Sarab,47.54,37.94,seismic,0.06269,0.0
-21,Namin,48.48,38.42,seismic,0.10944,0.0
-1,Ardebil 1,48.28,38.23,seismic,0.11555,0.0
-4,Astara,48.87,38.42,seismic,0.04444,0.0
-15,Liqvan,46.43,37.83,seismic,0.01115,0.0
-8,Haris,47.12,38.25,seismic,0.01789,0.0
-10,Hoorand,47.37,38.86,seismic,0.06129,0.0
-HIST_14,Miyaneh,47.71,37.42,seismic,0.01663,0.0
-26,Tazeh Kandi,47.73,39.03,seismic,0.02509,0.0
-6,Germi,48.06,39.05,seismic,0.04522,0.0
-9,Helabad,48.42,37.92,seismic,0.07719,0.0
-HIST_3,Astara,48.88,38.43,seismic,0.04398,0.0
 HIST_9,Kariq,48.05,37.87,seismic,0.5602,0.0
-22,Nir,48.02,38.04,seismic,0.05702,0.0
-13,Khajeh,46.59,38.15,seismic,0.01202,0.0
-HIST_2,Ardebil 2,48.3,38.25,seismic,0.16633,0.0
-14,Khalkhal,48.54,37.61,seismic,0.01923,0.0
-3,Ashkhaneh,56.92,37.56,seismic,0.09954,0.0
+1701-1,Ardebil2Station,48.26,38.241,seismic,0.17167,0.0
 2,Ardebil 2,48.26,38.22,seismic,0.16761,0.0
-HIST_10,Khalkhal,48.52,37.62,seismic,0.01918,0.0
+HIST_2,Ardebil 2,48.3,38.25,seismic,0.16633,0.0
+HIST_1,Ardebil,48.28,38.26,seismic,0.11633,0.0
+1,Ardebil 1,48.28,38.23,seismic,0.11555,0.0
+21,Namin,48.48,38.42,seismic,0.10944,0.0
+3,Ashkhaneh,56.92,37.56,seismic,0.09954,0.0
+25,Sarab,47.54,37.94,seismic,0.06269,0.0
+10,Hoorand,47.37,38.86,seismic,0.06129,0.0
+22,Nir,48.02,38.04,seismic,0.05702,0.0
+24,Razi-Khorasan,48.09,38.63,seismic,0.0465,0.0
+6,Germi,48.06,39.05,seismic,0.04522,0.0
+HIST_5,Germy,48.07,39.02,seismic,0.0449,0.0
+4,Astara,48.87,38.42,seismic,0.04444,0.0
+HIST_3,Astara,48.88,38.43,seismic,0.04398,0.0
 11,Kaleibar,47.04,38.86,seismic,0.02487,0.0
 23,Niyaraq,48.63,38.26,seismic,0.02476,0.0
 HIST_17,Niyaraq,48.58,38.32,seismic,0.02439,0.0
-HIST_1,Ardebil,48.28,38.26,seismic,0.11633,0.0
-17,Masal,49.13,37.37,seismic,0.01281,0.0
-1701-1,Ardebil2Station,48.26,38.241,seismic,0.17167,0.0
-HIST_7,Heris,47.12,38.33,seismic,0.01776,0.0
+14,Khalkhal,48.54,37.61,seismic,0.01923,0.0
+HIST_10,Khalkhal,48.52,37.62,seismic,0.01918,0.0
+8,Haris,47.12,38.25,seismic,0.01789,0.0
 7,Givi,48.34,37.68,seismic,0.01783,0.0
+HIST_7,Heris,47.12,38.33,seismic,0.01776,0.0
+HIST_14,Miyaneh,47.71,37.42,seismic,0.01663,0.0
+20,Miyaneh,47.71,37.43,seismic,0.0166,0.0
+17,Masal,49.13,37.37,seismic,0.01281,0.0
+13,Khajeh,46.59,38.15,seismic,0.01202,0.0
+HIST_4,Bilehsavar,48.37,39.38,seismic,0.01153,0.0
+5,Bile-Savar,48.32,39.36,seismic,0.01153,0.0
+15,Liqvan,46.43,37.83,seismic,0.01115,0.0
 16,Mah-Neshan,47.67,36.74,seismic,0.01062,0.0

@@ -1,22 +1,36 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
+1362/01,Ab-bar,48.954,36.925,seismic,0.63531,0.0
+1406,Tafresh,50.0,34.68,seismic,0.21611,0.0
+1354,Abhar,49.22,36.09,seismic,0.2153,0.0
+1353/01,Qazvin,50.0,36.26,seismic,0.2046,0.0
+1357/01,Lahijan,50.03,37.21,seismic,0.18794,0.0
+1359,Tonekabon,50.884,36.808,seismic,0.13257,0.0
+1364,Zanjan,48.5,36.66,seismic,0.13249,0.0
+1361,Gachsar,51.32,36.112,seismic,0.10165,0.0
+1355,Roodsar,50.3,37.13,seismic,0.0939,0.0
+1372,Eshtehard,50.37,35.72,seismic,0.07692,0.0
+1407,TEHRAN 42,51.39,35.71,seismic,0.06041,0.0
+1363/02,Kahrizak,51.35,35.52,seismic,0.04768,0.0
+1369,Roodshour,50.901,35.444,seismic,0.04486,0.0
+1371/02,Karaj,51.0,35.85,seismic,0.04067,0.0
+1352,TEHRAN 51,51.37,35.73,seismic,0.03516,0.0
+1358/02,Miyaneh,47.71,37.42,seismic,0.03456,0.0
+1365/02,Ardebil,48.28,38.26,seismic,0.03015,0.0
+1351,TEHRAN 41,51.48,35.7,seismic,0.02924,0.0
+1409/02,Koosk-e-Nosrat,50.88,35.16,seismic,0.02798,0.0
+1370/01,Robat Karim,51.08,35.47,seismic,0.0228,0.0
+1366,TEHRAN 39,51.42,35.77,seismic,0.02145,0.0
+1356/02,TEHRAN 47,51.32,35.69,seismic,0.01334,0.0
 Abbar,Abbar,48.97,36.92,seismic,0.41,0.0
 Abhar,Abhar,49.22,36.14,seismic,0.188,0.0
 Ghazvin,Ghazvin,50.01,36.27,seismic,0.182,0.0
-Lahijan,Lahijan,50.03,37.21,seismic,0.174,0.0
 Tonkabon,Tonkabon,50.87,36.81,seismic,0.13,0.0
 Zanjan,Zanjan,48.57,36.66,seismic,0.124,0.0
 Gachsar,Gachsar,51.31,36.11,seismic,0.098,0.0
-Roudsar,Roudsar,50.3,37.13,seismic,0.091,0.0
 Kahrizak,Kahrizak,51.36,35.51,seismic,0.046,0.0
-Ardebil,Ardebil,48.28,38.26,seismic,0.03,0.0
 Ab-Bar,Ab-Bar,48.95,36.92,seismic,0.648,0.0
-Abhar,Abhar,49.22,36.09,seismic,0.219,0.0
-Qazvin,Qazvin,50.0,36.26,seismic,0.188,0.0
-Zanjan,Zanjan,48.5,36.66,seismic,0.135,0.0
 Tonekabon,Tonekabon,50.88,36.81,seismic,0.134,0.0
-Eshtehard,Eshtehard,50.37,35.72,seismic,0.076,0.0
 Robat-Karim,Robat-Karim,51.07,35.46,seismic,0.066,0.0
-Kahrizak,Kahrizak,51.37,35.5,seismic,0.049,0.0
 1360,Manjil,49.39,36.76,seismic,0.44669,0.0
 TAFRESH,TAFRESH,50.02,34.69,seismic,0.2203,0.0
 ABH,Abhar,49.225,36.15,seismic,0.20918,0.0
@@ -24,16 +38,4 @@ QAZ,Qazvin,50.02,36.24,seismic,0.18367,0.0
 TON,Tonekabun,50.78,36.81,seismic,0.13674,0.0
 ZANJAN,ZANJAN,48.48,36.67,seismic,0.13506,0.0
 GCR,Gachsar,51.3,36.11,seismic,0.1051,0.0
-ROBATKARIM,ROBATKARIM,51.08,35.47,seismic,0.06683,0.0
-TEHRAN042,TEHRAN042,51.39,35.71,seismic,0.06158,0.0
-1363-1,Kahrizak,51.35,35.52,seismic,0.04689,0.0
-1369,Rudshur,50.901,35.444,seismic,0.04485,0.0
-1371-2,Karaj,51.0,35.85,seismic,0.03568,0.0
-MIYANEH,MIYANEH,47.71,37.42,seismic,0.03523,0.0
-TEH,Tehran-Building and Housing Research Center,51.37,35.73,seismic,0.03306,0.0
 KUSHKENOSRAT,KUSHKENOSRAT,50.9,35.11,seismic,0.02851,0.0
-HIST_7,Koosk-e-Nosrat,50.88,35.16,seismic,0.02745,0.0
-1370-2,Robat-Karim,35.47,51.08,seismic,0.01937,0.0
-1366,Chizar,51.42,35.77,seismic,0.01927,0.0
-TEHRAN047,TEHRAN047,51.32,35.69,seismic,0.0136,0.0
-THS,Tehran-Sarif University,51.48,35.7,seismic,0.01286,0.0
