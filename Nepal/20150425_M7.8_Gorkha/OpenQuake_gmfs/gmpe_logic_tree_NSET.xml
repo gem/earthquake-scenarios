@@ -28,7 +28,7 @@
 				<uncertaintyWeight>0.11</uncertaintyWeight>
 			</logicTreeBranch>
 
-			<logicTreeBranch branchID="b_06_26">
+			<logicTreeBranch branchID="bs_3">
 				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
 				<uncertaintyWeight>0.06</uncertaintyWeight>
 			</logicTreeBranch>

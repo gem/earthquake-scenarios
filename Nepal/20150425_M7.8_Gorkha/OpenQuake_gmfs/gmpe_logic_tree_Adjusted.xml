@@ -6,7 +6,7 @@
 
 			<logicTreeBranch branchID="b_1">
 				<uncertaintyModel>AtkinsonBoore2003SInter</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.17</uncertaintyWeight>
 			</logicTreeBranch>
 
 			<logicTreeBranch branchID="b_2">
@@ -15,29 +15,39 @@
                     gmpe.AtkinsonMacias2009NSHMP2014.NRCan15SiteTerm = {}
                     add_between_within_stds.with_betw_ratio = 0.6
                 </uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.17</uncertaintyWeight>
 			</logicTreeBranch>
 
 			<logicTreeBranch branchID="b_3">
 				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.17</uncertaintyWeight>
 			</logicTreeBranch>
+
 			<logicTreeBranch branchID="b_4">
 				<uncertaintyModel>                
                     [ModifiableGMPE]
                     gmpe.Kanno2006Shallow = {}
                     add_between_within_stds.with_betw_ratio = 0.6
                 </uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.17</uncertaintyWeight>
 			</logicTreeBranch>
 
-			<logicTreeBranch branchID='b6'>
+			<logicTreeBranch branchID='b5'>
 				<uncertaintyModel>
 					AbrahamsonEtAl2015SInter
 				</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.17</uncertaintyWeight>
 			</logicTreeBranch>
-		
+			
+			<logicTreeBranch branchID="b_6">
+				<uncertaintyModel>                
+                    [ModifiableGMPE]
+                    gmpe.YoungsEtAl1997SInter = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+                </uncertaintyModel>
+				<uncertaintyWeight>0.15</uncertaintyWeight>
+			</logicTreeBranch>
+
 		</logicTreeBranchSet>
 
 	</logicTree>

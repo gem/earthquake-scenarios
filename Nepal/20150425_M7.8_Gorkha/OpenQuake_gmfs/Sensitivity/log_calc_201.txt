@@ -1,0 +1,29 @@
+job_id: 201
+job_description: 20150425_M7.8_Gorkha median gmf, Stations:All, gmlt:Adjusted, Rupture:Stevens
+
+usuario@CYE running /Users/cye/Documents/wip/earthquake-scenarios/Nepal/20150425_M7.8_Gorkha/OpenQuake_gmfs/job_stations_all.ini [--hc=None]
+Using engine version 3.18.0-git3f1d27a840
+Using 0 cores on CYE
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2082018263 (total size 388.22 KB)
+Extracting the hazard sites from the site model
+Read N=6681 hazard sites and L=1 hazard levels
+Reading station data from /Users/cye/Documents/wip/earthquake-scenarios/Nepal/20150425_M7.8_Gorkha/OpenQuake_gmfs/stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 6590.0 per rupture
+totw = 4
+GSIM: [AbrahamsonEtAl2015SInter], IMT: PGA, Nominal bias mean: 0.078, Nominal bias stddev: 0.086
+GSIM: [AtkinsonBoore2003SInter], IMT: PGA, Nominal bias mean: 0.541, Nominal bias stddev: 0.065
+GSIM: [AtkinsonMacias2009NSHMP2014], IMT: PGA, Nominal bias mean: 1.310, Nominal bias stddev: 0.041
+GSIM: [Kanno2006Shallow], IMT: PGA, Nominal bias mean: 0.720, Nominal bias stddev: 0.063
+GSIM: [YoungsEtAl1997SInter], IMT: PGA, Nominal bias mean: 0.347, Nominal bias stddev: 0.050
+GSIM: [ZhaoEtAl2006SInter], IMT: PGA, Nominal bias mean: 0.686, Nominal bias stddev: 0.085
+gen_event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '696.42 KB', 'sig_eps': '393 B', 'times': '313 B'} in 0 seconds from gen_event_based
+Stored 417.87 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 1.35 MB on /Users/cye/oqdata/calc_201.hdf5 in 219 seconds
