@@ -57,6 +57,8 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 - **Building_Research_Institute_1996:** Building Research Institute, Ministry of Construction (1996). A Survey Report for Building Damages due to the 1995 Hyogo-Ken Nanbu Earthquake. Available online at: https://www.kenken.go.jp/japanese/research/iisee/list/topics/hyogo/pdf/english/hyogo-ken-nanbu-earthquake-all.pdf.
 
+- **Chung_1996:** Chung, R. (1996). January 17, 1995 Hyogoken-Nanbu (Kobe) earthquake: Performance of structures, lifelines, and fire protection systems (NIST SP 901), special publication (NIST SP). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.901.
+
 - **DPRI-Akamatsu_etal + Cambridge Earthquake Impact Database:** Akamatsu J, Hitoshi M, Hideo S, and Mituru J (1995). A Relation between distribution of damages caused the 1995 southern Hyogo Prefecture Earthquake and ground vibrational characteristics inferred from microtermors. From DPRI News Letter: Disaster Prevention Research Institute Kyoto University Special Issue February 1995: Preliminary Report on the Great Hanshin Earthquake of January 17, 1995. Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=6&pid=32&prcid=17&ppid=600.
 
 - **DPRI-Fujiwara_etal + Cambridge Earthquake Impact Database:** Fujiwara T, Suzuki Y, Nakashima M, Iwai S, Kitahara A, Bruneau M (1995). Overview of Buidling Damage from the 1995 Great Hanshin Earthquake. From DPRI News Letter: Disaster Prevention Research Institute Kyoto University Special Issue February 1995: Preliminary Report on the Great Hanshin Earthquake of January 17, 1995. Available online at: http://www.ceqid.org/CEQID/Earthquake.aspx?p=32&ix=6&pid=32&prcid=17&ppid=600.
