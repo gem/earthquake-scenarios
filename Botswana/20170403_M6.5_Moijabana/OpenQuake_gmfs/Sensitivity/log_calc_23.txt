@@ -1,11 +1,11 @@
-job_id: 24
-job_description: 20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+job_id: 23
+job_description: 20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
 
 martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd_github_repo/earthquake-scenarios/Botswana/20170403_M6.5_Moijabana/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
 Using engine version 3.18.0-git3e61e4ad31
 Using 10 cores on Gems-MBP.homenet.telecomitalia.it
 Running EventBasedCalculator with concurrent_tasks = 20
-Checksum of the inputs: 3100400517 (total size 587.77 KB)
+Checksum of the inputs: 2504711826 (total size 585.56 KB)
 Extracting the hazard sites from the site model
 Read N=10751 hazard sites and L=1 hazard levels
 min_iml=[1.e-10]
@@ -14,9 +14,9 @@ Reading 1 ruptures
 Affected sites = 10751.0 per rupture
 totw = 5
 gen_event_based 100% [1 submitted, 0 queued]
-Received {'gmfdata': '1.48 MB', 'sig_eps': '435 B', 'times': '313 B'} in 1 seconds from gen_event_based
-Stored 1.11 MB of GMFs
+Received {'gmfdata': '336.27 KB', 'sig_eps': '337 B', 'times': '313 B'} in 1 seconds from gen_event_based
+Stored 252.06 KB of GMFs
 Checking stored GMFs
 No PGAs over 5 g found
 Exposing the outputs to the database
-Stored 2.43 MB on /Users/martina.caruso/oqdata/calc_24.hdf5 in 2 seconds
+Stored 1.56 MB on /Users/martina.caruso/oqdata/calc_23.hdf5 in 2 seconds

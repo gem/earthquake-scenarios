@@ -1,28 +1,32 @@
 job_id: 26
-job_description: 20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+job_description: 20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
 
-martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd/Botswana/20170403_M6.5_Moijabana/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
-Using engine version 3.17.0-git8980c54d7f
+martina.caruso@Gems-MBP.homenet.telecomitalia.it running /Users/martina.caruso/Documents/wip/ecd_github_repo/earthquake-scenarios/Botswana/20170403_M6.5_Moijabana/OpenQuake_gmfs/job_stations_all.ini [--hc=None]
+Using engine version 3.18.0-git3e61e4ad31
 Using 10 cores on Gems-MBP.homenet.telecomitalia.it
 Running EventBasedCalculator with concurrent_tasks = 20
-Checksum of the inputs: 3959583806 (total size 590.11 KB)
+Checksum of the inputs: 2082566794 (total size 590.11 KB)
 Extracting the hazard sites from the site model
 Read N=10765 hazard sites and L=1 hazard levels
-Reading station data from /Users/martina.caruso/Documents/wip/ecd/Botswana/20170403_M6.5_Moijabana/OpenQuake_gmfs/stationlist_all.csv
+Reading station data from /Users/martina.caruso/Documents/wip/ecd_github_repo/earthquake-scenarios/Botswana/20170403_M6.5_Moijabana/OpenQuake_gmfs/stationlist_all.csv
 min_iml=[1.e-10]
 Reordering the ruptures and storing the events
 Reading 1 ruptures
-GMM: Atkinson2008prime, IMT: PGA, Nominal bias mean: -0.030, Nominal bias stddev: 0.215
-GMM: AtkinsonBoore2006Modified2011, IMT: PGA, Nominal bias mean: -0.205, Nominal bias stddev: 0.256
-GMM: Campbell2003MwNSHMP2008, IMT: PGA, Nominal bias mean: -0.254, Nominal bias stddev: 0.195
-GMM: FrankelEtAl1996MwNSHMP2008, IMT: PGA, Nominal bias mean: -0.352, Nominal bias stddev: 0.271
-GMM: PezeshkEtAl2011, IMT: PGA, Nominal bias mean: -0.111, Nominal bias stddev: 0.221
-GMM: SilvaEtAl2002MwNSHMP2008, IMT: PGA, Nominal bias mean: -0.196, Nominal bias stddev: 0.294
-GMM: SomervilleEtAl2001NSHMP2008, IMT: PGA, Nominal bias mean: -0.270, Nominal bias stddev: 0.229
-GMM: TavakoliPezeshk2005MwNSHMP2008, IMT: PGA, Nominal bias mean: -0.280, Nominal bias stddev: 0.201
-GMM: ToroEtAl1997MwNSHMP2008, IMT: PGA, Nominal bias mean: -0.131, Nominal bias stddev: 0.271
-event_based 100% [1 submitted, 0 queued]
-Received {'gmfdata': '2.22 MB', 'sig_eps': '435 B', 'times': '332 B', 'hcurves': '5 B'} in 978 seconds from event_based
+Affected sites = 10765.0 per rupture
+totw = 5
+GSIM: [Atkinson2008prime], IMT: PGA, Nominal bias mean: -0.030, Nominal bias stddev: 0.215
+GSIM: [AtkinsonBoore2006Modified2011], IMT: PGA, Nominal bias mean: -0.205, Nominal bias stddev: 0.256
+GSIM: [Campbell2003MwNSHMP2008], IMT: PGA, Nominal bias mean: -0.254, Nominal bias stddev: 0.195
+GSIM: [FrankelEtAl1996MwNSHMP2008], IMT: PGA, Nominal bias mean: -0.352, Nominal bias stddev: 0.271
+GSIM: [PezeshkEtAl2011], IMT: PGA, Nominal bias mean: -0.111, Nominal bias stddev: 0.221
+GSIM: [SilvaEtAl2002MwNSHMP2008], IMT: PGA, Nominal bias mean: -0.196, Nominal bias stddev: 0.294
+GSIM: [SomervilleEtAl2001NSHMP2008], IMT: PGA, Nominal bias mean: -0.270, Nominal bias stddev: 0.229
+GSIM: [TavakoliPezeshk2005MwNSHMP2008], IMT: PGA, Nominal bias mean: -0.280, Nominal bias stddev: 0.201
+GSIM: [ToroEtAl1997MwNSHMP2008], IMT: PGA, Nominal bias mean: -0.131, Nominal bias stddev: 0.271
+gen_event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '1.85 MB', 'sig_eps': '435 B', 'times': '313 B'} in 0 seconds from gen_event_based
 Stored 1.11 MB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
 Exposing the outputs to the database
-Stored 1.83 MB on /Users/martina.caruso/oqdata/calc_26.hdf5 in 979 seconds
+Stored 2.45 MB on /Users/martina.caruso/oqdata/calc_26.hdf5 in 980 seconds
