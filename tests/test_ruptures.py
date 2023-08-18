@@ -144,6 +144,7 @@ def test_rupture_info(event):
         exclude = ['Mexico/20210907_M7.1_Guerrero',
                    'Albania/20191126_M6.4_Albania',
                    'Netherlands/19920413_M5.3_Roermond',
+                   'Colombia/20230817_M6.1_ElCalvario',
                    'Croatia/20201229_M6.3_Petrijna',
                    'Greece/19881016_M5.88_Elia',
                    'Greece/19810000_Sequence_GulfOfCorinth/19810225_M6.4_GulfofCorinth',
