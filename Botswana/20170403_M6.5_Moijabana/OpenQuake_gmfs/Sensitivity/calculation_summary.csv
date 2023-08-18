@@ -1,49 +1,45 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,Atkinson2008prime,PGA,0.8923626,-0.03,0.215,0.03
-27,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",327, Seismic, GEM, USGS,AbrahamsonEtAl2014,PGA,0.3482034,0.099,0.272,0.099
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,PezeshkEtAl2011,PGA,0.2653111,-0.111,0.221,0.111
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,ToroEtAl1997MwNSHMP2008,PGA,0.77857643,-0.131,0.271,0.131
-27,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",327, Seismic, GEM, USGS,ChiouYoungs2014,PGA,0.2783559,0.137,0.214,0.137
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,SilvaEtAl2002MwNSHMP2008,PGA,1.0459937,-0.196,0.294,0.196
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,AtkinsonBoore2006Modified2011,PGA,0.2000097,-0.205,0.256,0.205
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,Campbell2003MwNSHMP2008,PGA,0.49360254,-0.254,0.195,0.254
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,SomervilleEtAl2001NSHMP2008,PGA,0.4806013,-0.27,0.229,0.27
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,TavakoliPezeshk2005MwNSHMP2008,PGA,0.60644126,-0.28,0.201,0.28
-26,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",979, Seismic, USGS, USGS,FrankelEtAl1996MwNSHMP2008,PGA,0.3164578,-0.352,0.271,0.352
-27,"20170403_M6.5_Moijabana median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",327, Seismic, GEM, USGS,AkkarCagnan2010,PGA,0.43633914,0.385,0.319,0.385
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,Atkinson2008prime,PGA,0.8923626,-0.03,0.215,0.03
+25,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",217, All, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.22756141,-0.034,0.221,0.034
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,PezeshkEtAl2011,PGA,0.2653111,-0.111,0.221,0.111
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,ToroEtAl1997MwNSHMP2008,PGA,0.77857643,-0.131,0.271,0.131
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,SilvaEtAl2002MwNSHMP2008,PGA,1.0459937,-0.196,0.294,0.196
+25,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",217, All, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.2000097,-0.205,0.256,0.205
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,AtkinsonBoore2006Modified2011,PGA,0.2000097,-0.205,0.256,0.205
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,Campbell2003MwNSHMP2008,PGA,0.49360254,-0.254,0.195,0.254
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,SomervilleEtAl2001NSHMP2008,PGA,0.4806013,-0.27,0.229,0.27
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,TavakoliPezeshk2005MwNSHMP2008,PGA,0.60644126,-0.28,0.201,0.28
+26,"20170403_M6.5_Moijabana median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+",980, All, USGS, USGS,FrankelEtAl1996MwNSHMP2008,PGA,0.3164578,-0.352,0.271,0.352
+23,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",2, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.24544284,,,
+23,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",2, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.23547716,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,Atkinson2008prime,PGA,0.91969997,,,
+",2, None, USGS, USGS,Atkinson2008prime,PGA,0.91969997,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,AtkinsonBoore2006Modified2011,PGA,0.24544284,,,
+",2, None, USGS, USGS,AtkinsonBoore2006Modified2011,PGA,0.24544284,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,Campbell2003MwNSHMP2008,PGA,0.63616544,,,
+",2, None, USGS, USGS,Campbell2003MwNSHMP2008,PGA,0.63616544,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,FrankelEtAl1996MwNSHMP2008,PGA,0.44976687,,,
+",2, None, USGS, USGS,FrankelEtAl1996MwNSHMP2008,PGA,0.44976687,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,PezeshkEtAl2011,PGA,0.2964482,,,
+",2, None, USGS, USGS,PezeshkEtAl2011,PGA,0.2964482,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,SilvaEtAl2002MwNSHMP2008,PGA,1.2728283,,,
+",2, None, USGS, USGS,SilvaEtAl2002MwNSHMP2008,PGA,1.2728283,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,SomervilleEtAl2001NSHMP2008,PGA,0.6295956,,,
+",2, None, USGS, USGS,SomervilleEtAl2001NSHMP2008,PGA,0.6295956,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,TavakoliPezeshk2005MwNSHMP2008,PGA,0.80272794,,,
+",2, None, USGS, USGS,TavakoliPezeshk2005MwNSHMP2008,PGA,0.80272794,,,
 24,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,ToroEtAl1997MwNSHMP2008,PGA,0.88783145,,,
-25,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,AbrahamsonEtAl2014,PGA,0.325505,,,
-25,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,AkkarCagnan2010,PGA,0.29694375,,,
-25,"20170403_M6.5_Moijabana median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,ChiouYoungs2014,PGA,0.24938561,,,
+",2, None, USGS, USGS,ToroEtAl1997MwNSHMP2008,PGA,0.88783145,,,
