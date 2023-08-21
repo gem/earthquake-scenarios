@@ -15,9 +15,8 @@ Available information in the folders:
 
 # 🚀 The earthquake at a glance 
 
-A catastrophic magnitude 7.0 Mw earthquake struck Haiti at 16:53 local time (21:53 UTC) on Tuesday, 12 January 2010. The epicenter was near the town of Léogâne, Ouest department, approximately 25 kilometres (16 mi) west of Port-au-Prince, Haiti's capital.
-[Wikipedia](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
-
+On August 17, 2023, at 12:04 local time, an earthquake of magnitude 6.1 and superficial depth (less than 30 kilometers) occurred in El Calvario, Meta. The event was felt mainly in the departments of Cundinamarca, Meta, Caquetá, Risaralda, Caldas, Cauca, Nariño and Santander. The Colombian Geological Service (SGC) confirmed that, since the occurrence of the main earthquake and until 2:00 p.m. on the same day, more than 20 aftershocks were registered (all located in Meta) with magnitudes ranging from 2.0 to 5.6, and with shallow depths.
+[SGC](https://www2.sgc.gov.co/Noticias/tpaginas/Comunicado-sismo-17-de-agosto-de-2023.docx.pdf)
 
 
 ## Ground shaking
@@ -37,29 +36,29 @@ A summary of the main consequences of the event is available in the [earthquake_
 |:---------------------|:-----------------------------------------------------------------------|
 | Year                 | 2023                                                                   |
 | Country              | Colombia                                                               |
-| Region               | Meta                                                                    |
+| Region               | Meta                                                                   |
 | Event_Name           | El Calvario                                                            |
 | Local_Date           | 2023-08-17                                                             |
 | Local_Time           | 12:04:57                                                               |
 | Longitude            | -73.5111                                                               |
 | Latitude             | 4.4177                                                                 |
-| Depth_(km)           | 10                                                                     |
+| Depth_(km)           | 15                                                                     |
 | Mw                   | 6.1                                                                    |
 | Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | nan                                                                    |
-| Tectonic_region_type | nan                                                                    |
+| Fault_mechanism      | Strike-slip                                                            |
+| Tectonic_region_type | Active Shallow                                                         |
 | Fatalities           | 0                                                                      |
-| Injured              | nan                                                                    |
+| Injured              | 0                                                                      |
 | Displaced_Population | nan                                                                    |
 | Affected_Population  | nan                                                                    |
 | Affected_Units       | nan                                                                    |
-| Damaged_Units        | 82                                                                     |
-| Collapsed_Units      | 10                                                                     |
+| Damaged_Units        | 252                                                                    |
+| Collapsed_Units      | 20                                                                     |
 | Economic_Losses      | nan                                                                    |
 | Insured_Losses       | nan                                                                    |
 | Induced_Effects      | nan                                                                    |
 | USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us7000kp2i/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2010_Haiti_earthquake                    |
+| Wikipedia page       | https://en.wikipedia.org/wiki/2023_central_Colombia_earthquakes        |
 
 
 # 🌟 Contributors 

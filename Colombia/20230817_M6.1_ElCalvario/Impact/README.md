@@ -24,4 +24,4 @@ Check the definitions of the parameters used in the impact files in the [impact 
 
 ## References
 
-- `UNGRD:` Reporte situacional N° 003 Evento Sísmico. Evento Sísmico 17 de agosto de 2023. SUBDIRECCIÓN PARA EL MANEJO DE DESASTRES, Unidad Nacional de Gestión del Riesgo de Desastres.
+- `UNGRD:` Unidad Nacional de Gestión del Riesgo de Desastres, Colombia. "UNGRD actualiza reportes de afectación por sismos presentados en el centro del país", 18 de agosto de 2023. https://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2023/UNGRD-actualiza-reportes-de-afectacion-por-sismos-presentados-en-el-centro-del-pais.aspx

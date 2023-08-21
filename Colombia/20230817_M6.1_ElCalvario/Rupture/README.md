@@ -23,7 +23,7 @@
 
 - `USGS.json`: USGS rupture. https://earthquake.usgs.gov/product/shakemap/us7000kp2i/us/1692303340170/download/rupture.json. Last accessed 18 August 2023.
 - `GFZ.pdf`: http://geofon.gfz-potsdam.de/eqinfo/event.php?id=gfz2023qbwn
-- `SGC_SCMTV.pdf` and `SGC_SWIFT.pdf`: Moment tensor solutions from the Colombian Geological Service (SGC). https://www.sgc.gov.co/detalleevento/SGC2023qelupa/tm. Last accessed 18 August 2023.
+- `SGC_SCMTV.pdf` and `SGC_SWIFT.pdf`: Moment tensor solutions from the Colombian Geological Service (SGC). https://www.sgc.gov.co/detalleevento/SGC2023qdvnvf/tm. Last accessed 18 August 2023.
 
 
 ## Notes
