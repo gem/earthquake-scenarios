@@ -1,0 +1,73 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,CauzziEtAl2014,PGA,0.46582815,0.257,0.129,0.257
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,CampbellBozorgnia2014,PGA,0.469059,0.305,0.104,0.305
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,CauzziEtAl2014,PGA,0.47015306,0.331,0.129,0.331
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,CauzziEtAl2014,PGA,0.40875882,0.361,0.129,0.361
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,ChiouYoungs2014,PGA,0.46448565,0.373,0.11,0.373
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,CampbellBozorgnia2014,PGA,0.5090437,0.384,0.104,0.384
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,AbrahamsonEtAl2014,PGA,0.46637985,0.395,0.112,0.395
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,ChiouYoungs2014,PGA,0.59050643,0.474,0.109,0.474
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,AkkarEtAlRjb2014,PGA,0.6962261,0.497,0.129,0.497
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,BooreEtAl2014,PGA,0.8316676,0.516,0.117,0.516
+298,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:SGC
+",55, Seismic, Adjusted, SGC,AkkarEtAlRjb2014,PGA,0.7166616,0.521,0.129,0.521
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,CampbellBozorgnia2014,PGA,0.67595947,0.526,0.104,0.526
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,ChiouYoungs2014,PGA,0.5384668,0.527,0.113,0.527
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,BooreEtAl2014,PGA,0.92400604,0.532,0.117,0.532
+300,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:USGS
+",57, Seismic, Adjusted, USGS,AbrahamsonEtAl2014,PGA,0.64432037,0.551,0.112,0.551
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,AbrahamsonEtAl2014,PGA,0.55634725,0.558,0.112,0.558
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,AkkarEtAlRjb2014,PGA,0.8726792,0.605,0.129,0.605
+299,"20230817_M6.1_ElCalvario median gmf, Stations:Seismic, gmlt:Adjusted, Rupture:GFZ
+",55, Seismic, Adjusted, GFZ,BooreEtAl2014,PGA,1.0319402,0.685,0.117,0.685
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,AbrahamsonEtAl2014,PGA,0.275951,,,
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,AkkarEtAlRjb2014,PGA,0.3506011,,,
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,BooreEtAl2014,PGA,0.4317356,,,
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,CampbellBozorgnia2014,PGA,0.30771607,,,
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,CauzziEtAl2014,PGA,0.16866447,,,
+295,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+",8, None, Adjusted, SGC,ChiouYoungs2014,PGA,0.24061976,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,AbrahamsonEtAl2014,PGA,0.29435134,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,AkkarEtAlRjb2014,PGA,0.36958173,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,BooreEtAl2014,PGA,0.4435675,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,CampbellBozorgnia2014,PGA,0.30257943,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,CauzziEtAl2014,PGA,0.25605676,,,
+296,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:GFZ
+",8, None, Adjusted, GFZ,ChiouYoungs2014,PGA,0.27559975,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,AbrahamsonEtAl2014,PGA,0.35985142,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,AkkarEtAlRjb2014,PGA,0.37317044,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,BooreEtAl2014,PGA,0.49821678,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,CampbellBozorgnia2014,PGA,0.38376898,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,CauzziEtAl2014,PGA,0.28983212,,,
+297,"20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:USGS
+",8, None, Adjusted, USGS,ChiouYoungs2014,PGA,0.3500381,,,

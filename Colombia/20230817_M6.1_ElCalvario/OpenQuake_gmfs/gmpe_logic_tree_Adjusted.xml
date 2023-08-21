@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+      xmlns="http://openquake.org/xmlns/nrml/0.5">
+    <logicTree logicTreeID='lt1'>
+
+<!-- Logic Tree for Active Shallow Crust combining all GMPEs from SGC, GEM and USGS-->
+
+        <logicTreeBranchingLevel branchingLevelID="bl05">
+            <logicTreeBranchSet branchSetID="bs05" uncertaintyType="gmpeModel"
+                    applyToTectonicRegionType="Active Shallow Crust">
+
+                <!-- <logicTreeBranch branchID="SGC_1">
+                    <uncertaintyModel>Idriss2014</uncertaintyModel>
+                    <uncertaintyWeight>0.17</uncertaintyWeight>
+                </logicTreeBranch>   Removed because of the high values for low vs30 --> 
+                
+                <logicTreeBranch branchID="SGC_2_GEM_3">
+                    <uncertaintyModel>CauzziEtAl2014</uncertaintyModel>
+                    <uncertaintyWeight>0.17</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID="SGC_3_GEM_1_USGS_4">
+                    <uncertaintyModel>AbrahamsonEtAl2014</uncertaintyModel>
+                    <uncertaintyWeight>0.17</uncertaintyWeight>
+                </logicTreeBranch>
+                
+                <logicTreeBranch branchID="GEM_2">
+                    <uncertaintyModel>AkkarEtAlRjb2014</uncertaintyModel>
+                    <uncertaintyWeight>0.17</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID='USGS_1'>
+                    <uncertaintyModel>
+                        BooreEtAl2014
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.17</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID='USGS_2'>
+                    <uncertaintyModel>
+                        CampbellBozorgnia2014
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.16</uncertaintyWeight>
+                </logicTreeBranch>
+
+                <logicTreeBranch branchID='USGS_3'>
+                    <uncertaintyModel>
+                        ChiouYoungs2014
+                    </uncertaintyModel>
+                    <uncertaintyWeight>0.16</uncertaintyWeight>
+                </logicTreeBranch>            
+
+            </logicTreeBranchSet>
+        </logicTreeBranchingLevel> 
+
+    </logicTree>
+</nrml>

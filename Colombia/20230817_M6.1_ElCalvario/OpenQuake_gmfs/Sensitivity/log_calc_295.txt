@@ -1,0 +1,22 @@
+job_id: 295
+job_description: 20230817_M6.1_ElCalvario median gmf, Stations:None, gmlt:Adjusted, Rupture:SGC
+
+usuario@CYE running /Users/cye/Documents/wip/earthquake-scenarios/Colombia/DRAFT_20230817_M6.1_ElCalvario/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.18.0-gitd03a7d005f
+Using 8 cores on CYE
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3677779993 (total size 202.4 KB)
+Extracting the hazard sites from the site model
+Read N=3841 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 3841.0 per rupture
+totw = 2
+gen_event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '360.39 KB', 'sig_eps': '393 B', 'times': '313 B'} in 6 seconds from gen_event_based
+Stored 270.29 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 825.2 KB on /Users/cye/oqdata/calc_295.hdf5 in 8 seconds
