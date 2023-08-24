@@ -230,6 +230,53 @@ def MontalvoArrietaEtAl2019():
     # Return result
     return supported_imts, constants, conversions
 
+
+def WordenEtAl2012():
+    """
+    C. B. Worden, M. C. Gerstenberger, D. A. Rhoades, D. J. Wald; 
+    Probabilistic Relationships between Ground‐Motion Parameters and 
+    Modified Mercalli Intensity in California. 
+    Bulletin of the Seismological Society of America 2012;; 
+    102 (1): 204–221. doi: https://doi.org/10.1785/0120110156
+    
+    Simplified Predictive Equations:
+
+    MMI = a1 + b1 log(Y) for MMI ≤ t1
+    MMI = a2 + b2 log(Y) for MMI > t1
+    """
+
+    # Supported IMTs
+    supported_imts = ["PGA" ,"PGV", "SA(0.3)", "SA(1.0)", "SA(3.0)"]
+
+    # Conversion from units to g
+    conversions = dict.fromkeys(["acceleration", "velocity"])
+    conversions["acceleration"] = (1./9.81) * (1./100.) # cm/s^2 to g
+    conversions["velocity"] = 1. # cm/s to cm/s
+
+    # Constants NOTE: The authors note a1 as c1, b1 as b1, a2 as c3, b2 as c4, t_MMI as t1
+    # Constants:
+    constants = {
+        "PGV": {'a1':  3.78,  'b1': 1.47,
+                'a2':  2.89,  'b2': 3.16,
+                'σ1':  0.65,  'σ2': 0.65,   't_MMI': 0.53},
+        "PGA": {'a1':  1.78,  'b1': 1.55,
+                'a2':  -1.60, 'b2': 3.70,
+                'σ1':  0.73,  'σ2': 0.73,   't_MMI': 1.57},
+        "SA(0.3)": {'a1':  1.26,  'b1': 1.69,
+                    'a2':  -4.15, 'b2': 4.14,
+                    'σ1':  0.84,  'σ2': 0.84,   't_MMI': 2.21},
+        "SA(1.0)": {'a1':  2.50,  'b1': 1.51,
+                    'a2':  0.20,  'b2': 2.90,
+                    'σ1':  0.80,  'σ2': 0.80,   't_MMI': 1.65},
+        "SA(3.0)": {'a1':  3.81,  'b1': 1.17,
+                    'a2':  1.99,  'b2': 3.01,
+                    'σ1':  0.95,  'σ2': 0.95,   't_MMI': 0.99},                                        
+                }
+
+    # Return result
+    return supported_imts, constants, conversions
+
+
 # -------------------------------------------------------------------------
 # Simplified GMICE (MMI = a + b log Y)
 # -------------------------------------------------------------------------
@@ -386,6 +433,7 @@ def gmice(name, stations_df):
                         "CaprioEtAl2015": GenericPiecewiseGMICE,
                         "MoratalaEtAl2021": GenericPiecewiseGMICE,
                         "MontalvoArrietaEtAl2019": GenericPiecewiseGMICE,
+                        "WordenEtAl2012": GenericPiecewiseGMICE,
                         }
     gmice_dispatcher = {
                         "AhmadzadehEtAl2020": AhmadzadehEtAl2020,
@@ -395,6 +443,7 @@ def gmice(name, stations_df):
                         "CaprioEtAl2015": CaprioEtAl2015,
                         "MoratalaEtAl2021": MoratalaEtAl2021,
                         "MontalvoArrietaEtAl2019": MontalvoArrietaEtAl2019,
+                        "WordenEtAl2012": WordenEtAl2012,
                         }
     supported_gmice = list(gmice_dispatcher.keys())
     assert (name in supported_gmice), f"{name} not yet implemented; try {supported_gmice}"
