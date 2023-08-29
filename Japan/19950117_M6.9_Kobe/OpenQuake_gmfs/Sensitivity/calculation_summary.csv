@@ -7,32 +7,40 @@ calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,no
 ",216, Seismic, GEM, GCMT,ChiouYoungs2014,PGA,0.821,0.166,0.123,0.166
 112,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
 ",216, Seismic, GEM, USGS,ZhaoEtAl2016Asc,PGA,0.9542296,0.25,0.161,0.25
+2,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",282, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.8399257,0.287,0.121,0.287
 112,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
 ",216, Seismic, GEM, USGS,ChiouYoungs2014,PGA,0.8399257,0.287,0.121,0.287
 114,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
 ",285, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.83937186,0.303,0.123,0.303
 113,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
 ",287, Seismic, USGS, JMA,AbrahamsonEtAl2014,PGA,0.821,0.317,0.13,0.317
+2,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",282, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,1.0651011,0.32,0.119,0.32
 111,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
 ",216, Seismic, GEM, GCMT,ZhaoEtAl2016Asc,PGA,0.8614372,0.342,0.161,0.342
+2,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",282, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.878399,0.349,0.131,0.349
 113,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
 ",287, Seismic, USGS, JMA,ChiouYoungs2014,PGA,0.82986647,0.357,0.121,0.357
 110,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
 ",216, Seismic, GEM, JMA,ChiouYoungs2014,PGA,0.82986647,0.357,0.121,0.357
 112,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
 ",216, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.8396927,0.384,0.134,0.384
-114,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",285, Seismic, USGS, GCMT,BooreEtAl2014,PGA,1.1618811,0.451,0.134,0.451
+2,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",282, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.8396927,0.384,0.134,0.384
 111,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
 ",216, Seismic, GEM, GCMT,BooreEtAl2014,PGA,1.1618811,0.451,0.134,0.451
+114,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
+",285, Seismic, USGS, GCMT,BooreEtAl2014,PGA,1.1618811,0.451,0.134,0.451
 113,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
 ",287, Seismic, USGS, JMA,CampbellBozorgnia2014,PGA,0.821,0.52,0.122,0.52
 110,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
 ",216, Seismic, GEM, JMA,ZhaoEtAl2016Asc,PGA,0.86623377,0.533,0.161,0.533
-113,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
-",287, Seismic, USGS, JMA,BooreEtAl2014,PGA,0.95119584,0.634,0.135,0.634
 110,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:GEM, Rupture:JMA
 ",216, Seismic, GEM, JMA,BooreEtAl2014,PGA,0.95119584,0.634,0.135,0.634
+113,"19950117_M6.9_Kobe median gmf, Stations:Seismic, gmlt:USGS, Rupture:JMA
+",287, Seismic, USGS, JMA,BooreEtAl2014,PGA,0.95119584,0.634,0.135,0.634
 116,"19950117_M6.9_Kobe median gmf, Stations:None, gmlt:GEM, Rupture:JMA
 ",1, None, GEM, JMA,BooreEtAl2014,PGA,0.5592735,,,
 116,"19950117_M6.9_Kobe median gmf, Stations:None, gmlt:GEM, Rupture:JMA

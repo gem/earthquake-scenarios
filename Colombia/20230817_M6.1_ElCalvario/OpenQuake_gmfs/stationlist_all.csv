@@ -1,0 +1,31 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA
+BET,Embalse de Betania,-75.41783,2.7225,seismic,0.00611,0.0,0.00895,0.0,0.00804,0.0
+BOG,"Bogota, SGC",-74.08,4.641,seismic,0.02938,0.0,0.05005,0.0,0.04556,0.0
+CBOC,"Ciudad Bolivar, Antioquia, Colombia",-76.01217,5.86433,seismic,0.00074,0.0,0.00223,0.0,0.00072,0.0
+CCALA,"Calarca, Quindio, Colombia",-75.62762,4.50898,seismic,0.00466,0.0,0.0079,0.0,0.00242,0.0
+CLEJA,"Lejanias, Meta, Colombia",-74.04143,3.53627,seismic,0.04,0.0,0.07561,0.0,0.02206,0.0
+CPRAD,"Embalse Prado, Tolima, Colombia",-74.89055,3.75512,seismic,0.0047,0.0,0.01088,0.0,0.0057,0.0
+GUA,"San Jose del Guaviare, Guaviare, Colombia",-72.627,2.545,seismic,0.0134,0.0,0.05254,0.0,0.00428,0.0
+HEL,"Santa Helena, Medellin, Colombia",-75.529,6.1909,seismic,0.02089,0.0,0.00358,0.0,0.00133,0.0
+MAN1C,"Manizales, Caldas, Colombia",-75.52434,5.07137,seismic,0.00651,0.0,0.01982,0.0,0.01872,0.0
+MEDEC,"Medellin, Antioquia, Colombia",-75.5893,6.276,seismic,0.00164,0.0,0.00694,0.0,0.00068,0.0
+NIZA,"Barrio Niza, Manizales",-75.47075,5.05778,seismic,0.00309,0.0,0.00373,0.0,0.00204,0.0
+NOR,"Norcasia, Caldas, Colombia",-74.86917,5.5635,seismic,0.00564,0.0,0.01296,0.0,0.00163,0.0
+PAL,"San Jose del Palmar, Choco, Colombia",-76.283,4.905,seismic,0.00262,0.0,0.01104,0.0,0.0015,0.0
+PDSC,"Piedecuesta, Santander, Colombia",-73.06418,6.99216,seismic,0.01088,0.0,0.03476,0.0,0.00626,0.0
+PGA4,"Puerto Gaitan, Meta, Colombia",-71.42125,3.86362,seismic,0.00431,0.0,0.01084,0.0,0.00443,0.0
+PGA6,"Puerto Gaitan, Meta, Colombia",-71.33064,3.77526,seismic,0.02377,0.0,0.04971,0.0,0.01199,0.0
+PLNC,"Planadas, Tolima, Colombia",-75.64561,3.19443,seismic,0.02508,0.0,0.05509,0.0,0.03124,0.0
+PTB,"Puerto Berrio, Antioquia, Colombia",-74.45633,6.5395,seismic,0.00151,0.0,0.00475,0.0,0.00176,0.0
+PTGC,"Puerto Gaitan, Meta, Colombia",-72.13383,4.199,seismic,0.00646,0.0,0.01865,0.0,0.00823,0.0
+SPBC,"San Pablo de Borbur, Boyaca, Colombia",-74.07233,5.65217,seismic,0.00518,0.0,0.01647,0.0,0.00245,0.0
+TAM,"Tame, Arauca, Colombia",-71.79136,6.43544,seismic,0.00606,0.0,0.01316,0.0,0.00568,0.0
+VIL,"Villavicencio, Meta, Colombia",-73.6935,4.112,seismic,0.44411,0.0,0.71816,0.0,0.74845,0.0
+UTM:(18N 0598 0515 1000),,-74.1119,4.6632,macroseismic,0.04341,0.8059,0.06075,1.0131,0.03136,1.0822
+UTM:(18N 0599 0514 1000),,-74.1029,4.6542,macroseismic,0.0921,0.8059,0.21422,1.0131,0.09742,1.0822
+UTM:(18N 0600 0512 1000),,-74.0939,4.6361,macroseismic,0.0413,0.8059,0.05387,1.0131,0.02654,1.0822
+UTM:(18N 0602 0512 1000),,-74.0759,4.636,macroseismic,0.08787,0.8059,0.20426,1.0131,0.08914,1.0822
+UTM:(18N 0604 0514 1000),,-74.0578,4.6541,macroseismic,0.04184,0.8059,0.05479,1.0131,0.02613,1.0822
+UTM:(18N 0604 0517 1000),,-74.0578,4.6812,macroseismic,0.04161,0.8059,0.05439,1.0131,0.0263,1.0822
+UTM:(18N 0604 0518 1000),,-74.0578,4.6903,macroseismic,0.03902,0.8059,0.04734,1.0131,0.02264,1.0822
+UTM:(18N 0604 0523 1000),,-74.0577,4.7355,macroseismic,0.05272,0.8059,0.09234,1.0131,0.04761,1.0822
