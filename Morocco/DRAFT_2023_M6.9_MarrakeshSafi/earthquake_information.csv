@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2023
+Country,Morocco
+Region,
+Event_Name,MarrakeshSafi
+Local_Date,08/09/23
+Local_Time,23:11
+Longitude,-8.3907
+Latitude,31.0643
+Depth_(km),25.978
+Mw,6.9
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Strik-slip (to be confirmed)
+Tectonic_region_type,Active shallow (to be confirmed)
+Fatalities,
+Injured,
+Displaced_Population,
+Affected_Population,
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2023_Marrakesh-Safi_earthquake
