@@ -1,0 +1,22 @@
+job_id: 447
+job_description: 2023_M6.9_Marrakesh median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+
+usuario@CYE.local running /Users/cye/Documents/wip/earthquake-scenarios/Morocco/DRAFT_2023_M6.9_MarrakeshSafi/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.18.0-gitdfb81fe0d7
+Using 8 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2301886058 (total size 148.28 KB)
+Extracting the hazard sites from the site model
+Read N=2775 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 2775.0 per rupture
+totw = 2
+gen_event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '173.72 KB', 'sig_eps': '365 B', 'times': '313 B'} in 8 seconds from gen_event_based
+Stored 130.23 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 556.23 KB on /Users/cye/oqdata/calc_447.hdf5 in 10 seconds
