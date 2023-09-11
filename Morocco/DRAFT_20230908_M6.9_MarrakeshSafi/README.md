@@ -1,9 +1,9 @@
-# 🌎 2023-_M-6. M6.9 MarrakeshSafi earthquake
+# 🌎 20230908_M-6. M6.9 MarrakeshSafi earthquake
 [[_TOC_]]
 
 # 📂 The repository  
 
-This repository hosts detailed information about the 2023-_M-6. M6.9 MarrakeshSafi earthquake in Morocco.
+This repository hosts detailed information about the 20230908_M-6. M6.9 MarrakeshSafi earthquake in Morocco.
 
 Available information in the folders:
 
@@ -24,8 +24,8 @@ On 8 September 2023 at 23:11 DST (22:11 UTC), an earthquake with a moment magnit
 
 The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
 
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="300">
+<img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="300">
 
 ## ☄️ Consequences
 
@@ -37,27 +37,15 @@ A summary of the main consequences of the event is available in the [earthquake_
 |:---------------------|:-----------------------------------------------------------------------|
 | Year                 | 2023                                                                   |
 | Country              | Morocco                                                                |
-| Region               | nan                                                                    |
+| Region               | Marrakesh-Safi                                                         |
 | Event_Name           | MarrakeshSafi                                                          |
-| Local_Date           | 2023-_M-6.                                                             |
-| Local_Time           | 1694211062380                                                          |
+| Local_Date           | 20230908                                                               |
+| Local_Time           | 23:11                                                                  |
 | Longitude            | -8.3907                                                                |
 | Latitude             | 31.0643                                                                |
 | Depth_(km)           | 25.978                                                                 |
 | Mw                   | 6.9                                                                    |
 | Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | nan                                                                    |
-| Tectonic_region_type | nan                                                                    |
-| Fatalities           | nan                                                                    |
-| Injured              | nan                                                                    |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
 | USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/executive |
 | Wikipedia page       | https://en.wikipedia.org/wiki/2023_Marrakesh-Safi_earthquake           |
 
