@@ -57,17 +57,17 @@ The following events are available in the database, and the global summary of im
 |  11 | Colombia                                |   2004 | [Pizarro_2004](./Colombia/20041115_M7.2_Pizarro)                              | 7.2  |        15    | VIII                         |
 |  12 | Colombia                                |   2008 | [Quetame_2008](./Colombia/20080524_M5.9_Quetame)                              | 5.9  |        10    | VII                          |
 |  13 | Colombia                                |   2023 | [El Calvario](./Colombia/20230817_M6.1_ElCalvario)                            | 6.1  |        10    | VII                          |
-|  14 | Costa Rica                              |   1991 | [Limon](./Costa Rica/19910422_M7.6_Limon)                                     | 7.6  |        10    | VIII                         |
-|  15 | Costa Rica                              |   2009 | [Cinchona](./Costa Rica/20090108_M6.1_Cinchona)                               | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
-|  16 | Costa Rica                              |   2012 | [Nicoya](./Costa Rica/20120905_M7.6_Nicoya)                                   | 7.6  |        15.4  | VII                          |
-|  17 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa Rica/20171113_M6.5_Puntarenas)                      | 6.5  |        22    | VIII                         |
+|  14 | Costa Rica                              |   1991 | [Limon](./Costa_Rica/19910422_M7.6_Limon)                                     | 7.6  |        10    | VIII                         |
+|  15 | Costa Rica                              |   2009 | [Cinchona](./Costa_Rica/20090108_M6.1_Cinchona)                               | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
+|  16 | Costa Rica                              |   2012 | [Nicoya](./Costa_Rica/20120905_M7.6_Nicoya)                                   | 7.6  |        15.4  | VII                          |
+|  17 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa_Rica/20171113_M6.5_Puntarenas)                      | 6.5  |        22    | VIII                         |
 |  18 | Croatia                                 |   2020 | [Petrijna_2020](./Croatia/20201229_M6.3_Petrijna)                             | 6.4  |        10    | IX                           |
 |  19 | Croatia                                 |   2020 | [Zagreb_2020](./Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |        10    | VIII                         |
 |  20 | Cyprus                                  |   1996 | [Cyprus](./Cyprus/19961009_M6.8_Cyprus)                                       | 6.8  |        33    | VI                           |
 |  21 | Ecuador                                 |   2016 | [Pedernales_2016](./Ecuador/20160416_M7.8_Pedernales)                         | 7.8  |        17    | IX                           |
 |  22 | Egypt                                   |   1992 | [Cairo_1992](./Egypt/19921012_M5.9_Cairo)                                     | 5.8  |        21.5  | VIII                         |
-|  23 | El Salvador                             |   2001 | [Subduction_2001](./El Salvador/20010113_M7.7_Subduction)                     | 7.7  |        39    | VIII                         |
-|  24 | El Salvador                             |   2001 | [San Vicente](./El Salvador/20010213_M6.6_SanVicente)                         | 6.6  |        13    | VIII                         |
+|  23 | El Salvador                             |   2001 | [Subduction_2001](./El_Salvador/20010113_M7.7_Subduction)                     | 7.7  |        39    | VIII                         |
+|  24 | El Salvador                             |   2001 | [San Vicente](./El_Salvador/20010213_M6.6_SanVicente)                         | 6.6  |        13    | VIII                         |
 |  25 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810224_M6.7_GulfofCorinth)                    | 6.7  |        33    | IX                           |
 |  26 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810225_M6.4_GulfofCorinth)                    | 6.4  |        33    | IX                           |
 |  27 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810000_Sequence_GulfOfCorinth)                | 6.7  |        33    | IX                           |
