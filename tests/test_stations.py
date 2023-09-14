@@ -65,7 +65,7 @@ def test_stations_files_exist(event):
     if event.find('_Sequence_') == -1:
         # Check USGS files exist
         # Skip events with no USGS data
-        skip_events = ['Colombia/20041115_M7.2_Pizarro']
+        skip_events = [os.path.join('Colombia', '20041115_M7.2_Pizarro')]
         if not any(event in s for s in skip_events):
             # stationlist.json
             file_path = os.path.join(station_path, "stationlist.json")
@@ -138,7 +138,7 @@ def test_stations_contents(file_path):
     
     # Identify columns with IMT values
     imts = ['MMI', 'PGA', 'PGV', 
-            'SA(0.3)', 'SA(0.6)', 'SA(1.0)', 'SA(3.0)']
+            'SA(0.3)', 'SA(0.6)', 'SA(1.0)', 'SA(2.0)', 'SA(3.0)']
     vals = [x[:-6] for x in df.columns if x.endswith('_VALUE')]
     sigma = [x[:-9] for x in df.columns if x.endswith('_LN_SIGMA')]
     if 'MMI_STDDEV' in df.columns:
@@ -158,11 +158,11 @@ def test_stations_contents(file_path):
         error_msg = f'Check PGA values. PGA max = {max_val}'           
         
         # Exclude events with PGA > 2g
-        exclude = ['Iran/19900620_M7.4_Manjil-Rudbar',
-                   'Iran/19970510_M7.2_Qayen',
-                   'Japan/20110311_M9.1_Tohoku',
-                   'Italy/20162017_Sequence_CentralItaly',
-                   'Turkey/19990817_M7.53_Izmit']
+        exclude = [os.path.join('Iran', '19900620_M7.4_Manjil-Rudbar'),
+                   os.path.join('Iran', '19970510_M7.2_Qayen'),
+                   os.path.join('Japan', '20110311_M9.1_Tohoku'),
+                   os.path.join('Italy', '20162017_Sequence_CentralItaly'),
+                   os.path.join('Turkey', '19990817_M7.53_Izmit')]
         if not event in exclude:
             assert max_val <= 2, error_msg # To be increased if necessary
     
