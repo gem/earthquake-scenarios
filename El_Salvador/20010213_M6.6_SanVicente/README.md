@@ -1,9 +1,9 @@
-# 🌎 2001 M6.6 San Salvador earthquake
+# 🌎 2001 M6.6 San Vicente earthquake
 [[_TOC_]]
 
 # 📂 The repository  
 
-This repository hosts detailed information about the 2001 M6.6 San Salvador earthquake in El_Salvador.
+This repository hosts detailed information about the 2001 M6.6 San Vicente earthquake in El_Salvador.
 
 Available information in the folders:
 
@@ -43,8 +43,8 @@ A summary of the main consequences of the event is available in the [earthquake_
 |:---------------------|:-----------------------------------------------------------------------|
 | Year                 | 2001                                                                   |
 | Country              | El Salvador                                                            |
-| Region               | San Salvador                                                           |
-| Event_Name           | San Salvador_2001                                                      |
+| Region               | San Vicente                                                            |
+| Event_Name           | San Vicente                                                            |
 | Local_Date           | 13/02/2001                                                             |
 | Local_Time           | 08:22:05                                                               |
 | Latitude             | 13.64                                                                  |
