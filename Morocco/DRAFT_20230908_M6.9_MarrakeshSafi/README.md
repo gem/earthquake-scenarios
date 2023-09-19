@@ -1,15 +1,15 @@
-# 🌎 20230908_M-6. M6.9 MarrakeshSafi earthquake
+# 🌎 20230908_M-6.8 MarrakeshSafi earthquake
 [[_TOC_]]
 
 # 📂 The repository  
 
-This repository hosts detailed information about the 20230908_M-6. M6.9 MarrakeshSafi earthquake in Morocco.
+This repository hosts detailed information about the 2023 M6.8 Marrakesh–Safi earthquake in Morocco.
 
 Available information in the folders:
 
 - Impact
 - Recording stations
-- Ruptrues
+- Ruptures
 - OpenQuake_gmfs 
 
 
@@ -38,13 +38,13 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Year                 | 2023                                                                   |
 | Country              | Morocco                                                                |
 | Region               | Marrakesh-Safi                                                         |
-| Event_Name           | MarrakeshSafi                                                          |
+| Event_Name           | MarrakeshSafi_2023                                                     |
 | Local_Date           | 20230908                                                               |
 | Local_Time           | 23:11                                                                  |
-| Longitude            | -8.3907                                                                |
-| Latitude             | 31.0643                                                                |
-| Depth_(km)           | 25.978                                                                 |
-| Mw                   | 6.9                                                                    |
+| Longitude            | -8.3887                                                                |
+| Latitude             | 31.0549                                                                |
+| Depth_(km)           | 19                                                                     |
+| Mw                   | 6.8                                                                    |
 | Max_Intensity_(MMI)  | VIII                                                                   |
 | USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/executive |
 | Wikipedia page       | https://en.wikipedia.org/wiki/2023_Marrakesh-Safi_earthquake           |
