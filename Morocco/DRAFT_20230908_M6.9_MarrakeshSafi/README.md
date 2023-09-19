@@ -1,4 +1,4 @@
-# 🌎 20230908_M-6.8 MarrakeshSafi earthquake
+# 🌎 2023 M6.8 Marrakesh–Safi earthquake
 [[_TOC_]]
 
 # 📂 The repository  
