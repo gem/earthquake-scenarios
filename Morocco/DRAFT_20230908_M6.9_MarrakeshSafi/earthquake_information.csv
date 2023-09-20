@@ -1,19 +1,19 @@
 FIELD,DESCRIPTION
 Year,2023
 Country,Morocco
-Region,
-Event_Name,MarrakeshSafi
-Local_Date,08/09/23
+Region,Marrakesh–Safi
+Event_Name,MarrakeshSafi_2023
+Local_Date,08/09/2023
 Local_Time,23:11
-Longitude,-8.3907
-Latitude,31.0643
-Depth_(km),25.978
-Mw,6.9
+Longitude,-8.3887
+Latitude,31.0549
+Depth_(km),19
+Mw,6.8
 Max_Intensity_(MMI),VIII
-Fault_mechanism,Strik-slip (to be confirmed)
-Tectonic_region_type,Active shallow (to be confirmed)
-Fatalities,
-Injured,
+Fault_mechanism,Oblique-Slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,2946
+Injured,5674
 Displaced_Population,
 Affected_Population,
 Affected_Units,
