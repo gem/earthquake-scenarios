@@ -24,7 +24,7 @@ _NOTE: the configuration files are examples for a given rupture geometry and a g
 The following images present the median ground motion field for the combination of rupture and GMPE that generates the lowest `nominal bias` when conditioning the ground shaking to observations. The folder [Sensitivity](./Sensitivity/) provides the summary of the sensitivity analysis carried out with the available ruptures and GMPEs.
 
 <img src="median_gmf_stations_none.png" height="350">
-<img src="median_gmf_stations_seismic.png" height="350">
+<img src="median_gmf_stations_all.png" height="350">
 
 ## Sensitivity analysis
 
