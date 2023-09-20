@@ -10,6 +10,6 @@ When the same station data is found in multiple sources, the information from th
 
 The reference datasets were used in the following priority order:
 
-- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`]https://earthquake.usgs.gov/product/shakemap/us7000kufc/us/1694310288442/download/stationlist.json/shakemap/stations. Last accessed September 2023.
+- `Stations_USGS`: USGS Recording stations. Raw file [`stationlist.json`](https://earthquake.usgs.gov/product/shakemap/us7000kufc/us/1694310288442/download/stationlist.json/shakemap/stations). Last accessed September 2023.
 
 ## Notes
