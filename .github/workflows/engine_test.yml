@@ -22,7 +22,7 @@ jobs:
     - name: Install OQ-Engine
       run: |
         curl -O https://raw.githubusercontent.com/gem/oq-engine/master/install.py
-        python install.py user
+        python install.py devel
     - name: Run tests
       run: |
         source ~/openquake/bin/activate
