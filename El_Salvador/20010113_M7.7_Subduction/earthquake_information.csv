@@ -2,13 +2,13 @@ FIELD,DESCRIPTION
 Year,2001
 Country,El Salvador
 Region,San Miguel 
-Event_Name,San Miguel_2001
+Event_Name,Subduction_2001
 Local_Date,13/01/2001
 Local_Time,11:45:00
 Latitude,12.83
 Longitude,-88.79
 Depth_(km),39
-Mw,7.6
+Mw,7.7
 Max_Intensity_(MMI),VIII
 Fault_mechanism,Normal
 Tectonic_region_type,Subduction Intraslab

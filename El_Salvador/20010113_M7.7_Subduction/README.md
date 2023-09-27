@@ -1,9 +1,9 @@
-# 🌎 2001 M7.6 San Miguel earthquake
+# 🌎 2001 M7.7 Subduction earthquake
 [[_TOC_]]
 
 # 📂 The repository  
 
-This repository hosts detailed information about the 2001 M7.6 San Miguel earthquake in El_Salvador.
+This repository hosts detailed information about the 2001 M7.7 Subduction earthquake in El_Salvador.
 
 Available information in the folders:
 
@@ -45,7 +45,7 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Year                 | 2001                                                                   |
 | Country              | El Salvador                                                            |
 | Region               | San Miguel                                                             |
-| Event_Name           | San Miguel_2001                                                        |
+| Event_Name           | Subduction_2001                                                        |
 | Local_Date           | 13/01/2001                                                             |
 | Local_Time           | 11:45:00                                                               |
 | Latitude             | 12.83                                                                  |

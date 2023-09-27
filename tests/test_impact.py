@@ -104,7 +104,7 @@ def test_impact_contents(file_path):
     else:
         pytest.skip(f"File {file_name} not recognised as Impact information")
     
-    if file_path.find('src/Event_Template') != -1:
+    if file_path.find(os.path.join('src', 'Event_Template')) != -1:
         pytest.skip("Skip `Event_Template` information")
         
     # Create DataFrame with impact data

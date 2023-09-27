@@ -19,23 +19,23 @@
 
 # 🔎 GEM Earthquake Scenario Database
 
-[[_TOC_]]
+The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing the various components of the models, often through the assessment of damage and losses considering the characteristics of past events[^1]. In this context, the GEM Foundation and its partners have expanded the OpenQuake scenario damage and loss calculator to use directly USGS ShakeMaps[^2][^3][^4], or earthquake data from other providers (e.g., INGV, EFEHR) or the scientific literature. This functionality allows users to generate cross-correlated ground motion fields considering recordings from seismic stations [^5], and to compute a number of risk metrics based on different rupture solutions and ground motion models, and to compare the results against past observations and damage reports. An overview of the functionalities implemented within the OpenQuake-engine can be found in https://github.com/gem/oq-engine/issues/8317.
 
 # ✨ Overview
 
-> The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
+The Earthquake Scenario Database (ESD) aims at providing both earthquake and impact data for users to perform earthquake scenarios using GEM or their own models for validation and verification purposes. This database serves as a complement to the [USGS ShakeMap](https://earthquake.usgs.gov/data/shakemap/) Atlas and AtlasCat. The former resource has ShakeMaps for a comprehensive catalogue of nearly all near-damaging and damaging events worldwide for the past 120 years, and can be used directly for impact assessment within the OpenQuake-engine [^4]. The latter provides aggregate losses for each event separated by cause. The ESD builds upon these sources of data by collecting additional earthquake and impact information, often documented spatially and with greater detail.
 
-This repository is a collection of earthquake footprints and consequences from past events.
+> The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
 
 <div align='left'>
     <img src="./World/eq_events.png" alt="GEM's ECD events" width="700"/>
 </div>
 
-Find the global summary impact data in the [World folder](./World).
+This database is open and aims at being a community effort, that enables users to add new events (see [contributing guidelines](./contribute_guidelines.md)) or to provide additional data to existing entries. We aim to continue expanding the ESD by leveraging on data often collected within the scope of GEM projects, as well as data previously collected as part of the [GEM Earthquake Consequences Database](https://www.globalquakemodel.org/gempublications/Introduction-to-the-GEM-Earthquake-Consequences-Database-(GEMECD)).
 
 ## 🗺️ Database coverage
 
-The following events are available in the database.
+The following events are available in the database, and the global summary of impact data is available in the [World folder](./World).
 
 <details>
 <summary> Table with available events
@@ -57,17 +57,17 @@ The following events are available in the database.
 |  11 | Colombia                                |   2004 | [Pizarro_2004](./Colombia/20041115_M7.2_Pizarro)                              | 7.2  |        15    | VIII                         |
 |  12 | Colombia                                |   2008 | [Quetame_2008](./Colombia/20080524_M5.9_Quetame)                              | 5.9  |        10    | VII                          |
 |  13 | Colombia                                |   2023 | [El Calvario](./Colombia/20230817_M6.1_ElCalvario)                            | 6.1  |        10    | VII                          |
-|  14 | Costa Rica                              |   1991 | [Limon](./Costa Rica/19910422_M7.6_Limon)                                     | 7.6  |        10    | VIII                         |
-|  15 | Costa Rica                              |   2009 | [Cinchona](./Costa Rica/20090108_M6.1_Cinchona)                               | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
-|  16 | Costa Rica                              |   2012 | [Nicoya](./Costa Rica/20120905_M7.6_Nicoya)                                   | 7.6  |        15.4  | VII                          |
-|  17 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa Rica/20171113_M6.5_Puntarenas)                      | 6.5  |        22    | VIII                         |
+|  14 | Costa Rica                              |   1991 | [Limon](./Costa_Rica/19910422_M7.6_Limon)                                     | 7.6  |        10    | VIII                         |
+|  15 | Costa Rica                              |   2009 | [Cinchona](./Costa_Rica/20090108_M6.1_Cinchona)                               | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
+|  16 | Costa Rica                              |   2012 | [Nicoya](./Costa_Rica/20120905_M7.6_Nicoya)                                   | 7.6  |        15.4  | VII                          |
+|  17 | Costa Rica                              |   2017 | [Puntarenas_2017](./Costa_Rica/20171113_M6.5_Puntarenas)                      | 6.5  |        22    | VIII                         |
 |  18 | Croatia                                 |   2020 | [Petrijna_2020](./Croatia/20201229_M6.3_Petrijna)                             | 6.4  |        10    | IX                           |
 |  19 | Croatia                                 |   2020 | [Zagreb_2020](./Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |        10    | VIII                         |
 |  20 | Cyprus                                  |   1996 | [Cyprus](./Cyprus/19961009_M6.8_Cyprus)                                       | 6.8  |        33    | VI                           |
 |  21 | Ecuador                                 |   2016 | [Pedernales_2016](./Ecuador/20160416_M7.8_Pedernales)                         | 7.8  |        17    | IX                           |
 |  22 | Egypt                                   |   1992 | [Cairo_1992](./Egypt/19921012_M5.9_Cairo)                                     | 5.8  |        21.5  | VIII                         |
-|  23 | El Salvador                             |   2001 | [San Miguel_2001](./El Salvador/20010113_M7.6_SanMiguel)                      | 7.6  |        39    | VIII                         |
-|  24 | El Salvador                             |   2001 | [San Salvador_2001](./El Salvador/20010213_M6.6_SanSalvador)                  | 6.6  |        13    | VIII                         |
+|  23 | El Salvador                             |   2001 | [Subduction_2001](./El_Salvador/20010113_M7.7_Subduction)                     | 7.7  |        39    | VIII                         |
+|  24 | El Salvador                             |   2001 | [San Vicente](./El_Salvador/20010213_M6.6_SanVicente)                         | 6.6  |        13    | VIII                         |
 |  25 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810224_M6.7_GulfofCorinth)                    | 6.7  |        33    | IX                           |
 |  26 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810225_M6.4_GulfofCorinth)                    | 6.4  |        33    | IX                           |
 |  27 | Greece                                  |   1981 | [GulfofCorinth_1981](./Greece/19810000_Sequence_GulfOfCorinth)                | 6.7  |        33    | IX                           |
@@ -197,3 +197,9 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
 
+# References
+[^1]: Villar-Vega, M., Silva, V. (2017). Assessment of earthquake damage considering the characteristics of past events in South America. Earthquake Engineering and Soil Dynamics, 99:86-96.
+[^2]: Silva V, Horspool N (2019). Combining USGS ShakeMaps and the OpenQuake-engine for damage and loss assessment. Earthquake Engineering and Structural Dynamics. 48(6):634-652.
+[^3]: Worden, C. B., Thompson, E. M., Hearne, M. G., & Wald, D. J. (2020). ShakeMap Manual Online: technical manual, user’s guide, and software guide, U. S. Geological Survey. URL: http://usgs.github.io/shakemap/. DOI: https://doi.org/10.5066/F7D21VPQ.
+[^4]: Wald, D. J., Worden, C. B., Thompson, E. M., & Hearne, M. G. (2022). ShakeMap operations, policies, and procedures. Earthquake Spectra, 38(1), 756–777. DOI: https://doi.org/10.1177/87552930211030298.
+[^5]: Engler, D. T., Worden, C. B., Thompson, E. M., & Jaiswal, K. S. (2022). Partitioning Ground Motion Uncertainty When Conditioned on Station Data. Bulletin of the Seismological Society of America, 112(2), 1060–1079. DOI: https://doi.org/10.1785/0120210177.

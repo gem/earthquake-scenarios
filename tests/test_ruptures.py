@@ -114,22 +114,22 @@ def test_rupture_info(event):
             dmax = abs((dmax + 180) % 360 - 180)
         error_msg = f"Rupture strikes with {dmax} difference > 60 degrees"
         # Exclude specific events with strikes close to 90 or 270
-        exclude = ['El_Salvador/20010213_M6.6_SanSalvador',
-                   'Iran/19970510_M7.2_Qayen',
-                   'Iran/20120000_Sequence_Ahar-Varzaghan/20120811_M6.2_Ahar-Varzaghan',
-                   'Iran/20120000_Sequence_Ahar-Varzaghan/20120811_M6.4_Ahar-Varzaghan',
-                   'Greece/19950513_M6.5_KozaniGrevena',
-                   'Croatia/20201229_M6.3_Petrijna',
-                   'Greece/20170612_M6.3_AegeanSea',
-                   'Greece/19860913_M6.0_Kalamata',
-                   'Italy/19970000_Sequence_UmbriaMarche/19970926_M5.72_UmbriaMarche',
-                   'Italy/19970000_Sequence_UmbriaMarche/19970926_M5.97_UmbriaMarche',
-                   'Italy/19970000_Sequence_UmbriaMarche/19971014_M5.86_UmbriaMarche',
-                   'Italy/20020000_Sequence_Molise/20021031_M5.74_Molise',
-                   'Turkey/19990817_M7.53_Izmit',
-                   'Turkey/20201030_M7_AegeanSea',
-                    'Turkey/20230206_M7.8_KahramanmarasGaziantep',
-                   'Spain/20110511_M5.1_Lorca']
+        exclude = [os.path.join('El_Salvador', '20010213_M6.6_SanVicente'),
+                   os.path.join('Iran', '19970510_M7.2_Qayen'),
+                   os.path.join('Iran', '20120000_Sequence_Ahar-Varzaghan', '20120811_M6.2_Ahar-Varzaghan'),
+                   os.path.join('Iran', '20120000_Sequence_Ahar-Varzaghan', '20120811_M6.4_Ahar-Varzaghan'),
+                   os.path.join('Greece', '19950513_M6.5_KozaniGrevena'),
+                   os.path.join('Croatia', '20201229_M6.3_Petrijna'),
+                   os.path.join('Greece', '20170612_M6.3_AegeanSea'),
+                   os.path.join('Greece', '19860913_M6.0_Kalamata'),
+                   os.path.join('Italy', '19970000_Sequence_UmbriaMarche', '19970926_M5.72_UmbriaMarche'),
+                   os.path.join('Italy', '19970000_Sequence_UmbriaMarche', '19970926_M5.97_UmbriaMarche'),
+                   os.path.join('Italy', '19970000_Sequence_UmbriaMarche', '19971014_M5.86_UmbriaMarche'),
+                   os.path.join('Italy', '20020000_Sequence_Molise', '20021031_M5.74_Molise'),
+                   os.path.join('Turkey', '19990817_M7.53_Izmit'),
+                   os.path.join('Turkey', '20201030_M7_AegeanSea'),
+                    os.path.join('Turkey', '20230206_M7.8_KahramanmarasGaziantep'),
+                   os.path.join('Spain', '20110511_M5.1_Lorca')]
         if not event in exclude:
             assert dmax < 60, error_msg
         
@@ -141,19 +141,19 @@ def test_rupture_info(event):
             dif = 0 # No value reported
         error_msg = f"Rupture dips with {dif} difference > 25 degrees"
         # Exclude specific events with large dip differences
-        exclude = ['Mexico/20210907_M7.1_Guerrero',
-                   'Albania/20191126_M6.4_Albania',
-                   'Netherlands/19920413_M5.3_Roermond',
-                   'Colombia/20230817_M6.1_ElCalvario',
-                   'Croatia/20201229_M6.3_Petrijna',
-                   'Greece/19881016_M5.88_Elia',
-                   'Greece/19810000_Sequence_GulfOfCorinth/19810225_M6.4_GulfofCorinth',
-                   'Italy/20162017_Sequence_CentralItaly/20161030_M6.5_CentralItaly',
-                   'Iran/20120000_Sequence_Ahar-Varzaghan/20120811_M6.4_Ahar-Varzaghan',
-                   'Turkey/19951001_M6.42_Dinar',
-                   'Turkey/20111023_M7.1_Van',
-                   'Spain/20110511_M5.1_Lorca',
-                   'Iran/19970228_M6.1_Golestan']
+        exclude = [os.path.join('Mexico', '20210907_M7.1_Guerrero'),
+                   os.path.join('Albania', '20191126_M6.4_Albania'),
+                   os.path.join('Netherlands', '19920413_M5.3_Roermond'),
+                   os.path.join('Colombia', '20230817_M6.1_ElCalvario'),
+                   os.path.join('Croatia', '20201229_M6.3_Petrijna'),
+                   os.path.join('Greece', '19881016_M5.88_Elia'),
+                   os.path.join('Greece', '19810000_Sequence_GulfOfCorinth', '19810225_M6.4_GulfofCorinth'),
+                   os.path.join('Italy', '20162017_Sequence_CentralItaly', '20161030_M6.5_CentralItaly'),
+                   os.path.join('Iran', '20120000_Sequence_Ahar-Varzaghan', '20120811_M6.4_Ahar-Varzaghan'),
+                   os.path.join('Turkey', '19951001_M6.42_Dinar'),
+                   os.path.join('Turkey', '20111023_M7.1_Van'),
+                   os.path.join('Spain', '20110511_M5.1_Lorca'),
+                   os.path.join('Iran', '19970228_M6.1_Golestan')]
         if not event in exclude:
             assert abs(dif) < 25, error_msg
 
@@ -165,26 +165,26 @@ def test_rupture_info(event):
             dif = 0 # No value reported
         error_msg = f"Rupture rakes with {dif} difference > 40 degrees"
         # Exclude specific events with large rake differences
-        exclude = ['Chile/19600522_M9.5_Valdivia',
-                   'Chile/20150916_M8.3_Illapel',
-                   'Costa_Rica/20171113_M6.5_Puntarenas',
-                   'Indonesia/20060527_M6.4_Yogyakarta',
-                   'Iran/19780916_M7.3_Tabas',
-                   'Iran/19900620_M7.4_Manjil-Rudbar',
-                   'Iran/20120000_Sequence_Ahar-Varzaghan/20120811_M6.2_Ahar-Varzaghan',
-                   'Iran/20120000_Sequence_Ahar-Varzaghan/20120811_M6.4_Ahar-Varzaghan',
-                   'Croatia/20200322_M5.1_Zagreb',
-                   'Croatia/20201229_M6.3_Petrijna',
-                   'Greece/19881016_M5.88_Elia',
-                   'Greece/19810000_Sequence_GulfOfCorinth/19810225_M6.4_GulfofCorinth',
-                   'Italy/19901213_M5.61_Augusta',
-                   'Italy/20020000_Sequence_Molise/20021031_M5.74_Molise',
-                   'Italy/20041124_M4.99_Gardone',
-                   'Italy/20090000_Sequence_Laquila/20090407_M5.4_Laquila',
-                   'Turkey/19920313_M6.68_Erzincan',
-                   'Turkey/20111023_M7.1_Van',
-                   'Nepal/20150425_M7.8_Gorkha',
-                   'Australia/19891227_M5.4_Newcastle']
+        exclude = [os.path.join('Chile', '19600522_M9.5_Valdivia'),
+                   os.path.join('Chile', '20150916_M8.3_Illapel'),
+                   os.path.join('Costa_Rica', '20171113_M6.5_Puntarenas'),
+                   os.path.join('Indonesia', '20060527_M6.4_Yogyakarta'),
+                   os.path.join('Iran', '19780916_M7.3_Tabas'),
+                   os.path.join('Iran', '19900620_M7.4_Manjil-Rudbar'),
+                   os.path.join('Iran', '20120000_Sequence_Ahar-Varzaghan', '20120811_M6.2_Ahar-Varzaghan'),
+                   os.path.join('Iran', '20120000_Sequence_Ahar-Varzaghan', '20120811_M6.4_Ahar-Varzaghan'),
+                   os.path.join('Croatia', '20200322_M5.1_Zagreb'),
+                   os.path.join('Croatia', '20201229_M6.3_Petrijna'),
+                   os.path.join('Greece', '19881016_M5.88_Elia'),
+                   os.path.join('Greece', '19810000_Sequence_GulfOfCorinth', '19810225_M6.4_GulfofCorinth'),
+                   os.path.join('Italy', '19901213_M5.61_Augusta'),
+                   os.path.join('Italy', '20020000_Sequence_Molise', '20021031_M5.74_Molise'),
+                   os.path.join('Italy', '20041124_M4.99_Gardone'),
+                   os.path.join('Italy', '20090000_Sequence_Laquila', '20090407_M5.4_Laquila'),
+                   os.path.join('Turkey', '19920313_M6.68_Erzincan'),
+                   os.path.join('Turkey', '20111023_M7.1_Van'),
+                   os.path.join('Nepal', '20150425_M7.8_Gorkha'),
+                   os.path.join('Australia', '19891227_M5.4_Newcastle')]
         if not event in exclude:
             assert abs(dif) < 40, error_msg
 
@@ -194,7 +194,7 @@ def test_rupture_info(event):
         vmax = df.mag.max()
         dif = max(abs(vmax - mag), abs(vmin - mag))
         error_msg = f"Magnitudes differing > 0.5 units with respect to Mw {mag}"
-        exclude = ['Iceland/20000617_M5.87_Iceland']
+        exclude = [os.path.join('Iceland', '20000617_M5.87_Iceland')]
         if not event in exclude:
             assert abs(dif) < 0.5, error_msg
 
@@ -204,12 +204,12 @@ def test_rupture_info(event):
         dif = vmax - vmin
         error_msg = f"Rupture depths with {dif} difference > 25 km"
         # Exclude specific events with differing depth data
-        exclude = ['Colombia/19830331_M5.6_Popayan',
-                   'Mexico/20170908_M8.2_Chiapas',
-                   'Iran/19780916_M7.3_Tabas',
-                   'Greece/19810000_Sequence_GulfOfCorinth/19810224_M6.7_GulfofCorinth',
-                   'Greece/19810000_Sequence_GulfOfCorinth/19810225_M6.4_GulfofCorinth',
-                   'Turkey/19951001_M6.42_Dinar']
+        exclude = [os.path.join('Colombia', '19830331_M5.6_Popayan'),
+                   os.path.join('Mexico', '20170908_M8.2_Chiapas'),
+                   os.path.join('Iran', '19780916_M7.3_Tabas'),
+                   os.path.join('Greece', '19810000_Sequence_GulfOfCorinth', '19810224_M6.7_GulfofCorinth'),
+                   os.path.join('Greece', '19810000_Sequence_GulfOfCorinth', '19810225_M6.4_GulfofCorinth'),
+                   os.path.join('Turkey', '19951001_M6.42_Dinar')]
         if not event in exclude:
             assert abs(dif) < 25, error_msg
 
