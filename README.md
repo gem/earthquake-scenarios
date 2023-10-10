@@ -170,7 +170,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 Please cite the work as follows:
 
 GEM Foundation (2023), GEM Earthquake Scenario Database, GitHub. 
-[https://github.com/gem/global_vulnerability_model](https://github.com/gem/earthquake-scenarios)/
+[https://github.com/gem/earthquake-scenarios](https://github.com/gem/earthquake-scenarios)/
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8425465.svg)](https://doi.org/10.5281/zenodo.8425465)
 
