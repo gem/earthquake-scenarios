@@ -165,6 +165,16 @@ The `main` branch could contain the work-in-progress of the next version of the 
 |-----------|--------------------------------------------------------------------------|
 | [v2023.0.0](https://github.com/gem/ecd/tree/v2023.0.0) | First release with 100 earthquake scenario events.|
 
+# 📚 Publications
+
+Please cite the work as follows:
+
+GEM Foundation (2023), GEM Earthquake Scenario Database, GitHub. 
+[https://github.com/gem/global_vulnerability_model](https://github.com/gem/earthquake-scenarios)/
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8425465.svg)](https://doi.org/10.5281/zenodo.8425465)
+
+
 # 🌟 Contributors
 
 The authors are grateful for the input from dozens of collaborators. 
