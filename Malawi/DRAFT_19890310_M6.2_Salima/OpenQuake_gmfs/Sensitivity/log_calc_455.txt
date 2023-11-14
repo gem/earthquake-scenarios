@@ -1,0 +1,27 @@
+job_id: 455
+job_description: 19890310_M6.2_Salima median gmf, Stations:All, gmlt:USGS, Rupture:USGS
+
+nicolepaul@Nicoles-MacBook-Pro.local running /Users/nicolepaul/Code/earthquake-scenarios/Malawi/DRAFT_19890310_M6.2_Salima/OpenQuake_gmfs/job_stations_all.ini [--hc=None]
+Using engine version 3.17.0-git869155eb42
+Using 16 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 32
+Checksum of the inputs: 4068767195 (total size 18.67 KB)
+Extracting the hazard sites from the site model
+Read N=297 hazard sites and L=1 hazard levels
+Reading station data from /Users/nicolepaul/Code/earthquake-scenarios/Malawi/DRAFT_19890310_M6.2_Salima/OpenQuake_gmfs/stationlist_all.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 297.0 per rupture
+totw = 0
+GSIM: [AbrahamsonEtAl2014], IMT: PGA, Nominal bias mean: 0.097, Nominal bias stddev: 0.336
+GSIM: [BooreEtAl2014], IMT: PGA, Nominal bias mean: 0.165, Nominal bias stddev: 0.321
+GSIM: [CampbellBozorgnia2014], IMT: PGA, Nominal bias mean: 0.114, Nominal bias stddev: 0.278
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: 0.085, Nominal bias stddev: 0.253
+gen_event_based 100% [1 submitted, 0 queued]
+Received {'gmfdata': '23.26 KB', 'sig_eps': '365 B', 'times': '313 B'} in 0 seconds from gen_event_based
+Stored 13.85 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 174.52 KB on /Users/nicolepaul/oqdata/calc_455.hdf5 in 0 seconds

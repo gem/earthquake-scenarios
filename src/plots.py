@@ -79,7 +79,7 @@ def stations_plot(df, value='PGA_VALUE', title=None,
     # Add default basemap: Stamen Terrain (uses Web Mercator --> epsg=3857)
     # Additional basemaps available at:
     # https://contextily.readthedocs.io/en/latest/providers_deepdive.html#What-is-this-%E2%80%9Cprovider%E2%80%9D-object-?
-    ctx.add_basemap(ax, source=ctx.providers.Stamen.TonerLite,
+    ctx.add_basemap(ax, source=ctx.providers.CartoDB.Positron,
                     crs=gdf.crs, alpha=0.8)
     
     # Add legend for stations
