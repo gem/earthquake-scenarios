@@ -1,0 +1,26 @@
+job_id: 476
+job_description: 20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:SemmaneEtAl2005
+
+nicolepaul@Nicoles-MacBook-Pro.local running /Users/nicolepaul/Code/earthquake-scenarios/Algeria/20030521_M6.8_Boumerdes/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.19.0-gitea3782ec67
+Using 16 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 32
+Checksum of the inputs: 53953366 (total size 435.93 KB)
+Extracting the hazard sites from the site model
+Read N=8280 hazard sites and L=1 hazard levels
+Reading station data from /Users/nicolepaul/Code/earthquake-scenarios/Algeria/20030521_M6.8_Boumerdes/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 8280.0 per rupture
+totw = 3
+GSIM: [AkkarEtAlRjb2014], IMT: PGA, Nominal bias mean: 0.119, Nominal bias stddev: 0.190
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: -0.155, Nominal bias stddev: 0.144
+Sent 1 gen_event_based tasks, 504.73 KB in 0 seconds
+gen_event_based 100% [1 submitted, 0 queued]
+Received 1 * 259.31 KB {'gmfdata': '258.67 KB', 'sig_eps': '337 B', 'times': '313 B'} in 7 seconds from gen_event_based
+Stored 193.87 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 3.06 GB on /Users/nicolepaul/oqdata/calc_476.hdf5 in 102 seconds
