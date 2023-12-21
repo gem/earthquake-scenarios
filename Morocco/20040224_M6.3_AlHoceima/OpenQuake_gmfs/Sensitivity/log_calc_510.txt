@@ -1,0 +1,29 @@
+job_id: 510
+job_description: 20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+
+nicolepaul@Nicoles-MacBook-Pro.local running /Users/nicolepaul/Code/earthquake-scenarios/Morocco/20040224_M6.3_AlHoceima/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.19.0-gitea3782ec67
+Using 16 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 32
+Checksum of the inputs: 467479901 (total size 335.3 KB)
+Extracting the hazard sites from the site model
+Read N=6258 hazard sites and L=1 hazard levels
+Reading station data from /Users/nicolepaul/Code/earthquake-scenarios/Morocco/20040224_M6.3_AlHoceima/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 6258.0 per rupture
+Discarded 2/9 stations more distant than 200 km
+totw = 2
+GSIM: [AbrahamsonEtAl2014], IMT: PGA, Nominal bias mean: -0.049, Nominal bias stddev: 0.195
+GSIM: [BooreEtAl2014], IMT: PGA, Nominal bias mean: -0.208, Nominal bias stddev: 0.193
+GSIM: [CampbellBozorgnia2014], IMT: PGA, Nominal bias mean: -0.192, Nominal bias stddev: 0.177
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: -0.156, Nominal bias stddev: 0.171
+Sent 1 gen_event_based tasks, 384.37 KB in 0 seconds
+gen_event_based 100% [1 submitted, 0 queued]
+Received 1 * 391.65 KB {'gmfdata': '390.99 KB', 'sig_eps': '365 B', 'times': '313 B'} in 7 seconds from gen_event_based
+Stored 293.17 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 3.49 GB on /Users/nicolepaul/oqdata/calc_510.hdf5 in 86 seconds

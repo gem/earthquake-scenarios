@@ -21,6 +21,8 @@
 
 ### References
 
+USGS rupture. Available online at: https://earthquake.usgs.gov/product/shakemap/usp000bxpg/. Earthquake rupture model input file in the OQ format saved as `earthquake_rupture_model_USGS.xml`.
+
 Belabbès, Samir, Charles Wicks, Ziyadin Çakir, and Mustapha Meghraoui. "Rupture parameters of the 2003 Zemmouri (Mw 6.8), Algeria, earthquake from joint inversion of interferometric synthetic aperture radar, coastal uplift, and GPS." Journal of Geophysical Research: Solid Earth 114, no. B3 (2009).
 
 Semmane,F., Campillo, M. and F. Cotton 2005. Fault location and source process of the Boumerdes, Algeria,earthquake inferred from geodetic and strong motion data, Geophys. Res. Letts. 32, L01305, doi:10.1029/2004GL021268
