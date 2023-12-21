@@ -1,73 +1,73 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-479,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
-",197, Seismic, USGS, SemmaneEtAl2005,CampbellBozorgnia2014,PGA,0.62102264,-0.017,0.146,0.017
-479,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
-",197, Seismic, USGS, SemmaneEtAl2005,BooreEtAl2014,PGA,0.65191627,0.075,0.159,0.075
-476,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:SemmaneEtAl2005
-",102, Seismic, GEM, SemmaneEtAl2005,AkkarEtAlRjb2014,PGA,0.66379017,0.119,0.19,0.119
-479,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
-",197, Seismic, USGS, SemmaneEtAl2005,AbrahamsonEtAl2014,PGA,0.6331488,-0.126,0.16,0.126
-479,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
-",197, Seismic, USGS, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.61664057,-0.155,0.144,0.155
-476,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:SemmaneEtAl2005
-",102, Seismic, GEM, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.61664057,-0.155,0.144,0.155
-475,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:BelabbesEtAl2009
-",102, Seismic, GEM, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.999795,0.319,0.146,0.319
-478,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
-",206, Seismic, USGS, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.999795,0.319,0.146,0.319
-474,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",102, Seismic, GEM, USGS,ChiouYoungs2014,PGA,1.2407869,0.353,0.146,0.353
-477,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",200, Seismic, USGS, USGS,ChiouYoungs2014,PGA,1.2407869,0.353,0.146,0.353
-477,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",200, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.9754398,0.434,0.16,0.434
-474,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",102, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.98786294,0.436,0.19,0.436
-477,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",200, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,1.2514246,0.446,0.15,0.446
-478,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
-",206, Seismic, USGS, BelabbesEtAl2009,AbrahamsonEtAl2014,PGA,1.2436416,0.447,0.165,0.447
-475,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:BelabbesEtAl2009
-",102, Seismic, GEM, BelabbesEtAl2009,AkkarEtAlRjb2014,PGA,1.0572199,0.478,0.19,0.478
-478,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
-",206, Seismic, USGS, BelabbesEtAl2009,BooreEtAl2014,PGA,1.0305086,0.481,0.16,0.481
-478,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
-",206, Seismic, USGS, BelabbesEtAl2009,CampbellBozorgnia2014,PGA,1.2072487,0.482,0.15,0.482
-477,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",200, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,1.2439408,0.53,0.165,0.53
-468,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",6, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.564481,,,
-468,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",6, None, GEM, USGS,ChiouYoungs2014,PGA,0.7491214,,,
-469,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:BelabbesEtAl2009
+531,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
+",194, Seismic, USGS, SemmaneEtAl2005,AbrahamsonEtAl2014,PGA,0.6450823,0.022,0.196,0.022
+531,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
+",194, Seismic, USGS, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.6291191,-0.025,0.17,0.025
+528,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:SemmaneEtAl2005
+",101, Seismic, GEM, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.6291191,-0.025,0.17,0.025
+531,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
+",194, Seismic, USGS, SemmaneEtAl2005,CampbellBozorgnia2014,PGA,0.6398226,0.106,0.175,0.106
+528,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:SemmaneEtAl2005
+",101, Seismic, GEM, SemmaneEtAl2005,AkkarEtAlRjb2014,PGA,0.6688851,0.128,0.235,0.128
+531,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:SemmaneEtAl2005
+",194, Seismic, USGS, SemmaneEtAl2005,BooreEtAl2014,PGA,0.6601056,0.13,0.202,0.13
+527,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:BelabbesEtAl2009
+",102, Seismic, GEM, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.9867271,0.289,0.174,0.289
+530,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
+",195, Seismic, USGS, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.9867271,0.289,0.174,0.289
+526,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",103, Seismic, GEM, USGS,ChiouYoungs2014,PGA,1.2140857,0.307,0.174,0.307
+529,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",194, Seismic, USGS, USGS,ChiouYoungs2014,PGA,1.2140857,0.307,0.174,0.307
+526,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",103, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.95178086,0.374,0.235,0.374
+527,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:GEM, Rupture:BelabbesEtAl2009
+",102, Seismic, GEM, BelabbesEtAl2009,AkkarEtAlRjb2014,PGA,1.0184557,0.415,0.235,0.415
+529,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",194, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,1.2428107,0.417,0.183,0.417
+529,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",194, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.96839815,0.422,0.202,0.422
+530,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
+",195, Seismic, USGS, BelabbesEtAl2009,AbrahamsonEtAl2014,PGA,1.2388711,0.428,0.207,0.428
+530,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
+",195, Seismic, USGS, BelabbesEtAl2009,CampbellBozorgnia2014,PGA,1.1976907,0.451,0.184,0.451
+530,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:BelabbesEtAl2009
+",195, Seismic, USGS, BelabbesEtAl2009,BooreEtAl2014,PGA,1.0211303,0.466,0.202,0.466
+529,"20030521_M6.8_Boumerdes median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",194, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,1.2202206,0.49,0.207,0.49
+520,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.564481,,,
+520,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,ChiouYoungs2014,PGA,0.7491214,,,
+521,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:BelabbesEtAl2009
 ",5, None, GEM, BelabbesEtAl2009,AkkarEtAlRjb2014,PGA,0.564481,,,
-469,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:BelabbesEtAl2009
+521,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:BelabbesEtAl2009
 ",5, None, GEM, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.60521954,,,
-470,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:SemmaneEtAl2005
+522,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:SemmaneEtAl2005
 ",5, None, GEM, SemmaneEtAl2005,AkkarEtAlRjb2014,PGA,0.58930933,,,
-470,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:SemmaneEtAl2005
+522,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:SemmaneEtAl2005
 ",5, None, GEM, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.59450763,,,
-471,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+523,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
 ",5, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.6418258,,,
-471,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+523,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
 ",5, None, USGS, USGS,BooreEtAl2014,PGA,0.5377961,,,
-471,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+523,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
 ",5, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.70037276,,,
-471,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+523,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:USGS
 ",5, None, USGS, USGS,ChiouYoungs2014,PGA,0.7491214,,,
-472,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
+524,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
 ",5, None, USGS, BelabbesEtAl2009,AbrahamsonEtAl2014,PGA,0.6827126,,,
-472,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
+524,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
 ",5, None, USGS, BelabbesEtAl2009,BooreEtAl2014,PGA,0.5377961,,,
-472,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
+524,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
 ",5, None, USGS, BelabbesEtAl2009,CampbellBozorgnia2014,PGA,0.6405915,,,
-472,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
+524,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:BelabbesEtAl2009
 ",5, None, USGS, BelabbesEtAl2009,ChiouYoungs2014,PGA,0.60521954,,,
-473,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
+525,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
 ",5, None, USGS, SemmaneEtAl2005,AbrahamsonEtAl2014,PGA,0.5490812,,,
-473,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
+525,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
 ",5, None, USGS, SemmaneEtAl2005,BooreEtAl2014,PGA,0.5650135,,,
-473,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
+525,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
 ",5, None, USGS, SemmaneEtAl2005,CampbellBozorgnia2014,PGA,0.5417231,,,
-473,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
+525,"20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:USGS, Rupture:SemmaneEtAl2005
 ",5, None, USGS, SemmaneEtAl2005,ChiouYoungs2014,PGA,0.59450763,,,

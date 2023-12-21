@@ -1,12 +1,11 @@
-job_id: 469
-job_description: 20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:BelabbesEtAl2009
+job_id: 520
+job_description: 20030521_M6.8_Boumerdes median gmf, Stations:None, gmlt:GEM, Rupture:USGS
 
 nicolepaul@Nicoles-MacBook-Pro.local running /Users/nicolepaul/Code/earthquake-scenarios/Algeria/20030521_M6.8_Boumerdes/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
 Using engine version 3.19.0-gitea3782ec67
-An error occurred while calling https://api.openquake.org/engine/latest to check if the installed version of the engine is up to date.
 Using 16 processpool workers
 Running EventBasedCalculator with concurrent_tasks = 32
-Checksum of the inputs: 632533997 (total size 425.66 KB)
+Checksum of the inputs: 790354818 (total size 425.82 KB)
 Extracting the hazard sites from the site model
 Read N=8131 hazard sites and L=1 hazard levels
 min_iml=[1.e-10]
@@ -15,9 +14,9 @@ Reading 1 ruptures
 Affected sites = 8131.0 per rupture
 totw = 3
 gen_event_based 100% [1 submitted, 0 queued]
-Received 1 * 255.01 KB {'gmfdata': '254.37 KB', 'sig_eps': '337 B', 'times': '313 B'} in 4 seconds from gen_event_based
+Received 1 * 255.01 KB {'gmfdata': '254.37 KB', 'sig_eps': '337 B', 'times': '313 B'} in 3 seconds from gen_event_based
 Stored 190.65 KB of GMFs
 Checking stored GMFs
 No PGAs over 5 g found
 Exposing the outputs to the database
-Stored 1.2 MB on /Users/nicolepaul/oqdata/calc_469.hdf5 in 5 seconds
+Stored 1.2 MB on /Users/nicolepaul/oqdata/calc_520.hdf5 in 5 seconds
