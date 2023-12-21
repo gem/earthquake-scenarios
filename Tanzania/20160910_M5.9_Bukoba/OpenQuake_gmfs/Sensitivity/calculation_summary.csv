@@ -1,21 +1,11 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-30,"20160910_M5.9_Bukoba median gmf, Stations:All, gmlt:USGS, Rupture:USGS
-",330, All, USGS, USGS,ChiouYoungs2014,PGA,0.2809783,0.448,0.269,0.448
-29,"20160910_M5.9_Bukoba median gmf, Stations:All, gmlt:GEM, Rupture:USGS
-",223, All, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.17228934,0.481,0.284,0.481
-29,"20160910_M5.9_Bukoba median gmf, Stations:All, gmlt:GEM, Rupture:USGS
-",223, All, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.08722362,0.484,0.248,0.484
-30,"20160910_M5.9_Bukoba median gmf, Stations:All, gmlt:USGS, Rupture:USGS
-",330, All, USGS, USGS,CampbellBozorgnia2014,PGA,0.20854454,0.596,0.267,0.596
-30,"20160910_M5.9_Bukoba median gmf, Stations:All, gmlt:USGS, Rupture:USGS
-",330, All, USGS, USGS,AbrahamsonEtAl2014,PGA,0.289001,0.883,0.323,0.883
-27,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.10211989,,,
-27,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.051513795,,,
-28,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.13750629,,,
-28,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.12457239,,,
-28,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,ChiouYoungs2014,PGA,0.19522816,,,
+532,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.10211989,,,
+532,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.051513795,,,
+533,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.13750629,,,
+533,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.12457239,,,
+533,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,ChiouYoungs2014,PGA,0.19522816,,,

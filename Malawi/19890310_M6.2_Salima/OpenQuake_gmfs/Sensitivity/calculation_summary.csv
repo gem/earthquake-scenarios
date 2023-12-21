@@ -1,0 +1,17 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+534,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.31662145,,,
+534,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.18227549,,,
+534,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,ChiouYoungs2014,PGA,0.20807607,,,
+534,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",3, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.15032035,,,
+535,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.26110792,,,
+535,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,BooreEtAl2014,PGA,0.39690098,,,
+535,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.17128745,,,
+535,"19890310_M6.2_Salima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,ChiouYoungs2014,PGA,0.20807607,,,
