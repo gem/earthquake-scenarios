@@ -1,0 +1,18 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+454,"2023_M6.9_Marrakesh median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",21, All, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.5556112,0.311,0.101,0.311
+454,"2023_M6.9_Marrakesh median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",21, All, GEM, USGS,ChiouYoungs2014,PGA,0.5502717,0.395,0.085,0.395
+454,"2023_M6.9_Marrakesh median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",21, All, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.651501,0.533,0.084,0.533
+454,"2023_M6.9_Marrakesh median gmf, Stations:All, gmlt:GEM, Rupture:USGS
+",21, All, GEM, USGS,AkkarEtAlRjb2014,PGA,0.8183377,0.714,0.103,0.714
+447,"2023_M6.9_Marrakesh median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",10, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.4993889,,,
+447,"2023_M6.9_Marrakesh median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",10, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.37780565,,,
+447,"2023_M6.9_Marrakesh median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",10, None, GEM, USGS,ChiouYoungs2014,PGA,0.3595791,,,
+447,"2023_M6.9_Marrakesh median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",10, None, GEM, USGS,"NRCan15SiteTerm
+gmpe_name = 'PezeshkEtAl2011NEHRPBC'",PGA,0.38041118,,,
