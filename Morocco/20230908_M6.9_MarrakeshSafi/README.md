@@ -39,8 +39,8 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Country              | Morocco                                                                |
 | Region               | Marrakesh-Safi                                                         |
 | Event_Name           | MarrakeshSafi_2023                                                     |
-| Local_Date           | 20230908                                                               |
-| Local_Time           | 23:11                                                                  |
+| Local_Date           | 08/09/2023                                                             |
+| Local_Time           | 23:11:01                                                               |
 | Longitude            | -8.3887                                                                |
 | Latitude             | 31.0549                                                                |
 | Depth_(km)           | 19                                                                     |

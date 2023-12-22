@@ -17,3 +17,6 @@
 
 ![](earthquake_ruptures.png)
 
+## References
+
+- `USGS.json`: USGS rupture. https://earthquake.usgs.gov/product/shakemap/usp0003sty/atlas/1598654164284/download/rupture.json

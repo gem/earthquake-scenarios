@@ -4,7 +4,7 @@ Country,Morocco
 Region,Marrakesh–Safi
 Event_Name,MarrakeshSafi_2023
 Local_Date,08/09/2023
-Local_Time,23:11
+Local_Time,23:11:01
 Longitude,-8.3887
 Latitude,31.0549
 Depth_(km),19
@@ -21,6 +21,6 @@ Damaged_Units,
 Collapsed_Units,
 Economic_Losses,
 Insured_Losses,
-Induced_Effects,
+Induced_Effects,Slide
 USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/executive
 Wikipedia page,https://en.wikipedia.org/wiki/2023_Marrakesh-Safi_earthquake
