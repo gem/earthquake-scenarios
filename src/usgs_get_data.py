@@ -177,19 +177,19 @@ def ini_readmes(event, event_path, usgs_id, usgs_info, wiki):
         f.write(content)
         f.close()
 
-    # References README
+    # References README - NOTE: References folder does not exist in new format
     # =======================================================================  
-    rpath = os.path.join(event_path, 'References', 'README.md')
-    f = open(rpath, 'r', encoding="utf-8")
-    content = f.read()
-    f.close
+    # rpath = os.path.join(event_path, 'References', 'README.md')
+    # f = open(rpath, 'r', encoding="utf-8")
+    # content = f.read()
+    # f.close
 
-    content = content.replace("{USGS_ID}", usgs_id)
-    content = content.replace("{WIKI}", wiki.replace(' ', '_'))
+    # content = content.replace("{USGS_ID}", usgs_id)
+    # content = content.replace("{WIKI}", wiki.replace(' ', '_'))
 
-    f = open(rpath, 'w', encoding="utf-8")
-    f.write(content)
-    f.close()
+    # f = open(rpath, 'w', encoding="utf-8")
+    # f.write(content)
+    # f.close()
 
 
     print("READMEs updated")
