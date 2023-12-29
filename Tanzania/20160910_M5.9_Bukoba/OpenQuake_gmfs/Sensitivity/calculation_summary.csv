@@ -1,21 +1,21 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-574,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",6, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.10211989,,,
-574,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",6, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.051513795,,,
-575,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+619,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.100723416,,,
+619,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.052141245,,,
+620,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
 ",5, None, GEM, HolmgrenEtAl2023,AtkinsonBoore2006Modified2011,PGA,0.19161679,,,
-575,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+620,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
 ",5, None, GEM, HolmgrenEtAl2023,PezeshkEtAl2011NEHRPBC,PGA,0.16835985,,,
-576,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",7, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.13750629,,,
-576,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",7, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.12457239,,,
-576,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",7, None, USGS, USGS,ChiouYoungs2014,PGA,0.19522816,,,
-577,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+621,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.12649727,,,
+621,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.105421044,,,
+621,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",5, None, USGS, USGS,ChiouYoungs2014,PGA,0.1945255,,,
+622,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
 ",6, None, USGS, HolmgrenEtAl2023,AbrahamsonEtAl2014,PGA,0.25166228,,,
-577,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+622,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
 ",6, None, USGS, HolmgrenEtAl2023,CampbellBozorgnia2014,PGA,0.25265858,,,
-577,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+622,"20160910_M5.9_Bukoba median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
 ",6, None, USGS, HolmgrenEtAl2023,ChiouYoungs2014,PGA,0.21589124,,,
