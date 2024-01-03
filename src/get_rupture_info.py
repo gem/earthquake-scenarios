@@ -10,7 +10,7 @@ class OqP:
     inputs = {'rupture_model': ""}
     rupture_mesh_spacing = 2.0
     ses_seed = 69
-
+    rupture_dict = None
 
 def repture_xml_to_df(filepath, add_geometry=False):
     '''
