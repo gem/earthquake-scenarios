@@ -47,7 +47,7 @@ def read_usgs_json(json_path):
         # Iterate over different columns. Each colum can be a component
         data = []
         pgas = []
-        for index, chan in rec_sation.iteritems():
+        for index, chan in rec_sation.items():
             try:
                 if chan["name"].endswith("Z") or chan["name"].endswith("U"):
                     continue
