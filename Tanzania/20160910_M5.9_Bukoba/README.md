@@ -55,7 +55,7 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Insured_Losses       | nan                                                                    |
 | Induced_Effects      | nan                                                                    |
 | USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us10006nkx/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2010_Serbia_earthquake                   |
+| Wikipedia page       | https://en.wikipedia.org/wiki/2016_Tanzania_earthquake                 |
 
 
 # 🌟 Contributors 

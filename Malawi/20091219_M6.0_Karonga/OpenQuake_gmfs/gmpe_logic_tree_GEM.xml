@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+<logicTree logicTreeID='lt1'>
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="active_crustal_deep">
+
+        <logicTreeBranch branchID='b0'>
+            <uncertaintyModel>
+                ChiouYoungs2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.25</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b1'>
+            <uncertaintyModel>
+                AkkarEtAlRjb2014
+            </uncertaintyModel>
+            <uncertaintyWeight>0.25</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b2'>
+            <uncertaintyModel>
+                AtkinsonBoore2006Modified2011
+            </uncertaintyModel>
+            <uncertaintyWeight>0.25</uncertaintyWeight>
+        </logicTreeBranch>
+
+        <logicTreeBranch branchID='b3'>
+            <uncertaintyModel>
+                PezeshkEtAl2011NEHRPBC
+            </uncertaintyModel>
+            <uncertaintyWeight>0.25</uncertaintyWeight>
+        </logicTreeBranch>
+
+
+    </logicTreeBranchSet>
+</logicTree>
+</nrml>

@@ -65,7 +65,11 @@ def test_stations_files_exist(event):
     if event.find('_Sequence_') == -1:
         # Check USGS files exist
         # Skip events with no USGS data
-        skip_events = [os.path.join('Colombia', '20041115_M7.2_Pizarro')]
+        skip_events = [
+                    os.path.join('Colombia', '20041115_M7.2_Pizarro'),
+                    os.path.join('Malawi', '19890310_M6.2_Salima'),
+                    os.path.join('Malawi', '20091219_M6.0_Karonga'),
+                    ]
         if not any(event in s for s in skip_events):
             # stationlist.json
             file_path = os.path.join(station_path, "stationlist.json")

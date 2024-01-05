@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <singlePlaneRupture>
+        <magnitude>
+            6.80000
+        </magnitude>
+        <rake>
+            75
+        </rake>
+        <hypocenter depth="19.00000" lat="31.05800" lon="-8.38470"/>
+        <planarSurface>
+            <topLeft depth="12.78388" lat="30.90288" lon="-8.44661"/>
+            <topRight depth="12.78388" lat="30.95911" lon="-8.22645"/>
+            <bottomLeft depth="54.12998" lat="31.05646" lon="-8.49966"/>
+            <bottomRight depth="54.12998" lat="31.11277" lon="-8.27917"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>
+<!-- Rupture XML automatically generated from USGS (us7000kufc).
+Reference: Source: Barnhart Geodetic Centroid Finite FaultEvent ID: us7000kufcModel created: 11-Sep-2023 06:29:16.
+Rake angle defined by Yeck et al 2023. -->

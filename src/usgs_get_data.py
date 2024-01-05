@@ -177,21 +177,6 @@ def ini_readmes(event, event_path, usgs_id, usgs_info, wiki):
         f.write(content)
         f.close()
 
-    # References README
-    # =======================================================================  
-    rpath = os.path.join(event_path, 'References', 'README.md')
-    f = open(rpath, 'r', encoding="utf-8")
-    content = f.read()
-    f.close
-
-    content = content.replace("{USGS_ID}", usgs_id)
-    content = content.replace("{WIKI}", wiki.replace(' ', '_'))
-
-    f = open(rpath, 'w', encoding="utf-8")
-    f.write(content)
-    f.close()
-
-
     print("READMEs updated")
 
     return

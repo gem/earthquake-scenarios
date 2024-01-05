@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <singlePlaneRupture>
+        <magnitude>5.9</magnitude>
+        <rake>-157</rake>
+        <hypocenter lat="-1.0669" lon="31.5514" depth="21.8"/>
+        <planarSurface strike="27" dip="68">
+            <topLeft lon="31.51618" lat="-1.11076" depth="18.64401"/>
+            <topRight lon="31.56618" lat="-1.01263" depth="18.64401"/>
+            <bottomLeft lon="31.53662" lat="-1.12117" depth="24.95599"/>
+            <bottomRight lon="31.58662" lat="-1.02304" depth="24.95599"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>
+<!-- Holmgren, J., Werner, M., Goda, K., Villani, M., Silva, V., Chindandali, P., Stevens, V. (2023). The southern East African Rift System (EARS) relocated earthquake catalogue and ground-motion database, ISC Seismological Dataset Repository, https://doi.org/10.31905/4GGVBFBE -->

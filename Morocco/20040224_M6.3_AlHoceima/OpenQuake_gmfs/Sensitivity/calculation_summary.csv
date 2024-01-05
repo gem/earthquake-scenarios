@@ -1,25 +1,49 @@
 calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-57,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",88, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.5428538,-0.013,0.178,0.013
-56,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",44, Seismic, GEM, USGS,ChiouYoungs2014,PGA,0.5119246,-0.145,0.159,0.145
-57,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",88, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.5119246,-0.145,0.159,0.145
-56,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",44, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.44738,-0.171,0.197,0.171
-57,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",88, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.5062344,-0.178,0.162,0.178
-57,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",88, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.44738,-0.199,0.178,0.199
-54,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",0, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.42636725,,,
-54,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",0, None, GEM, USGS,ChiouYoungs2014,PGA,0.59006405,,,
-55,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",0, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.54925424,,,
-55,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",0, None, USGS, USGS,BooreEtAl2014,PGA,0.5263282,,,
-55,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",0, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.5864892,,,
-55,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",0, None, USGS, USGS,ChiouYoungs2014,PGA,0.59006405,,,
+511,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:StichEtAl2005
+",86, Seismic, USGS, StichEtAl2005,BooreEtAl2014,PGA,0.513647,-0.017,0.199,0.017
+511,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:StichEtAl2005
+",86, Seismic, USGS, StichEtAl2005,AbrahamsonEtAl2014,PGA,0.4221674,-0.039,0.203,0.039
+510,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",86, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.52527916,-0.049,0.195,0.049
+509,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:StichEtAl2005
+",47, Seismic, GEM, StichEtAl2005,AkkarEtAlRjb2014,PGA,0.4243823,0.051,0.219,0.051
+511,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:StichEtAl2005
+",86, Seismic, USGS, StichEtAl2005,CampbellBozorgnia2014,PGA,0.40207458,-0.065,0.183,0.065
+509,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:StichEtAl2005
+",47, Seismic, GEM, StichEtAl2005,ChiouYoungs2014,PGA,0.38107663,-0.089,0.18,0.089
+511,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:StichEtAl2005
+",86, Seismic, USGS, StichEtAl2005,ChiouYoungs2014,PGA,0.38107663,-0.089,0.18,0.089
+508,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",48, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.36597946,-0.154,0.213,0.154
+508,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",48, Seismic, GEM, USGS,ChiouYoungs2014,PGA,0.5064194,-0.156,0.171,0.156
+510,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",86, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.5064194,-0.156,0.171,0.156
+510,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",86, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.4991281,-0.192,0.177,0.192
+510,"20040224_M6.3_AlHoceima median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",86, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.42917058,-0.208,0.193,0.208
+504,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.42636725,,,
+504,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",5, None, GEM, USGS,ChiouYoungs2014,PGA,0.59006405,,,
+505,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:StichEtAl2005
+",5, None, GEM, StichEtAl2005,AkkarEtAlRjb2014,PGA,0.4029098,,,
+505,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:GEM, Rupture:StichEtAl2005
+",5, None, GEM, StichEtAl2005,ChiouYoungs2014,PGA,0.40401435,,,
+506,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.54925424,,,
+506,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,BooreEtAl2014,PGA,0.5263282,,,
+506,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.5864892,,,
+506,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",6, None, USGS, USGS,ChiouYoungs2014,PGA,0.59006405,,,
+507,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:StichEtAl2005
+",7, None, USGS, StichEtAl2005,AbrahamsonEtAl2014,PGA,0.43648127,,,
+507,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:StichEtAl2005
+",7, None, USGS, StichEtAl2005,BooreEtAl2014,PGA,0.52041334,,,
+507,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:StichEtAl2005
+",7, None, USGS, StichEtAl2005,CampbellBozorgnia2014,PGA,0.42661673,,,
+507,"20040224_M6.3_AlHoceima median gmf, Stations:None, gmlt:USGS, Rupture:StichEtAl2005
+",7, None, USGS, StichEtAl2005,ChiouYoungs2014,PGA,0.40401435,,,

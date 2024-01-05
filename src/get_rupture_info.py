@@ -3,14 +3,9 @@
 
 
 import pandas as pd
+from openquake.commonlib.oqvalidation import OqParam
 from openquake.commonlib.readinput import get_rupture
 
-
-class OqP:
-    inputs = {'rupture_model': ""}
-    rupture_mesh_spacing = 2.0
-    ses_seed = 69
-    rupture_dict = None
 
 def repture_xml_to_df(filepath, add_geometry=False):
     '''
@@ -27,7 +22,7 @@ def repture_xml_to_df(filepath, add_geometry=False):
     '''
     
     # Read xml rupture as hazardlib object
-    oqp = OqP()
+    oqp = OqParam(calculation_mode='scenario')
     oqp.inputs['rupture_model'] = filepath
     rup = get_rupture(oqp)
 
