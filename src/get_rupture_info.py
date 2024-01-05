@@ -7,12 +7,6 @@ from openquake.commonlib.oqvalidation import OqParam
 from openquake.commonlib.readinput import get_rupture
 
 
-# class OqP:
-#     inputs = {'rupture_model': ""}
-#     rupture_mesh_spacing = 2.0
-#     ses_seed = 69
-
-
 def repture_xml_to_df(filepath, add_geometry=False):
     '''
     Parameters
