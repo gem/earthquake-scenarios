@@ -1,33 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
 <logicTree logicTreeID='lt1'>
-    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="subduction_slab_nshmp2014">
+    <logicTreeBranchSet uncertaintyType="gmpeModel" branchSetID="bs1" applyToTectonicRegionType="Subduction IntraSlab">
+
         <logicTreeBranch branchID='b0'>
             <uncertaintyModel>
-                AtkinsonBoore2003SSlab
+                MontalvaEtAl2016SSlab
             </uncertaintyModel>
-            <uncertaintyWeight>0.1667</uncertaintyWeight>
+            <uncertaintyWeight>0.35</uncertaintyWeight>
         </logicTreeBranch>
 
         <logicTreeBranch branchID='b1'>
             <uncertaintyModel>
-                AtkinsonBoore2003SSlabCascadia
+                ZhaoEtAl2006SSlabCascadia
             </uncertaintyModel>
-            <uncertaintyWeight>0.1667</uncertaintyWeight>
+            <uncertaintyWeight>0.25</uncertaintyWeight>
         </logicTreeBranch>
 
         <logicTreeBranch branchID='b2'>
             <uncertaintyModel>
-                ZhaoEtAl2016SSlab
+                SiEtAl2020SSlab
             </uncertaintyModel>
-            <uncertaintyWeight>0.3333</uncertaintyWeight>
+            <uncertaintyWeight>0.20</uncertaintyWeight>
         </logicTreeBranch>
 
         <logicTreeBranch branchID='b3'>
             <uncertaintyModel>
-                AbrahamsonEtAl2015SSlab
+                AbrahamsonEtAl2018SSlabHigh
             </uncertaintyModel>
-            <uncertaintyWeight>0.3333</uncertaintyWeight>
+            <uncertaintyWeight>0.20</uncertaintyWeight>
         </logicTreeBranch>
 
     </logicTreeBranchSet>

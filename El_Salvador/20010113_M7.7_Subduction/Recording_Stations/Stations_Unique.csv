@@ -1,20 +1,29 @@
-STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,PGA_VALUE,PGA_LN_SIGMA,PGA_VALUE_1,PGA_VALUE_2,PGA_VALUE_V,VS30,MMI_VALUE,MMI_STDDEV,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE
-CSBR,CSBR,13.704,-89.706,seismic,Casado_et_al_2001,0.195,0.0,0.1537,0.195,0.1625,,,,,,,,,,,,
-ESJO,ESJO,13.707,-89.207,seismic,Casado_et_al_2001,0.2949,0.0,0.2949,0.2723,0.1505,,,,,,,,,,,,
-HSRF,HSRF,13.671,-89.279,seismic,Casado_et_al_2001,0.4856,0.0,0.4856,0.4768,0.2383,,,,,,,,,,,,
-HSRT,HSRT,13.517,-88.869,seismic,Casado_et_al_2001,0.3076,0.0,0.2554,0.3076,0.2484,,,,,,,,,,,,
-UARM,UARM,13.744,-89.501,seismic,Casado_et_al_2001,0.5887,0.0,0.5887,0.4452,0.2186,,,,,,,,,,,,
-ULLB,ULLB,13.486,-89.327,seismic,Casado_et_al_2001,1.0907,0.0,1.0907,0.5631,0.6032,,,,,,,,,,,,
-UPAN,UPAN,13.614,-89.179,seismic,Casado_et_al_2001,0.173,0.0,0.173,0.1509,0.0869,,,,,,,,,,,,
-USPN,USPN,13.602,-88.927,seismic,Casado_et_al_2001,0.5688,0.0,0.5688,0.4782,0.4299,,,,,,,,,,,,
-UTON,UTON,13.778,-89.114,seismic,Casado_et_al_2001,0.2577,0.0,0.2577,0.2297,0.2008,,,,,,,,,,,,
-AH,Ahuachapan,13.925,-89.805,seismic,Stations_USGS,0.200116,0.0,,,,689.48,6.8,0.63,0.0,24.0819,0.0,0.201963,0.0,0.35118,0.0,0.048521,inferred
-CA,Acajutia Cepa,13.567,-89.833,seismic,Stations_USGS,0.110559,0.0,,,,301.03,7.0,0.63,0.0,19.1451,0.0,0.112014,0.0,0.303836,0.0,0.046086,inferred
-DB,Ciudadela Don Bosco,13.733,-89.15,seismic,Stations_USGS,0.241088,0.0,,,,332.8,7.0,0.63,0.0,19.9305,0.0,0.255725,0.0,0.189674,0.0,0.051598,inferred
-MG,San Miguel,13.475,-88.183,seismic,Stations_USGS,0.132592,0.0,,,,344.89,6.1,0.63,0.0,13.6727,0.0,0.133942,0.0,0.229504,0.0,0.038059,inferred
-OB,Observatorio,13.681,-89.198,seismic,Stations_USGS,0.430375,0.0,,,,463.98,7.2,0.63,0.0,32.3703,0.0,0.682658,0.0,0.575099,0.0,0.046474,inferred
-QC,Presa 15 De Septiembre Dam,13.616,-88.55,seismic,Stations_USGS,0.186557,0.0,,,,511.49,6.8,0.63,0.0,14.1296,0.0,0.197006,0.0,0.160768,0.0,0.048777,inferred
-SE,Sensuntepeque,13.867,-88.663,seismic,Stations_USGS,0.089868,0.0,,,,452.75,5.8,0.63,0.0,10.9473,0.0,0.091629,0.0,0.111209,0.0,0.035885,inferred
-SM,Santiago de Maria,13.486,-88.471,seismic,Stations_USGS,0.888257,0.0,,,,405.56,7.9,0.63,0.0,31.7955,0.0,1.068937,0.0,0.367222,0.0,0.045594,inferred
-SS,Sem. San Jose de la Montana,13.705,-89.225,seismic,Stations_USGS,0.277022,0.0,,,,404.16,6.7,0.63,0.0,21.8846,0.0,0.283944,0.0,0.218707,0.0,0.036021,inferred
-ST,Santa Tecia,13.675,-89.3,seismic,Stations_USGS,0.768421,0.0,,,,612.9,7.8,0.63,0.0,40.2838,0.0,0.957751,0.0,0.349196,0.0,0.087202,inferred
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,REFERENCES,PGA_VALUE_1,PGA_VALUE_2,PGA_VALUE_V
+LI,Unidad de Salud de La Libertad ULLB,-89.327,13.486,seismic,0.813195565,0,,,,
+SM,Santiago de Maria HSDM,-88.46841,13.48492,seismic,0.801665186,0,,,,
+ST,Santa Tecla,-89.28924,13.67387,seismic,0.734521034,0,,,,
+NO,Unidad de Salud de San Pedro Nonualco USPN,-88.927,13.602,seismic,0.537126092,0,,,,
+AR,Unidad de Salud de Armenia UARM,-89.501,13.744,seismic,0.524868303,0,,,,
+TE,Hospital San Rafael HSRF,-89.279,13.671,seismic,0.489405716,0,,,,
+OB,Observatorio Sismologico,-89.19643,13.67955,seismic,0.408544076,0,,,,
+PGB,Planta de Explotacion Berlin,-88.512,13.52,seismic,0.395177156,0,,,,
+BER,Planta Central de Berlin,-88.529,13.497,seismic,0.348974265,0,,,,
+RS,RREE Superficie CPRS,-89.24017,13.68503,seismic,0.320119215,0,,,,
+VS,Viveros de DUA Superficie,-89.20906,13.73613,seismic,0.281601335,0,,,,
+EX,Colegio Externado San Jose ESJO,-89.207,13.707,seismic,0.272764762,0,,,,
+ZA,Hospital Santa Teresa Zacatecoluca HSTR,-88.869,13.517,seismic,0.266583298,0,,,,
+SS,Seminario San Jose de La Montana,-89.22405,13.70253,seismic,0.257295263,0,,,,
+TO,Unidad de Salud de Tonacatepeque UTON,-89.114,13.778,seismic,0.252103085,0,,,,
+DB,Ciudadela Don Bosco,-89.155,13.71517,seismic,0.241118697,0,,,,
+QC,Presa 15 de Septiembre,-88.56087,13.62302,seismic,0.178197364,0,,,,
+BA,Centro de Salud de San Bartolo CSBR,-89.106,13.704,seismic,0.175667423,0,,,,
+AH,Ahuachapan,-89.85012,13.91647,seismic,0.170009383,0,,,,
+PA,Unidad de Salud de Panchimalco UPAN,-89.179,13.614,seismic,0.163505138,0,,,,
+HSGT,Hospital Santa Gertrudis San Vicente VI,-88.784,13.642,seismic,0.125841728,0,,,,
+MG,San Miguel,-88.17603,13.48032,seismic,0.125503205,0,,,,
+SA,Santa Ana,-89.56132,13.99572,seismic,0.114943506,0,,,,
+CA,CEPA Acajutla,-89.83363,13.57488,seismic,0.099020437,0,,,,
+SE,Sensuntepeque,-88.62596,13.87493,seismic,0.079975064,0,,,,
+CU,Puerto de Cutuco,-87.82263,13.33241,seismic,0.072501065,0,,,,
+CM,CESSA-Metapan,-89.49795,14.32681,seismic,0.012060379,0,,,,
+CSBR,CSBR,-89.706,13.704,seismic,0.195,0,Casado_et_al_2001,0.1537,0.195,0.1625
