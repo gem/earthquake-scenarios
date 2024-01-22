@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml>
+
+<!--From NAF hazard model:
+ 	Tectonic_Type_B is prescribed for transition zones of intermediate characteristics between SCC and ASC. Using ASC only.
+	https://gitlab.openquake.org/hazard/mosaic/NAF/-/blob/master/in/gmmLT.xml -->
+	<logicTree logicTreeID="">
+		<logicTreeBranchSet branchSetID="bs_01" uncertaintyType="gmpeModel" applyToTectonicRegionType="Tectonic_Type_B">
+			<logicTreeBranch branchID="b_01_02">
+				<uncertaintyModel>ChiouYoungs2014</uncertaintyModel>
+				<uncertaintyWeight>0.5</uncertaintyWeight>
+			</logicTreeBranch>
+			<logicTreeBranch branchID="b_01_03">
+				<uncertaintyModel>AkkarEtAlRjb2014</uncertaintyModel>
+				<uncertaintyWeight>0.5</uncertaintyWeight>
+			</logicTreeBranch>
+		</logicTreeBranchSet>
+	</logicTree>
+</nrml>
+
+

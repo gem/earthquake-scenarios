@@ -1,15 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os
-import glob
 import json
-import numpy as np
 import pandas as pd
-
-import geopandas as gpd
-import contextily as ctx
-import matplotlib.pyplot as plt
 
 
 def read_usgs_json(json_path):
@@ -41,13 +34,13 @@ def read_usgs_json(json_path):
       
     channels = pd.DataFrame(stations.channels.to_list())
     vals = pd.Series([], dtype = 'object')
-    for row, rec_sation in channels.iterrows():
-        rec_sation.dropna(inplace=True)
+    for row, rec_station in channels.iterrows():
+        rec_station.dropna(inplace=True)
             
         # Iterate over different columns. Each colum can be a component
         data = []
         pgas = []
-        for index, chan in rec_sation.iteritems():
+        for _, chan in rec_station.items():
             try:
                 if chan["name"].endswith("Z") or chan["name"].endswith("U"):
                     continue

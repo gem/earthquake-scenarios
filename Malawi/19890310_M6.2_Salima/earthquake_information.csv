@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1989
+Country,Malawi
+Region,Salima
+Event_Name,Salima
+Local_Date,03/10/1989
+Local_Time,23:49:47
+Longitude,34.496
+Latitude,-13.66
+Depth_(km),28.2
+Mw,6.27
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Dip-slip
+Tectonic_region_type,Active Shallow Crust / Stable Continental Crust
+Fatalities,9
+Injured,100
+Displaced_Population,50000
+Affected_Population,50100
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,28e6
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0003sty/focal-mechanism?source=us&code=gcmtC031089D
+Wikipedia page,https://en.wikipedia.org/wiki/1989_Malawi_earthquake

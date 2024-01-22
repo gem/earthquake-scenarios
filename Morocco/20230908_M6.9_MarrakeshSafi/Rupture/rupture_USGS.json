@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "reference": "Source: Barnhart Geodetic Centroid Finite FaultEvent ID: us7000kufcModel created: 11-Sep-2023 06:29:16",
+        "id": "us7000kufc",
+        "network": "USGS National Earthquake Information Center, PDE",
+        "netid": "us",
+        "productcode": "us7000kufc",
+        "time": "2023-09-08T22:11:01.000000Z",
+        "lat": 31.058,
+        "lon": -8.3847,
+        "depth": 19.0,
+        "mag": 6.8,
+        "locstring": "52 km WSW of Ouka\u00efmedene, Marrakesh-Safi, MA",
+        "reviewed": "unknown",
+        "mech": "ALL",
+        "rake": 0.0
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "rupture type": "rupture extent"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -8.446613,
+                                30.902883,
+                                12.783884
+                            ],
+                            [
+                                -8.226451,
+                                30.959107,
+                                12.783884
+                            ],
+                            [
+                                -8.279168,
+                                31.112771,
+                                54.129976
+                            ],
+                            [
+                                -8.499656,
+                                31.056462,
+                                54.129976
+                            ],
+                            [
+                                -8.446613,
+                                30.902883,
+                                12.783884
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

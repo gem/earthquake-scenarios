@@ -1,0 +1,49 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+616,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.9759688,0.912,0.21,0.912
+617,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",5, Seismic, USGS, HolmgrenEtAl2023,BooreEtAl2014,PGA,0.97607154,0.913,0.21,0.913
+616,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.8315222,0.953,0.206,0.953
+617,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",5, Seismic, USGS, HolmgrenEtAl2023,ChiouYoungs2014,PGA,0.9302282,0.975,0.206,0.975
+616,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.8927222,1.122,0.196,1.122
+617,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",5, Seismic, USGS, HolmgrenEtAl2023,CampbellBozorgnia2014,PGA,0.9475697,1.122,0.196,1.122
+616,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
+",4, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,1.3218523,1.246,0.221,1.246
+617,"20091219_M6.0_Karonga median gmf, Stations:Seismic, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",5, Seismic, USGS, HolmgrenEtAl2023,AbrahamsonEtAl2014,PGA,1.4252617,1.285,0.221,1.285
+610,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",4, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.30390298,,,
+610,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",4, None, GEM, USGS,AtkinsonBoore2006Modified2011,PGA,0.9691264,,,
+610,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",4, None, GEM, USGS,ChiouYoungs2014,PGA,0.3334797,,,
+610,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",4, None, GEM, USGS,PezeshkEtAl2011NEHRPBC,PGA,0.8714153,,,
+611,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+",4, None, GEM, HolmgrenEtAl2023,AkkarEtAlRjb2014,PGA,0.30390298,,,
+611,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+",4, None, GEM, HolmgrenEtAl2023,AtkinsonBoore2006Modified2011,PGA,1.1789109,,,
+611,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+",4, None, GEM, HolmgrenEtAl2023,ChiouYoungs2014,PGA,0.36589018,,,
+611,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:GEM, Rupture:HolmgrenEtAl2023
+",4, None, GEM, HolmgrenEtAl2023,PezeshkEtAl2011NEHRPBC,PGA,0.95667034,,,
+612,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.42470297,,,
+612,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,BooreEtAl2014,PGA,0.39186355,,,
+612,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.3354496,,,
+612,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:USGS
+",4, None, USGS, USGS,ChiouYoungs2014,PGA,0.3334797,,,
+613,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",4, None, USGS, HolmgrenEtAl2023,AbrahamsonEtAl2014,PGA,0.44367504,,,
+613,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",4, None, USGS, HolmgrenEtAl2023,BooreEtAl2014,PGA,0.39186355,,,
+613,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",4, None, USGS, HolmgrenEtAl2023,CampbellBozorgnia2014,PGA,0.35853016,,,
+613,"20091219_M6.0_Karonga median gmf, Stations:None, gmlt:USGS, Rupture:HolmgrenEtAl2023
+",4, None, USGS, HolmgrenEtAl2023,ChiouYoungs2014,PGA,0.36589018,,,

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <singlePlaneRupture>
+        <magnitude>6.27</magnitude>
+        <rake>-86</rake>
+        <hypocenter lat="-13.660" lon="34.496" depth="28.2"/>
+        <planarSurface strike="335" dip="73">
+            <topLeft lon="34.51729" lat="-13.73961" depth="22.77916"/>
+            <topRight lon="34.44693" lat="-13.59298" depth="22.77916"/>
+            <bottomLeft lon="34.54510" lat="-13.72701" depth="33.62084"/>
+            <bottomRight lon="34.47473" lat="-13.58039" depth="33.62084"/>
+        </planarSurface>
+    </singlePlaneRupture>
+</nrml>
+<!-- Rake,dip,slip angles based on USGS NP1 for usp0003sty; ISC-GEM used for hypocenter, magnitude -->

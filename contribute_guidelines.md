@@ -2,9 +2,9 @@
 
 You can contribute by improving the information available for a given event(s), or you can include a new one.
 
-The folder [src](../src/) include ipython notebooks that facilitate the collection of the information and formating of the information.
+The folder [src](./src/) include ipython notebooks that facilitate the collection of the information and its formating.
 
-If you are familiar working with `git` repositories, open a pull request with the new information, and follow the standards and recomendations in the sections below. Otherwise, you can email your information to the email _risk@globalquakemodel.org_.
+If you are familiar working with `git` repositories, open a pull request with the new information, and follow the standards and recomendations in the sections below. Otherwise, you can email your information to _risk@globalquakemodel.org_.
 
 To include a new earthquake scenario, at least, the following information needs to be collected:
 
