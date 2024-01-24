@@ -21,7 +21,7 @@ The reference datasets were used in the following priority order:
 
 ### Use of GMICE for macroseimic data
 
-The estimation of different IMTs for `Stations_MartinEtAl2015` made use of different GMICE, as implemented in IP notebook [1_stations_macroseismic_gmice](../../../src/1_stations_macroseismic_gmice.ipynb).
+The estimation of different IMTs for `Stations_MartinEtAl2015` made use of different GMICE, as implemented in IP notebook [1_2_stations_macroseismic_gmice](../../../src/1_stations_macroseismic_gmice.ipynb).
 Values from three GMICE were compared: 
 
  - WardenEtAl2012: used by the USGS ShakeMap system and [Hough et al. 2016](https://doi.org/10.1007/s11069-016-2505-8) study, but derived using data from California.
