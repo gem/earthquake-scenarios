@@ -28,6 +28,14 @@ Values from three GMICE were compared:
  - CaprioEtAl2015: derived using global data
  - PanjamaniEtAl2017: derived for the Himalayan region (21 events)
 
+<p align="center">
+  <img src="GMICE_comparison_1.png" alt="GMICE comparison" width="600">
+</p>
+<p align="center">
+  <img src=".GMICE_comparison_2.png" alt="GMICE comparison (log scale)" width="600">
+</p>
+
+
 ## Notes
 
 The event represents the first occurrence of a large continental thrust earthquake to be recorded by a high-rate (5-hertz) Global Positioning System (GPS) network very close to and completely encompassing the rupture area (Galetzka_et_al_2015.pdf). The combination of these measurements provides the opportunity to image the kinematics of the source process and the strong ground motion that led to the particular pattern of structural damage observed during this earthquake. Records of displacements and velocities were available, and they were compared to those obtained by a USGS seismic station (KATNP).
