@@ -290,3 +290,24 @@ def plot_stations(fig, ax, folder, description):
         ax.legend(edgecolor='lightgrey')
 
     return fig, ax
+
+def get_imfd(df_log, gmfs):
+    '''
+    Calculate the Intensity Measure Frequency Distribution (IMFD) curves
+    '''
+
+    # Ground motion values (gmvs) to use as reference
+    gmvs = [0.05, 0.75, 0.1, 0.15, 0.2, 0.3, 0.4, 0.5, 0.7, 1, 1.5]
+
+    # Count the number of sites that exceed each IM threshold for each column
+    imfd = pd.DataFrame({gmv: (gmfs.iloc[:, 3:] >= gmv).sum() for gmv in gmvs})
+    # imfd = imfd.reset_index().rename(columns={'index':'gmpe'})
+    df = imfd.stack().reset_index()
+    df.columns = ['gmpe', 'PGA', 'Number']
+
+    # Add columns with calculation data
+    cols = ['rupture', 'recording_stations', 'description', 'calc_id']
+    for col in cols:
+        df.insert(0, col, df_log.loc[0, col])
+    
+    return df
