@@ -4,7 +4,7 @@
 
 | atribute             | description          |
 |:---------------------|:---------------------|
-| Fault mechanism       | Normal fault         |
+| Fault mechanism      | Normal fault         |
 | Tectonic region type | Subduction Intraslab |
 
 ### Preferred nodal plane solution

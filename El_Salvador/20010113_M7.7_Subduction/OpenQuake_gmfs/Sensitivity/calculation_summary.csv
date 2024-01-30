@@ -1,0 +1,57 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+54,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",96, Seismic, GEM, USGS,ZhaoEtAl2006SInter,PGA,0.75977576,0.004,0.161,0.004
+55,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:GCMT
+",115, Seismic, MARN, GCMT,SiEtAl2020SSlab,PGA,0.7367496,-0.006,0.208,0.006
+56,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",118, Seismic, MARN, USGS,ZhaoEtAl2006SSlabCascadia,PGA,0.7688424,0.073,0.163,0.073
+56,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",118, Seismic, MARN, USGS,AbrahamsonEtAl2018SSlabHigh,PGA,0.7102793,0.085,0.174,0.085
+55,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:GCMT
+",115, Seismic, MARN, GCMT,MontalvaEtAl2016SSlab,PGA,0.7535496,-0.105,0.205,0.105
+54,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",96, Seismic, GEM, USGS,MontalvaEtAl2017SInter,PGA,0.72235423,0.144,0.197,0.144
+53,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",91, Seismic, GEM, GCMT,ZhaoEtAl2006SInter,PGA,0.77866346,0.231,0.172,0.231
+56,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",118, Seismic, MARN, USGS,MontalvaEtAl2016SSlab,PGA,0.74087465,-0.302,0.19,0.302
+55,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:GCMT
+",115, Seismic, MARN, GCMT,ZhaoEtAl2006SSlabCascadia,PGA,0.79369897,0.308,0.174,0.308
+56,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",118, Seismic, MARN, USGS,SiEtAl2020SSlab,PGA,0.7184021,-0.339,0.191,0.339
+53,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",91, Seismic, GEM, GCMT,MontalvaEtAl2017SInter,PGA,0.7431392,0.371,0.212,0.371
+55,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:GCMT
+",115, Seismic, MARN, GCMT,AbrahamsonEtAl2018SSlabHigh,PGA,0.7417768,0.413,0.19,0.413
+54,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",96, Seismic, GEM, USGS,AbrahamsonEtAl2015SInterHigh,PGA,0.69792306,0.45,0.172,0.45
+53,"20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
+",91, Seismic, GEM, GCMT,AbrahamsonEtAl2015SInterHigh,PGA,0.716592,0.671,0.186,0.671
+49,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",10, None, GEM, GCMT,AbrahamsonEtAl2015SInterHigh,PGA,0.18454175,,,
+49,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",10, None, GEM, GCMT,MontalvaEtAl2017SInter,PGA,0.27110726,,,
+49,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
+",10, None, GEM, GCMT,ZhaoEtAl2006SInter,PGA,0.31041726,,,
+50,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,AbrahamsonEtAl2015SInterHigh,PGA,0.2182211,,,
+50,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,MontalvaEtAl2017SInter,PGA,0.3090719,,,
+50,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",8, None, GEM, USGS,ZhaoEtAl2006SInter,PGA,0.3981305,,,
+51,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:GCMT
+",8, None, MARN, GCMT,AbrahamsonEtAl2018SSlabHigh,PGA,0.34186903,,,
+51,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:GCMT
+",8, None, MARN, GCMT,MontalvaEtAl2016SSlab,PGA,0.5647249,,,
+51,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:GCMT
+",8, None, MARN, GCMT,SiEtAl2020SSlab,PGA,0.48253253,,,
+51,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:GCMT
+",8, None, MARN, GCMT,ZhaoEtAl2006SSlabCascadia,PGA,0.3531378,,,
+52,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",8, None, MARN, USGS,AbrahamsonEtAl2018SSlabHigh,PGA,0.4576834,,,
+52,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",8, None, MARN, USGS,MontalvaEtAl2016SSlab,PGA,0.6969733,,,
+52,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",8, None, MARN, USGS,SiEtAl2020SSlab,PGA,0.61216253,,,
+52,"20010113_M7.7_Subduction median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",8, None, MARN, USGS,ZhaoEtAl2006SSlabCascadia,PGA,0.48158962,,,

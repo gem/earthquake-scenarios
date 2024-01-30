@@ -1,0 +1,29 @@
+job_id: 56
+job_description: 20010113_M7.7_Subduction median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+
+usuario@CYE.local running /Users/cye/Documents/wip/earthquake-scenarios/El_Salvador/20010113_M7.7_Subduction/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.19.0-git01c625bef1
+Using 8 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 623581631 (total size 305.82 KB)
+Extracting the hazard sites from the site model
+Read N=5591 hazard sites and L=1 hazard levels
+Reading station data from /Users/cye/Documents/wip/earthquake-scenarios/El_Salvador/20010113_M7.7_Subduction/OpenQuake_gmfs/stationlist_seismic.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 5591.0 per rupture
+Discarded 2/28 stations more distant than 120 km
+totw = 4
+GSIM: [AbrahamsonEtAl2018SSlabHigh], IMT: PGA, Nominal bias mean: 0.085, Nominal bias stddev: 0.174
+GSIM: [MontalvaEtAl2016SSlab], IMT: PGA, Nominal bias mean: -0.302, Nominal bias stddev: 0.190
+GSIM: [SiEtAl2020SSlab], IMT: PGA, Nominal bias mean: -0.339, Nominal bias stddev: 0.191
+GSIM: [ZhaoEtAl2006SSlabCascadia], IMT: PGA, Nominal bias mean: 0.073, Nominal bias stddev: 0.163
+Sent 1 gen_event_based tasks, 351.58 KB in 0 seconds
+gen_event_based 100% [1 submitted, 0 queued]
+Received 1 * 348.77 KB {'gmfdata': '348.11 KB', 'sig_eps': '365 B', 'times': '313 B'} in 9 seconds from gen_event_based
+Stored 261.01 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 2.77 GB on /Users/cye/oqdata/calc_56.hdf5 in 118 seconds

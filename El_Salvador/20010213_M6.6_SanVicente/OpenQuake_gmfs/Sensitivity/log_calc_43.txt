@@ -1,0 +1,22 @@
+job_id: 43
+job_description: 20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+
+usuario@CYE.local running /Users/cye/Documents/wip/earthquake-scenarios/El_Salvador/20010213_M6.6_SanVicente/OpenQuake_gmfs/job_stations_none.ini [--hc=None]
+Using engine version 3.19.0-git01c625bef1
+Using 8 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2142125878 (total size 301.86 KB)
+Extracting the hazard sites from the site model
+Read N=5563 hazard sites and L=1 hazard levels
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 5563.0 per rupture
+totw = 4
+gen_event_based 100% [1 submitted, 0 queued]
+Received 1 * 261.71 KB {'gmfdata': '261.06 KB', 'sig_eps': '351 B', 'times': '313 B'} in 6 seconds from gen_event_based
+Stored 195.69 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 949.5 KB on /Users/cye/oqdata/calc_43.hdf5 in 9 seconds

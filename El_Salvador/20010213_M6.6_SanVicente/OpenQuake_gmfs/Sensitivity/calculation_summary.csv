@@ -1,0 +1,49 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+46,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:Canora_et_al_2001
+",94, Seismic, MARN, Canora_et_al_2001,AkkarEtAlRhyp2014,PGA,0.4357911,-0.067,0.215,0.067
+47,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",102, Seismic, MARN, USGS,AkkarEtAlRhyp2014,PGA,0.5447901,-0.107,0.215,0.107
+44,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:Canora_et_al_2001
+",88, Seismic, GEM, Canora_et_al_2001,AbrahamsonEtAl2015SInterHigh,PGA,0.3333865,-0.159,0.218,0.159
+45,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",87, Seismic, GEM, USGS,AbrahamsonEtAl2015SInterHigh,PGA,0.34780157,-0.241,0.218,0.241
+46,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:Canora_et_al_2001
+",94, Seismic, MARN, Canora_et_al_2001,CauzziEtAl2014,PGA,0.37281674,-0.247,0.225,0.247
+44,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:Canora_et_al_2001
+",88, Seismic, GEM, Canora_et_al_2001,ZhaoEtAl2006SInter,PGA,0.3344571,-0.301,0.197,0.301
+46,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:Canora_et_al_2001
+",94, Seismic, MARN, Canora_et_al_2001,BooreAtkinson2011,PGA,0.4890013,-0.329,0.164,0.329
+47,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",102, Seismic, MARN, USGS,BooreAtkinson2011,PGA,0.46714732,-0.334,0.164,0.334
+47,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:MARN, Rupture:USGS
+",102, Seismic, MARN, USGS,CauzziEtAl2014,PGA,0.41235095,-0.343,0.225,0.343
+45,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",87, Seismic, GEM, USGS,ZhaoEtAl2006SInter,PGA,0.3697339,-0.37,0.197,0.37
+44,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:Canora_et_al_2001
+",88, Seismic, GEM, Canora_et_al_2001,MontalvaEtAl2017SInter,PGA,0.3552134,-0.886,0.249,0.886
+45,"20010213_M6.6_SanVicente median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
+",87, Seismic, GEM, USGS,MontalvaEtAl2017SInter,PGA,0.39957502,-0.977,0.249,0.977
+40,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:Canora_et_al_2001
+",7, None, GEM, Canora_et_al_2001,AbrahamsonEtAl2015SInterHigh,PGA,0.25745648,,,
+40,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:Canora_et_al_2001
+",7, None, GEM, Canora_et_al_2001,MontalvaEtAl2017SInter,PGA,0.7700364,,,
+40,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:Canora_et_al_2001
+",7, None, GEM, Canora_et_al_2001,ZhaoEtAl2006SInter,PGA,0.34106317,,,
+41,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,AbrahamsonEtAl2015SInterHigh,PGA,0.33002582,,,
+41,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,MontalvaEtAl2017SInter,PGA,1.1166044,,,
+41,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:GEM, Rupture:USGS
+",7, None, GEM, USGS,ZhaoEtAl2006SInter,PGA,0.4734938,,,
+42,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:Canora_et_al_2001
+",7, None, MARN, Canora_et_al_2001,AkkarEtAlRhyp2014,PGA,0.36288103,,,
+42,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:Canora_et_al_2001
+",7, None, MARN, Canora_et_al_2001,BooreAtkinson2011,PGA,0.5591901,,,
+42,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:Canora_et_al_2001
+",7, None, MARN, Canora_et_al_2001,CauzziEtAl2014,PGA,0.35234657,,,
+43,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",9, None, MARN, USGS,AkkarEtAlRhyp2014,PGA,0.5085544,,,
+43,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",9, None, MARN, USGS,BooreAtkinson2011,PGA,0.55474603,,,
+43,"20010213_M6.6_SanVicente median gmf, Stations:None, gmlt:MARN, Rupture:USGS
+",9, None, MARN, USGS,CauzziEtAl2014,PGA,0.48922473,,,
