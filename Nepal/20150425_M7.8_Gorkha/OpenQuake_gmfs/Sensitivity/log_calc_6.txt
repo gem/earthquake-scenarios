@@ -15,8 +15,7 @@ Reading 1 ruptures
 Affected sites = 6650.0 per rupture
 Discarded 26/32 stations more distant than 50 km
 totw = 4
-GSIM: [AbrahamsonEtAl2014]
-region = "CHN", IMT: PGA, Nominal bias mean: -0.326, Nominal bias stddev: 0.222
+GSIM: [AbrahamsonEtAl2014] region = "CHN", IMT: PGA, Nominal bias mean: -0.326, Nominal bias stddev: 0.222
 GSIM: [AbrahamsonEtAl2015SInter], IMT: PGA, Nominal bias mean: -0.445, Nominal bias stddev: 0.327
 GSIM: [AtkinsonBoore2003SInter], IMT: PGA, Nominal bias mean: 0.030, Nominal bias stddev: 0.212
 GSIM: [CauzziEtAl2014], IMT: PGA, Nominal bias mean: -0.421, Nominal bias stddev: 0.353
