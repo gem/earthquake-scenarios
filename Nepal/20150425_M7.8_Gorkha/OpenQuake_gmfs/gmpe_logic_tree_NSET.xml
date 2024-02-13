@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nrml>
+	<logicTree logicTreeID="NSET">
+	<!-- Original NSET LogicTree adjusted because the following gsim are not available in OpenQuake:
+		* Ramkrishan et al (2021)
+		* Graizer et al (2013)
+		* Gregor et al (2002) 
+	
+	The weights were adjusted trying to follow the same rationale -->
+		
+		<logicTreeBranchSet branchSetID="bs" uncertaintyType="gmpeModel" applyToTectonicRegionType="subduction interface megathrust">
+
+			<logicTreeBranch branchID="bs_1">
+				<uncertaintyModel>                
+                    [ModifiableGMPE]
+                    gmpe.YoungsEtAl1997SInter = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+                </uncertaintyModel>
+				<uncertaintyWeight>0.83</uncertaintyWeight>
+			</logicTreeBranch>
+			
+			<logicTreeBranch branchID="bs_2">
+				<uncertaintyModel>                
+                    [ModifiableGMPE]
+                    gmpe.LinLee2008SInter = {}
+                    add_between_within_stds.with_betw_ratio = 0.6
+                </uncertaintyModel>
+				<uncertaintyWeight>0.11</uncertaintyWeight>
+			</logicTreeBranch>
+
+			<logicTreeBranch branchID="bs_3">
+				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
+				<uncertaintyWeight>0.06</uncertaintyWeight>
+			</logicTreeBranch>
+		</logicTreeBranchSet>
+
+	</logicTree>
+</nrml>

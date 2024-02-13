@@ -41,7 +41,7 @@ Data should keep, as much as possible, the original format.<br>
 Because recording data is heavy and we should not distribute it, store it in the 
 [Google Drive](https://drive.google.com/drive/folders/0AHlkLIHROGCrUk9PVA) folder.
 
-- Using the notebook `1_station_json_usgs_to_csv.ipynb`, create the `Stations_USGS.csv` file starting from the USGS file `stations.json` (downloaded in step 0).<br>
+- Using the notebook `1_1_station_json_usgs_to_csv.ipynb`, create the `Stations_USGS.csv` file starting from the USGS file `stations.json` (downloaded in step 0).<br>
 The code filters the entrances with null values, adjusts the file to the standard format, and shows a map with the USGS reported recording stations (which is not saved). You will need to fill the user input section with the name of the event (`DRAFT_NameEvent`).<br>
 _NOTE: if the file `stations.json` is empty, do not include it in the database._
 
@@ -61,7 +61,9 @@ The table below is an example of the suggested format.
 | CIBA1      | IBAGUE        | 4.447    | -75.235   | seismic      | Stations_SGC | SUELO     | 0.019531  | 0            | 0.025926      | 0                | 324  | inferred  |
 | CIBA3      | IBAGUE        | 4.4319   | -75.188   | seismic      | Stations_SGC | SUELO     | 0.013338  | 0            | 0.024665      | 0                | 539  | inferred  |
 
-- Using the notebook `1_stations_unique.ipynb`, generate the `Stations_Unique.csv`.<br>
+- If macroseismic data is available, the notebook `1_2_stations_macroseismic_gmice.ipynb` includes GMICE for different regions that can be tested.
+
+- Using the notebook `1_3_stations_unique.ipynb`, generate the `Stations_Unique.csv`.<br>
      Please note that:
      - If only one source of data exists, then the `Stations_Unique.csv` file is not required.
      - If multiple data sources are available, the notebook creates the `Stations_Unique.csv`, by combining all sources named `Stations_SourceName.csv` and using the priority indicated by the modeller (which should also be reported in the `README.md` file).
@@ -77,7 +79,7 @@ The table below is an example of the suggested format.
 - Download all rupture information available. Store the information in the raw format, with the corresponding links in the `README.md` file.<br>
 _NOTE: USGS stores the information in the file `rupture.json` (named in the repo as `rupture_USGS.json`) which downloaded in step 0._
 
-- Using the notebook `2_rupture_usgs_json_to_oq_rupture_xml.ipynb`, it is possible to create the `earthquake_rupture_model_USGS.xml` file starting from the USGS file `rupture_USGS.json` (downloaded in step 0). The code parses the information to follow the OpenQuake format. You will need to fill the user input section with the name of the event (`DRAFT_NameEvent`).<br>
+- Using the notebook `2_1_rupture_usgs_json_to_oq_rupture_xml.ipynb`, it is possible to create the `earthquake_rupture_model_USGS.xml` file starting from the USGS file `rupture_USGS.json` (downloaded in step 0). The code parses the information to follow the OpenQuake format. You will need to fill the user input section with the name of the event (`DRAFT_NameEvent`).<br>
 _NOTE 1: USGS rupture json file specifies 0 for all rake angles, so the user will need to include a value for the rake angle retrieved from literature._<br>
 _NOTE 2: The notebook is experimental and it only supports simple planar surfaces (for point multi-planar or complex sources, manual work will be required)._
 
@@ -86,7 +88,7 @@ _NOTE 1: Multiple rupture definitions are available at <http://equake-rc.info/SR
 _NOTE 2: Other sources of information about ruptures are: Global CMT, ISC, IRIS, SCARDEC, JMA, geofon-GFZ, geoscope ipgp._<br>
 _NOTE 3: If only the nodal plane solutions are available, you can use the [IPT](https://platform.openquake.org/ipt/) to generate the fault plane. It uses the Wells and Coppersmith (1984) equations suggested in Table 2A.
 
-- The notebook `2_ruptures_readme_.ipynb`:
+- The notebook `2_2_ruptures_readme_.ipynb`:
      - Generates the plot `earthquake_ruptures.png`
      - Adds/updates `README.md` file to include image and rupture details.
      - Include in the `REAME.md` the rupture mechanism and tectonic region type using the `earthquake_information.csv` file.<br>

@@ -47,7 +47,7 @@ A summary of the main consequences of the event is available in the [earthquake_
 | Mw                   | 7.8                                                                    |
 | Max_Intensity_(MMI)  | IX                                                                     |
 | Fault_mechanism      | Thrust/reverse                                                         |
-| Tectonic_region_type | Subduction                                                             |
+| Tectonic_region_type | Subduction interface                                                   |
 | Fatalities           | 8659-9094                                                              |
 | Injured              | 17932-24000                                                            |
 | Displaced_Population | 95100-649815                                                           |

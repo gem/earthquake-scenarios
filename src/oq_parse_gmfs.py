@@ -114,15 +114,26 @@ def read_log(log):
     The log file follows the ECD format
     '''
     
-    lines = open(log, 'r').readlines()
+    # Fix log file for GSIMs tailored for specific regions
+    fix_gsims(log)
 
-    # Get calculation details
+    # Read lines of log file
+    with open(log, 'r', encoding="utf-8") as f:
+        lines = f.readlines()
+
+    # Get calculation details from the description line
+    # (recording stations, gmlt, rupture, and optionally the max_distance)
     calc_id = int(lines[0][8:-1])
-    description = lines[1][17:]
-    rs, gmlt, rup = description.split(',')[1:]
-    rs = rs.replace('Stations:', '')
-    gmlt = gmlt.replace('gmlt:', '')
-    rup = rup.replace('Rupture:', '').replace('\n', '')
+    description = lines[1][17:].replace('\n', '').strip()
+    _, rs, gmlt, rup, *max_dist = map(str.strip, description.split(',')[0:5])
+
+    rs = rs.replace('Stations:', '').strip()
+    gmlt = gmlt.replace('gmlt:', '').strip()
+    rup = rup.replace('Rupture:', '').strip()
+    if max_dist:
+        max_dist = max_dist[0].replace('Max_dist:', '').strip()
+    else:
+        max_dist = ''
 
     # Get time
     try:
@@ -132,42 +143,58 @@ def read_log(log):
         # If no time is found, then the calculation has an error
         raise Exception(f"Calculation with error. Check log file: {log}")
 
-    # Create DataFrame
+    # Create DataFrame columns
     cols=['calc_id', 'description', 'cal_time', 
-          'recording_stations', 'gmlt', 'rupture', 'gmpe', 'imt', 
-          'nominal_bias_mean', 'nominal_bias_stdev']
-    calc = []
+          'recording_stations', 'gmlt', 'rupture', 'gmpe', 'max_distance', 
+          'imt', 'nominal_bias_mean', 'nominal_bias_stdev']
 
-    # Get bias
-    bias = [line for line in lines if 'Nominal bias' in line]
-    if bias:
+    # Initialize data list for DataFrame
+    calc = []
+    
+    # Get bias information
+    bias_lines = [line for line in lines if 'Nominal bias' in line]
+    if bias_lines:
         # Calculation with station data
-        for line in bias:
+        for line in bias_lines:
             ini = line.find('INFO]')
             if ini != -1:
                 line = line[ini + 6 :] # Remove info from initial paragraph                
-            gmpe = line.split(':')[1].split(',')[0].strip(' [] ') 
+            gmpe = line.split(':')[1].split(',')[0].strip(' [] ')
             imt = line.split(':')[2].split(',')[0].strip()
             bias_mean = float(line.split(':')[3].split(",")[0].replace('\n', '').strip())
             bias_stdv = float(line.split(':')[4].replace('\n', '').strip())
-            vals = [calc_id, description, time, rs, gmlt, rup, gmpe, imt, bias_mean, bias_stdv]
+            vals = [calc_id, description, time, rs, gmlt, rup, gmpe, max_dist, imt, bias_mean, bias_stdv]
             data = pd.DataFrame(dict(zip(cols, vals)), index=[0])
             calc.append(data)
     else:
-        # Calculation without station data
+        # Calculation without station data (i.e., no bias information found)
         gmpe = ''
         imt = ''
+        max_dist = ''
         bias_mean = np.nan
         bias_stdv = np.nan
-        vals = [calc_id, description, time, rs, gmlt, rup, gmpe, imt, bias_mean, bias_stdv]
+        vals = [calc_id, description, time, rs, gmlt, rup, gmpe, max_dist, imt, bias_mean, bias_stdv]
         data = pd.DataFrame(dict(zip(cols, vals)), index=[0])
         calc.append(data)
-        
+
+    # Concatenate DataFrames    
     df = pd.concat(calc, ignore_index=True)
 
     assert df.shape[0]>0, f'No data extracted from log file {log}'
 
     return df, calc_id
+
+
+def fix_gsims(log):
+    """Fix log files that have GSIMS tailored for specific regions
+    """
+    with open(log, 'r', encoding="utf-8") as f:
+        content = f.read()
+    # Replace the desired string
+    content = content.replace(']\nregion = ', '] region = ')
+    with open(log, 'w', encoding="utf-8") as f:
+        f.write(content)    
+    return
 
 
 def plot_df(df, pad=None, **kwargs):
@@ -290,3 +317,24 @@ def plot_stations(fig, ax, folder, description):
         ax.legend(edgecolor='lightgrey')
 
     return fig, ax
+
+def get_imfd(df_log, gmfs):
+    '''
+    Calculate the Intensity Measure Frequency Distribution (IMFD) curves
+    '''
+
+    # Ground motion values (gmvs) to use as reference
+    gmvs = [0.05, 0.75, 0.1, 0.15, 0.2, 0.3, 0.4, 0.5, 0.7, 1, 1.5]
+
+    # Count the number of sites that exceed each IM threshold for each column
+    imfd = pd.DataFrame({gmv: (gmfs.iloc[:, 3:] >= gmv).sum() for gmv in gmvs})
+    # imfd = imfd.reset_index().rename(columns={'index':'gmpe'})
+    df = imfd.stack().reset_index()
+    df.columns = ['gmpe', 'PGA', 'Number']
+
+    # Add columns with calculation data
+    cols = ['rupture', 'recording_stations', 'description', 'calc_id']
+    for col in cols:
+        df.insert(0, col, df_log.loc[0, col])
+    
+    return df

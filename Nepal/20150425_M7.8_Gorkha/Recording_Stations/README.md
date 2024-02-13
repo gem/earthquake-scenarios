@@ -5,19 +5,35 @@
 A unified database of recording stations is available in `Stations_Unique.csv` file.
 When the same station data is found in multiple sources, the information from the highest priority source is preferred to avoid duplication.
 
+For this particular event, the `Stations_Unique.csv` file considers the macroseismic data as reported by the USGS ShakeMap (last accessed March 2023). Other macroseismic files are available considering different source data and GMICE.
 
 ## Reference datasets
 
 The reference datasets were used in the following priority order:
 
 - `Stations_CESMD`: Records were downloaded from the Center for Engineering Strong Motion Data, [CESMD](http://www.strongmotioncenter.org/). Raw data in Accelerograms_CESMD.zip. Last accessed March 2023.
-> [!NOTE]  
-> Publication and accelerogram data available at Shigefuji M, Takai N, Bijukchhen S, et al (2022) Strong ground motion data of the 2015 Gorkha Nepal earthquake sequence in the Kathmandu Valley. Sci Data 9, 513 . https://doi.org/10.1038/s41597-022-01634-6.
-
 
 - `Station_DMG`: Record for DMG station was available from the online material of Bhattarai et al (2015). Bhattarai M, Adhikari LB, Gautam UP, Laurendeau A, Labonne C, Hoste-Colomer R, Sèbe O, Hernandez, B (2015). Overview of the large 25 April 2015 Gorkha, Nepal, earthquake from accelerometric perspectives. Seismological Research Letters, 86(6):1540-1548. https://doi.org/10.1785/0220150140. Last accessed March 2023.
 
 - `Stations_USGS`: USGS Recording stations. Raw file [stationlist.json](https://earthquake.usgs.gov/product/shakemap/us20002926/atlas/1594162031303/download/stationlist.json). Last accessed March 2023.
+
+- `Stations_MartinEtAl2015`: Macroseismic data reported in the electronic supplement of Martin SS, Hough SE and Hung C (2015) "Ground motions from the 2015 Mw 7.8 Gorkha, Nepal, Earthquake constrained by a detailed assessment of macroseismic data". Seismological Research Letters 86(6): 1524–1532. [DOI: 10.1785/0220150138](https://doi.org/10.1785/0220150138). _NOTE: Locations with intensity value "F" (felt) were removed"_.
+
+### Use of GMICE for macroseimic data
+
+The estimation of different IMTs for `Stations_MartinEtAl2015` made use of different GMICE, as implemented in IP notebook [1_2_stations_macroseismic_gmice](../../../src/1_stations_macroseismic_gmice.ipynb).
+Values from three GMICE were compared: 
+
+ - WardenEtAl2012: used by the USGS ShakeMap system and [Hough et al. 2016](https://doi.org/10.1007/s11069-016-2505-8) study, but derived using data from California.
+ - CaprioEtAl2015: derived using global data
+ - PanjamaniEtAl2017: derived for the Himalayan region (21 events)
+
+<p align="center">
+  <img src="GMICE_comparison_1.png" alt="GMICE comparison" width="600">
+</p>
+<p align="center">
+  <img src=".GMICE_comparison_2.png" alt="GMICE comparison (log scale)" width="600">
+</p>
 
 
 ## Notes

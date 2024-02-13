@@ -63,7 +63,7 @@ def grid_spacing(corners, region_crs, epicenter):
         for example: `corners = [(100, 100, 10), (200, 200, 25)]`
 
     epicenter: GeoDataframe
-        Expicentral coordinates for a 
+        Epicentral coordinates for the event
 
     Returns
     -------
@@ -85,8 +85,8 @@ def grid_spacing(corners, region_crs, epicenter):
         g = gpd.GeoDataFrame(d, crs=region_crs)
         
         # Move polygon coordinates to centroid
-        g.geometry = g.translate(xoff=epicenter.geometry.x,
-                                yoff=epicenter.geometry.y)    
+        g.geometry = g.translate(xoff=epicenter.geometry.x.values[0],
+                                yoff=epicenter.geometry.y.values[0])    
         gdf = pd.concat([gdf, g])
         
         # Create grid (entire polygon)
@@ -105,7 +105,6 @@ def grid_spacing(corners, region_crs, epicenter):
             ur = np.array([x2, y2])  # upper-right
             
             inidx = np.all(np.logical_and(ll <= grid, grid <= ur), axis=1)
-            inbox = grid[inidx]
             outbox = grid[np.logical_not(inidx)]
         
         pts = gpd.GeoDataFrame(
@@ -113,11 +112,20 @@ def grid_spacing(corners, region_crs, epicenter):
                                         crs=region_crs))        
         # grid in GeoDataframe
         df = pd.concat([df, pts])
-
         
     # Move coordinates back to 4326
     df = df.to_crs('EPSG:4326')
     df['LONGITUDE'] = df.geometry.x
     df['LATITUDE'] = df.geometry.y
-    
+
+    # Round to 5 decimals places (for OQ)
+    df = df.round(5)
+
+    # Check if duplicated coordinates found
+    if df.duplicated(subset=['LONGITUDE', 'LATITUDE']).any():
+        print('Duplicated values. Dropping duplicated values')
+        df.drop_duplicates(subset=['LONGITUDE', 'LATITUDE'], inplace=True)
+
+    assert df.duplicated(subset=['LONGITUDE', 'LATITUDE']).any() == False, 'Duplicated values in grid'   
+
     return df

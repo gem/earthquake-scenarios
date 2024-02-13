@@ -1,0 +1,463 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES,GMICE
+KATNP,"Kanti Path, Kathmandu, Nepal",85.31561,27.71235,seismic,283.38,8.9,0.63,0.0,0.164,0.0,107.3,0.0,0.291,0.0,0.288,0.0,0.237,inferred,Stations_USGS_CaprioEtAl2015,
+KSN,"Kishanganj, India",87.947,26.095,seismic,232.61,6.3,0.63,0.0,0.0406,0.0,16.4,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+VNS,"Varanasi, India",82.854,25.553,seismic,220.36,3.8,0.63,0.0,0.0206,0.0,2.07,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+BRP,"Balarampur, India",82.055,27.504,seismic,218.85,4.3,0.63,0.0,0.0329,0.0,3.48,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+PHN,"Pihani, India",80.16,27.65,seismic,760.0,3.5,0.63,0.0,0.0106,0.0,1.23,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+AMT,"Amethi, India",81.678,26.187,seismic,229.64,4.3,0.63,0.0,0.0156,0.0,2.46,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+BRE,"Bareilly, India",79.418,28.343,seismic,760.0,3.6,0.63,0.0,0.00687,0.0,1.36,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+HAR,"Hardoi, India",80.133,27.396,seismic,760.0,3.7,0.63,0.0,0.00877,0.0,1.58,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+MTR,"Motihari, India",84.899,26.63,seismic,225.0,6.0,0.63,0.0,0.0788,0.0,6.97,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+LEH,"Laharpur, India",80.89,27.709,seismic,235.12,3.9,0.63,0.0,0.0147,0.0,1.84,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+UTR,"Utrala, India",82.415,27.31,seismic,202.22,4.5,0.63,0.0,0.0417,0.0,4.46,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+HDR,"Haridwar, India",78.052,29.975,seismic,760.0,3.2,0.63,0.0,0.00413,0.0,0.81,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+MAH,"Maharajganj, India",83.539,27.141,seismic,202.22,5.8,0.63,0.0,0.0621,0.0,10.9,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+MRT,"Eerut, India",77.617,29.154,seismic,760.0,3.0,0.63,0.0,0.00466,0.0,0.56,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+LSA,"Tibet, China",91.127,29.7031,seismic,760.0,3.1,0.63,0.0,0.00168,0.0,0.4053,0.0,0.003688,0.0,0.001345,0.0,0.001375,inferred,Stations_USGS_CaprioEtAl2015,
+CGD,"Chandigarh, India",76.767,30.76,seismic,760.0,3.4,0.63,0.0,0.00274,0.0,1.06,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+BSR,"Bisalpur, India",79.805,28.209,seismic,760.0,3.6,0.63,0.0,0.009,0.0,1.27,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+HSR,"Hissar, India",75.6,29.446,seismic,760.0,2.8,0.63,0.0,0.00251,0.0,0.44,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+LAK,"Lakhimpur, India",80.79,27.949,seismic,760.0,3.9,0.63,0.0,0.0143,0.0,2.26,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+PTN,"Patna, India",85.149,25.622,seismic,291.05,4.5,0.63,0.0,0.047,0.0,4.4,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+KHA,"Khatima, India",79.961,28.925,seismic,760.0,3.9,0.63,0.0,0.00987,0.0,1.89,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+TDR,"Takurdwar, India",78.855,29.148,seismic,760.0,3.6,0.63,0.0,0.00534,0.0,1.17,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+NAR,"Narora, India",78.425,28.226,seismic,760.0,3.6,0.63,0.0,0.00803,0.0,1.55,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+GDA,"Gonda, India",82.237,27.116,seismic,215.62,4.8,0.63,0.0,0.0433,0.0,5.16,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+FZB,"Faizabad, India",82.146,26.73,seismic,227.05,,,0.0,0.0328,0.0,40.7,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+JAU,"Jaunpur, India",82.693,25.733,seismic,284.59,4.1,0.63,0.0,0.0215,0.0,2.46,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+TAN,"Tanakpur, India",80.112,29.074,seismic,760.0,3.6,0.63,0.0,0.00519,0.0,1.47,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,
+THM,THM (Intensity VII),85.3643,27.6749,macroseismic,290.13,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_14,Near Trishuli Bazaar (Intensity IX),85.1303,27.9236,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_5,Laprak Village (Intensity IX),84.8008,28.2189,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+KATNP,KATNP (Intensity VII),85.3074,27.7082,macroseismic,304.61,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_6,Phulkharka (Intensity IX),84.9198,28.0646,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_10,Gaunkharka (Intensity IX),85.4578,27.9371,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_11,Kharanitar (Intensity VIII),85.3207,27.9281,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_4,Barpak Village (Intensity IX),84.7429,28.201,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_1,Swayambhunath Stupa (Intensity VIII),85.2905,27.7151,macroseismic,463.5,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_8,Chautara (Intensity IX),85.7222,27.7707,macroseismic,821.8,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+RAM,RAM (Intensity VIII),85.251,27.7223,macroseismic,747.46,8.1,0.3,1.4,0.30460465743379395,1.3,33.74943967307367,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+TVU,TVU (Intensity VII),85.3167,27.691,macroseismic,403.67,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+SWY,SWY (Intensity VIII),85.2756,27.7126,macroseismic,463.5,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_9,Ghale (Intensity VIII),84.3089,28.2776,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_7,Pipaldanda (Intensity IX),85.6869,27.7791,macroseismic,857.49,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+BHK,BHK (Intensity VIII),85.4259,27.6719,macroseismic,318.5,7.8,0.3,1.4,0.25423983840080167,1.3,26.05848019020591,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_12,Betrawati (Intensity IX),85.1857,27.9737,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_2,Dharhara Tower (Intensity VIII),85.3119,27.7006,macroseismic,313.22,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+DMG,DMG (Intensity VIII),85.3197,27.7218,macroseismic,283.38,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_13,Battar Bazaar (Intensity IX),85.1463,27.8969,macroseismic,614.68,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_15,Trishuli Bazaar (Intensity IX),85.1413,27.9255,macroseismic,720.12,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+GNG,GNG (Intensity VIII),85.3171,27.7375,macroseismic,348.46,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+OBS_3,Taleju (Intensity VIII),85.3079,27.7049,macroseismic,304.61,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Anantalingeshwor1,Anantalingeshwor1,85.3645,27.666,macroseismic,290.13,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Anantalingeshwor2,Anantalingeshwor2,85.375,27.668,macroseismic,290.44,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Anantalingeshwor11,Anantalingeshwor11,85.3881,27.654,macroseismic,424.69,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Anantalingeshwor15,Anantalingeshwor15,85.4118,27.647,macroseismic,556.32,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi1,Bajrabarahi1,85.3207,27.609,macroseismic,550.14,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi2,Bajrabarahi2,85.3185,27.611,macroseismic,550.14,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi3,Bajrabarahi3,85.3186,27.613,macroseismic,550.14,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi4,Bajrabarahi4,85.3206,27.613,macroseismic,550.14,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi10,Bajrabarahi10,85.3236,27.598,macroseismic,540.22,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi11,Bajrabarahi11,85.3247,27.596,macroseismic,540.22,6.0,0.3,1.4,0.08595793822214275,1.3,5.521336017116593,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi14,Bajrabarahi14,85.3326,27.572,macroseismic,652.79,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bajrabarahi16,Bajrabarahi16,85.3156,27.575,macroseismic,590.18,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar1,Besisahar1,84.4179,28.164,macroseismic,867.66,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar2,Besisahar2,84.4215,28.183,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar3,Besisahar3,84.3762,28.184,macroseismic,481.86,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar4,Besisahar4,84.3997,28.197,macroseismic,555.73,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar5,Besisahar5,84.3907,28.209,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar6,Besisahar6,84.3699,28.207,macroseismic,900.0,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar7,Besisahar7,84.3783,28.219,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar8,Besisahar8,84.362,28.228,macroseismic,832.91,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar9,Besisahar9,84.3734,28.229,macroseismic,832.91,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar10,Besisahar10,84.3782,28.23,macroseismic,657.18,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar11,Besisahar11,84.3777,28.234,macroseismic,657.18,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar12,Besisahar12,84.3662,28.236,macroseismic,832.91,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar13,Besisahar13,84.3681,28.245,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Besisahar14,Besisahar14,84.3575,28.257,macroseismic,856.88,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur1,Bhaktapur1,85.4437,27.673,macroseismic,391.17,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur2,Bhaktapur2,85.439,27.668,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur3,Bhaktapur3,85.443,27.675,macroseismic,278.06,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur4,Bhaktapur4,85.441,27.678,macroseismic,348.96,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur5,Bhaktapur5,85.4304,27.676,macroseismic,348.96,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur6,Bhaktapur6,85.4357,27.669,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur7,Bhaktapur7,85.4331,27.669,macroseismic,318.5,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur15,Bhaktapur15,85.424,27.676,macroseismic,415.48,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur10,Bhaktapur10,85.4286,27.676,macroseismic,348.96,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur17,Bhaktapur17,85.4167,27.671,macroseismic,537.27,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur16,Bhaktapur16,85.4243,27.669,macroseismic,537.27,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur14,Bhaktapur14,85.4253,27.667,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur12,Bhaktapur12,85.4287,27.668,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur11,Bhaktapur11,85.4306,27.669,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur8,Bhaktapur8,85.4308,27.672,macroseismic,318.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhaktapur9,Bhaktapur9,85.4313,27.674,macroseismic,318.5,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor1,Bhimeshwor1,86.0545,27.666,macroseismic,813.02,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor2,Bhimeshwor2,86.0718,27.67,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor3,Bhimeshwor3,86.0711,27.684,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor4,Bhimeshwor4,86.088,27.67,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor5,Bhimeshwor5,86.0792,27.649,macroseismic,838.34,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor6,Bhimeshwor6,86.0733,27.629,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor7,Bhimeshwor7,86.0621,27.65,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor8,Bhimeshwor8,86.0488,27.635,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor9,Bhimeshwor9,86.0335,27.649,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor10,Bhimeshwor10,86.0397,27.669,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor11,Bhimeshwor11,86.0163,27.663,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor12,Bhimeshwor12,86.0212,27.679,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bhimeshwor13,Bhimeshwor13,86.0083,27.699,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur1,Bidur1,85.1587,27.925,macroseismic,866.79,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur2,Bidur2,85.1685,27.916,macroseismic,621.84,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur3,Bidur3,85.1557,27.904,macroseismic,614.68,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur4,Bidur4,85.1441,27.901,macroseismic,614.68,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur5,Bidur5,85.1463,27.881,macroseismic,415.99,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur6,Bidur6,85.1377,27.884,macroseismic,383.36,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur7,Bidur7,85.1273,27.869,macroseismic,416.88,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur8,Bidur8,85.1325,27.927,macroseismic,720.12,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur9,Bidur9,85.1487,27.936,macroseismic,508.25,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur10,Bidur10,85.1468,27.925,macroseismic,508.25,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Bidur11,Bidur11,85.1494,27.921,macroseismic,849.91,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta8,Budanilkanta8,85.3405,27.752,macroseismic,432.32,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta10,Budanilkanta10,85.3488,27.742,macroseismic,420.7,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta11,Budanilkanta11,85.3473,27.73,macroseismic,310.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta12,Budanilkanta12,85.3537,27.73,macroseismic,310.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta14,Budanilkanta14,85.3682,27.737,macroseismic,433.39,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta13,Budanilkanta13,85.3608,27.739,macroseismic,433.39,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta15,Budanilkanta15,85.3651,27.751,macroseismic,540.5,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta9,Budanilkanta9,85.3575,27.759,macroseismic,495.04,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta16,Budanilkanta16,85.375,27.757,macroseismic,575.52,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta17,Budanilkanta17,85.3752,27.765,macroseismic,777.68,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta3,Budanilkanta3,85.3706,27.769,macroseismic,606.92,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta2,Budanilkanta2,85.3738,27.773,macroseismic,606.92,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta1,Budanilkanta1,85.3761,27.789,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta4,Budanilkanta4,85.3634,27.783,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta6,Budanilkanta6,85.3539,27.793,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta5,Budanilkanta5,85.3477,27.769,macroseismic,495.04,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Budanilkanta7,Budanilkanta7,85.3439,27.761,macroseismic,495.04,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri23,Chandragiri23,85.2711,27.688,macroseismic,361.4,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri13,Chandragiri13,85.2535,27.674,macroseismic,856.55,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri12,Chandragiri12,85.2363,27.668,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri11,Chandragiri11,85.222,27.667,macroseismic,900.0,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri9,Chandragiri9,85.2237,27.68,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri8,Chandragiri8,85.2369,27.688,macroseismic,672.78,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri6,Chandragiri6,85.2151,27.689,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri5,Chandragiri5,85.223,27.696,macroseismic,598.74,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri3,Chandragiri3,85.2128,27.707,macroseismic,598.74,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri2,Chandragiri2,85.2262,27.714,macroseismic,646.78,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chandragiri1,Chandragiri1,85.2403,27.703,macroseismic,623.99,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan1,Changunarayan1,85.4421,27.705,macroseismic,640.13,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan8,Changunarayan8,85.4235,27.718,macroseismic,493.11,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan11,Changunarayan11,85.4236,27.71,macroseismic,493.11,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan14,Changunarayan14,85.4133,27.703,macroseismic,357.5,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan15,Changunarayan15,85.4062,27.692,macroseismic,423.29,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Changunarayan16,Changunarayan16,85.4019,27.698,macroseismic,423.29,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara1,Chautrara1,85.6902,27.779,macroseismic,857.49,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara2,Chautrara2,85.7014,27.796,macroseismic,733.98,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara3,Chautrara3,85.7173,27.776,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara4,Chautrara4,85.7236,27.788,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara5,Chautrara5,85.7415,27.783,macroseismic,870.07,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara6,Chautrara6,85.7599,27.772,macroseismic,540.29,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara7,Chautrara7,85.7289,27.769,macroseismic,633.01,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara8,Chautrara8,85.7246,27.75,macroseismic,681.53,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Chautrara9,Chautrara9,85.6862,27.755,macroseismic,632.25,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dakchhinkali2,Dakchhinkali2,85.2739,27.636,macroseismic,694.49,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dakchhinkali3,Dakchhinkali3,85.2904,27.622,macroseismic,797.45,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dakchhinkali4,Dakchhinkali4,85.2806,27.613,macroseismic,797.45,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dakchhinkali6,Dakchhinkali6,85.2617,27.616,macroseismic,644.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dhunche5,Dhunche5,85.2889,28.108,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Dhunche8,Dhunche8,85.3038,28.082,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gerkhu9,Gerkhu9,85.1911,27.973,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Godawari1,Godawari1,85.3572,27.627,macroseismic,351.01,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Godawari2,Godawari2,85.3657,27.616,macroseismic,641.12,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Godawari4,Godawari4,85.3835,27.604,macroseismic,681.24,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Godawari5,Godawari5,85.3836,27.582,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Godawari10,Godawari10,85.3544,27.615,macroseismic,454.32,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gokarneshwor4,Gokarneshwor4,85.4165,27.754,macroseismic,525.36,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gokarneshwor9,Gokarneshwor9,85.3929,27.73,macroseismic,399.91,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gokarneshwor10,Gokarneshwor10,85.3928,27.743,macroseismic,400.63,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gokarneshwor12,Gokarneshwor12,85.3732,27.715,macroseismic,309.74,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha1,Gorkha1,84.6258,28.002,macroseismic,639.61,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha2,Gorkha2,84.6188,28.0,macroseismic,788.97,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha3,Gorkha3,84.6272,27.995,macroseismic,639.61,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha4,Gorkha4,84.607,28.01,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha5,Gorkha5,84.6047,27.987,macroseismic,590.36,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha6,Gorkha6,84.6237,27.984,macroseismic,839.46,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha7,Gorkha7,84.6435,27.971,macroseismic,517.58,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha8,Gorkha8,84.6133,27.965,macroseismic,453.95,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha9,Gorkha9,84.5927,27.973,macroseismic,556.56,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha10,Gorkha10,84.5773,27.977,macroseismic,627.64,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha11,Gorkha11,84.5563,27.957,macroseismic,603.73,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha12,Gorkha12,84.6152,28.03,macroseismic,835.35,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha13,Gorkha13,84.6433,28.03,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha14,Gorkha14,84.6553,28.012,macroseismic,796.12,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Gorkha15,Gorkha15,84.6553,27.993,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri1,Jiri1,86.2658,27.643,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri2,Jiri2,86.2665,27.616,macroseismic,810.92,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri3,Jiri3,86.2538,27.602,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri4,Jiri4,86.2435,27.622,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri5,Jiri5,86.2262,27.656,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri6,Jiri6,86.2207,27.628,macroseismic,707.5,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri7,Jiri7,86.1912,27.629,macroseismic,695.18,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri8,Jiri8,86.2148,27.599,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri9,Jiri9,86.1803,27.605,macroseismic,757.91,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri10,Jiri10,86.1655,27.592,macroseismic,853.54,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Jiri11,Jiri11,86.1854,27.574,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara1,Kageshworimanahara1,85.4216,27.727,macroseismic,346.67,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara6,Kageshworimanahara6,85.4107,27.736,macroseismic,346.67,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara11,Kageshworimanahara11,85.3992,27.738,macroseismic,399.91,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara13,Kageshworimanahara13,85.3759,27.699,macroseismic,371.2,6.0,0.3,1.4,0.08595793822214275,1.3,5.521336017116593,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara15,Kageshworimanahara15,85.4329,27.749,macroseismic,556.28,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kageshworimanahara16,Kageshworimanahara16,85.4194,27.739,macroseismic,346.67,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai1,Kamalamai1,85.8871,27.259,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai2,Kamalamai2,85.8911,27.248,macroseismic,664.84,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai3,Kamalamai3,85.8551,27.169,macroseismic,627.12,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai4,Kamalamai4,85.898,27.197,macroseismic,435.39,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai5,Kamalamai5,85.918,27.246,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai6,Kamalamai6,85.9208,27.219,macroseismic,447.05,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai7,Kamalamai7,85.9558,27.201,macroseismic,799.29,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai8,Kamalamai8,85.9767,27.242,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai9,Kamalamai9,85.952,27.24,macroseismic,739.45,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai10,Kamalamai10,85.9058,27.15,macroseismic,713.66,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai11,Kamalamai11,85.9577,27.102,macroseismic,486.94,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai12,Kamalamai12,85.9739,27.081,macroseismic,619.55,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai14,Kamalamai14,85.9901,27.073,macroseismic,575.58,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai15,Kamalamai15,85.9596,27.137,macroseismic,900.0,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai16,Kamalamai16,85.9936,27.095,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai17,Kamalamai17,86.0034,27.089,macroseismic,612.19,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kamalamai18,Kamalamai18,86.0167,27.112,macroseismic,821.66,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak1,Karyabinayak1,85.3072,27.643,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak2,Karyabinayak2,85.3064,27.655,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak3,Karyabinayak3,85.3027,27.643,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak4,Karyabinayak4,85.2966,27.658,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak5,Karyabinayak5,85.2999,27.655,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak6,Karyabinayak6,85.2962,27.644,macroseismic,482.47,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak7,Karyabinayak7,85.2991,27.64,macroseismic,530.93,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak8,Karyabinayak8,85.2905,27.639,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak9,Karyabinayak9,85.2989,27.634,macroseismic,530.93,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak10,Karyabinayak10,85.2983,27.629,macroseismic,530.93,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak11,Karyabinayak11,85.3021,27.625,macroseismic,530.93,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak12,Karyabinayak12,85.297,27.613,macroseismic,591.85,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak13,Karyabinayak13,85.3078,27.619,macroseismic,591.85,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak14,Karyabinayak14,85.3046,27.577,macroseismic,707.76,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak15,Karyabinayak15,85.3095,27.594,macroseismic,540.22,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak16,Karyabinayak16,85.3053,27.607,macroseismic,649.91,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak17,Karyabinayak17,85.2929,27.584,macroseismic,707.76,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Karyabinayak18,Karyabinayak18,85.2945,27.595,macroseismic,649.91,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kritipur3,Kritipur3,85.2846,27.679,macroseismic,487.68,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kritipur4,Kritipur4,85.2779,27.676,macroseismic,487.68,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kritipur9,Kritipur9,85.2783,27.672,macroseismic,526.26,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kritipur14,Kritipur14,85.2913,27.659,macroseismic,526.26,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Kritipur15,Kritipur15,85.2776,27.657,macroseismic,536.07,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Laharepauwa1,Laharepauwa1,85.1846,27.978,macroseismic,615.77,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur1,Lalitpur1,85.3114,27.688,macroseismic,403.67,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur2,Lalitpur2,85.3075,27.685,macroseismic,187.66,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur3,Lalitpur3,85.3111,27.677,macroseismic,403.67,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur4,Lalitpur4,85.3043,27.668,macroseismic,345.55,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur5,Lalitpur5,85.319,27.667,macroseismic,340.09,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur6,Lalitpur6,85.3271,27.667,macroseismic,414.56,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur7,Lalitpur7,85.3334,27.668,macroseismic,414.56,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur8,Lalitpur8,85.3341,27.671,macroseismic,414.56,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur9,Lalitpur9,85.3327,27.676,macroseismic,273.58,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur10,Lalitpur10,85.3228,27.684,macroseismic,403.67,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur11,Lalitpur11,85.3264,27.672,macroseismic,414.56,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur12,Lalitpur12,85.3249,27.669,macroseismic,340.09,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur13,Lalitpur13,85.3121,27.662,macroseismic,340.09,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur14,Lalitpur14,85.3183,27.656,macroseismic,317.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur15,Lalitpur15,85.3263,27.655,macroseismic,322.43,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur16,Lalitpur16,85.3236,27.676,macroseismic,403.67,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur17,Lalitpur17,85.3323,27.661,macroseismic,414.56,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur18,Lalitpur18,85.3231,27.673,macroseismic,340.09,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur19,Lalitpur19,85.3223,27.671,macroseismic,340.09,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur20,Lalitpur20,85.3178,27.673,macroseismic,340.09,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur21,Lalitpur21,85.3203,27.675,macroseismic,403.67,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur22,Lalitpur22,85.3269,27.679,macroseismic,273.58,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur23,Lalitpur23,85.3284,27.639,macroseismic,537.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur24,Lalitpur24,85.3287,27.631,macroseismic,537.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur25,Lalitpur25,85.33,27.621,macroseismic,557.46,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur26,Lalitpur26,85.3193,27.636,macroseismic,524.18,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur27,Lalitpur27,85.319,27.625,macroseismic,524.18,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur28,Lalitpur28,85.3385,27.636,macroseismic,537.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur29,Lalitpur29,85.3456,27.633,macroseismic,351.01,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Lalitpur30,Lalitpur30,85.3428,27.643,macroseismic,371.97,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Madyapurthimi1,Madyapurthimi1,85.3886,27.689,macroseismic,286.75,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Madyapurthimi2,Madyapurthimi2,85.3936,27.695,macroseismic,423.29,6.0,0.3,1.4,0.08595793822214275,1.3,5.521336017116593,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Madyapurthimi7,Madyapurthimi7,85.3945,27.681,macroseismic,427.25,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Madyapurthimi14,Madyapurthimi14,85.3867,27.672,macroseismic,290.44,6.0,0.3,1.4,0.08595793822214275,1.3,5.521336017116593,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Madyapurthimi15,Madyapurthimi15,85.3758,27.673,macroseismic,290.44,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Mahalaxmi4,Mahalaxmi4,85.3722,27.642,macroseismic,303.45,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Mahalaxmi10,Mahalaxmi10,85.3581,27.66,macroseismic,294.96,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Mahalaxmi9,Mahalaxmi9,85.359,27.658,macroseismic,303.45,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Mahalaxmi17,Mahalaxmi17,85.3522,27.661,macroseismic,294.96,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Mahalaxmi16,Mahalaxmi16,85.3908,27.632,macroseismic,721.66,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali1,Manthali1,86.0637,27.371,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali2,Manthali2,86.063,27.388,macroseismic,861.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali3,Manthali3,86.0776,27.398,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali4,Manthali4,86.0988,27.405,macroseismic,870.69,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali5,Manthali5,86.125,27.397,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali6,Manthali6,86.1113,27.379,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali7,Manthali7,86.1428,27.378,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali8,Manthali8,86.1328,27.352,macroseismic,661.32,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali9,Manthali9,86.0976,27.349,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali10,Manthali10,86.1004,27.367,macroseismic,705.26,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali11,Manthali11,86.0105,27.339,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali12,Manthali12,86.0255,27.362,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali13,Manthali13,86.0447,27.396,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali14,Manthali14,86.0083,27.419,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali15,Manthali15,86.0435,27.414,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Manthali16,Manthali16,86.063,27.408,macroseismic,636.84,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi1,Melamchi1,85.5292,27.847,macroseismic,900.0,9.0,0.3,1.4,0.5238601299811912,1.3,73.31941971579404,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi2,Melamchi2,85.5149,27.841,macroseismic,733.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi3,Melamchi3,85.5308,27.821,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi4,Melamchi4,85.5068,27.823,macroseismic,668.46,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi5,Melamchi5,85.5427,27.835,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi6,Melamchi6,85.5694,27.835,macroseismic,864.07,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi7,Melamchi7,85.568,27.82,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi8,Melamchi8,85.5696,27.788,macroseismic,750.97,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi9,Melamchi9,85.5439,27.805,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi10,Melamchi10,85.5739,27.771,macroseismic,506.91,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi11,Melamchi11,85.5727,27.754,macroseismic,575.65,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi12,Melamchi12,85.5989,27.806,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi13,Melamchi13,85.5839,27.82,macroseismic,745.96,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi14,Melamchi14,85.6293,27.845,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Melamchi15,Melamchi15,85.5946,27.835,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarjune3,Nagarjune3,85.2672,27.734,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarjune4,Nagarjune4,85.2769,27.708,macroseismic,313.84,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarjune7,Nagarjune7,85.2609,27.713,macroseismic,580.26,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarjune14,Nagarjune14,85.2518,27.709,macroseismic,747.46,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot1,Nagarkot1,85.4872,27.662,macroseismic,683.17,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot4,Nagarkot4,85.4712,27.679,macroseismic,484.62,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot5,Nagarkot5,85.4867,27.685,macroseismic,710.38,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot6,Nagarkot6,85.4644,27.686,macroseismic,484.62,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot11,Nagarkot11,85.48,27.709,macroseismic,604.72,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nagarkot12,Nagarkot12,85.502,27.71,macroseismic,715.01,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nilkantha1,Nilkantha1,84.8893,27.944,macroseismic,532.11,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nilkantha3,Nilkantha3,84.9031,27.896,macroseismic,765.63,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nilkantha4,Nilkantha4,84.9478,27.902,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Nilkantha12,Nilkantha12,84.8607,27.907,macroseismic,728.67,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Palungtar3,Palungtar3,84.4481,27.962,macroseismic,408.24,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti1,Panauti1,85.538,27.602,macroseismic,629.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti2,Panauti2,85.5224,27.604,macroseismic,707.3,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti3,Panauti3,85.5119,27.6,macroseismic,707.3,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti4,Panauti4,85.5061,27.594,macroseismic,594.31,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti5,Panauti5,85.5087,27.581,macroseismic,541.01,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti6,Panauti6,85.515,27.58,macroseismic,541.01,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti7,Panauti7,85.5203,27.583,macroseismic,541.01,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti10,Panauti10,85.5297,27.578,macroseismic,630.89,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti9,Panauti9,85.5023,27.576,macroseismic,586.9,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti8,Panauti8,85.502,27.586,macroseismic,586.9,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti11,Panauti11,85.5284,27.593,macroseismic,629.41,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti12,Panauti12,85.5326,27.567,macroseismic,609.49,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panauti13,Panauti13,85.545,27.565,macroseismic,355.94,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Panchkal3,Panchkal3,85.6204,27.648,macroseismic,467.42,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur4,Shankarapur4,85.4792,27.757,macroseismic,524.03,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur8,Shankarapur8,85.4635,27.723,macroseismic,564.63,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur9,Shankarapur9,85.4597,27.73,macroseismic,659.92,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur10,Shankarapur10,85.4487,27.727,macroseismic,513.38,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur11,Shankarapur11,85.4695,27.738,macroseismic,659.92,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur13,Shankarapur13,85.4536,27.744,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur14,Shankarapur14,85.4367,27.73,macroseismic,287.89,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Shankarapur15,Shankarapur15,85.4436,27.739,macroseismic,513.38,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Suryabinayak1,Suryabinayak1,85.4047,27.665,macroseismic,491.96,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Suryabinayak4,Suryabinayak4,85.4136,27.666,macroseismic,537.27,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Suryabinayak6,Suryabinayak6,85.4299,27.646,macroseismic,634.84,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Suryabinayak7,Suryabinayak7,85.4399,27.637,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Suryabinayak8,Suryabinayak8,85.4384,27.657,macroseismic,634.84,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor2,Tarkeshwor2,85.3175,27.79,macroseismic,558.29,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor4,Tarkeshwor4,85.2966,27.793,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor5,Tarkeshwor5,85.3052,27.769,macroseismic,410.13,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor6,Tarkeshwor6,85.3088,27.781,macroseismic,558.29,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor14,Tarkeshwor14,85.2999,27.755,macroseismic,511.78,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor16,Tarkeshwor16,85.3155,27.765,macroseismic,243.93,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor18,Tarkeshwor18,85.3037,27.746,macroseismic,511.78,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Tarkeshwor21,Tarkeshwor21,85.3106,27.74,macroseismic,348.46,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka1,Thoka1,85.3353,27.807,macroseismic,900.0,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka2,Thoka2,85.3373,27.791,macroseismic,842.6,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka4,Thoka4,85.3357,27.768,macroseismic,328.69,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka6,Thoka6,85.3289,27.756,macroseismic,432.32,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka11,Thoka11,85.321,27.749,macroseismic,386.05,6.5,0.3,1.4,0.11617362724934785,1.3,8.496498499000138,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka13,Thoka13,85.3099,27.735,macroseismic,348.46,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thoka14,Thoka14,85.32,27.739,macroseismic,348.46,6.0,0.3,1.4,0.08595793822214275,1.3,5.521336017116593,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thaha2,Thaha2,85.0691,27.638,macroseismic,487.1,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thaha3,Thaha3,85.0761,27.652,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thaha4,Thaha4,85.0989,27.613,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Thaha9,Thaha9,85.094,27.599,macroseismic,778.53,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those1,Those1,86.2558,27.553,macroseismic,479.0,9.5,0.3,1.4,0.7080059472105001,1.3,112.82746379347016,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those2,Those2,86.2605,27.565,macroseismic,900.0,7.5,0.3,1.4,0.21220258407938133,1.3,20.120167813189386,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those3,Those3,86.2589,27.572,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those6,Those6,86.2549,27.591,macroseismic,900.0,8.5,0.3,1.4,0.3876089415140448,1.3,47.645645188843524,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those5,Those5,86.2547,27.58,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those4,Those4,86.2775,27.567,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those7,Those7,86.2765,27.593,macroseismic,691.37,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those8,Those8,86.2928,27.594,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+Those9,Those9,86.2975,27.578,macroseismic,900.0,8.0,0.3,1.4,0.2867954305799765,1.3,30.96188587226579,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43Q 024 254 10000),,72.5124,22.9938,macroseismic,760.0,3.4,0.3,0.7,0.004947968482666425,0.9,0.22676161458703287,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43Q 024 255 10000),,72.5107,23.0841,macroseismic,760.0,2.3,0.3,0.7,0.001063030998308812,0.9,0.04605854962832175,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43Q 025 254 10000),,72.6099,22.9953,macroseismic,760.0,,,1.4,,1.3,,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43Q 027 209 10000),,72.8634,18.935,macroseismic,760.0,2.0,0.3,0.7,0.0006988702707201433,0.9,0.02982031810076098,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43Q 027 234 10000),,72.8326,21.1926,macroseismic,760.0,3.2,0.3,0.7,0.003741054338194923,0.9,0.16970874290309834,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 057 297 10000),,75.7552,26.8947,macroseismic,760.0,3.0,0.3,0.7,0.002828532075407437,0.9,0.12701028553796895,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 058 297 10000),,75.8559,26.8941,macroseismic,760.0,,,1.4,,1.3,,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 069 315 10000),,76.9924,28.5071,macroseismic,760.0,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 070 314 10000),,77.0928,28.4154,macroseismic,760.0,4.0,0.3,0.7,0.011447895320206682,0.9,0.5409604477701648,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 070 315 10000),,77.0946,28.5056,macroseismic,760.0,4.0,0.3,0.7,0.011447895320206682,0.9,0.5409604477701648,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 070 316 10000),,77.0964,28.5958,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 070 317 10000),,77.0982,28.686,macroseismic,760.0,3.7,0.3,0.7,0.007526209220932351,0.9,0.3502414375314362,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 071 315 10000),,77.1967,28.504,macroseismic,760.0,3.5,0.3,0.7,0.005690407639977235,0.9,0.26212123327963377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 071 316 10000),,77.1986,28.5942,macroseismic,760.0,3.7,0.3,0.7,0.007526209220932351,0.9,0.3502414375314362,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 071 317 10000),,77.2004,28.6844,macroseismic,760.0,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 072 314 10000),,77.2968,28.4121,macroseismic,760.0,3.7,0.3,0.7,0.007526209220932351,0.9,0.3502414375314362,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 072 315 10000),,77.2988,28.5023,macroseismic,760.0,4.1,0.3,0.7,0.013165643883943756,0.9,0.6253140329030227,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 072 316 10000),,77.3008,28.5925,macroseismic,760.0,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 072 317 10000),,77.3027,28.6827,macroseismic,760.0,4.2,0.3,0.7,0.015141139399909933,0.9,0.7228211255688193,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 073 311 10000),,77.3928,28.1397,macroseismic,760.0,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 073 316 10000),,77.4029,28.5907,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 073 317 10000),,77.405,28.6809,macroseismic,760.0,4.1,0.3,0.7,0.013165643883943756,0.9,0.6253140329030227,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 074 315 10000),,77.503,28.4987,macroseismic,760.0,3.6,0.3,0.7,0.006544249265642361,0.9,0.3029945833696897,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(43R 078 330 10000),,77.9497,29.8426,macroseismic,760.0,2.9,0.3,0.7,0.0024594876934656723,0.9,0.10987685757996045,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44Q 061 244 10000),,82.1149,22.1062,macroseismic,760.0,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44Q 074 196 10000),,83.3107,17.7587,macroseismic,760.0,2.9,0.3,0.7,0.0024594876934656723,0.9,0.10987685757996045,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 021 335 10000),,78.0369,30.2932,macroseismic,760.0,4.2,0.3,0.7,0.015141139399909933,0.9,0.7228211255688193,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 025 319 10000),,78.4884,28.8594,macroseismic,760.0,,,1.4,,1.3,,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 040 293 10000),,80.0464,26.5324,macroseismic,760.0,4.9,0.3,1.4,0.04430763397373153,0.9,1.993239437459833,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 042 293 10000),,80.2472,26.5336,macroseismic,760.0,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 043 292 10000),,80.348,26.4438,macroseismic,760.0,4.0,0.3,0.7,0.011447895320206682,0.9,0.5409604477701648,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 049 296 10000),,80.9497,26.8064,macroseismic,226.88,4.8,0.3,0.7,0.03503138297789182,0.9,1.724355510775247,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 049 297 10000),,80.9496,26.8967,macroseismic,233.49,4.1,0.3,0.7,0.013165643883943756,0.9,0.6253140329030227,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 058 281 10000),,81.8454,25.4496,macroseismic,356.74,4.8,0.3,0.7,0.03503138297789182,0.9,1.724355510775247,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 070 279 10000),,83.0355,25.2574,macroseismic,348.67,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 073 294 10000),,83.36,26.6063,macroseismic,222.48,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 073 296 10000),,83.3637,26.7867,macroseismic,220.68,5.2,0.3,1.4,0.053084960064338445,1.3,2.7703260595621533,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(44R 079 312 10000),,84.0056,28.2179,macroseismic,383.82,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 028 246 10000),,84.9133,22.2772,macroseismic,760.0,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 037 224 10000),,85.8028,20.2988,macroseismic,760.0,2.9,0.3,0.7,0.0024594876934656723,0.9,0.10987685757996045,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 053 246 10000),,87.3398,22.2903,macroseismic,760.0,4.2,0.3,0.7,0.015141139399909933,0.9,0.7228211255688193,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 053 260 10000),,87.3429,23.555,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 061 256 10000),,88.1237,23.19,macroseismic,760.0,4.1,0.3,0.7,0.013165643883943756,0.9,0.6253140329030227,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 063 248 10000),,88.3121,22.466,macroseismic,760.0,4.6,0.3,0.7,0.026486487883161644,0.9,1.290510329910269,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 063 249 10000),,88.313,22.5563,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 063 250 10000),,88.3138,22.6466,macroseismic,760.0,,,1.4,,1.3,,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 063 251 10000),,88.3147,22.7369,macroseismic,760.0,3.2,0.3,0.7,0.003741054338194923,0.9,0.16970874290309834,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 064 248 10000),,88.4093,22.4652,macroseismic,760.0,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 064 249 10000),,88.4102,22.5555,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 064 250 10000),,88.4111,22.6458,macroseismic,760.0,3.6,0.3,0.7,0.006544249265642361,0.9,0.3029945833696897,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 064 251 10000),,88.4121,22.7361,macroseismic,760.0,3.8,0.3,0.7,0.008655511570231601,0.9,0.4048556353709329,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45Q 065 249 10000),,88.5074,22.5546,macroseismic,760.0,4.3,0.3,0.7,0.017413056615263073,0.9,0.8355327916487073,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 024 306 10000),,84.4145,27.6851,macroseismic,381.59,6.8,0.3,1.4,0.13918758033248205,1.3,11.004174511763816,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 030 283 10000),,85.058,25.6197,macroseismic,230.86,5.7,0.3,1.4,0.07174523366443815,1.3,4.2631115247905305,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 031 283 10000),,85.1575,25.621,macroseismic,291.05,5.6,0.3,1.4,0.067550527146243,1.3,3.9109974497328928,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 033 305 10000),,85.328,27.6089,macroseismic,557.46,7.0,0.3,1.4,0.1570106490152386,1.3,13.07482220240086,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 033 306 10000),,85.3266,27.6992,macroseismic,290.59,7.7,0.3,1.4,0.2393752759364477,1.3,23.906165479172657,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 034 306 10000),,85.428,27.7004,macroseismic,488.32,6.9,0.3,1.4,0.14783075567304563,1.3,11.994899967298737,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 047 307 10000),,86.7462,27.7993,macroseismic,900.0,6.9,0.3,1.4,0.14783075567304563,1.3,11.994899967298737,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 062 266 10000),,88.2298,24.0923,macroseismic,234.8,5.1,0.3,1.4,0.04998125802551742,1.3,2.541509432927285,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 063 295 10000),,88.3571,26.7097,macroseismic,272.62,4.8,0.3,0.7,0.03503138297789182,0.9,1.724355510775247,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 064 295 10000),,88.4576,26.7087,macroseismic,236.61,6.1,0.3,1.4,0.09129569558664741,1.3,6.018431745185194,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 066 269 10000),,88.6266,24.3595,macroseismic,239.95,4.5,0.3,0.7,0.0230307414782914,0.9,1.1164231237211815,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 074 291 10000),,89.4546,26.334,macroseismic,195.98,5.5,0.3,1.4,0.06360107124436185,1.3,3.587966433172019,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 075 305 10000),,89.5834,27.595,macroseismic,900.0,3.9,0.3,0.7,0.009954264935134544,0.9,0.46798598888485377,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 076 303 10000),,89.6802,27.4127,macroseismic,900.0,4.4,0.3,0.7,0.02002587339550953,0.9,0.9658199258784891,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 076 304 10000),,89.6824,27.5028,macroseismic,900.0,4.2,0.3,0.7,0.015141139399909933,0.9,0.7228211255688193,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(45R 079 268 10000),,89.9052,24.2502,macroseismic,233.88,3.7,0.3,0.7,0.007526209220932351,0.9,0.3502414375314362,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(46Q 023 262 10000),,90.4009,23.7142,macroseismic,760.0,4.1,0.3,0.7,0.013165643883943756,0.9,0.6253140329030227,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(46Q 023 263 10000),,90.3991,23.8044,macroseismic,760.0,4.2,0.3,0.7,0.015141139399909933,0.9,0.7228211255688193,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(46Q 023 264 10000),,90.3973,23.8946,macroseismic,760.0,3.8,0.3,0.7,0.008655511570231601,0.9,0.4048556353709329,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(46R 037 289 10000),,91.7492,26.169,macroseismic,760.0,4.6,0.3,0.7,0.026486487883161644,0.9,1.290510329910269,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015
+UTM:(46R 038 275 10000),,91.8613,24.9058,macroseismic,760.0,4.5,0.3,0.7,0.0230307414782914,0.9,1.1164231237211815,,,,,,,inferred,Stations_USGS_CaprioEtAl2015,CaprioEtAl2015

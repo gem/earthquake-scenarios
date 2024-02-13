@@ -1,0 +1,40 @@
+job_id: 21
+job_description: 20150425_M7.8_Gorkha median gmf, Stations:All_Panjamani_USGS, gmlt:Adjusted, Rupture:Kobayashi, Max_dist:50km
+
+usuario@CYE.local running /Users/cye/Documents/wip/earthquake-scenarios/Nepal/20150425_M7.8_Gorkha/OpenQuake_gmfs/job_stations_all_panjamani_usgs.ini [--hc=None]
+Using engine version 3.19.0-git29cae55d07
+Using 8 zmq workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 2340665875 (total size 614.36 KB)
+Extracting the hazard sites from the site model
+Read N=9839 hazard sites and L=1 hazard levels
+The closest vs30 site (77.1 28.5) is distant more than 9 km from site #9821 (77.2 28.5)
+The closest vs30 site (77.3 28.6) is distant more than 8 km from site #9822 (77.2 28.6)
+The closest vs30 site (77.3 28.6) is distant more than 9 km from site #9823 (77.2 28.7)
+The closest vs30 site (77.9 29.9) is distant more than 6 km from site #9826 (77.9 29.8)
+The closest vs30 site (84.9 22.3) is distant more than 6 km from site #9831 (84.9 22.3)
+The closest vs30 site (88.4 22.8) is distant more than 8 km from site #9833 (88.3 22.7)
+The closest vs30 site (89.9 24.2) is distant more than 7 km from site #9837 (89.9 24.3)
+The closest vs30 site (90.3 23.9) is distant more than 7 km from site #9838 (90.4 23.9)
+Reading station data from /Users/cye/Documents/wip/earthquake-scenarios/Nepal/20150425_M7.8_Gorkha/OpenQuake_gmfs/stationlist_all_Panjamani_USGS.csv
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites = 8971.0 per rupture
+Discarded 90/463 stations more distant than 50 km
+totw = 6
+GSIM: [AbrahamsonEtAl2014] region = "CHN", IMT: PGA, Nominal bias mean: -0.437, Nominal bias stddev: 0.090
+GSIM: [AbrahamsonEtAl2015SInter], IMT: PGA, Nominal bias mean: -0.765, Nominal bias stddev: 0.141
+GSIM: [AtkinsonBoore2003SInter], IMT: PGA, Nominal bias mean: 0.281, Nominal bias stddev: 0.105
+GSIM: [CauzziEtAl2014], IMT: PGA, Nominal bias mean: -0.442, Nominal bias stddev: 0.142
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: -0.616, Nominal bias stddev: 0.103
+GSIM: [YoungsEtAl1997SInter], IMT: PGA, Nominal bias mean: -0.275, Nominal bias stddev: 0.085
+GSIM: [ZhaoEtAl2016SInter], IMT: PGA, Nominal bias mean: -1.173, Nominal bias stddev: 0.130
+Sent 1 gen_event_based tasks, 640.04 KB
+gen_event_based 100% [1 submitted, 0 queued]
+Received 1 * 880.27 KB {'gmfdata': '879.56 KB', 'sig_eps': '407 B', 'times': '313 B'} in 13 seconds from gen_event_based
+Stored 659.7 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+Stored 10.11 GB on /Users/cye/oqdata/calc_21.hdf5 in 698 seconds

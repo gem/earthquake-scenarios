@@ -4,40 +4,46 @@
 	
 		<logicTreeBranchSet branchSetID="Gorkha" uncertaintyType="gmpeModel" applyToTectonicRegionType="subduction interface megathrust">
 
-			<logicTreeBranch branchID="b_1">
+
+			<logicTreeBranch branchID='b1'>
+				<uncertaintyModel>AbrahamsonEtAl2015SInter</uncertaintyModel>
+				<uncertaintyWeight>0.143</uncertaintyWeight>
+			</logicTreeBranch>
+			
+			<logicTreeBranch branchID="b2">
+					<uncertaintyModel>AbrahamsonEtAl2014RegCHN</uncertaintyModel>
+					<uncertaintyWeight>0.143</uncertaintyWeight>
+			</logicTreeBranch>
+
+			<logicTreeBranch branchID="b3">
 				<uncertaintyModel>AtkinsonBoore2003SInter</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.143</uncertaintyWeight>
+			</logicTreeBranch>
+			
+			<logicTreeBranch branchID="b4">
+					<uncertaintyModel>CauzziEtAl2014</uncertaintyModel>
+					<uncertaintyWeight>0.143</uncertaintyWeight>
+			</logicTreeBranch>
+			
+			<logicTreeBranch branchID="b5">
+					<uncertaintyModel>ChiouYoungs2014</uncertaintyModel>
+					<uncertaintyWeight>0.143</uncertaintyWeight>
 			</logicTreeBranch>
 
-			<logicTreeBranch branchID="b_2">
+			<logicTreeBranch branchID="b6">
 				<uncertaintyModel>                
                     [ModifiableGMPE]
-                    gmpe.AtkinsonMacias2009NSHMP2014.NRCan15SiteTerm = {}
+                    gmpe.YoungsEtAl1997SInter = {}
                     add_between_within_stds.with_betw_ratio = 0.6
                 </uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+				<uncertaintyWeight>0.143</uncertaintyWeight>
 			</logicTreeBranch>
 
-			<logicTreeBranch branchID="b_3">
-				<uncertaintyModel>ZhaoEtAl2006SInter</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
-			</logicTreeBranch>
-			<logicTreeBranch branchID="b_4">
-				<uncertaintyModel>                
-                    [ModifiableGMPE]
-                    gmpe.Kanno2006Shallow = {}
-                    add_between_within_stds.with_betw_ratio = 0.6
-                </uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
+			<logicTreeBranch branchID="b5">
+					<uncertaintyModel>ZhaoEtAl2016SInter</uncertaintyModel>
+					<uncertaintyWeight>0.142</uncertaintyWeight>
 			</logicTreeBranch>
 
-			<logicTreeBranch branchID='b6'>
-				<uncertaintyModel>
-					AbrahamsonEtAl2015SInter
-				</uncertaintyModel>
-				<uncertaintyWeight>0.20</uncertaintyWeight>
-			</logicTreeBranch>
-		
 		</logicTreeBranchSet>
 
 	</logicTree>
