@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2011
+Region,Oceania
+Country,New_Zealand
+Event_Name,Christchurch_2011
+Local_Date,22/02/2011
+Local_Time,12:51:42
+Longitude,172.68
+Latitude,-43.583
+Depth_(km),5.9
+Mw,6.1
+Max_Intensity_(MMI),IX
+Fault_mechanism,Oblique thrust
+Tectonic_region_type,Active shallow crustal
+Fatalities,181-185
+Injured,1500-7171
+Displaced_Population,
+Affected_Population,301500
+Affected_Units,
+Damaged_Units,100000
+Collapsed_Units,
+Economic_Losses,15000 M USD
+Insured_Losses,3500-12000 M USD
+Induced_Effects,"Liquefaction, landslides"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000huvq/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2011_Christchurch_earthquake

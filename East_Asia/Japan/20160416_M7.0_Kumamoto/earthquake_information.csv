@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2016
+Region,East_Asia
+Country,Japan
+Event_Name,Kumamoto_2016
+Local_Date,16/04/2016
+Local_Time,01:25:06
+Latitude,32.7906
+Longitude,130.7543
+Depth_(km),10
+Mw,7
+Max_Intensity_(MMI),IX
+Fault_mechanism,Strike slip
+Tectonic_region_type,Active Shallow Crustal
+Fatalities,50-228
+Injured,1500-2753
+Displaced_Population,23985-196000
+Affected_Population,272763
+Affected_Units,198636 Units
+Damaged_Units,189939 Units
+Collapsed_Units,8697 Units
+Economic_Losses,20000-22580 M USD
+Insured_Losses,5000-5645 M USD
+Induced_Effects,"Landslides, Debris flows, Cliff failures"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2016_Kumamoto_earthquakes

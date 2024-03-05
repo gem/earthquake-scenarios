@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1999
+Region,Europe
+Country,Turkey
+Event_Name,Izmit
+Local_Date,17/08/1999
+Local_Time,00:01:39
+Latitude,40.748
+Longitude,29.864
+Depth_(km),17
+Mw,7.6
+Max_Intensity_(MMI),X
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,17118-18373
+Injured,43953-50000
+Displaced_Population,600000
+Affected_Population,1358953
+Affected_Units,241000 Buildings
+Damaged_Units,73342-108000 Buildings
+Collapsed_Units,16400 Buildings
+Economic_Losses,20000-30000 M USD
+Insured_Losses,2000 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0009d4z/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake

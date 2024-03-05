@@ -1,0 +1,16 @@
+FIELD,DESCRIPTION
+Year,2002
+Region,Europe
+Country,Italy
+Event_Name,Molise_2002
+Local_Date,01/11/2002
+Local_Time,15:09:00
+Latitude,41.726
+Longitude,14.875
+Depth_(km),10
+Mw,5.8
+Max_Intensity_(MMI),VII
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000bftq/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2002_Molise_earthquakes

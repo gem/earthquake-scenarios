@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1989
+Region,Oceania
+Country,Australia
+Event_Name,Newcastle
+Local_Date,28/12/1989
+Local_Time,10:27:00
+Longitude,151.619
+Latitude,-32.967
+Depth_(km),10
+Mw,5.4
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Thrust/reverse 
+Tectonic_region_type,Stable Continental Regions (SCRs) 
+Fatalities,9-12
+Injured,100-160
+Displaced_Population,
+Affected_Population,2000-300000
+Affected_Units,
+Damaged_Units,1000-50000
+Collapsed_Units,300
+Economic_Losses,900-1100 M
+Insured_Losses,396-500 M
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp00043na/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1989_Newcastle_earthquake

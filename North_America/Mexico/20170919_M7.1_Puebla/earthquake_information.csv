@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2017
+Region,North_America
+Country,Mexico
+Event_Name,Puebla_2017
+Local_Date,19/09/2017
+Local_Time,13:14:39
+Latitude,18.3297
+Longitude,-98.6712
+Depth_(km),51.2
+Mw,7.1
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Normal
+Tectonic_region_type,Subduction Intraslab
+Fatalities,362-471
+Injured,6000-7289
+Displaced_Population,5000-193546 
+Affected_Population,216672-250000
+Affected_Units,150000-190000 Buildings
+Damaged_Units,54473 Buildings
+Collapsed_Units,19261 Buildings
+Economic_Losses,4000-8000 M USD
+Insured_Losses,725-2000 M USD
+Induced_Effects,Landslides
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2017_Puebla_earthquake

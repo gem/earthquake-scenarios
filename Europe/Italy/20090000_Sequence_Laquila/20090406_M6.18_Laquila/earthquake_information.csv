@@ -1,0 +1,16 @@
+FIELD,DESCRIPTION
+Year,2009
+Region,Europe
+Country,Italy
+Event_Name,Laquila_2009
+Local_Date,06/04/2009
+Local_Time,01:32:39
+Latitude,42.334
+Longitude,13.334
+Depth_(km),8.8
+Mw,6.3
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Normal
+Tectonic_region_type,Active Shallow Crust
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2009_L%27Aquila_earthquake

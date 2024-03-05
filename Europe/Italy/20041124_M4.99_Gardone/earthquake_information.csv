@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2004
+Region,Europe
+Country,Italy
+Event_Name,Gardone_2004
+Local_Date,24/11/2004
+Local_Time,22:59:40
+Latitude,45.626
+Longitude,10.559
+Depth_(km),17.2
+Mw,5.1
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse
+Tectonic_region_type,Active Shallow Crust
+Fatalities,
+Injured,
+Displaced_Population,2000-2300
+Affected_Population,
+Affected_Units,1200-4147 Buildings
+Damaged_Units,500 Buildings
+Collapsed_Units,40 Buildings
+Economic_Losses,215 M EUR
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000d94j/executive
+Wikipedia page,https://en.wikipedia.org/wiki/List_of_earthquakes_in_2004

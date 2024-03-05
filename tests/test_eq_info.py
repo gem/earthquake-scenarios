@@ -13,41 +13,33 @@ import pytest
 # -------------------------------------------------------------------------------------
 
 # Determine all relevant country folders
-skip_folders = ["src", "tests"]
-countries = [folder for folder in next(os.walk('.'))[1] if folder
+skip_folders = ['src', 'tests', 'World']
+
+regions = sorted([folder for folder in next(os.walk('.'))[1] if folder
                 not in skip_folders
-                and not folder.startswith(".")]
+                and not folder.startswith(".")])
     
-# Determine all relevant event folders, including sequences
-events = []
-for country in countries:
-    for folder in next(os.walk(country))[1]:
-        events.append(os.path.join(country, folder))
-        if '_Sequence_' in folder:
-            subfolders = next(os.walk(os.path.join(country, folder)))[1]
-            if 'Impact' in subfolders:
-                subfolders.remove('Impact')
-            if 'References' in subfolders:
-                subfolders.remove('References')
-            events.append([os.path.join(country, folder, sequence)
-                        for sequence in subfolders])
+events = glob.glob('**/*_M*/', recursive=True)
 
 # Arrange DataFrame with event paths
 db = pd.DataFrame({'Event_Path':events}).explode('Event_Path')
-db['Country'] = db.Event_Path.str.split(os.sep, expand=True)[0]
-db['Event_Folder'] = db.Event_Path.str.split(os.sep, expand=True)[1]
+db.Event_Path = db.Event_Path.apply(lambda x: os.path.normpath(x))
+db['Region'] = db.Event_Path.str.split(os.sep, expand=True)[0]
+db['Country'] = db.Event_Path.str.split(os.sep, expand=True)[1]
+db['Event_Folder'] = db.Event_Path.str.split(os.sep, expand=True)[2]
 
 # Include events within a sequence
-sequence = db.Event_Path.str.split(os.sep, expand=True)[2]
-db.loc[~sequence.isna(), 'Event_Folder'] = sequence[~sequence.isna()]
-db.loc[~sequence.isna(),'Sequence'] = True
+sequence = db.Event_Path.str.split(os.sep, expand=True)[3]
+db.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
+db.loc[sequence != '','Sequence'] = True
 
 # Ignore folders marked as DRAFT
 ignore = True
 if ignore:
     draft_prefix = "DRAFT_"
     edx = db.Event_Folder.str.startswith(draft_prefix) # non-draft indices
-    db = db[~edx]
+    if edx.any():
+        db = db[~edx]
 
 
 # -----------------------------------------------------------------------------

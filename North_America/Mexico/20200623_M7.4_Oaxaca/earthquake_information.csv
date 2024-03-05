@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2020
+Region,North_America
+Country,Mexico
+Event_Name,Oaxaca_2020
+Local_Date,23/06/2020
+Local_Time,10:29:03
+Latitude,15.784
+Longitude,-96.12
+Depth_(km),22.6
+Mw,7.4
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse
+Tectonic_region_type,Subduction Interface
+Fatalities,10
+Injured,23-25
+Displaced_Population,139
+Affected_Population,24393
+Affected_Units,>8000 Units
+Damaged_Units,8123-10285 Units
+Collapsed_Units,
+Economic_Losses,75 M USD
+Insured_Losses,
+Induced_Effects,"Tsunami, Landslides"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us6000ah9t/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2020_Oaxaca_earthquake

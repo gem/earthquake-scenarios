@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1995
+Region,East_Asia
+Country,Japan
+Event_Name,Kobe_1995
+Local_Date,17/01/1995
+Local_Time,05:46:52
+Longitude,135.018
+Latitude,34.583
+Depth_(km),21.9
+Mw,6.9
+Max_Intensity_(MMI),IX
+Fault_mechanism,Right-lateral strike slip
+Tectonic_region_type,Active Shallow Crustal
+Fatalities,5297-6434
+Injured,34492-43792
+Displaced_Population,251301–310000
+Affected_Population,541636
+Affected_Units,>200000
+Damaged_Units,274182-400000
+Collapsed_Units,100000-186175
+Economic_Losses,100000-136000 M USD
+Insured_Losses,3000 M USD
+Induced_Effects,Fires
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0006rew/executive
+Wikipedia page,https://en.wikipedia.org/wiki/Great_Hanshin_earthquake

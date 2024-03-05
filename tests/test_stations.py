@@ -13,33 +13,24 @@ import pytest
 # -----------------------------------------------------------------------------
 
 # Determine all relevant country folders
-skip_folders = ["src", "tests"]
-countries = [folder for folder in next(os.walk('.'))[1] if folder
+skip_folders = ['src', 'tests', 'World']
+
+regions = sorted([folder for folder in next(os.walk('.'))[1] if folder
                 not in skip_folders
-                and not folder.startswith(".")]
+                and not folder.startswith(".")])
     
-# Determine all relevant event folders, including sequences
-events = []
-for country in countries:
-    for folder in next(os.walk(country))[1]:
-        events.append(os.path.join(country, folder))
-        if '_Sequence_' in folder:
-            subfolders = next(os.walk(os.path.join(country, folder)))[1]
-            if 'Impact' in subfolders:
-                subfolders.remove('Impact')
-            if 'References' in subfolders:
-                subfolders.remove('References')
-            events.append([os.path.join(country, folder, sequence)
-                        for sequence in subfolders])
+events = glob.glob('**/*_M*/', recursive=True)
 
 # Arrange DataFrame with event paths
 df = pd.DataFrame({'Event_Path':events}).explode('Event_Path')
-df['Country'] = df.Event_Path.str.split(os.sep, expand=True)[0]
-df['Event_Folder'] = df.Event_Path.str.split(os.sep, expand=True)[1]
+df.Event_Path = df.Event_Path.apply(lambda x: os.path.normpath(x))
+df['Region'] = df.Event_Path.str.split(os.sep, expand=True)[0]
+df['Country'] = df.Event_Path.str.split(os.sep, expand=True)[1]
+df['Event_Folder'] = df.Event_Path.str.split(os.sep, expand=True)[2]
 
 # Include events within a sequence
-sequence = df.Event_Path.str.split(os.sep, expand=True)[2]
-df.loc[~sequence.isna(), 'Event_Folder'] = sequence[~sequence.isna()]
+sequence = df.Event_Path.str.split(os.sep, expand=True)[3]
+df.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
 
 # Find all individual files with recording stations
 files = glob.glob(os.path.join('**', 'Recording_Stations', 'Stations_*.csv'),
@@ -50,7 +41,8 @@ ignore = True
 if  ignore:
     draft_prefix = "DRAFT_"
     edx = df.Event_Folder.str.startswith(draft_prefix) # non-draft indices
-    df = df[~edx]
+    if edx.any():
+        df = df[~edx]
     files = [x for x in files if x.find('DRAFT_') == -1]
 
 
@@ -66,9 +58,9 @@ def test_stations_files_exist(event):
         # Check USGS files exist
         # Skip events with no USGS data
         skip_events = [
-                    os.path.join('Colombia', '20041115_M7.2_Pizarro'),
-                    os.path.join('Malawi', '19890310_M6.2_Salima'),
-                    os.path.join('Malawi', '20091219_M6.0_Karonga'),
+                    os.path.join('South_America', 'Colombia', '20041115_M7.2_Pizarro'),
+                    os.path.join('Africa', 'Malawi', '19890310_M6.2_Salima'),
+                    os.path.join('Africa', 'Malawi', '20091219_M6.0_Karonga'),
                     ]
         if not any(event in s for s in skip_events):
             # stationlist.json
@@ -107,8 +99,9 @@ def test_stations_files_exist(event):
 @pytest.mark.parametrize('file_path', files)
 def test_stations_contents(file_path):
     # Get event name
-    event = os.path.join(file_path.split(os.sep)[0], 
-                             file_path.split(os.sep)[1])
+    event = os.path.join(file_path.split(os.sep)[0],
+                         file_path.split(os.sep)[1],
+                         file_path.split(os.sep)[2])
     
     df = pd.read_csv(file_path)
     
@@ -162,11 +155,11 @@ def test_stations_contents(file_path):
         error_msg = f'Check PGA values. PGA max = {max_val}'           
         
         # Exclude events with PGA > 2g
-        exclude = [os.path.join('Iran', '19900620_M7.4_Manjil-Rudbar'),
-                   os.path.join('Iran', '19970510_M7.2_Qayen'),
-                   os.path.join('Japan', '20110311_M9.1_Tohoku'),
-                   os.path.join('Italy', '20162017_Sequence_CentralItaly'),
-                   os.path.join('Turkey', '19990817_M7.53_Izmit')]
+        exclude = [os.path.join('Middle_East', 'Iran', '19900620_M7.4_Manjil-Rudbar'),
+                   os.path.join('Middle_East', 'Iran', '19970510_M7.2_Qayen'),
+                   os.path.join('East_Asia', 'Japan', '20110311_M9.1_Tohoku'),
+                   os.path.join('Europe', 'Italy', '20162017_Sequence_CentralItaly'),
+                   os.path.join('Europe', 'Turkey', '19990817_M7.53_Izmit')]
         if not event in exclude:
             assert max_val <= 2, error_msg # To be increased if necessary
     

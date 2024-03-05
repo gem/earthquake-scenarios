@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2014
+Region,South_America
+Country,Chile
+Event_Name,Iquique_2014
+Local_Date,01/04/2014
+Local_Time,20:46:50
+Latitude,-19.572
+Longitude,-70.908
+Depth_(km),38.9
+Mw,8.2
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Reverse
+Tectonic_region_type,Subduction Interface
+Fatalities,6-7
+Injured,28-200
+Displaced_Population,
+Affected_Population,513387
+Affected_Units,
+Damaged_Units,2500-9780 Units
+Collapsed_Units,
+Economic_Losses,100 M USD
+Insured_Losses,
+Induced_Effects,"Tsunami, Landslide"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2014_Iquique_earthquake

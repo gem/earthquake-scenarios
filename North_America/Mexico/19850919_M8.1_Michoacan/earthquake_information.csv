@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1985
+Region,North_America
+Country,Mexico
+Event_Name,Mexico_Michoacan 
+Local_Date,19/09/1985
+Local_Time,07:17:49
+Latitude,18.419
+Longitude,-102.468
+Depth_(km),15
+Mw,8.1
+Max_Intensity_(MMI), VII
+Fault_mechanism,Reverse
+Tectonic_region_type,Subduction Intrerface
+Fatalities,3192-50000
+Injured,30000-150000
+Displaced_Population,
+Affected_Population,80600-2130204
+Affected_Units,
+Damaged_Units,3000-100000  Units
+Collapsed_Units,757-30000 Units
+Economic_Losses,3000-8000 M USD
+Insured_Losses,
+Induced_Effects,"Landslides, Tsunami, Liquefaction"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0002jwe/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake

@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1960
+Region,South_America
+Country,Chile
+Event_Name,Valdivia_1960
+Local_Date,22/05/1960
+Local_Time,15:11:14
+Latitude,-38.143
+Longitude,-73.407
+Depth_(km),25
+Mw,9.5
+Max_Intensity_(MMI),IX
+Fault_mechanism,Strike slip
+Tectonic_region_type,Subduction
+Fatalities,1000-6000
+Injured,1743-3000
+Displaced_Population,2000000
+Affected_Population,2000000-2500000 
+Affected_Units,
+Damaged_Units,58622-450000 Units
+Collapsed_Units,72 Units
+Economic_Losses,400-1000 M USD
+Insured_Losses,
+Induced_Effects,"Tsunami, Volcano, Landslides, Flood"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/official19600522191120_30/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1960_Valdivia_earthquake
