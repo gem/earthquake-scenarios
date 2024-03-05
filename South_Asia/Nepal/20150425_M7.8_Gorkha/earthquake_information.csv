@@ -1,7 +1,7 @@
 FIELD,DESCRIPTION
 Year,2015
-Country,"Nepal, India, China, Bangladesh"
-Region,"Gorkha, Kathmandu"
+Region,South_Asia
+Country,Nepal
 Event_Name,Gorkha_2015
 Local_Date,25/04/2015
 Local_Time,11:56:25
