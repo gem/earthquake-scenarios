@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2017
+Region,Europe
+Country,Greece
+Event_Name,AegeanSea_2017
+Local_Date,12/06/2017
+Local_Time,12:28:39
+Latitude,38.9296
+Longitude,26.365
+Depth_(km),12
+Mw,6.3
+Max_Intensity_(MMI),VII
+Fault_mechanism,Normal
+Tectonic_region_type,Active Shallow Crust
+Fatalities,1
+Injured,11-15
+Displaced_Population,
+Affected_Population,731
+Affected_Units,
+Damaged_Units,250 Buildings
+Collapsed_Units,10 Buildings
+Economic_Losses,
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us20009ly0/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2017_Aegean_Sea_earthquake

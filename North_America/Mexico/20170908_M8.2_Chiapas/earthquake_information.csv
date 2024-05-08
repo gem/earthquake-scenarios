@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2017
+Region,North_America
+Country,Mexico
+Event_Name,Chiapas_2017
+Local_Date,08/09/2017
+Local_Time,23:49:17
+Latitude,14.761
+Longitude,-94.103
+Depth_(km),45.9
+Mw,8.2
+Max_Intensity_(MMI),VII
+Fault_mechanism,Normal
+Tectonic_region_type,Subduction Intraslab
+Fatalities,61-102
+Injured,250-900
+Displaced_Population,458392
+Affected_Population,1200250-2500000 
+Affected_Units,
+Damaged_Units,94027-209863 Units
+Collapsed_Units,41000-56504 Units
+Economic_Losses,2300-4000 M USD
+Insured_Losses,14000-2000 M MXN
+Induced_Effects,"Tsunami, Landslide"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2017_Chiapas_earthquake

@@ -1,3 +1,3 @@
-﻿EVENT_ID,NAME,COUNTRY,USGS_ID,WIKI
-19990125_M6.1_Armenia,Armenia,Colombia,usp00091q3,"1999 Armenia, Colombia earthquake"
-20041115_M7.2_Pizarro,Pizarro,Colombia,usp000d8gx,Terremoto de Pizarro de 2004
+﻿EVENT_ID,NAME,REGION,COUNTRY,USGS_ID,WIKI
+19990125_M6.1_Armenia,Armenia,South_America,Colombia,usp00091q3,"1999 Armenia, Colombia earthquake"
+20041115_M7.2_Pizarro,Pizarro,South_America,Colombia,usp000d8gx,Terremoto de Pizarro de 2004

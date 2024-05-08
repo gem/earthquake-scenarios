@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2010
+Region,Europe
+Country,Serbia
+Event_Name,Kraljevo
+Local_Date,03/11/2010
+Local_Time,00:56:55
+Latitude,43.76
+Longitude,20.73
+Depth_(km),0.9
+Mw,5.5
+Max_Intensity_(MMI),VI
+Fault_mechanism,Reverse
+Tectonic_region_type,Subduction Intraslab
+Fatalities,2
+Injured,100-120
+Displaced_Population,1470
+Affected_Population,25440
+Affected_Units,
+Damaged_Units,5000-5967 Buildings
+Collapsed_Units,1000-1550 Buildings
+Economic_Losses,0-138 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000hny4/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2010_Serbia_earthquake

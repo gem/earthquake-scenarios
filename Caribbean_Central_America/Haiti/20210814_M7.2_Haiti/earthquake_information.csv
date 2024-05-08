@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2021
+Region,Caribbean_Central_America
+Country,Haiti
+Event_Name,Haiti
+Local_Date,14/08/2021
+Local_Time,08:29:08
+Longitude,-73.4822
+Latitude,18.4335
+Depth_(km),10
+Mw,7.2
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Oblique-reverse
+Tectonic_region_type,Active Shallow Crust
+Fatalities,2529-2577
+Injured,12500-12763
+Displaced_Population,220000
+Affected_Population,702763-800000
+Affected_Units,
+Damaged_Units,137000-137585
+Collapsed_Units,53815-115000
+Economic_Losses,1.60 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2021_Haiti_earthquake

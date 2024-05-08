@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2020
+Region,Europe
+Country,Croatia
+Event_Name,Petrijna_2020
+Local_Date,29/12/2020
+Local_Time,18:19:54
+Latitude,45.4244
+Longitude,16.2573
+Depth_(km),10
+Mw,6.4
+Max_Intensity_(MMI),IX
+Fault_mechanism,Reverse
+Tectonic_region_type,Active Shallow Crust
+Fatalities,8
+Injured,36
+Displaced_Population,
+Affected_Population,149407
+Affected_Units,
+Damaged_Units,34056-46000 Buildings
+Collapsed_Units,1500-3062 Buildings
+Economic_Losses,4187-6223 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us6000d3zh/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2020_Petrinja_earthquake

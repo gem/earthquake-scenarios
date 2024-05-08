@@ -3,7 +3,7 @@
 # -------------------------------------------------------------------------------------
 
 # Dependencies
-import os
+import os, glob
 import pandas as pd
 import pytest
 
@@ -12,33 +12,23 @@ import pytest
 # -------------------------------------------------------------------------------------
 
 # Determine all relevant country folders
-skip_folders = ["src", "tests"]
-countries = [folder for folder in next(os.walk('.'))[1] if folder
+skip_folders = ['src', 'tests', 'World']
+
+regions = sorted([folder for folder in next(os.walk('.'))[1] if folder
                 not in skip_folders
-                and not folder.startswith(".")]
+                and not folder.startswith(".")])
     
-# Determine all relevant event folders, including sequences
-events = []
-for country in countries:
-    for folder in next(os.walk(country))[1]:
-        events.append(os.path.join(country, folder))
-        if '_Sequence_' in folder:
-            subfolders = next(os.walk(os.path.join(country, folder)))[1]
-            if 'Impact' in subfolders:
-                subfolders.remove('Impact')
-            if 'References' in subfolders:
-                subfolders.remove('References')
-            events.append([os.path.join(country, folder, sequence)
-                        for sequence in subfolders])
+events = glob.glob('**/*_M*/', recursive=True)
 
 # Arrange DataFrame with event paths
 df = pd.DataFrame({'Event_Path':events}).explode('Event_Path')
-df['Country'] = df.Event_Path.str.split(os.sep, expand=True)[0]
-df['Event_Folder'] = df.Event_Path.str.split(os.sep, expand=True)[1]
+df['Region'] = df.Event_Path.str.split(os.sep, expand=True)[0]
+df['Country'] = df.Event_Path.str.split(os.sep, expand=True)[1]
+df['Event_Folder'] = df.Event_Path.str.split(os.sep, expand=True)[2]
 
 # Include events within a sequence
-sequence = df.Event_Path.str.split(os.sep, expand=True)[2]
-df.loc[~sequence.isna(), 'Event_Folder'] = sequence[~sequence.isna()]
+sequence = df.Event_Path.str.split(os.sep, expand=True)[3]
+df.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
 
 # Ignore folders marked as DRAFT
 ignore = True

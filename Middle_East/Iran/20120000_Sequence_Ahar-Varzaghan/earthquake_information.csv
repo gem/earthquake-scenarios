@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2012
+Region,Middle_East
+Country,Iran
+Event_Name,Ahar-Varzaghan
+Local_Date,11/08/2012
+Local_Time,16:53:00
+Longitude,46.86
+Latitude,38.52
+Depth_(km),11
+Mw,6.4
+Max_Intensity_(MMI),VII
+Fault_mechanism,Strike slip
+Tectonic_region_type,Active Crustal
+Fatalities,253-330
+Injured,1380-26000
+Displaced_Population,30000-36000
+Affected_Population,59540-250000
+Affected_Units,
+Damaged_Units,11908-72000 Buildings
+Collapsed_Units,5329-6000 Units
+Economic_Losses,500-599 M USD
+Insured_Losses,
+Induced_Effects,"Rockfall, Landslides"
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jq5p/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes

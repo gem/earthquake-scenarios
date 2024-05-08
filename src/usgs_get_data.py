@@ -217,6 +217,7 @@ def home_readme(dfe, event_path, usgs_info):
     
     # Add earthquake info based on USGS
     df.loc['Year', 'DESCRIPTION'] = dfe.name[:4]
+    df.loc['Region', 'DESCRIPTION'] = dfe.REGION
     df.loc['Country', 'DESCRIPTION'] = dfe.COUNTRY
     df.loc['Event_Name', 'DESCRIPTION'] = dfe.NAME
     df.loc['Local_Date', 'DESCRIPTION'] = event_date

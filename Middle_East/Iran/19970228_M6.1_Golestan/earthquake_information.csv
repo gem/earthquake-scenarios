@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,1997
+Region,Middle_East
+Country,Iran
+Event_Name,Golestan
+Local_Date,28/02/1997
+Local_Time,12:57:28
+Longitude,48.06
+Latitude,38.075
+Depth_(km),10
+Mw,6.1
+Max_Intensity_(MMI),VIII
+Fault_mechanism,Strike Slip
+Tectonic_region_type,Active Crustal
+Fatalities,954-1100
+Injured,2000-2600
+Displaced_Population,0
+Affected_Population,38600-453756
+Affected_Units,0 Units
+Damaged_Units,12000 Buildings
+Collapsed_Units,12000-13500 Buildings
+Economic_Losses,76 M USD
+Insured_Losses,
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0007y0b/executive
+Wikipedia page,https://en.wikipedia.org/wiki/1997_Ardabil_earthquake

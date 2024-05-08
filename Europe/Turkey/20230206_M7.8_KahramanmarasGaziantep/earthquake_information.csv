@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2023
+Region,Europe
+Country,Turkey
+Event_Name,CentralTurkey_2023
+Local_Date,06/02/2023
+Local_Time,01:17:34
+Latitude,37.2199
+Longitude,37.0189
+Depth_(km),10
+Mw,7.8
+Max_Intensity_(MMI),XII
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,53227-55690
+Injured,114770-129500
+Displaced_Population,1500000
+Affected_Population,
+Affected_Units,140000 Units
+Damaged_Units,42500 Units
+Collapsed_Units,15910 Units
+Economic_Losses,103000 M USD
+Insured_Losses,1000 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
+Wikipedia page,https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake

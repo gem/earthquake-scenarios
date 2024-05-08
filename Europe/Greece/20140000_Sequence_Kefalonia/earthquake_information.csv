@@ -1,0 +1,26 @@
+FIELD,DESCRIPTION
+Year,2014
+Region,Europe
+Country,Greece
+Event_Name,Kefalonia_2014
+Local_Date,26/01/2014
+Local_Time,13:55:42
+Latitude,38.2082
+Longitude,20.4528
+Depth_(km),8
+Mw,6.1
+Max_Intensity_(MMI),VII
+Fault_mechanism,Strike-slip
+Tectonic_region_type,Active Shallow Crust
+Fatalities,
+Injured,0-23
+Displaced_Population,
+Affected_Population,2000
+Affected_Units,
+Damaged_Units,
+Collapsed_Units,
+Economic_Losses,178 M USD
+Insured_Losses,8 M USD
+Induced_Effects,
+USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usb000m8ch/executive
+Wikipedia page,no page found
