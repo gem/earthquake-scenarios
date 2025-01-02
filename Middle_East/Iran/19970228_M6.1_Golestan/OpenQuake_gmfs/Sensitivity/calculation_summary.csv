@@ -1,97 +1,97 @@
-calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-56,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002
-",28, Seismic, USGS, Jackson_et_al_2002,BooreEtAl2014,PGA,0.5117288,0.021,0.104,0.021
-53,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002
-",28, Seismic, GEM, Jackson_et_al_2002,BooreEtAl2014,PGA,0.5117288,0.021,0.104,0.021
-51,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",28, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.5124452,0.163,0.103,0.163
-54,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",28, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.5124452,0.163,0.103,0.163
-55,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",28, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.49288023,0.164,0.099,0.164
-52,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",28, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.49288023,0.164,0.099,0.164
-55,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",28, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.50537306,0.168,0.103,0.168
-52,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",28, Seismic, GEM, GCMT,BooreEtAl2014,PGA,0.50537306,0.168,0.103,0.168
-53,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002
-",28, Seismic, GEM, Jackson_et_al_2002,CampbellBozorgnia2014,PGA,0.4964457,0.228,0.103,0.228
-56,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002
-",28, Seismic, USGS, Jackson_et_al_2002,CampbellBozorgnia2014,PGA,0.4964457,0.228,0.103,0.228
-53,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002
-",28, Seismic, GEM, Jackson_et_al_2002,ZhaoEtAl2006Asc,PGA,0.6114385,0.254,0.124,0.254
-55,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",28, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.50279045,0.269,0.108,0.269
-56,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002
-",28, Seismic, USGS, Jackson_et_al_2002,ChiouYoungs2014,PGA,0.5072959,0.303,0.115,0.303
-56,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002
-",28, Seismic, USGS, Jackson_et_al_2002,AbrahamsonEtAl2014,PGA,0.5062808,0.314,0.112,0.314
-55,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",28, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.50389713,0.362,0.109,0.362
-54,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",28, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.49772277,0.368,0.1,0.368
-51,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",28, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,0.49772277,0.368,0.1,0.368
-51,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",28, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.63295496,0.413,0.122,0.413
-52,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",28, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.6059024,0.459,0.122,0.459
-53,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002
-",28, Seismic, GEM, Jackson_et_al_2002,AkkarEtAlRjb2014,PGA,0.5048374,0.627,0.13,0.627
-51,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",28, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.5032315,0.657,0.127,0.657
-52,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",28, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.4953132,0.672,0.127,0.672
-54,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",28, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.55902815,0.686,0.11,0.686
-54,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",28, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.5088974,0.794,0.109,0.794
-45,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.34932753,,,
-45,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,BooreEtAl2014,PGA,0.50546527,,,
-45,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.45644656,,,
-45,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",1, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.6965984,,,
-46,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",1, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.35624775,,,
-46,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",1, None, GEM, GCMT,BooreEtAl2014,PGA,0.4962644,,,
-46,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",1, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.3080153,,,
-46,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",1, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.18791378,,,
-47,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002
-",1, None, GEM, Jackson_et_al_2002,AkkarEtAlRjb2014,PGA,0.32893696,,,
-47,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002
-",1, None, GEM, Jackson_et_al_2002,BooreEtAl2014,PGA,0.47079504,,,
-47,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002
-",1, None, GEM, Jackson_et_al_2002,CampbellBozorgnia2014,PGA,0.34717107,,,
-47,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002
-",1, None, GEM, Jackson_et_al_2002,ZhaoEtAl2006Asc,PGA,0.3024657,,,
-48,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.42369896,,,
-48,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,BooreEtAl2014,PGA,0.50546527,,,
-48,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.45644656,,,
-48,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",1, None, USGS, USGS,ChiouYoungs2014,PGA,0.54721975,,,
-49,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",1, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.29714322,,,
-49,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",1, None, USGS, GCMT,BooreEtAl2014,PGA,0.4962644,,,
-49,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",1, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.3080153,,,
-49,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",1, None, USGS, GCMT,ChiouYoungs2014,PGA,0.28327873,,,
-50,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002
-",1, None, USGS, Jackson_et_al_2002,AbrahamsonEtAl2014,PGA,0.34894797,,,
-50,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002
-",1, None, USGS, Jackson_et_al_2002,BooreEtAl2014,PGA,0.47079504,,,
-50,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002
-",1, None, USGS, Jackson_et_al_2002,CampbellBozorgnia2014,PGA,0.34717107,,,
-50,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002
-",1, None, USGS, Jackson_et_al_2002,ChiouYoungs2014,PGA,0.33384192,,,
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,max_distance,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+1576,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",15,Seismic,USGS,USGS,BooreEtAl2014,25km,PGA,0.6155,-0.009,0.23,0.009
+1567,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",15,Seismic,GEM,USGS,BooreEtAl2014,25km,PGA,0.6155,-0.009,0.23,0.009
+1562,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",15,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,50km,PGA,0.65095484,0.011,0.188,0.011
+1561,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",18,Seismic,GEM,GCMT,AkkarEtAlRjb2014,25km,PGA,0.36568585,-0.015,0.274,0.015
+1576,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",15,Seismic,USGS,USGS,CampbellBozorgnia2014,25km,PGA,0.6155,0.023,0.199,0.023
+1567,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",15,Seismic,GEM,USGS,CampbellBozorgnia2014,25km,PGA,0.6155,0.023,0.199,0.023
+1575,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,USGS,Jackson_et_al_2002,BooreEtAl2014,150km,PGA,0.6155,-0.029,0.104,0.029
+1569,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",16,Seismic,GEM,USGS,ZhaoEtAl2006Asc,150km,PGA,0.6540049,0.029,0.127,0.029
+1566,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,GEM,Jackson_et_al_2002,BooreEtAl2014,150km,PGA,0.6155,-0.029,0.104,0.029
+1561,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",18,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,25km,PGA,0.191365,-0.036,0.247,0.036
+1574,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,USGS,Jackson_et_al_2002,BooreEtAl2014,50km,PGA,0.6155,-0.038,0.191,0.038
+1565,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,GEM,Jackson_et_al_2002,BooreEtAl2014,50km,PGA,0.6155,-0.038,0.191,0.038
+1577,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",14,Seismic,USGS,USGS,ChiouYoungs2014,50km,PGA,0.6155,0.048,0.168,0.048
+1569,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",16,Seismic,GEM,USGS,CampbellBozorgnia2014,150km,PGA,0.6155,-0.058,0.104,0.058
+1578,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",15,Seismic,USGS,USGS,CampbellBozorgnia2014,150km,PGA,0.6155,-0.058,0.104,0.058
+1567,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",15,Seismic,GEM,USGS,ZhaoEtAl2006Asc,25km,PGA,0.6155,0.069,0.238,0.069
+1563,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",15,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,150km,PGA,0.6487576,0.071,0.127,0.071
+1565,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,GEM,Jackson_et_al_2002,CampbellBozorgnia2014,50km,PGA,0.6155,0.079,0.18,0.079
+1574,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,USGS,Jackson_et_al_2002,CampbellBozorgnia2014,50km,PGA,0.6155,0.079,0.18,0.079
+1568,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",15,Seismic,GEM,USGS,ZhaoEtAl2006Asc,50km,PGA,0.6563131,-0.079,0.188,0.079
+1577,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",14,Seismic,USGS,USGS,AbrahamsonEtAl2014,50km,PGA,0.6155,0.082,0.179,0.082
+1574,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,USGS,Jackson_et_al_2002,AbrahamsonEtAl2014,50km,PGA,0.6155,0.088,0.207,0.088
+1572,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",15,Seismic,USGS,GCMT,ChiouYoungs2014,150km,PGA,0.6155,-0.09,0.114,0.09
+1574,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,USGS,Jackson_et_al_2002,ChiouYoungs2014,50km,PGA,0.6155,0.095,0.193,0.095
+1564,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:25km",14,Seismic,GEM,Jackson_et_al_2002,AkkarEtAlRjb2014,25km,PGA,0.28315184,-0.096,0.305,0.096
+1576,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",15,Seismic,USGS,USGS,ChiouYoungs2014,25km,PGA,0.6155,0.11,0.211,0.11
+1571,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",15,Seismic,USGS,GCMT,ChiouYoungs2014,50km,PGA,0.6155,-0.122,0.167,0.122
+1564,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:25km",14,Seismic,GEM,Jackson_et_al_2002,ZhaoEtAl2006Asc,25km,PGA,0.25031835,-0.125,0.271,0.125
+1565,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,GEM,Jackson_et_al_2002,ZhaoEtAl2006Asc,50km,PGA,0.6473708,0.135,0.208,0.135
+1570,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",15,Seismic,USGS,GCMT,ChiouYoungs2014,25km,PGA,0.22146368,-0.146,0.212,0.146
+1568,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",15,Seismic,GEM,USGS,AkkarEtAlRjb2014,50km,PGA,0.6155,0.15,0.202,0.15
+1573,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:25km",15,Seismic,USGS,Jackson_et_al_2002,ChiouYoungs2014,25km,PGA,0.2611377,-0.157,0.259,0.157
+1568,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",15,Seismic,GEM,USGS,CampbellBozorgnia2014,50km,PGA,0.6155,-0.168,0.156,0.168
+1577,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",14,Seismic,USGS,USGS,CampbellBozorgnia2014,50km,PGA,0.6155,-0.168,0.156,0.168
+1575,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,USGS,Jackson_et_al_2002,CampbellBozorgnia2014,150km,PGA,0.6155,0.169,0.103,0.169
+1566,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,GEM,Jackson_et_al_2002,CampbellBozorgnia2014,150km,PGA,0.6155,0.169,0.103,0.169
+1567,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",15,Seismic,GEM,USGS,AkkarEtAlRjb2014,25km,PGA,0.6155,0.178,0.262,0.178
+1563,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",15,Seismic,GEM,GCMT,BooreEtAl2014,150km,PGA,0.6155,-0.185,0.106,0.185
+1572,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",15,Seismic,USGS,GCMT,BooreEtAl2014,150km,PGA,0.6155,-0.185,0.106,0.185
+1569,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",16,Seismic,GEM,USGS,BooreEtAl2014,150km,PGA,0.6155,-0.185,0.106,0.185
+1578,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",15,Seismic,USGS,USGS,BooreEtAl2014,150km,PGA,0.6155,-0.185,0.106,0.185
+1562,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",15,Seismic,GEM,GCMT,BooreEtAl2014,50km,PGA,0.6155,-0.193,0.17,0.193
+1571,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",15,Seismic,USGS,GCMT,BooreEtAl2014,50km,PGA,0.6155,-0.193,0.17,0.193
+1562,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",15,Seismic,GEM,GCMT,AkkarEtAlRjb2014,50km,PGA,0.6155,0.197,0.202,0.197
+1566,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,GEM,Jackson_et_al_2002,ZhaoEtAl2006Asc,150km,PGA,0.64578074,0.201,0.124,0.201
+1576,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",15,Seismic,USGS,USGS,AbrahamsonEtAl2014,25km,PGA,0.6155,0.21,0.244,0.21
+1572,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",15,Seismic,USGS,GCMT,AbrahamsonEtAl2014,150km,PGA,0.6155,-0.21,0.113,0.21
+1561,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",18,Seismic,GEM,GCMT,CampbellBozorgnia2014,25km,PGA,0.23775202,-0.211,0.201,0.211
+1570,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",15,Seismic,USGS,GCMT,CampbellBozorgnia2014,25km,PGA,0.23775202,-0.211,0.201,0.211
+1564,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:25km",14,Seismic,GEM,Jackson_et_al_2002,CampbellBozorgnia2014,25km,PGA,0.26277643,-0.212,0.252,0.212
+1573,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:25km",15,Seismic,USGS,Jackson_et_al_2002,CampbellBozorgnia2014,25km,PGA,0.26277643,-0.212,0.252,0.212
+1578,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",15,Seismic,USGS,USGS,ChiouYoungs2014,150km,PGA,0.6155,0.23,0.114,0.23
+1577,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",14,Seismic,USGS,USGS,BooreEtAl2014,50km,PGA,0.6155,-0.234,0.17,0.234
+1568,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",15,Seismic,GEM,USGS,BooreEtAl2014,50km,PGA,0.6155,-0.234,0.17,0.234
+1575,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,USGS,Jackson_et_al_2002,ChiouYoungs2014,150km,PGA,0.6155,0.247,0.115,0.247
+1570,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",15,Seismic,USGS,GCMT,BooreEtAl2014,25km,PGA,0.38293073,-0.248,0.242,0.248
+1561,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",18,Seismic,GEM,GCMT,BooreEtAl2014,25km,PGA,0.38293073,-0.248,0.242,0.248
+1575,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,USGS,Jackson_et_al_2002,AbrahamsonEtAl2014,150km,PGA,0.6155,0.253,0.112,0.253
+1562,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",15,Seismic,GEM,GCMT,CampbellBozorgnia2014,50km,PGA,0.6155,-0.255,0.154,0.255
+1571,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",15,Seismic,USGS,GCMT,CampbellBozorgnia2014,50km,PGA,0.6155,-0.255,0.154,0.255
+1572,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",15,Seismic,USGS,GCMT,CampbellBozorgnia2014,150km,PGA,0.6155,-0.261,0.104,0.261
+1563,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",15,Seismic,GEM,GCMT,CampbellBozorgnia2014,150km,PGA,0.6155,-0.261,0.104,0.261
+1573,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:25km",15,Seismic,USGS,Jackson_et_al_2002,AbrahamsonEtAl2014,25km,PGA,0.25198567,-0.272,0.313,0.272
+1571,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",15,Seismic,USGS,GCMT,AbrahamsonEtAl2014,50km,PGA,0.6155,-0.274,0.175,0.274
+1570,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",15,Seismic,USGS,GCMT,AbrahamsonEtAl2014,25km,PGA,0.2097351,-0.275,0.245,0.275
+1564,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:25km",14,Seismic,GEM,Jackson_et_al_2002,BooreEtAl2014,25km,PGA,0.3194998,-0.285,0.285,0.285
+1573,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:Jackson_et_al_2002, Max_dist:25km",15,Seismic,USGS,Jackson_et_al_2002,BooreEtAl2014,25km,PGA,0.3194998,-0.285,0.285,0.285
+1565,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:50km",15,Seismic,GEM,Jackson_et_al_2002,AkkarEtAlRjb2014,50km,PGA,0.6155,0.301,0.225,0.301
+1578,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",15,Seismic,USGS,USGS,AbrahamsonEtAl2014,150km,PGA,0.6155,0.311,0.114,0.311
+1569,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",16,Seismic,GEM,USGS,AkkarEtAlRjb2014,150km,PGA,0.6155,0.379,0.133,0.379
+1563,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",15,Seismic,GEM,GCMT,AkkarEtAlRjb2014,150km,PGA,0.6155,0.391,0.133,0.391
+1566,"19970228_M6.1_Golestan median gmf, Stations:Seismic, gmlt:GEM, Rupture:Jackson_et_al_2002, Max_dist:150km",15,Seismic,GEM,Jackson_et_al_2002,AkkarEtAlRjb2014,150km,PGA,0.6155,0.572,0.13,0.572
+1555,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,AkkarEtAlRjb2014,,PGA,0.3590811,,,
+1555,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,BooreEtAl2014,,PGA,0.50818557,,,
+1555,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,CampbellBozorgnia2014,,PGA,0.30847523,,,
+1555,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,ZhaoEtAl2006Asc,,PGA,0.19030179,,,
+1556,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002",5,None,GEM,Jackson_et_al_2002,AkkarEtAlRjb2014,,PGA,0.32822385,,,
+1556,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002",5,None,GEM,Jackson_et_al_2002,BooreEtAl2014,,PGA,0.46877122,,,
+1556,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002",5,None,GEM,Jackson_et_al_2002,CampbellBozorgnia2014,,PGA,0.35336527,,,
+1556,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:Jackson_et_al_2002",5,None,GEM,Jackson_et_al_2002,ZhaoEtAl2006Asc,,PGA,0.30882606,,,
+1557,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,AkkarEtAlRjb2014,,PGA,0.35797048,,,
+1557,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,BooreEtAl2014,,PGA,0.5035487,,,
+1557,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,CampbellBozorgnia2014,,PGA,0.4768497,,,
+1557,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,ZhaoEtAl2006Asc,,PGA,0.7198529,,,
+1558,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",5,None,USGS,GCMT,AbrahamsonEtAl2014,,PGA,0.29128468,,,
+1558,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",5,None,USGS,GCMT,BooreEtAl2014,,PGA,0.50818557,,,
+1558,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",5,None,USGS,GCMT,CampbellBozorgnia2014,,PGA,0.30847523,,,
+1558,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",5,None,USGS,GCMT,ChiouYoungs2014,,PGA,0.27240154,,,
+1559,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002",5,None,USGS,Jackson_et_al_2002,AbrahamsonEtAl2014,,PGA,0.3580149,,,
+1559,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002",5,None,USGS,Jackson_et_al_2002,BooreEtAl2014,,PGA,0.46877122,,,
+1559,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002",5,None,USGS,Jackson_et_al_2002,CampbellBozorgnia2014,,PGA,0.35336527,,,
+1559,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:Jackson_et_al_2002",5,None,USGS,Jackson_et_al_2002,ChiouYoungs2014,,PGA,0.33923492,,,
+1560,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS",5,None,USGS,USGS,AbrahamsonEtAl2014,,PGA,0.430341,,,
+1560,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS",5,None,USGS,USGS,BooreEtAl2014,,PGA,0.5035487,,,
+1560,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS",5,None,USGS,USGS,CampbellBozorgnia2014,,PGA,0.4768497,,,
+1560,"19970228_M6.1_Golestan median gmf, Stations:None, gmlt:USGS, Rupture:USGS",5,None,USGS,USGS,ChiouYoungs2014,,PGA,0.5574529,,,
