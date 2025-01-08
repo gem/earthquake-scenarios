@@ -1,13 +1,13 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
 1084/01,Tabas,56.92,33.58,seismic,0.898,0.0
-1082/01,Deyhook,57.5,33.29,seismic,0.33096,0.0
+1082/01,Deyhook,57.5,33.29,seismic,0.41064,0.0
 1083/01,Boshrooyeh,57.428,33.863,seismic,0.10709,0.0
-1126,Ferdows,58.16,34.01,seismic,0.08771,0.0
+1126,Ferdows,58.16,34.01,seismic,0.09628,0.0
 1086,Bajestan,58.182,34.521,seismic,0.07861,0.0
-1090/02,Kashmar,58.45,35.23,seismic,0.03268,0.0
+1090/02,Kashmar,58.45,35.23,seismic,0.06198,0.0
 1085/02,Sedeh,59.236,33.328,seismic,0.02867,0.0
 1087,Khezri,58.811,34.021,seismic,0.02588,0.0
-1088,Birjand,59.21,32.87,seismic,0.0162,0.0
+1088,Birjand,59.21,32.87,seismic,0.01965,0.0
 Tabas,Tabas,56.92,33.6,seismic,0.911,0.0
 Deyhook,Deyhook,57.43,33.3,seismic,0.393,0.0
 Boshrooyeh,Boshrooyeh,57.43,33.88,seismic,0.104,0.0

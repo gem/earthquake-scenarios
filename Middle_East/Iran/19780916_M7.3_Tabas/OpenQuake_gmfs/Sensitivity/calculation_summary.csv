@@ -1,0 +1,141 @@
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,max_distance,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+621,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:25km",224,Seismic,GEM,Walker_et_al_2003,ZhaoEtAl2006Asc,25km,PGA,0.5504051,0.007,0.265,0.007
+636,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:50km",170,Seismic,USGS,Walker_et_al_2003,AbrahamsonEtAl2014,50km,PGA,0.911,0.016,0.198,0.016
+630,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",222,Seismic,GEM,Niazi_And_Kanamori_1981,BooreEtAl2014,50km,PGA,0.94427335,0.018,0.207,0.018
+639,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,BooreEtAl2014,150km,PGA,0.97965497,0.022,0.148,0.022
+642,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:150km",170,Seismic,USGS,Vahidifard_et_al_2017,AbrahamsonEtAl2014,150km,PGA,0.911,0.023,0.172,0.023
+630,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",222,Seismic,GEM,Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,50km,PGA,0.911,-0.024,0.224,0.024
+640,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",222,Seismic,GEM,Niazi_And_Kanamori_1981,BooreEtAl2014,150km,PGA,0.9451873,-0.03,0.149,0.03
+630,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",222,Seismic,GEM,Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,50km,PGA,0.91303295,0.037,0.244,0.037
+640,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",222,Seismic,GEM,Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,150km,PGA,0.91313857,0.041,0.181,0.041
+636,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:50km",170,Seismic,USGS,Walker_et_al_2003,ChiouYoungs2014,50km,PGA,0.911,0.042,0.17,0.042
+646,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:150km",171,Seismic,USGS,Walker_et_al_2003,AbrahamsonEtAl2014,150km,PGA,0.911,0.047,0.168,0.047
+644,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,150km,PGA,0.9577362,0.051,0.152,0.051
+621,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:25km",224,Seismic,GEM,Walker_et_al_2003,AkkarEtAlRjb2014,25km,PGA,0.5085262,-0.055,0.296,0.055
+646,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:150km",171,Seismic,USGS,Walker_et_al_2003,ChiouYoungs2014,150km,PGA,0.911,0.057,0.148,0.057
+619,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,25km,PGA,0.9530948,-0.067,0.168,0.067
+629,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",225,Seismic,GEM,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,50km,PGA,0.9530948,-0.067,0.168,0.067
+624,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,25km,PGA,0.9530948,-0.067,0.168,0.067
+634,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,50km,PGA,0.9530948,-0.067,0.168,0.067
+626,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:25km",170,Seismic,USGS,Walker_et_al_2003,ChiouYoungs2014,25km,PGA,0.5564915,-0.068,0.211,0.068
+623,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",171,Seismic,USGS,GCMT,ChiouYoungs2014,25km,PGA,0.9387202,0.069,0.181,0.069
+639,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,150km,PGA,0.9567412,0.076,0.181,0.076
+635,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",169,Seismic,USGS,Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,50km,PGA,0.9159114,-0.077,0.189,0.077
+632,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:50km",170,Seismic,USGS,Vahidifard_et_al_2017,ChiouYoungs2014,50km,PGA,0.9210534,0.077,0.181,0.077
+621,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:25km",224,Seismic,GEM,Walker_et_al_2003,BooreEtAl2014,25km,PGA,0.53470635,-0.08,0.274,0.08
+644,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,ChiouYoungs2014,150km,PGA,1.082642,-0.081,0.136,0.081
+629,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",225,Seismic,GEM,Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,50km,PGA,0.9525744,-0.083,0.244,0.083
+619,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,25km,PGA,0.9525744,-0.083,0.244,0.083
+631,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:50km",225,Seismic,GEM,Walker_et_al_2003,ZhaoEtAl2006Asc,50km,PGA,0.911,0.088,0.224,0.088
+629,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",225,Seismic,GEM,Hartzell_And_Mendoza_1991,BooreEtAl2014,50km,PGA,0.9818401,-0.088,0.207,0.088
+619,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,BooreEtAl2014,25km,PGA,0.9818401,-0.088,0.207,0.088
+645,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",169,Seismic,USGS,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,150km,PGA,0.911,0.095,0.14,0.095
+640,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",222,Seismic,GEM,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,150km,PGA,0.911,0.095,0.14,0.095
+621,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:25km",224,Seismic,GEM,Walker_et_al_2003,CampbellBozorgnia2014,25km,PGA,0.576682,-0.097,0.223,0.097
+626,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:25km",170,Seismic,USGS,Walker_et_al_2003,CampbellBozorgnia2014,25km,PGA,0.576682,-0.097,0.223,0.097
+637,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:150km",225,Seismic,GEM,Vahidifard_et_al_2017,ZhaoEtAl2006Asc,150km,PGA,0.911,0.102,0.198,0.102
+623,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",171,Seismic,USGS,GCMT,AbrahamsonEtAl2014,25km,PGA,0.95617545,0.103,0.191,0.103
+618,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",228,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,25km,PGA,0.9942102,0.106,0.269,0.106
+635,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",169,Seismic,USGS,Niazi_And_Kanamori_1981,ChiouYoungs2014,50km,PGA,0.9150925,-0.112,0.165,0.112
+641,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:150km",225,Seismic,GEM,Walker_et_al_2003,ZhaoEtAl2006Asc,150km,PGA,0.911,0.123,0.186,0.123
+639,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,150km,PGA,1.0269315,-0.131,0.171,0.131
+626,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:25km",170,Seismic,USGS,Walker_et_al_2003,AbrahamsonEtAl2014,25km,PGA,0.575406,-0.137,0.256,0.137
+633,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",171,Seismic,USGS,GCMT,ChiouYoungs2014,50km,PGA,0.94416213,0.143,0.181,0.143
+639,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,150km,PGA,1.0935593,0.144,0.14,0.144
+644,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:150km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,150km,PGA,1.0935593,0.144,0.14,0.144
+618,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",228,Seismic,GEM,GCMT,AkkarEtAlRjb2014,25km,PGA,0.92848694,0.144,0.302,0.144
+624,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,25km,PGA,0.94699377,-0.147,0.187,0.147
+634,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,50km,PGA,0.94699377,-0.147,0.187,0.147
+631,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:50km",225,Seismic,GEM,Walker_et_al_2003,BooreEtAl2014,50km,PGA,0.9309192,0.15,0.207,0.15
+628,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",226,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,50km,PGA,1.0288744,0.151,0.241,0.151
+618,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",228,Seismic,GEM,GCMT,CampbellBozorgnia2014,25km,PGA,0.95153165,0.151,0.176,0.151
+623,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",171,Seismic,USGS,GCMT,CampbellBozorgnia2014,25km,PGA,0.95153165,0.151,0.176,0.151
+634,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,ChiouYoungs2014,50km,PGA,1.0273094,-0.152,0.166,0.152
+624,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",171,Seismic,USGS,Hartzell_And_Mendoza_1991,ChiouYoungs2014,25km,PGA,1.0273094,-0.152,0.166,0.152
+619,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:25km",226,Seismic,GEM,Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,25km,PGA,1.0175917,-0.153,0.224,0.153
+629,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km",225,Seismic,GEM,Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,50km,PGA,1.0175917,-0.153,0.224,0.153
+641,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:150km",225,Seismic,GEM,Walker_et_al_2003,BooreEtAl2014,150km,PGA,0.93056476,0.168,0.164,0.168
+631,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:50km",225,Seismic,GEM,Walker_et_al_2003,CampbellBozorgnia2014,50km,PGA,0.911,0.171,0.179,0.171
+636,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:50km",170,Seismic,USGS,Walker_et_al_2003,CampbellBozorgnia2014,50km,PGA,0.911,0.171,0.179,0.171
+643,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",171,Seismic,USGS,GCMT,ChiouYoungs2014,150km,PGA,0.94836676,0.176,0.154,0.176
+638,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",226,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,150km,PGA,1.0530939,0.185,0.198,0.185
+633,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",171,Seismic,USGS,GCMT,AbrahamsonEtAl2014,50km,PGA,0.9632417,0.185,0.21,0.185
+618,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",228,Seismic,GEM,GCMT,BooreEtAl2014,25km,PGA,0.9402478,0.202,0.274,0.202
+642,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:150km",170,Seismic,USGS,Vahidifard_et_al_2017,ChiouYoungs2014,150km,PGA,0.911,-0.212,0.148,0.212
+631,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:50km",225,Seismic,GEM,Walker_et_al_2003,AkkarEtAlRjb2014,50km,PGA,0.911,0.217,0.244,0.217
+627,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:50km",224,Seismic,GEM,Vahidifard_et_al_2017,ZhaoEtAl2006Asc,50km,PGA,0.911,0.241,0.241,0.241
+640,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",222,Seismic,GEM,Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,150km,PGA,0.911,-0.263,0.171,0.263
+628,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",226,Seismic,GEM,GCMT,AkkarEtAlRjb2014,50km,PGA,0.93247247,0.275,0.266,0.275
+641,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:150km",225,Seismic,GEM,Walker_et_al_2003,CampbellBozorgnia2014,150km,PGA,0.911,0.276,0.154,0.276
+646,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Walker_et_al_2003, Max_dist:150km",171,Seismic,USGS,Walker_et_al_2003,CampbellBozorgnia2014,150km,PGA,0.911,0.276,0.154,0.276
+632,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:50km",170,Seismic,USGS,Vahidifard_et_al_2017,AbrahamsonEtAl2014,50km,PGA,0.91698533,0.286,0.218,0.286
+643,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",171,Seismic,USGS,GCMT,AbrahamsonEtAl2014,150km,PGA,0.99274963,0.289,0.176,0.289
+633,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",171,Seismic,USGS,GCMT,CampbellBozorgnia2014,50km,PGA,0.9606121,0.3,0.189,0.3
+628,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",226,Seismic,GEM,GCMT,CampbellBozorgnia2014,50km,PGA,0.9606121,0.3,0.189,0.3
+627,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:50km",224,Seismic,GEM,Vahidifard_et_al_2017,AkkarEtAlRjb2014,50km,PGA,0.92495364,0.306,0.266,0.306
+635,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",169,Seismic,USGS,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,50km,PGA,0.91149485,0.307,0.181,0.307
+630,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:50km",222,Seismic,GEM,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,50km,PGA,0.91149485,0.307,0.181,0.307
+641,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Walker_et_al_2003, Max_dist:150km",225,Seismic,GEM,Walker_et_al_2003,AkkarEtAlRjb2014,150km,PGA,0.911,0.318,0.2,0.318
+628,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",226,Seismic,GEM,GCMT,BooreEtAl2014,50km,PGA,0.9382633,0.341,0.234,0.341
+637,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:150km",225,Seismic,GEM,Vahidifard_et_al_2017,BooreEtAl2014,150km,PGA,0.9478501,0.365,0.176,0.365
+637,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:150km",225,Seismic,GEM,Vahidifard_et_al_2017,AkkarEtAlRjb2014,150km,PGA,0.9873435,0.391,0.213,0.391
+627,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:50km",224,Seismic,GEM,Vahidifard_et_al_2017,BooreEtAl2014,50km,PGA,0.98180735,0.407,0.234,0.407
+638,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",226,Seismic,GEM,GCMT,BooreEtAl2014,150km,PGA,0.9363266,0.409,0.176,0.409
+638,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",226,Seismic,GEM,GCMT,AkkarEtAlRjb2014,150km,PGA,0.9584498,0.433,0.213,0.433
+643,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",171,Seismic,USGS,GCMT,CampbellBozorgnia2014,150km,PGA,0.9973691,0.452,0.161,0.452
+638,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",226,Seismic,GEM,GCMT,CampbellBozorgnia2014,150km,PGA,0.9973691,0.452,0.161,0.452
+645,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",169,Seismic,USGS,Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,150km,PGA,0.911,-0.456,0.149,0.456
+645,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:150km",169,Seismic,USGS,Niazi_And_Kanamori_1981,ChiouYoungs2014,150km,PGA,0.911,-0.485,0.132,0.485
+642,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:150km",170,Seismic,USGS,Vahidifard_et_al_2017,CampbellBozorgnia2014,150km,PGA,0.911,0.528,0.163,0.528
+637,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:150km",225,Seismic,GEM,Vahidifard_et_al_2017,CampbellBozorgnia2014,150km,PGA,0.911,0.528,0.163,0.528
+632,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:50km",170,Seismic,USGS,Vahidifard_et_al_2017,CampbellBozorgnia2014,50km,PGA,0.911,0.634,0.206,0.634
+627,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:50km",224,Seismic,GEM,Vahidifard_et_al_2017,CampbellBozorgnia2014,50km,PGA,0.911,0.634,0.206,0.634
+617,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,GEM,Vahidifard_et_al_2017,AkkarEtAlRjb2014,,PGA,0.59497756,,,
+617,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,GEM,Vahidifard_et_al_2017,BooreEtAl2014,,PGA,0.5744094,,,
+617,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,GEM,Vahidifard_et_al_2017,CampbellBozorgnia2014,,PGA,0.18249613,,,
+617,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,GEM,Vahidifard_et_al_2017,ZhaoEtAl2006Asc,,PGA,0.39651537,,,
+620,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,GEM,Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,,PGA,0.595131,,,
+620,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,GEM,Niazi_And_Kanamori_1981,BooreEtAl2014,,PGA,0.57413584,,,
+620,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,GEM,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,,PGA,0.2318056,,,
+620,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,GEM,Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,,PGA,0.45128125,,,
+622,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,USGS,Vahidifard_et_al_2017,AbrahamsonEtAl2014,,PGA,0.37583864,,,
+622,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,USGS,Vahidifard_et_al_2017,CampbellBozorgnia2014,,PGA,0.18249613,,,
+622,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Vahidifard_et_al_2017, Max_dist:25km",8,Seismic,USGS,Vahidifard_et_al_2017,ChiouYoungs2014,,PGA,0.5484515,,,
+625,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,USGS,Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,,PGA,0.46921468,,,
+625,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,USGS,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,,PGA,0.2318056,,,
+625,"19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981, Max_dist:25km",8,Seismic,USGS,Niazi_And_Kanamori_1981,ChiouYoungs2014,,PGA,0.518536,,,
+647,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Vahidifard_et_al_2017",7,None,GEM,Vahidifard_et_al_2017,AkkarEtAlRjb2014,,PGA,0.59497756,,,
+647,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Vahidifard_et_al_2017",7,None,GEM,Vahidifard_et_al_2017,BooreEtAl2014,,PGA,0.5742311,,,
+647,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Vahidifard_et_al_2017",7,None,GEM,Vahidifard_et_al_2017,CampbellBozorgnia2014,,PGA,0.18249613,,,
+647,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Vahidifard_et_al_2017",7,None,GEM,Vahidifard_et_al_2017,ZhaoEtAl2006Asc,,PGA,0.39651537,,,
+648,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",7,None,GEM,GCMT,AkkarEtAlRjb2014,,PGA,0.58925736,,,
+648,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",7,None,GEM,GCMT,BooreEtAl2014,,PGA,0.56812674,,,
+648,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",7,None,GEM,GCMT,CampbellBozorgnia2014,,PGA,0.5674909,,,
+648,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",7,None,GEM,GCMT,ZhaoEtAl2006Asc,,PGA,0.8047314,,,
+649,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991",7,None,GEM,Hartzell_And_Mendoza_1991,AkkarEtAlRjb2014,,PGA,0.58327556,,,
+649,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991",7,None,GEM,Hartzell_And_Mendoza_1991,BooreEtAl2014,,PGA,0.55397123,,,
+649,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991",7,None,GEM,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,,PGA,0.7670014,,,
+649,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Hartzell_And_Mendoza_1991",7,None,GEM,Hartzell_And_Mendoza_1991,ZhaoEtAl2006Asc,,PGA,0.9760479,,,
+650,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981",7,None,GEM,Niazi_And_Kanamori_1981,AkkarEtAlRjb2014,,PGA,0.59513015,,,
+650,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981",7,None,GEM,Niazi_And_Kanamori_1981,BooreEtAl2014,,PGA,0.5725846,,,
+650,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981",7,None,GEM,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,,PGA,0.2318056,,,
+650,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Niazi_And_Kanamori_1981",7,None,GEM,Niazi_And_Kanamori_1981,ZhaoEtAl2006Asc,,PGA,0.4503487,,,
+651,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Walker_et_al_2003",7,None,GEM,Walker_et_al_2003,AkkarEtAlRjb2014,,PGA,0.54164124,,,
+651,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Walker_et_al_2003",7,None,GEM,Walker_et_al_2003,BooreEtAl2014,,PGA,0.58318615,,,
+651,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Walker_et_al_2003",7,None,GEM,Walker_et_al_2003,CampbellBozorgnia2014,,PGA,0.66260695,,,
+651,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:GEM, Rupture:Walker_et_al_2003",7,None,GEM,Walker_et_al_2003,ZhaoEtAl2006Asc,,PGA,0.53465116,,,
+652,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Vahidifard_et_al_2017",7,None,USGS,Vahidifard_et_al_2017,AbrahamsonEtAl2014,,PGA,0.37583864,,,
+652,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Vahidifard_et_al_2017",7,None,USGS,Vahidifard_et_al_2017,CampbellBozorgnia2014,,PGA,0.18249613,,,
+652,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Vahidifard_et_al_2017",7,None,USGS,Vahidifard_et_al_2017,ChiouYoungs2014,,PGA,0.5484515,,,
+653,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",7,None,USGS,GCMT,AbrahamsonEtAl2014,,PGA,0.64563483,,,
+653,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",7,None,USGS,GCMT,CampbellBozorgnia2014,,PGA,0.5674909,,,
+653,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",7,None,USGS,GCMT,ChiouYoungs2014,,PGA,0.70723855,,,
+654,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991",7,None,USGS,Hartzell_And_Mendoza_1991,AbrahamsonEtAl2014,,PGA,0.6967746,,,
+654,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991",7,None,USGS,Hartzell_And_Mendoza_1991,CampbellBozorgnia2014,,PGA,0.7670014,,,
+654,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991",7,None,USGS,Hartzell_And_Mendoza_1991,ChiouYoungs2014,,PGA,0.9461719,,,
+655,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981",7,None,USGS,Niazi_And_Kanamori_1981,AbrahamsonEtAl2014,,PGA,0.46921468,,,
+655,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981",7,None,USGS,Niazi_And_Kanamori_1981,CampbellBozorgnia2014,,PGA,0.2318056,,,
+655,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Niazi_And_Kanamori_1981",7,None,USGS,Niazi_And_Kanamori_1981,ChiouYoungs2014,,PGA,0.518536,,,
+656,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Walker_et_al_2003",7,None,USGS,Walker_et_al_2003,AbrahamsonEtAl2014,,PGA,0.67253196,,,
+656,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Walker_et_al_2003",7,None,USGS,Walker_et_al_2003,CampbellBozorgnia2014,,PGA,0.66260695,,,
+656,"19780916_M7.3_Tabas median gmf, Stations:None, gmlt:USGS, Rupture:Walker_et_al_2003",7,None,USGS,Walker_et_al_2003,ChiouYoungs2014,,PGA,0.60249275,,,
