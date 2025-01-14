@@ -1,16 +1,16 @@
 FIELD,DESCRIPTION
 Year,1990
-Region,Europe
 Country,Romania
-Event_Name,Vrancea_1990
-Local_Date,31/05/1990
-Local_Time,00:17:47
-Latitude,45.811
-Longitude,26.769
-Depth_(km),88.2
+Region,Europe
+Event Name,Vrancea 1990
+Local Date,31/05/1990
+Local Time,00:17:47
+Latitude (decimal degrees),45.811
+Longitude (decimal degrees),26.769
+Depth (km),88.2
 Mw,6.3
-Max_Intensity_(MMI),V
-Fault_mechanism,Reverse
-Tectonic_region_type,Subduction Intraslab
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp00049za/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1990_Vrancea_earthquakes
+Max Intensity (MMI),V
+Fault mechanism,Reverse
+Tectonic region type,Subduction Intraslab
+USGS event ID,usp00049za
+Wikipedia page,https://en.wikipedia.org/wiki/1990 Vrancea earthquakes

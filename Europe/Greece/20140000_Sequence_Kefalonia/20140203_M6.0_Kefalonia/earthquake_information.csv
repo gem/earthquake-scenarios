@@ -1,16 +1,16 @@
 FIELD,DESCRIPTION
 Year,2014
-Region,Europe
 Country,Greece
-Event_Name,Kefalonia_2014
-Local_Date,03/02/2014
-Local_Time,03:08:46
-Latitude,38.2637
-Longitude,20.3897
-Depth_(km),5
+Region,Europe
+Event Name,Kefalonia 2014
+Local Date,03/02/2014
+Local Time,03:08:46
+Latitude (decimal degrees),38.2637
+Longitude (decimal degrees),20.3897
+Depth (km),5
 Mw,6
-Max_Intensity_(MMI),VII
-Fault_mechanism,Strike-slip
-Tectonic_region_type,Active Shallow Crust
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usc000mfuh/executive
+Max Intensity (MMI),VII
+Fault mechanism,Strike-slip
+Tectonic region type,Active Shallow Crust
+USGS event ID,usc000mfuh
 Wikipedia page,no page found

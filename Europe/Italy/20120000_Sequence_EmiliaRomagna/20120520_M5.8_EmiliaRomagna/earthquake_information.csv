@@ -1,16 +1,16 @@
 FIELD,DESCRIPTION
 Year,2012
-Region,Europe
 Country,Italy
-Event_Name,EmiliaRomagna_2012
-Local_Date,20/05/2012
-Local_Time,02:03:52
-Latitude,44.89
-Longitude,11.23
-Depth_(km),6.3
+Region,Europe
+Event Name,EmiliaRomagna 2012
+Local Date,20/05/2012
+Local Time,02:03:52
+Latitude (decimal degrees),44.89
+Longitude (decimal degrees),11.23
+Depth (km),6.3
 Mw,6
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Inverse
-Tectonic_region_type,Active Shallow Crust
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jkn8/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2012_Northern_Italy_earthquakes
+Max Intensity (MMI),VIII
+Fault mechanism,Inverse
+Tectonic region type,Active Shallow Crust
+USGS event ID,usp000jkn8
+Wikipedia page,https://en.wikipedia.org/wiki/2012 Northern Italy earthquakes
