@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1990
-Region,Middle_East
 Country,Iran
-Event_Name,Manjil-Rudbar
-Local_Date,20/06/1990
-Local_Time,00:30:00
-Longitude,49.41
-Latitude,36.96
-Depth_(km),18.5
+Region,Middle East
+Event Name,Manjil-Rudbar
+Local Date,20/06/1990
+Local Time,00:30:00
+Longitude (decimal degrees),49.41
+Latitude (decimal degrees),36.96
+Depth (km),18.5
 Mw,7.4
-Max_Intensity_(MMI),IX
-Fault_mechanism,Strike slip
-Tectonic_region_type,Active Crustal
+Max Intensity (MMI),IX
+Fault mechanism,Strike slip
+Tectonic region type,Active Crustal
 Fatalities,13000-50000
 Injured,50000-105000
-Displaced_Population,105000-400000
-Affected_Population,70000-500000
-Affected_Units,0 Units
-Damaged_Units,100000-196774 Buildings
-Collapsed_Units,100000-321486 Buildings
-Economic_Losses,7000-8000 M USD
-Insured_Losses,100-115 M USD
-Induced_Effects,"Landslides, Rockfall, Tsunami"
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0004arq/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1990_Manjil%E2%80%93Rudbar_earthquake
+Displaced population,105000-400000
+Affected population,70000-500000
+Affected units,~0 
+Damaged units,100000-196774 Buildings
+Collapsed units,100000-321486 Buildings
+Economic losses,7000-8000 M USD
+Insured losses,100-115 M USD
+Earthquake-triggered effects,"Landslides, Rockfall, Tsunami"
+USGS event ID,usp0004arq
+Wikipedia page,https://en.wikipedia.org/wiki/1990 Manjil%E2%80%93Rudbar earthquake

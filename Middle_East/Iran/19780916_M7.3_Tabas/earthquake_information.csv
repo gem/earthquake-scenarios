@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1978
-Region,Middle_East
 Country,Iran
-Event_Name,Tabas
-Local_Date,16/09/1978
-Local_Time,19:06:00
-Longitude,57.44
-Latitude,33.37
-Depth_(km),33
+Region,Middle East
+Event Name,Tabas
+Local Date,16/09/1978
+Local Time,19:06:00
+Longitude (decimal degrees),57.44
+Latitude (decimal degrees),33.37
+Depth (km),33
 Mw,7.3
-Max_Intensity_(MMI),IX
-Fault_mechanism,Thrust
-Tectonic_region_type,Active Crustal
+Max Intensity (MMI),IX
+Fault mechanism,Thrust
+Tectonic region type,Active Crustal
 Fatalities,14800-25000
-Injured,6400
-Displaced_Population,
-Affected_Population,40000-53994
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,15000 Buildings
-Economic_Losses,11-50 M USD
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjx/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1978_Tabas_earthquake
+Injured,~6400
+Displaced population,
+Affected population,40000-53994
+Affected units,
+Damaged units,
+Collapsed units,15000 Buildings
+Economic losses,11-50 M USD
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,usp0000wjx
+Wikipedia page,https://en.wikipedia.org/wiki/1978 Tabas earthquake

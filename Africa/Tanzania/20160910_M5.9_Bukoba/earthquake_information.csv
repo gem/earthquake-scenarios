@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2016
-Region,Africa
 Country,Tanzania
-Event_Name,Bukoba_2016
-Local_Date,10/09/2016
-Local_Time,15:27:33
-Latitude,-1.0355
-Longitude,31.6181
-Depth_(km),40
+Region,Africa
+Event Name,Bukoba 2016
+Local Date,10/09/2016
+Local Time,15:27:33
+Latitude (decimal degrees),-1.0355
+Longitude (decimal degrees),31.6181
+Depth (km),40
 Mw,5.9
-Max_Intensity_(MMI),VII
-Fault_mechanism,Strike-slip
-Tectonic_region_type,Cratonic
+Max Intensity (MMI),VII
+Fault mechanism,Strike-slip
+Tectonic region type,Cratonic
 Fatalities,21-23
-Injured,440
-Displaced_Population,590-10000
-Affected_Population,139161
-Affected_Units,
-Damaged_Units,1125-6281 Units
-Collapsed_Units,118-7500 Units
-Economic_Losses,458000 M USD
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us10006nkx/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2016_Tanzania_earthquake
+Injured,~440
+Displaced population,590-10000
+Affected population,~139161
+Affected units,
+Damaged units,1125-6281 
+Collapsed units,118-7500 
+Economic losses,458000 M USD
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,us10006nkx
+Wikipedia page,https://en.wikipedia.org/wiki/2016 Tanzania earthquake

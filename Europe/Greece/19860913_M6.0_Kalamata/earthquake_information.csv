@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1986
-Region,Europe
 Country,Greece
-Event_Name,Kalamata_1986
-Local_Date,13/09/1986
-Local_Time,17:24:31
-Latitude,37.014
-Longitude,22.176
-Depth_(km),11.2
+Region,Europe
+Event Name,Kalamata 1986
+Local Date,13/09/1986
+Local Time,17:24:31
+Latitude (decimal degrees),37.014
+Longitude (decimal degrees),22.176
+Depth (km),11.2
 Mw,6
-Max_Intensity_(MMI),X
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
-Fatalities,20
-Injured,300
-Displaced_Population,
-Affected_Population,45300
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,1500 Buildings
-Economic_Losses,0-745 M USD
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0002y1v/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1986_Kalamata_earthquake
+Max Intensity (MMI),X
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
+Fatalities,~20
+Injured,~300
+Displaced population,
+Affected population,~45300
+Affected units,
+Damaged units,
+Collapsed units,1500 Buildings
+Economic losses,0-745 M USD
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,usp0002y1v
+Wikipedia page,https://en.wikipedia.org/wiki/1986 Kalamata earthquake

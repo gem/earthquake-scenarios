@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2018
-Region,East_Asia
 Country,Japan
-Event_Name,HokkaidoEasternIburi_2018
-Local_Date,06/09/2018
-Local_Time,03:08:58
-Latitude,42.686
-Longitude,141.929
-Depth_(km),35
+Region,East Asia
+Event Name,HokkaidoEasternIburi 2018
+Local Date,06/09/2018
+Local Time,03:08:58
+Latitude (decimal degrees),42.686
+Longitude (decimal degrees),141.929
+Depth (km),35
 Mw,6.6
-Max_Intensity_(MMI),X
-Fault_mechanism,Reverse
-Tectonic_region_type,Active Shallow Crustal
+Max Intensity (MMI),X
+Fault mechanism,Reverse
+Tectonic region type,Active Shallow Crustal
 Fatalities,41-44
 Injured,660-762
-Displaced_Population,1989-12000
-Affected_Population,
-Affected_Units,
-Damaged_Units,14170-15000 Units
-Collapsed_Units,462 Units
-Economic_Losses,1250-2000 M USD
-Insured_Losses,
-Induced_Effects,"Landslides, Debris flows, fires"
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2018_Hokkaido_Eastern_Iburi_earthquake
+Displaced population,1989-12000
+Affected population,
+Affected units,
+Damaged units,14170-15000 
+Collapsed units,~462 
+Economic losses,1250-2000 M USD
+Insured losses,
+Earthquake-triggered effects,"Landslides, Debris flows, fires"
+USGS event ID,us2000h8ty
+Wikipedia page,https://en.wikipedia.org/wiki/2018 Hokkaido Eastern Iburi earthquake

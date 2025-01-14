@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1997
-Region,Europe
 Country,Italy
-Event_Name,UmbriaMarche_1997
-Local_Date,26/09/1997
-Local_Time,00:33:12
-Latitude,43.048
-Longitude,12.879
-Depth_(km),10
+Region,Europe
+Event Name,UmbriaMarche 1997
+Local Date,26/09/1997
+Local Time,00:33:12
+Latitude (decimal degrees),43.048
+Longitude (decimal degrees),12.879
+Depth (km),10
 Mw,5.7
-Max_Intensity_(MMI),X
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),X
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
 Fatalities,11-14
-Injured,100
-Displaced_Population,38000
-Affected_Population,38100
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,80000 Buildings
-Economic_Losses,4524-5106 M USD
-Insured_Losses,4.1 M USD
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000881f/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1997_Umbria_and_Marche_earthquake
+Injured,~100
+Displaced population,~38000
+Affected population,~38100
+Affected units,
+Damaged units,
+Collapsed units,80000 Buildings
+Economic losses,4524-5106 M USD
+Insured losses,4.1 M USD
+Earthquake-triggered effects,
+USGS event ID,usp000881f
+Wikipedia page,https://en.wikipedia.org/wiki/1997 Umbria and Marche earthquake

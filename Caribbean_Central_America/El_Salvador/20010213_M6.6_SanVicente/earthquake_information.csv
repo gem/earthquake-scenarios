@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2001
-Region,Caribbean_Central_America
-Country,El_Salvador
-Event_Name,San Vicente_2001
-Local_Date,13/02/2001
-Local_Time,08:22:05
-Latitude,13.64
-Longitude,-88.94
-Depth_(km),13
+Country,El Salvador
+Region,Caribbean Central America
+Event Name,San Vicente 2001
+Local Date,13/02/2001
+Local Time,08:22:05
+Latitude (decimal degrees),13.64
+Longitude (decimal degrees),-88.94
+Depth (km),13
 Mw,6.6
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Strike Slip
-Tectonic_region_type,Active Shallow Crustal
+Max Intensity (MMI),VIII
+Fault mechanism,Strike Slip
+Tectonic region type,Active Shallow Crustal
 Fatalities,286-315
 Injured,2696-3399
-Displaced_Population,
-Affected_Population,250000-279753
-Affected_Units,57008 Units
-Damaged_Units,14339-17084 Units
-Collapsed_Units,35196-57242 Units
-Economic_Losses,348.5 M USD
-Insured_Losses,
-Induced_Effects,Landslides
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000a9jv/executive
-Wikipedia page,https://en.wikipedia.org/wiki/February_2001_El_Salvador_earthquake
+Displaced population,
+Affected population,250000-279753
+Affected units,~57008 
+Damaged units,14339-17084 
+Collapsed units,35196-57242 
+Economic losses,348.5 M USD
+Insured losses,
+Earthquake-triggered effects,Landslides
+USGS event ID,usp000a9jv
+Wikipedia page,https://en.wikipedia.org/wiki/February 2001 El Salvador earthquake

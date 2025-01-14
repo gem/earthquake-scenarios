@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2016
-Region,Europe
 Country,Italy
-Event_Name,CentralItaly
-Local_Date,24/08/2016
-Local_Time,01:36:32
-Latitude,42.723
-Longitude,13.1877
-Depth_(km),4.44
+Region,Europe
+Event Name,CentralItaly
+Local Date,24/08/2016
+Local Time,01:36:32
+Latitude (decimal degrees),42.723
+Longitude (decimal degrees),13.1877
+Depth (km),4.44
 Mw,6.6
-Max_Intensity_(MMI),IX
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),IX
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
 Fatalities,325-336
 Injured,379-455
-Displaced_Population,
-Affected_Population,30184
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,
-Economic_Losses,5418 M USD
-Insured_Losses,81 M USD
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d/executive
-Wikipedia page,https://en.wikipedia.org/wiki/August_2016_Central_Italy_earthquake
+Displaced population,
+Affected population,~30184
+Affected units,
+Damaged units,
+Collapsed units,
+Economic losses,5418 M USD
+Insured losses,81 M USD
+Earthquake-triggered effects,
+USGS event ID,us10006g7d
+Wikipedia page,https://en.wikipedia.org/wiki/August 2016 Central Italy earthquake

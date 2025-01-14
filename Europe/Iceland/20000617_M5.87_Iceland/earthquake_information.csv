@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2000
-Region,Europe
 Country,Iceland
-Event_Name,Iceland
-Local_Date,17/06/2000
-Local_Time,15:40:41
-Latitude,63.966
-Longitude,-20.487
-Depth_(km),10
+Region,Europe
+Event Name,Iceland
+Local Date,17/06/2000
+Local Time,15:40:41
+Latitude (decimal degrees),63.966
+Longitude (decimal degrees),-20.487
+Depth (km),10
 Mw,6.5
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Strike-slip
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),VIII
+Fault mechanism,Strike-slip
+Tectonic region type,Active Shallow Crust
 Fatalities,
 Injured,
-Displaced_Population,36
-Affected_Population,108
-Affected_Units,
-Damaged_Units,11.0 Buildings
-Collapsed_Units,11.0 Buildings
-Economic_Losses,12-20 M USD
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0009urh/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2000_Iceland_earthquakes
+Displaced population,~36
+Affected population,~108
+Affected units,
+Damaged units,11.0 Buildings
+Collapsed units,11.0 Buildings
+Economic losses,12-20 M USD
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,usp0009urh
+Wikipedia page,https://en.wikipedia.org/wiki/2000 Iceland earthquakes
