@@ -1,28 +1,42 @@
 # 🌎 1995 M6.4 Dinar earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1995 M6.4 Dinar earthquake in Turkey.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 1995 Dinar earthquake occurred on 1 October in Dinar (District), Afyonkarahisar, Turkey. It had an Mw magnitude of 6.2 with an epicenter close to the Dinar-Çivril fault.The earthquake occurred at a time of political instability in Turkey, with large strikes by public sector workers taking place just 11 days earlier. The disaster was preceded by a number of smaller earthquakes of up to 5.1 magnitude, the last of which had occurred on 26 September 1995. This resulted in a number of residents deciding to sleep outside their homes and possibly resulted in less deaths and injuries in the 1 October quake. When the quake occurred, 90 people were killed and more than 200 injured in the disaster.In total, 2,473 homes suffered major damage, 1,218 moderate damage and 2,076 slight damage. The Turkish government responded by constructing 5,000 new homes for those affected by the disaster.
-[Wikipedia](https://en.wikipedia.org/wiki/1995_Dinar_earthquake)
+The `1995 Dinar earthquake` struck on October 1, 1995, at 15:57 local time, near the town of Dinar, Turkey. This magnitude 6.4 event, centered on the Dinar-Çivril fault, caused significant damage to the region. The event caused significant damage to the region, with approximately 90 fatalities and over 200 injuries reported. Its intensity reached a maximum of VIII on the Mercalli scale, and economic losses were about 205.8 million USD. While no tsunamis occurred, the earthquake triggered numerous landslides and some localized liquefaction.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1995 |
+| Country | Turkey |
+| Region | Europe |
+| Event Name | Dinar |
+| Local Date | 01/10/1995 |
+| Local Time | 15:57:16 |
+| Latitude (decimal degrees) | 38.063 |
+| Longitude (decimal degrees) | 30.134 |
+| Depth (km) | 33 |
+| Mw | 6.4 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Normal |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000749b |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1995                                                                   |
-| Country              | Turkey                                                                 |
-| Region               | Dinar                                                                  |
-| Event_Name           | Dinar                                                                  |
-| Local_Date           | 01/10/1995                                                             |
-| Local_Time           | 15:57:16                                                               |
-| Latitude             | 38.063                                                                 |
-| Longitude            | 30.134                                                                 |
-| Depth_(km)           | 33                                                                     |
-| Mw                   | 6.4                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Normal                                                                 |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 90-95                                                                  |
-| Injured              | 200-348                                                                |
-| Displaced_Population | 40000                                                                  |
-| Affected_Population  | 120000                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 2473-5100 Buildings                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 205.8 M USD                                                            |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000749b/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1995_Dinar_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 90-95 |
+| Injured | 200-348 |
+| Displaced population | ~40000 |
+| Affected population | ~120000 |
+| Affected units | nan |
+| Damaged units | 2473-5100 Buildings |
+| Collapsed units | nan |
+| Economic losses | 205.8 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

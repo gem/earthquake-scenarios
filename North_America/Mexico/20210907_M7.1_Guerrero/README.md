@@ -1,41 +1,42 @@
 # 🌎 2021 M7.1 Guerrero earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2021 M7.1 Guerrero earthquake in Mexico.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-- A moment magnitude Mw7.0 or 7.1 earthquake occurred near the city of Acapulco in the Guerrero state of Mexico at 20:47 local time on 7 September with an estimated intensity of VIII (Severe) on the MMI scale. The earthquake killed 13 people and injured at least 23 others. At least 1.6 million people in Mexico were affected by the earthquake which resulted in localized severe damage. The earthquake occurred on the anniversary of the 2017 Chiapas earthquake which measured Mw8.2. It was also the largest earthquake in Mexico since the 2020 Oaxaca earthquake. ([Wikipedia](https://en.wikipedia.org/wiki/2021_Guerrero_earthquake)).
-- This earthquake affected 40 municipalities of Guerrero. The most affected municipality was Acapulco ([Suracapulco](https://suracapulco.mx/van-7-mil-920-viviendas-afectadas-por-el-sismo-son-de-acapulco-4-mil-741/)).
-- Minor damage happened at Acapulco International Airport and power outages and gas leaks occurred across 20 municipalities in Guerrero. Many landslides blocked roads from Chilpancingo south to Acapulco and north to Iguala. A tsunami with a wave height of 48 cm was recorded at Acapulco ([USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93v/impact))
 
+The powerful `2021 Guerrero earthquake` struck near the city of Acapulco in Guerrero state, Mexico, on September 7th at 20:47 local time, with a moment magnitude of Mw7.1. This event exhibited a severe intensity of VIII on the Modified Mercalli Intensity (MMI) scale, with the epicenter located close to Acapulco, resulting in significant impacts on the city and its surrounding areas. The earthquake caused economic losses exceeding 0.2 million USD, with widespread damage to infrastructure, buildings, and businesses across the region. Tragically, the disaster claimed more than 3 lives, and over 23 individuals sustained injuries. Geophysical effects included landslides that obstructed roads in mountainous regions and liquefaction observed in some coastal areas. While there were no confirmed reports of tsunamis or fires, the earthquake was preceded by minor foreshocks and followed by a series of aftershocks, compounding the challenges faced by affected communities during their recovery efforts.
 
-### Type of sequence
-- More than 150 aftershocks occurs in first 24 hours after earthquake. Some landslide and road blockage reports in Guerrero are expected to increase as the region experiences aftershocks following the September 7th earthquake. The largest aftershock so far is reported to be of M5.2 ([GuyCrapenter](https://www.guycarp.com/insights/2021/09/m7-0-acapulco-mexico-earthquake-rattles-guerrero-state-to-mexico-city.html)).
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2021 |
+| Country | Mexico |
+| Region | North America |
+| Event Name | Guerrero 2021 |
+| Local Date | 07/09/2020 |
+| Local Time | 20:47:00 |
+| Latitude (decimal degrees) | 16.82 |
+| Longitude (decimal degrees) | -99.78 |
+| Depth (km) | 10 |
+| Mw | 7.1 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Subduction Interface |
+| USGS event ID | us7000f93v |
 
+## Estimated and observed ground shaking
 
-<img src="Mexico/20210907_M7.1_Guerrero/References/aftershocks.png"  width="550" height="400">
-
-Figure source: [IRIS](http://ds.iris.edu/spud/momenttensor/19759038)
-
-
-### Occurrence of other phenomena: 
-- Approximately ten minutes after the quake struck, the Pacific Tsunami Warning Center initially issued a tsunami threat message for the earthquake which had a preliminary magnitude of Mw7.4 at 50 km depth. A small tsunami measuring 1.2 feet (0.37 m) was recorded in Acapulco at 01:54 UTC, five minutes after the mainshock. The same observation station observed a tsunami up to 48 centimeters at 02:04. The tsunami threat was called off by the Pacific Tsunami Warning Center at 03:39 UTC ([Wikipedia](https://en.wikipedia.org/wiki/2021_Guerrero_earthquake)).
-- On September 10, at 13:30 local time, a landslide occurred on the Cerro del Chiquihuite hill in Tlalnepantla de Baz, Mexico City, killing two people and causing one injury. At least three people, a woman, and her two children, went missing in the immediate aftermath. The landslide brought large boulders, which destroyed four homes and buried several others near the hillside. At least 80 residents were evacuated. According to the governor of the State of Mexico, Alfredo del Mazo Maza, heavy rainfall in the city, as well as the earthquake weakened soil conditions on the hill, triggering the landslide ([Wikipedia](https://en.wikipedia.org/wiki/2021_Guerrero_earthquake)).
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -46,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2021                                                                   |
-| Country              | Mexico                                                                 |
-| Region               | Guerrero                                                               |
-| Event_Name           | Guerrero_2021                                                          |
-| Local_Date           | 07/09/2020                                                             |
-| Local_Time           | 20:47:00                                                               |
-| Latitude             | 16.82                                                                  |
-| Longitude            | -99.78                                                                 |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 7.1                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Subduction Interface                                                   |
-| Fatalities           | 3-14                                                                   |
-| Injured              | 20-30                                                                  |
-| Displaced_Population | 15000                                                                  |
-| Affected_Population  | 1600000                                                                |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 7317-12963                                                             |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 0.20-1.1 M USD                                                         |
-| Insured_Losses       | 0.20 M USD                                                             |
-| Induced_Effects      | Tsunami, Landslide                                                     |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93v/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2021_Guerrero_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 3-14 |
+| Injured | 20-30 |
+| Displaced population | ~15000 |
+| Affected population | ~1600000 |
+| Affected units | nan |
+| Damaged units | 7317-12963 |
+| Collapsed units | nan |
+| Economic losses | 0.20-1.1 M USD |
+| Insured losses | 0.20 M USD |
+| Earthquake-triggered effects | Landslide |

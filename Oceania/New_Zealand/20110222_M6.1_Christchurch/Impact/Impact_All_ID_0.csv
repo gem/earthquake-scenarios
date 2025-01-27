@@ -1,5 +1,0 @@
-﻿ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-NZL,New_Zealand,181,181,1500,,301500,,,,,15000000000,12000000000,USD,,,EM-DAT,"Insured Damages and Total Damages, unadjusted ('000 US$)"
-NZL,New_Zealand,185,185,1500,,,,,100000,Buildings,15000000000,,USD,,,NOAA,
-NZL,New_Zealand,,,,,,,,,,,3500000000-8000000000,USD,,,Verisk,
-NZL,New_Zealand,182,182,7171,,,,,,,,,,,,Johnston_et_al_2014,"The total injury burden was analyzed for demography, context of injury, causes of injury, and injury type. Injury context was classified as direct (shaking of the primary earthquake or aftershocks causing unavoidable injuries), action (movement of person during the primary earthquake or aftershocks causing potentially avoidable injuries), and secondary (cause of injury after shaking ceased). Nine categories of injury cause were identified (i.e. trip/fall, cleanup, projectile, helping others, children, ground damage, glass, masonry, animals)."

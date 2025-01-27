@@ -1,49 +1,42 @@
 # 🌎 2017 M8.2 Chiapas earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2017 M8.2 Chiapas earthquake in Mexico.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-- `The 2017 Chiapas earthquake`struck at 23:49 CDT on 7 September (local time 04:49) in the Gulf of Tehuantepec off the southern coast of Mexico, near the state of Chiapas. The moment magnitude was estimated to be Mw8.2, with it receiving 8.4 on the Richter Scale. The earthquake caused all of Mexico City to tremble, prompting people to evacuate after the early warning system was triggered. It was the second strongest recorded in the country's history, behind the magnitude 8.6 earthquake in 1787, and the largest recorded globally in 2017, which was felt by 50 million people. The Secretariat of the Interior declared a state of emergency for 122 municipalities in Chiapas. The earthquake affected many states including: Oaxaca, Chiapas, Tabasco, Veracruz, Ciudad de México, Puebla_Tlaxcala, Guerrero, Estado de México_Morelos, Campeche, Yucatán, and Quintana Roo. The earthquake also knocked out electricity for 1.8 million people. An under-construction highway bridge near Mexico City's new international airport collapsed due to the shaking ([Wikipedia](https://en.wikipedia.org/wiki/2017_Chiapas_earthquake)).
-- Hundreds of schools were damaged in the Chiapas, Oaxaca, and Mexico City areas. With most of the schools damaged in Chiapas (over 800). Land separation and land fissured were observed at several bridge roads. The Federal Electric Commission reported an estimated 1.85 million affected clients. Based on the Mexico News Daily, about 48 health sector facilities, 29 public buildings, 52 churches and 106 commercial complexes and 11 bridges were severely damaged ([Learning_From_Earthquakes](http://learningfromearthquakes.org/component/lfe_reports/?view=lfereports&id=310&layout=default)).
-- This earthquake also had significant impacts on Guatemala: 18.810 were affected, and 2.570 homes were damaged. The most heavily impacted cities were Huehuetenango and San Marcos. 557 people received treatment, 224 were evacuated, 34 were sheltered, 4 injuries, and 2.570 homes were damaged (677 light damage, 887 moderate damage, and 1.006 severe damage). Additional reported damage: 12 sections of roadways, 2 bridges 33 schools, 10 churches and 25 buildings ([NOAA](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10266)).
 
+The `2017 Chiapas earthquake` struck the southern coast of Mexico on September 8, 2017, at 11:49 PM local time, registering a moment magnitude (Mw) of 8.2. This event stands as one of the most powerful earthquakes in Mexico's history. The epicenter was located in the Gulf of Tehuantepec, approximately 87 km southwest of Pijijiapan, Chiapas. The earthquake was strongly felt across southern Mexico, with a peak Modified Mercalli Intensity (MMI) of VII reported in the hardest-hit regions, including Chiapas and Oaxaca. The disaster triggered widespread liquefaction and landslides, particularly in coastal and mountainous areas. A minor tsunami followed, producing waves up to 1.75 meters, though no significant fires were recorded. The earthquake resulted in 61 fatalities and left 250 injured, with estimated economic losses exceeding $2300 million USD, as extensive damage was inflicted on buildings, infrastructure, and communities. Preceded by minor foreshocks and followed by numerous aftershocks, including one measuring 6.1, this catastrophic event left an indelible mark on the region.
 
-### Type of sequence
-- Two days after the earthquake occurred, 482 aftershocks were recorded, and fifteen days later, 4.326 aftershocks, whose distribution covers the entire Gulf of Tehuantepec; this amount of events includes all the seismicity detected in the region, whether they can be located or not. Two major aftershocks occurred with magnitudes 5.8 and 6.1; the first appeared on September 8 at 00:24 hrs and was located 72 km southeast of Salina Cruz. The second aftershock of magnitude 6.1 occurred on September 23 at 07:52 hrs in the vicinity of Unión Hidalgo, Oaxaca (see report SSNMX_rep_esp_20170907_Tehuantepec_M82.pdf in References folder).
-- The number of reported aftershock varies across references. Additional information is available at [Wikipedia](https://es.wikipedia.org/wiki/Terremoto_de_Chiapas_de_2017#cite_note-7), and [IRIS](http://ds.iris.edu/spudservice/aftershock/14211086).
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2017 |
+| Country | Mexico |
+| Region | North America |
+| Event Name | Chiapas 2017 |
+| Local Date | 08/09/2017 |
+| Local Time | 23:49:17 |
+| Latitude (decimal degrees) | 14.761 |
+| Longitude (decimal degrees) | -94.103 |
+| Depth (km) | 45.9 |
+| Mw | 8.2 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Normal |
+| Tectonic region type | Subduction Intraslab |
+| USGS event ID | us2000ahv0 |
 
-<img src="Mexico/20170908_M8.2_Chiapas/References/Chiapas_2017_earthquake_aftershocks_SSN.png"  width="500" height="250">
+## Estimated and observed ground shaking
 
-Figure source: [Wikipedia](https://en.wikipedia.org/wiki/2017_Chiapas_earthquake#cite_note-SSNmex-6)
-
-- In Oaxaca, 3 people were killed during the aftershocks sequence (see report Noticieros_2019.pdf in References folder).
-
-
-### Occurrence of other phenomena: 
-- A tsunami with waves of 1.0 m and higher was generated by the earthquake and was recorded at Salina Cruz. A tsunami wave of 1.75 m was reported in Chiapas. The Pacific Tsunami Warning Center issued a warning for the entire Pacific coast of Central America, also extending south to Ecuador. [Wikipedia](https://en.wikipedia.org/wiki/2017_Chiapas_earthquake)
-- Additional information for tsunami waves available at [NOAA](https://nctr.pmel.noaa.gov/mexico20170908/)
-
-<img src="https://nctr.pmel.noaa.gov/mexico20170908/images/publish/Pijijian_Max_ampl.png"  width="500" height="350"> 
-
-Figure source: [NOAA](https://nctr.pmel.noaa.gov/mexico20170908/)
-
-- Several landslide, rockslide, and landslide settlements on several highways were observed. Several highways suffered from landslides, landslide induced settlements, rockslide, and land separations. Cintalapa-Tuxtla, Arriaga-Ocozocuaitla, Tuxtla-San Cristobal, and Oaxaca-Tehuantepec all suffered from landslides and landslide settlements. Land separation was observed at the Copoya-Tuxtla highway. Rockslide occurred in the area of Tuxtla Guitierrez, Tuxtla Malpaso and Assiaga-Ocozocuautla. The bridge connection Juchitan to Union Hidalgo in Oaxaca state survived but the roads leading up to each side fissured and the supporting walls buckled. In Simojovel, Chiapas, a landslide caused damage to 11 houses. [Learning_From_Earthquakes](http://learningfromearthquakes.org/component/lfe_reports/?view=lfereports&id=310&layout=default) 
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -54,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2017                                                                   |
-| Country              | Mexico                                                                 |
-| Region               | Chiapas                                                                |
-| Event_Name           | Chiapas_2017                                                           |
-| Local_Date           | 08/09/2017                                                             |
-| Local_Time           | 23:49:17                                                               |
-| Latitude             | 14.761                                                                 |
-| Longitude            | -94.103                                                                |
-| Depth_(km)           | 45.9                                                                   |
-| Mw                   | 8.2                                                                    |
-| Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | Normal                                                                 |
-| Tectonic_region_type | Subduction Intraslab                                                   |
-| Fatalities           | 61-102                                                                 |
-| Injured              | 250-900                                                                |
-| Displaced_Population | 458392                                                                 |
-| Affected_Population  | 1200250-2500000                                                        |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 94027-209863 Units                                                     |
-| Collapsed_Units      | 41000-56504 Units                                                      |
-| Economic_Losses      | 2300-4000 M USD                                                        |
-| Insured_Losses       | 14000-2000 M MXN                                                       |
-| Induced_Effects      | Tsunami, Landslide                                                     |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2017_Chiapas_earthquake                  |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 61-102 |
+| Injured | 250-900 |
+| Displaced population | ~458392 |
+| Affected population | 1200250-2500000  |
+| Affected units | nan |
+| Damaged units | 94027-209863  |
+| Collapsed units | 41000-56504  |
+| Economic losses | 2300-4000 M USD |
+| Insured losses | 14000-2000 M MXN |
+| Earthquake-triggered effects | Tsunami, Landslide |

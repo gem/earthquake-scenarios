@@ -1,28 +1,42 @@
 # 🌎 2010 M7 Haiti earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2010 M7 Haiti earthquake in Haiti.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-A catastrophic magnitude 7.0 Mw earthquake struck Haiti at 16:53 local time (21:53 UTC) on Tuesday, 12 January 2010. The epicenter was near the town of Léogâne, Ouest department, approximately 25 kilometres (16 mi) west of Port-au-Prince, Haiti's capital.
-[Wikipedia](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
+The `2010 Haiti earthquake` struck on January 12, 2010, with a magnitude of 7.0 Mw at 16:53 local time. The epicenter was located near Léogâne, approximately 25 kilometers west of the capital city, Port-au-Prince. The earthquake caused widespread and severe destruction, particularly affecting the capital and its surrounding areas, including Carrefour and Jacmel. The maximum reported intensity of the earthquake was IX on the Modified Mercalli Intensity (MMI) scale, reflecting the intense shaking experienced across the region. The event resulted in a catastrophic loss of life, with fatalities estimated between 158679 and 316000, and over 300000 individuals injured. Economic losses were substantial, with an estimated range of 7000 to 8000 million USD. The earthquake also triggered significant secondary hazards, including liquefaction and landslides. While no tsunamis were reported, fires broke out in several locations due to infrastructure damage. Numerous aftershocks, including a notable magnitude 6.1 Mw tremor, followed the main event, further compounding the devastation.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2010 |
+| Country | Haiti |
+| Region | Caribbean Central America |
+| Event Name | Haiti |
+| Local Date | 01/12/2010 |
+| Local Time | 16:53:10 |
+| Latitude (decimal degrees) | 18.443 |
+| Longitude (decimal degrees) | -72.571 |
+| Depth (km) | 13 |
+| Mw | 7 |
+| Max Intensity (MMI) | IX |
+| Fault mechanism | Strike slip |
+| Tectonic region type | Active Shallow Crustal |
+| USGS event ID | usp000h60h |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2010                                                                   |
-| Country              | Haiti                                                                  |
-| Region               | Port-au-Prince                                                         |
-| Event_Name           | Haiti                                                                  |
-| Local_Date           | 01/12/2010                                                             |
-| Local_Time           | 16:53:10                                                               |
-| Longitude            | -72.571                                                                |
-| Latitude             | 18.443                                                                 |
-| Depth_(km)           | 13                                                                     |
-| Mw                   | 7                                                                      |
-| Max_Intensity_(MMI)  | IX                                                                     |
-| Fault_mechanism      | Strike slip                                                            |
-| Tectonic_region_type | Active Shallow Crustal                                                 |
-| Fatalities           | 158679-316000                                                          |
-| Injured              | 300000                                                                 |
-| Displaced_Population | 1269110-1800000                                                        |
-| Affected_Population  | 3000000-3700000                                                        |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 285677-317289                                                          |
-| Collapsed_Units      | 105000-188383                                                          |
-| Economic_Losses      | 7000-8000 M USD                                                        |
-| Insured_Losses       | 200 M USD                                                              |
-| Induced_Effects      | Liquefaction                                                           |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000h60h/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2010_Haiti_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 158679-316000 |
+| Injured | ~300000 |
+| Displaced population | 1269110-1800000 |
+| Affected population | 3000000-3700000 |
+| Affected units | nan |
+| Damaged units | 285677-317289 |
+| Collapsed units | 105000-188383 |
+| Economic losses | 7000-8000 M USD |
+| Insured losses | 200 M USD |
+| Earthquake-triggered effects | Liquefaction |

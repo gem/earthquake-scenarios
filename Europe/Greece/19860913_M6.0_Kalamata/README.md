@@ -1,28 +1,42 @@
 # 🌎 1986 M6 Kalamata earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1986 M6 Kalamata earthquake in Greece.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 1986 Kalamata earthquake struck the southern Peloponnese Region of Greece on September 13 at 20:24 local time. The 12.5 km (7.8 mi) deep moment magnitude (Mw ) 5.9 earthquake had an epicenter near the coastal city of Kalamata and was assigned X (Extreme) on the Mercalli intensity scale. The earthquake was the result of normal faulting along a northwest-dipping fault and produced surface ruptures. Extensive damage was reported in Kalamata and Elaiochori. At least 20 people died and 330 were injured. Survivors sought refuge at campsites and reconstruction work lasted five years.
-[Wikipedia](https://en.wikipedia.org/wiki/1986_Kalamata_earthquake)
+The `1986 Kalamata earthquake` struck the southern Peloponnese region of Greece on September 13th at 20:24 local time. The maximum Mercalli intensity reached VIII. This magnitude 6.0 earthquake, with an epicenter near the coastal city of Kalamata, caused significant damage and loss of life. The city of Kalamata and the surrounding areas were most heavily impacted, with numerous buildings collapsing or sustaining severe structural damage. At least 20 people were killed, and 300 more were injured. Economic losses were substantial, estimated at around 745 million USD. The earthquake triggered numerous landslides, and some localized liquefaction was observed.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1986 |
+| Country | Greece |
+| Region | Europe |
+| Event Name | Kalamata 1986 |
+| Local Date | 13/09/1986 |
+| Local Time | 20:24:31 |
+| Latitude (decimal degrees) | 37.014 |
+| Longitude (decimal degrees) | 22.176 |
+| Depth (km) | 11.2 |
+| Mw | 6 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Normal |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0002y1v |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1986                                                                   |
-| Country              | Greece                                                                 |
-| Region               | Kalamata                                                               |
-| Event_Name           | Kalamata_1986                                                          |
-| Local_Date           | 13/09/1986                                                             |
-| Local_Time           | 17:24:31                                                               |
-| Latitude             | 37.014                                                                 |
-| Longitude            | 22.176                                                                 |
-| Depth_(km)           | 11.2                                                                   |
-| Mw                   | 6                                                                      |
-| Max_Intensity_(MMI)  | X                                                                      |
-| Fault_mechanism      | Normal                                                                 |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 20                                                                     |
-| Injured              | 300                                                                    |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | 45300                                                                  |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | 1500 Buildings                                                         |
-| Economic_Losses      | 0-745 M USD                                                            |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0002y1v/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1986_Kalamata_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~20 |
+| Injured | ~300 |
+| Displaced population | nan |
+| Affected population | ~45300 |
+| Affected units | nan |
+| Damaged units | nan |
+| Collapsed units | 1500 Buildings |
+| Economic losses | 0-745 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

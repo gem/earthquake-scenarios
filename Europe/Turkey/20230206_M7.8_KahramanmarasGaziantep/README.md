@@ -1,33 +1,42 @@
 # 🌎 2023 M7.8 CentralTurkey earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2023 M7.8 CentralTurkey earthquake in Turkey.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-On 6 February 2023, at 04:17 TRT (01:17 UTC), a Mw 7.8 earthquake struck southern and central Turkey and northern and western Syria. The epicenter was 37 km (23 mi) west–northwest of Gaziantep. The earthquake had a maximum Mercalli intensity of XII (Extreme) in parts of Antakya in Hatay Province. It was followed by a Mw 7.7 earthquake at 13:24. This earthquake was centered 95 km (59 mi) north-northeast from the first. There was widespread damage and tens of thousands of fatalities.
-The Mw 7.8 earthquake is the largest in Turkey since the 1939 Erzincan earthquake of the same magnitude, and jointly the second-strongest recorded in the history of the country, after the 1668 North Anatolia earthquake. It is also one of the strongest earthquakes ever recorded in the Levant. It was felt as far as Egypt, Israel, Palestine, Lebanon, Cyprus,  and the Black Sea coast of Turkey. There were more than 10,000 aftershocks in the three weeks that followed. The seismic sequence was the result of shallow strike-slip faulting.
-There was widespread damage in an area of about 350,000 km2 (140,000 sq mi) (about the size of Germany). An estimated 14 million people, or 16 percent of Turkey's population, were affected. Development experts from the United Nations estimated that about 1.5 million people were left homeless.As of 10 March 2023, more than 55,700 deaths were confirmed: more than 48,400 in Turkey, and more than 7,200 in Syria. It is the deadliest earthquake in what is present day Turkey since the 526 Antioch earthquake, making it the deadliest natural disaster in its modern history. It is also the deadliest in what is present day Syria since the 1822 Aleppo earthquake; the deadliest worldwide since the 2010 Haiti earthquake; and the fifth-deadliest of the 21st century. Damages were estimated at over US$100 billion in Turkey and US$5.1 billion in Syria, making them the fourth-costliest earthquakes on record.
-Damaged roads, winter storms, and disruption to communications hampered the Disaster and Emergency Management Presidency's rescue and relief effort, which included a 60,000-strong search-and-rescue force, 5,000 health workers and 30,000 volunteers. Following Turkey's call for international help, more than 141,000 people from 94 countries joined the rescue effort.
+The devastating `2023 Central Turkey earthquake` struck central and southern Turkey, and northern and western Syria on February 6, 2023, at 4:17 AM local time. Measuring 7.8 on the moment magnitude scale, it was the strongest earthquake in Turkey since 1939. The epicenter, located near Gaziantep, experienced a maximum intensity of XII on the Mercalli scale. A powerful aftershock of magnitude 7.7 followed later that day. Widespread damage and a tragic death toll exceeding 53000 were reported across the region. This event, one of the strongest earthquakes ever recorded in the Levant, left over 114000 injuries and caused immense economic losses exceeding $100000 million in Turkey alone. The international community responded with a massive rescue effort, highlighting the global impact of this disaster.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2023 |
+| Country | Turkey |
+| Region | Europe |
+| Event Name | CentralTurkey 2023 |
+| Local Date | 06/02/2023 |
+| Local Time | 04:17:34 |
+| Latitude (decimal degrees) | 37.2199 |
+| Longitude (decimal degrees) | 37.0189 |
+| Depth (km) | 10 |
+| Mw | 7.8 |
+| Max Intensity (MMI) | XII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | us6000jllz |
 
-[Wikipedia](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake)
+## Estimated and observed ground shaking
 
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -38,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2023                                                                   |
-| Country              | Turkey                                                                 |
-| Region               | CentralTurkey                                                          |
-| Event_Name           | CentralTurkey_2023                                                     |
-| Local_Date           | 06/02/2023                                                             |
-| Local_Time           | 01:17:34                                                               |
-| Latitude             | 37.2199                                                                |
-| Longitude            | 37.0189                                                                |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 7.8                                                                    |
-| Max_Intensity_(MMI)  | XII                                                                    |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 53227-55690                                                            |
-| Injured              | 114770-129500                                                          |
-| Displaced_Population | 1500000                                                                |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | 140000 Units                                                           |
-| Damaged_Units        | 42500 Units                                                            |
-| Collapsed_Units      | 15910 Units                                                            |
-| Economic_Losses      | 103000 M USD                                                           |
-| Insured_Losses       | 1000 M USD                                                             |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquake     |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 53227-55690 |
+| Injured | 114770-129500 |
+| Displaced population | ~1500000 |
+| Affected population | nan |
+| Affected units | ~140000  |
+| Damaged units | ~42500  |
+| Collapsed units | ~15910  |
+| Economic losses | 103000 M USD |
+| Insured losses | 1000 M USD |
+| Earthquake-triggered effects | nan |

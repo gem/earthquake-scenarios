@@ -1,29 +1,42 @@
 # 🌎 2004 M5.1 Gardone earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2004 M5.1 Gardone earthquake in Italy.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-This is a list of earthquakes in 2004. Only earthquakes of magnitude 6 or above are included, unless they resulted in significant damage or casualties, or were notable for some other reason. All dates are listed according to UTC time. The year 2004 had the most major earthquakes since 1999. In total, there were 16 magnitude 7.0+ earthquakes this year, 6 of them were in Indonesia. Most of the earthquake deaths in 2004 were caused by the magnitude 9.1–9.3 earthquake 
-off the west coast of Sumatra on December. Most of the deaths were caused by a devastating tsunami that spread across the Indian Ocean. There were several other deadly and destructive earthquakes, including Morocco's largest earthquake to date, which caused 628 deaths. Japan was hit by a magnitude 6.6 earthquake, which caused 68 deaths and $28 billion in damages, making it the fourth costliest earthquake in history.
-[Wikipedia](https://en.wikipedia.org/wiki/List_of_earthquakes_in_2004)
+The `2004 Gardone earthquake` struck northern Italy on November 24, 2004, at approximately 23:59 local time, with a moment magnitude (Mw) of 5.1. The earthquake registered a Maximum Mercalli Intensity (MMI) of VIII, signifying strong shaking that caused notable disruptions. The epicenter was located near Gardone Val Trompia in the Lombardy region, with the most severe impacts felt in nearby towns such as Sarezzo and other areas within the province of Brescia. The event caused significant structural damage, resulting in economic losses estimated at 215 million EUR, though no fatalities were reported. Minor injuries were documented, but the region avoided secondary hazards such as liquefaction, tsunamis, or substantial landslides, which could have worsened the situation. Despite its moderate magnitude, the earthquake served as a reminder of the seismic risks present in the region.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2004 |
+| Country | Italy |
+| Region | Europe |
+| Event Name | Gardone 2004 |
+| Local Date | 24/11/2004 |
+| Local Time | 23:59:40 |
+| Latitude (decimal degrees) | 45.626 |
+| Longitude (decimal degrees) | 10.559 |
+| Depth (km) | 17.2 |
+| Mw | 5.1 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000d94j |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
@@ -34,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2004                                                                   |
-| Country              | Italy                                                                  |
-| Region               | Gardone                                                                |
-| Event_Name           | Gardone_2004                                                           |
-| Local_Date           | 24/11/2004                                                             |
-| Local_Time           | 22:59:40                                                               |
-| Latitude             | 45.626                                                                 |
-| Longitude            | 10.559                                                                 |
-| Depth_(km)           | 17.2                                                                   |
-| Mw                   | 5.1                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | nan                                                                    |
-| Injured              | nan                                                                    |
-| Displaced_Population | 2000-2300                                                              |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | 1200-4147 Buildings                                                    |
-| Damaged_Units        | 500 Buildings                                                          |
-| Collapsed_Units      | 40 Buildings                                                           |
-| Economic_Losses      | 215 M EUR                                                              |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000d94j/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/List_of_earthquakes_in_2004              |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | nan |
+| Injured | nan |
+| Displaced population | 2000-2300 |
+| Affected population | nan |
+| Affected units | 1200-4147 Buildings |
+| Damaged units | 500 Buildings |
+| Collapsed units | 40 Buildings |
+| Economic losses | 215 M EUR |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

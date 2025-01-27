@@ -1,31 +1,42 @@
 # 🌎 2017 M6.46 Moijabana earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2017 M6.46 Moijabana earthquake in Botswana.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `2017 Moijabana earthquake` struck at 19:40 local time on 3 April 2017 with an estimated magnitude of Mw6.5 and severe (VIII) shaking in a rural area of Botswana. There are no reported deaths from this earthquake and 36 reported injuries, however the injuries were from a stampede that was triggered by the earthquake.
 
-### Type of sequence
-At least 30 M>3 events were reported following the main shock (ISC).
+The `2017 Moijabana earthquake` struck Botswana on April 3, 2017, at 19:40 local time. It registered an estimated magnitude of Mw 6.5 and caused severe (VIII) shaking in a rural area near the village of Moijabana, approximately 238 kilometers north of Gaborone, the nation's capital. The earthquake's effects were felt across much of Botswana and neighboring countries, including South Africa and Zimbabwe. The most affected areas were villages near the epicenter, where structural damage to buildings was reported. Fortunately, despite its significant magnitude, the earthquake did not result in any fatalities or major economic losses. However, 36 injuries were reported, primarily caused by a stampede triggered by the tremor. No secondary hazards such as liquefaction, landslides, tsunamis, or fires were observed. The event underscored the region's susceptibility to moderate seismic activity, despite being located in an intraplate tectonic setting. Following the mainshock, at least 30 aftershocks with magnitudes greater than 3.0 were recorded (ISC).
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2017 |
+| Country | Botswana |
+| Region | Africa |
+| Event Name | Moijabana 2017 |
+| Local Date | 03/04/2017 |
+| Local Time | 19:40:18 |
+| Latitude (decimal degrees) | -22.6784 |
+| Longitude (decimal degrees) | 25.1558 |
+| Depth (km) | 23.5 |
+| Mw | 6.46 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Normal |
+| Tectonic region type | Unknown (occurred in an area with no know previous seismicity) |
+| USGS event ID | us10008e3k |
 
-### Occurrence of other phenomena: 
-Stampede
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
@@ -36,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2017                                                                   |
-| Country              | Botswana                                                               |
-| Region               | Ghanzi                                                                 |
-| Event_Name           | Moijabana_2017                                                         |
-| Local_Date           | 03/04/2017                                                             |
-| Local_Time           | 19:40:18                                                               |
-| Latitude             | -22.6784                                                               |
-| Longitude            | 25.1558                                                                |
-| Depth_(km)           | 23.5                                                                   |
-| Mw                   | 6.46                                                                   |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Normal                                                                 |
-| Tectonic_region_type | Unknown (occurred in an area with no know previous seismicity)         |
-| Fatalities           | 0                                                                      |
-| Injured              | 0                                                                      |
-| Displaced_Population | 271                                                                    |
-| Affected_Population  | 271                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 13 Units                                                               |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Stampede                                                               |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us10008e3k/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake           |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~0 |
+| Injured | ~0 |
+| Displaced population | ~271 |
+| Affected population | ~271 |
+| Affected units | nan |
+| Damaged units | ~13  |
+| Collapsed units | nan |
+| Economic losses | nan |
+| Insured losses | nan |
+| Earthquake-triggered effects | Stampede |

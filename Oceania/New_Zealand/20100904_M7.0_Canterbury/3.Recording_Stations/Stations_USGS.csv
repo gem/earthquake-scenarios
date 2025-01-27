@@ -1,0 +1,169 @@
+﻿STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,VS30,MMI_VALUE,MMI_STDDEV,PGA_LN_SIGMA,PGA_VALUE,PGV_LN_SIGMA,PGV_VALUE,SA(0.3)_LN_SIGMA,SA(0.3)_VALUE,SA(1.0)_LN_SIGMA,SA(1.0)_VALUE,SA(3.0)_LN_SIGMA,SA(3.0)_VALUE,VS30_TYPE,REFERENCES
+GDLC,GDLC,172.08944,-43.58806,seismic,274.33,8.8,0.63,0,0.752018,0,94.515,,,,,,,inferred,Stations_USGS
+HVSC,HVSC,172.70917,-43.58111,seismic,900,null,null,0,0.618318,0,18.762,,,,,,,inferred,Stations_USGS
+UTM:(59G 061 517 10000),,172.4241,-43.5691,macroseismic,264.04,7.6,0.3,0.8059,0.611941,0.875,40.2189,1.0131,0.901968,1.0822,0.442855,1.4737,0.082283,inferred,Stations_USGS
+UTM:(59G 059 518 10000),,172.1747,-43.4819,macroseismic,282.52,7.4,0.3,0.8059,0.540325,0.875,34.7648,1.0131,0.807015,1.0822,0.37783,1.4737,0.070609,inferred,Stations_USGS
+OBS_6,"""Darfield::Canterbury::New Zealand"" 18 responses 7 km (Intensity VII)",172.12,-43.48,macroseismic,285.05,7.2,0.3,0.8059,0.477091,0.875,30.0503,1.0131,0.722059,1.0822,0.322352,1.4737,0.060592,inferred,Stations_USGS
+OBS_25,"""Rolleston::Canterbury::New Zealand"" 11 responses 22 km (Intensity VII)",172.38,-43.58,macroseismic,263.52,7.2,0.3,0.8059,0.477091,0.875,30.0503,1.0131,0.722059,1.0822,0.322352,1.4737,0.060592,inferred,Stations_USGS
+HORC,HORC,171.95972,-43.54139,seismic,297.28,8.6,0.63,0,0.461305,0,73.603,,,,,,,inferred,Stations_USGS
+DFHS,DFHS,172.10194,-43.49139,seismic,283.42,null,null,0,0.458379,0,34.016,,,,,,,inferred,Stations_USGS
+OBS_13,"""Leeston::Canterbury::New Zealand"" 3 responses 29 km (Intensity VII)",172.3,-43.76,macroseismic,249.54,7.4,0.3,0.8059,0.430723,0.875,34.7648,1.0131,0.716343,1.0822,0.434153,1.4737,0.082508,inferred,Stations_USGS
+LINC,LINC,172.46778,-43.62472,seismic,249.78,7.7,0.63,0,0.410255,0,43.077,,,,,,,inferred,Stations_USGS
+UTM:(59G 061 516 10000),,172.4262,-43.6591,macroseismic,238.25,7,0.3,0.8059,0.406856,0.875,25.9751,1.0131,0.634339,1.0822,0.280947,1.4737,0.053254,inferred,Stations_USGS
+ROLC,ROLC,172.38083,-43.59444,seismic,264.95,null,null,0,0.38157,0,58.207,,,,,,,inferred,Stations_USGS
+OBS_16,"""Lyttelton::Canterbury::New Zealand"" 4 responses 49 km (Intensity VII)",172.72,-43.6,macroseismic,787.88,7.1,0.3,0.8059,0.377492,0.875,27.9385,1.0131,0.623971,1.0822,0.330836,1.4737,0.063166,inferred,Stations_USGS
+OBS_14,"""Lincoln::Canterbury::New Zealand"" 6 responses 32 km (Intensity VII)",172.48,-43.65,macroseismic,251.91,6.8,0.3,0.8059,0.371957,0.875,22.4526,1.0131,0.578035,1.0822,0.234639,1.4737,0.04462,inferred,Stations_USGS
+OBS_5,"""Christchurch::Canterbury::New Zealand"" 253 responses 42 km (Intensity VII)",172.64,-43.53,macroseismic,210.52,6.7,0.3,0.8059,0.345041,0.875,20.8747,1.0131,0.543073,1.0822,0.218447,1.4737,0.041701,inferred,Stations_USGS
+KPOC,KPOC,172.66361,-43.37806,seismic,203.19,7.2,0.63,0,0.34371,0,30.877,,,,,,,inferred,Stations_USGS
+LPCC,LPCC,172.72222,-43.60556,seismic,787.88,6.4,0.63,0,0.332304,0,18.558,,,,,,,inferred,Stations_USGS
+UTM:(59G 063 520 10000),,172.6642,-43.2957,macroseismic,243,6.9,0.3,0.8059,0.30215,0.875,24.1497,1.0131,0.530205,1.0822,0.299762,1.4737,0.057986,inferred,Stations_USGS
+OBS_11,"""Kaiapoi::Canterbury::New Zealand"" 5 responses 49 km (Intensity VII)",172.68,-43.36,macroseismic,211.33,6.8,0.3,0.8059,0.301529,0.875,22.4526,1.0131,0.51764,1.0822,0.266855,1.4737,0.051541,inferred,Stations_USGS
+UTM:(59G 063 517 10000),,172.6716,-43.5657,macroseismic,618.6,6.6,0.3,0.8059,0.299867,0.875,19.4077,1.0131,0.49303,1.0822,0.211666,1.4737,0.040759,inferred,Stations_USGS
+TPLC,TPLC,172.47194,-43.55167,seismic,258.54,7.3,0.63,0,0.297686,0,31.43,,,,,,,inferred,Stations_USGS
+UTM:(59G 063 519 10000),,172.6667,-43.3857,macroseismic,203.19,6.6,0.3,0.8059,0.27702,0.875,19.4077,1.0131,0.472911,1.0822,0.222201,1.4737,0.043039,inferred,Stations_USGS
+OBS_32,"""Woodend::Canterbury::New Zealand"" 4 responses 50 km (Intensity VII)",172.67,-43.32,macroseismic,234.85,6.6,0.3,0.8059,0.256262,0.875,19.4077,1.0131,0.453938,1.0822,0.233066,1.4737,0.045405,inferred,Stations_USGS
+DSLC,DSLC,172.19778,-43.66917,seismic,255.14,6.8,0.63,0,0.250245,0,22.832,,,,,,,inferred,Stations_USGS
+CMHS,CMHS,172.62417,-43.56722,seismic,295.65,7.4,0.63,0,0.248267,0,18.409,,,,,,,inferred,Stations_USGS
+REHS,REHS,172.635,-43.52361,seismic,231.64,7.6,0.63,0,0.2463,0,40.94,,,,,,,inferred,Stations_USGS
+PRPC,PRPC,172.68278,-43.5275,seismic,215.09,null,null,0,0.231733,0,45.06,,,,,,,inferred,Stations_USGS
+CCCC,CCCC,172.64639,-43.53944,seismic,234.72,8.1,0.63,0,0.202171,0,57.045,,,,,,,inferred,Stations_USGS
+CACS,CACS,172.53,-43.48472,seismic,259.29,6.7,0.63,0,0.200489,0,20.201,,,,,,,inferred,Stations_USGS
+OBS_21,"""Oxford::Canterbury::New Zealand"" 4 responses 26 km (Intensity VI)",172.18,-43.3,macroseismic,281.75,6.1,0.3,0.8059,0.199714,0.875,13.4818,1.0131,0.355095,1.0822,0.15087,1.4737,0.029685,inferred,Stations_USGS
+CHHC,CHHC,172.62611,-43.53556,seismic,210.52,7.9,0.63,0,0.197808,0,50.188,,,,,,,inferred,Stations_USGS
+OBS_24,"""Rangiora::Canterbury::New Zealand"" 18 responses 44 km (Intensity VI)",172.57,-43.31,macroseismic,270.05,6.1,0.3,0.8059,0.195464,0.875,13.4818,1.0131,0.351102,1.0822,0.152872,1.4737,0.030127,inferred,Stations_USGS
+RKAC,RKAC,172.02306,-43.75306,seismic,265.15,5.8,0.63,0,0.193303,0,12.493,,,,,,,inferred,Stations_USGS
+NNBS,NNBS,172.71778,-43.49722,seismic,210.87,null,null,0,0.18737,0,36.255,,,,,,,inferred,Stations_USGS
+UTM:(59G 062 520 10000),,172.541,-43.2974,macroseismic,270.43,6,0.3,0.8059,0.183814,0.875,12.5343,1.0131,0.332243,1.0822,0.141136,1.4737,0.027893,inferred,Stations_USGS
+SHLC,SHLC,172.66333,-43.50694,seismic,191.22,null,null,0,0.179399,0,33.72,,,,,,,inferred,Stations_USGS
+CBGS,CBGS,172.61972,-43.53111,seismic,199.51,6.8,0.63,0,0.174302,0,38.225,,,,,,,inferred,Stations_USGS
+PPHS,PPHS,172.60667,-43.49444,seismic,225.56,null,null,0,0.173119,0,45.53,,,,,,,inferred,Stations_USGS
+ASHS,ASHS,172.59583,-43.27611,seismic,267.02,5.4,0.63,0,0.162691,0,8.039,,,,,,,inferred,Stations_USGS
+SPFS,SPFS,171.92889,-43.33972,seismic,303.75,6.7,0.63,0,0.160499,0,20.475,,,,,,,inferred,Stations_USGS
+OBS_17,"""Methven::Canterbury::New Zealand"" 3 responses 39 km (Intensity VI)",171.65,-43.63,macroseismic,289.09,5.8,0.3,0.8059,0.159318,0.875,10.8345,1.0131,0.294381,1.0822,0.12179,1.4737,0.024243,inferred,Stations_USGS
+UTM:(59G 055 516 10000),,171.6821,-43.666,macroseismic,284.71,5.8,0.3,0.8059,0.158035,0.875,10.8345,1.0131,0.293132,1.0822,0.122395,1.4737,0.024378,inferred,Stations_USGS
+WAKC,WAKC,172.705,-42.96472,seismic,436.63,6.1,0.63,0,0.150693,0,16.921,,,,,,,inferred,Stations_USGS
+OXZ,OXZ,172.03806,-43.3275,seismic,393.28,5.7,0.63,0,0.146809,0,10.384,,,,,,,inferred,Stations_USGS
+SBRC,SBRC,172.25222,-43.81028,seismic,246.61,null,null,0,0.1437,0,15.336,,,,,,,inferred,Stations_USGS
+FDCS,FDCS,170.82861,-44.10194,seismic,331.89,6,0.63,0,0.124281,0,9.632,,,,,,,inferred,Stations_USGS
+PEEC,PEEC,171.23667,-43.92361,seismic,614.21,5.8,0.63,0,0.119195,0,10.956,,,,,,,inferred,Stations_USGS
+CSHS,CSHS,171.72333,-43.22833,seismic,527.5,5.4,0.63,0,0.113333,0,11.46,,,,,,,inferred,Stations_USGS
+ADCS,ADCS,171.7475,-43.90417,seismic,260.04,5.4,0.63,0,0.111906,0,8.304,,,,,,,inferred,Stations_USGS
+LRSC,LRSC,171.79361,-43.73111,seismic,275.1,6.1,0.63,0,0.108389,0,13.447,,,,,,,inferred,Stations_USGS
+OBS_3,"""Ashburton::Canterbury::New Zealand"" 31 responses 51 km (Intensity V)",171.75,-43.91,macroseismic,266.98,5.4,0.3,0.8059,0.105021,0.875,8.0952,1.0131,0.215763,1.0822,0.098254,1.4737,0.020034,inferred,Stations_USGS
+LSRC,LSRC,172.54306,-42.87111,seismic,343.8,5.7,0.63,0,0.098369,0,13.159,,,,,,,inferred,Stations_USGS
+OBS_8,"""Geraldine::Canterbury::New Zealand"" 4 responses 94 km (Intensity V)",171.25,-44.1,macroseismic,285.83,5.3,0.3,0.8059,0.08217,0.875,7.5263,1.0131,0.185357,1.0822,0.101535,1.4737,0.021046,inferred,Stations_USGS
+DORC,DORC,172.09361,-43.89833,seismic,256.06,5.5,0.63,0,0.081131,0,8.578,,,,,,,inferred,Stations_USGS
+APPS,APPS,171.5675,-42.95056,seismic,601.88,4.3,0.63,0,0.079898,0,3.737,,,,,,,inferred,Stations_USGS
+OBS_2,"""Amberley::Canterbury::New Zealand"" 3 responses 64 km (Intensity V)",172.73,-43.16,macroseismic,275.96,4.9,0.3,0.8059,0.076639,0.875,5.6234,1.0131,0.160788,1.0822,0.066218,1.4737,0.013703,inferred,Stations_USGS
+TRCS,TRCS,171.24444,-44.40444,seismic,346.12,4.9,0.63,0,0.074169,0,9.151,,,,,,,inferred,Stations_USGS
+WSFC,WSFC,171.61083,-43.83889,seismic,278.11,5.4,0.63,0,0.069959,0,9.149,,,,,,,inferred,Stations_USGS
+OBS_28,"""Timaru::Canterbury::New Zealand"" 31 responses 119 km (Intensity V)",171.22,-44.38,macroseismic,329.12,5.1,0.3,0.8059,0.067155,0.875,6.5057,1.0131,0.151739,1.0822,0.090831,1.4737,0.019046,inferred,Stations_USGS
+UTM:(59G 051 508 10000),,171.1882,-44.3881,macroseismic,351.89,5,0.3,0.8059,0.062763,0.875,6.0485,1.0131,0.131494,1.0822,0.084176,1.4737,0.017709,inferred,Stations_USGS
+OBS_27,"""Temuka::Canterbury::New Zealand"" 3 responses 105 km (Intensity V)",171.27,-44.25,macroseismic,242.45,4.9,0.3,0.8059,0.061667,0.875,5.6234,1.0131,0.121532,1.0822,0.075654,1.4737,0.015909,inferred,Stations_USGS
+MAYC,MAYC,171.42167,-43.82472,seismic,311.53,4.8,0.63,0,0.057829,0,5.361,,,,,,,inferred,Stations_USGS
+OBS_22,"""Pleasant Point::Canterbury::New Zealand"" 4 responses 114 km (Intensity V)",171.13,-44.27,macroseismic,345.88,4.8,0.3,0.8059,0.056567,0.875,5.2282,1.0131,0.102811,1.0822,0.070919,1.4737,0.014984,inferred,Stations_USGS
+OBS_9,"""Hokitika::West Coast::New Zealand"" 4 responses 130 km (Intensity V)",170.97,-42.71,macroseismic,323.07,4.8,0.3,0.8059,0.056358,0.875,5.2282,1.0131,0.102322,1.0822,0.07108,1.4737,0.015022,inferred,Stations_USGS
+UTM:(59G 049 527 10000),,170.939,-42.6774,macroseismic,600,4.8,0.3,0.8059,0.055721,0.875,5.2282,1.0131,0.100835,1.0822,0.071577,1.4737,0.01514,inferred,Stations_USGS
+KOKS,KOKS,171.13556,-42.89333,seismic,422.45,4.9,0.63,0,0.05371,0,6.441,,,,,,,inferred,Stations_USGS
+RPZ,RPZ,171.05389,-43.71639,seismic,900,4.6,0.63,0,0.048695,0,4.513,,,,,,,inferred,Stations_USGS
+OBS_19,"""Oamaru::Canterbury::New Zealand"" 4 responses 193 km (Intensity V)",170.98,-45.07,macroseismic,535.83,4.8,0.3,0.8059,0.048025,0.875,5.2282,1.0131,0.083268,1.0822,0.078404,1.4737,0.016767,inferred,Stations_USGS
+UTM:(59G 049 500 10000),,170.9364,-45.1084,macroseismic,297,4.7,0.3,0.8059,0.044774,0.875,4.8608,1.0131,0.071931,1.0822,0.072769,1.4737,0.015616,inferred,Stations_USGS
+DKHS,DKHS,170.49278,-45.90389,seismic,248.45,4.5,0.63,0,0.041019,0,4.074,,,,,,,inferred,Stations_USGS
+IFPS,IFPS,171.47278,-42.72833,seismic,549.58,4.4,0.63,0,0.040907,0,3.898,,,,,,,inferred,Stations_USGS
+HSES,HSES,172.83028,-42.525,seismic,523.73,4.8,0.63,0,0.040296,0,5.122,,,,,,,inferred,Stations_USGS
+SKFS,SKFS,170.50972,-45.90028,seismic,270.71,null,null,0,0.038593,0,4.462,,,,,,,inferred,Stations_USGS
+HAFS,HAFS,170.55583,-43.15056,seismic,606.24,4.5,0.63,0,0.036809,0,8.314,,,,,,,inferred,Stations_USGS
+GMTS,GMTS,171.21028,-42.45083,seismic,519.29,4,0.63,0,0.03525,0,2.564,,,,,,,inferred,Stations_USGS
+WVAS,WVAS,170.73694,-43.07333,seismic,309.66,5,0.63,0,0.031651,0,5.87,,,,,,,inferred,Stations_USGS
+LTZ,LTZ,172.27083,-42.78333,seismic,875.92,4.4,0.63,0,0.031325,0,3.773,,,,,,,inferred,Stations_USGS
+HMCS,HMCS,170.96389,-42.71861,seismic,323.07,4.3,0.63,0,0.028991,0,3.687,,,,,,,inferred,Stations_USGS
+OAMS,OAMS,170.96917,-45.10139,seismic,447.68,null,null,0,0.023945,0,2.67,,,,,,,inferred,Stations_USGS
+FGPS,FGPS,170.01972,-43.465,seismic,504.16,4.4,0.63,0,0.021662,0,3.814,,,,,,,inferred,Stations_USGS
+WBCS,WBCS,171.59972,-41.7575,seismic,223.29,4.2,0.63,0,0.021549,0,3.272,,,,,,,inferred,Stations_USGS
+SJFS,SJFS,172.18028,-42.33639,seismic,340.19,3.8,0.63,0,0.021182,0,1.803,,,,,,,inferred,Stations_USGS
+FJDS,FJDS,170.18417,-43.39083,seismic,416.74,4.1,0.63,0,0.021019,0,4.14,,,,,,,inferred,Stations_USGS
+UTM:(59G 054 537 10000),,171.5414,-41.7756,macroseismic,290.93,4,0.3,0.8059,0.020806,0.875,2.4806,1.0131,0.028441,1.0822,0.037258,1.4737,0.007732,inferred,Stations_USGS
+OBS_31,"""Westport::West Coast::New Zealand"" 5 responses 203 km (Intensity IV)",171.57,-41.74,macroseismic,600,4,0.3,0.8059,0.020535,0.875,2.4806,1.0131,0.028241,1.0822,0.0375,1.4737,0.007807,inferred,Stations_USGS
+TWAS,TWAS,170.09833,-44.25611,seismic,293.3,3.9,0.63,0,0.019633,0,2.044,,,,,,,inferred,Stations_USGS
+TMBS,TMBS,170.19556,-46.07333,seismic,321.2,3.6,0.63,0,0.019623,0,1.234,,,,,,,inferred,Stations_USGS
+MCNS,MCNS,170.09694,-43.73806,seismic,699.53,3.9,0.63,0,0.019307,0,2.283,,,,,,,inferred,Stations_USGS
+HDWS,HDWS,169.04417,-43.88472,seismic,350.89,4,0.63,0,0.016147,0,2.358,,,,,,,inferred,Stations_USGS
+RDCS,RDCS,171.86417,-42.12167,seismic,580.62,null,null,0,0.016055,0,1.206,,,,,,,inferred,Stations_USGS
+MECS,MECS,169.23278,-44.23222,seismic,768.74,4.4,0.63,0,0.015138,0,3.996,,,,,,,inferred,Stations_USGS
+WNPS,WNPS,169.14278,-44.69611,seismic,227.15,null,null,0,0.014985,0,3.51,,,,,,,inferred,Stations_USGS
+WVZ,WVZ,170.73667,-43.07611,seismic,600,4.1,0.63,0,0.014444,0,2.087,,,,,,,inferred,Stations_USGS
+ODZ,ODZ,170.64444,-45.04556,seismic,544.93,3.6,0.63,0,0.012946,0,1.417,,,,,,,inferred,Stations_USGS
+FOZ,FOZ,169.81528,-43.53389,seismic,404.36,4,0.63,0,0.011641,0,2.604,,,,,,,inferred,Stations_USGS
+NSBS,NSBS,168.66056,-43.99917,seismic,265.77,3.7,0.63,0,0.01158,0,1.585,,,,,,,inferred,Stations_USGS
+DGNS,DGNS,170.51389,-45.86417,seismic,361.04,null,null,0,0.00998,0,1.521,,,,,,,inferred,Stations_USGS
+ARKS,ARKS,174.94389,-41.24389,seismic,549.23,2.7,0.63,0,0.008247,0,0.441,,,,,,,inferred,Stations_USGS
+BDCS,BDCS,169.71917,-46.25056,seismic,304.83,3.2,0.63,0,0.008084,0,0.96,,,,,,,inferred,Stations_USGS
+LBZ,LBZ,170.18444,-44.38722,seismic,556.18,3.4,0.63,0,0.00791,0,1,,,,,,,inferred,Stations_USGS
+MOSS,MOSS,168.23778,-45.66944,seismic,331.49,3.7,0.63,0,0.007706,0,1.445,,,,,,,inferred,Stations_USGS
+WDFS,WDFS,174.13833,-41.82917,seismic,351.77,3.3,0.63,0,0.007299,0,0.85,,,,,,,inferred,Stations_USGS
+WVFS,WVFS,173.35083,-41.62194,seismic,219.42,null,null,0,0.006707,0,1.302,,,,,,,inferred,Stations_USGS
+MOTS,MOTS,173.00944,-41.12639,seismic,600,3.4,0.63,0,0.006402,0,0.933,,,,,,,inferred,Stations_USGS
+LHUS,LHUS,174.89333,-41.2325,seismic,600,null,null,0,0.005953,0,0.712,,,,,,,inferred,Stations_USGS
+LHES,LHES,174.90306,-41.21333,seismic,297.22,2.9,0.63,0,0.005902,0,0.436,,,,,,,inferred,Stations_USGS
+SOCS,SOCS,174.91583,-41.20611,seismic,505.04,2.9,0.63,0,0.00581,0,0.42,,,,,,,inferred,Stations_USGS
+PGMS,PGMS,174.87917,-41.22611,seismic,600,null,null,0,0.0058,0,0.446,,,,,,,inferred,Stations_USGS
+ICCS,ICCS,168.34694,-46.41306,seismic,249.8,3.8,0.63,0,0.005708,0,1.849,,,,,,,inferred,Stations_USGS
+KHZ,KHZ,173.54083,-42.41611,seismic,565.61,3.6,0.63,0,0.005535,0,1.428,,,,,,,inferred,Stations_USGS
+NCBS,NCBS,173.28361,-41.2725,seismic,347.77,3.5,0.63,0,0.005535,0,1.213,,,,,,,inferred,Stations_USGS
+HWHS,HWHS,174.27417,-39.58694,seismic,760,3.1,0.63,0,0.005464,0,1.384,,,,,,,inferred,Stations_USGS
+TUZ,TUZ,169.63111,-45.95556,seismic,504.35,3.3,0.63,0,0.005423,0,0.836,,,,,,,inferred,Stations_USGS
+QCCS,QCCS,174.02306,-41.28139,seismic,606.76,3.2,0.63,0,0.005403,0,0.372,,,,,,,inferred,Stations_USGS
+OPZ,OPZ,170.59778,-45.88583,seismic,540.86,3.5,0.63,0,0.005341,0,1.068,,,,,,,inferred,Stations_USGS
+WKZ,WKZ,169.0175,-44.82861,seismic,653.44,3.5,0.63,0,0.004811,0,1.134,,,,,,,inferred,Stations_USGS
+HUKS,HUKS,174.56806,-39.26278,seismic,760,3.1,0.63,0,0.00472,0,0.823,,,,,,,inferred,Stations_USGS
+WNHS,WNHS,174.77528,-41.3025,seismic,473.59,2.5,0.63,0,0.004709,0,0.244,,,,,,,inferred,Stations_USGS
+EAZ,EAZ,169.30806,-45.23278,seismic,536.63,3.1,0.63,0,0.004608,0,0.561,,,,,,,inferred,Stations_USGS
+WNAS,WNAS,174.80889,-41.32806,seismic,398.91,2.8,0.63,0,0.004292,0,0.417,,,,,,,inferred,Stations_USGS
+MSZ,MSZ,167.92639,-44.675,seismic,900,3.2,0.63,0,0.004251,0,0.718,,,,,,,inferred,Stations_USGS
+WEL,WEL,174.76806,-41.28583,seismic,641.51,2.9,0.63,0,0.004077,0,0.4,,,,,,,inferred,Stations_USGS
+RQGS,RQGS,174.78111,-41.29833,seismic,473.59,null,null,0,0.003945,0,0.367,,,,,,,inferred,Stations_USGS
+MISS,MISS,174.81833,-41.31667,seismic,226.47,2.5,0.63,0,0.003925,0,0.255,,,,,,,inferred,Stations_USGS
+INSS,INSS,174.92083,-41.23528,seismic,687.59,2.5,0.63,0,0.003619,0,0.241,,,,,,,inferred,Stations_USGS
+SYZ,SYZ,169.13889,-46.53861,seismic,382.89,3.2,0.63,0,0.003364,0,0.727,,,,,,,inferred,Stations_USGS
+TEPS,TEPS,174.78111,-41.29389,seismic,473.59,2.9,0.63,0,0.003333,0,0.358,,,,,,,inferred,Stations_USGS
+EBPS,EBPS,174.9,-41.29111,seismic,600,null,null,0,0.003099,0,0.113,,,,,,,inferred,Stations_USGS
+FKPS,FKPS,174.77861,-41.28972,seismic,397.86,2.8,0.63,0,0.002844,0,0.362,,,,,,,inferred,Stations_USGS
+EKTS,EKTS,175.70861,-40.65111,seismic,388.25,2.3,0.63,0,0.002396,0,0.183,,,,,,,inferred,Stations_USGS
+QRZ,QRZ,172.52889,-40.82722,seismic,576.69,3,0.63,0,0.002039,0,0.546,,,,,,,inferred,Stations_USGS
+NNZ,NNZ,173.37944,-41.21889,seismic,553.97,3.3,0.63,0,0.002018,0,0.809,,,,,,,inferred,Stations_USGS
+WHZ,Wether Hill Road,167.94698,-45.89404,seismic,462.86,3.1,0.63,0,0.001964,0,0.5993,0,0.002795,0,0.004205,0,0.003794,inferred,Stations_USGS
+SNZO,"South Karori, New Zealand",174.7043,-41.3087,seismic,656.04,2.3,0.63,0,0.001779,0,0.1211,0,0.00241,0,0.001452,0,0.000695,inferred,Stations_USGS
+MAVS,MAVS,175.46139,-41.2125,seismic,295.06,null,null,0,0.001733,0,0.591,,,,,,,inferred,Stations_USGS
+DCZ,DCZ,167.15361,-45.46639,seismic,900,2.9,0.63,0,0.001295,0,0.44,,,,,,,inferred,Stations_USGS
+PYZ,PYZ,166.68056,-46.16778,seismic,616.15,2.6,0.63,0,0.001182,0,0.286,,,,,,,inferred,Stations_USGS
+PXZ,PXZ,176.86194,-40.0325,seismic,533.3,2.8,0.63,0,0.000958,0,0.381,,,,,,,inferred,Stations_USGS
+BFZ,BFZ,176.24611,-40.68139,seismic,486.85,2.6,0.63,0,0.000714,0,0.274,,,,,,,inferred,Stations_USGS
+BKZ,Stasrv: unknown station,176.49235,-39.16742,seismic,760,2.3,0.63,0,0.000445,0,0.1587,0,0.000596,0,0.000699,0,0.001258,inferred,Stations_USGS
+CTZ,CTZ,176.6175,-43.73722,seismic,600,1,0.63,0,0.000316,0,0.023,,,,,,,inferred,Stations_USGS
+TOZ,TOZ,175.50167,-37.73278,seismic,760,1.9,0.63,0,0.000224,0,0.092,,,,,,,inferred,Stations_USGS
+URZ,"Urewera, North Island, New Zealand",177.11069,-38.26102,seismic,760,1.7,0.63,0,0.000206,0,0.0728,0,0.000427,0,0.000285,0,0.000427,inferred,Stations_USGS
+MWZ,MWZ,177.5275,-38.33583,seismic,760,1.7,0.63,0,0.000194,0,0.033,,,,,,,inferred,Stations_USGS
+HAZ,HAZ,177.7825,-37.75778,seismic,760,1,0.63,0,0.000153,0,0.018,,,,,,,inferred,Stations_USGS
+MXZ,MXZ,178.30639,-37.56417,seismic,760,1,0.63,0,0.000102,0,0.029,,,,,,,inferred,Stations_USGS
+GRZ,GRZ,175.4575,-36.25194,seismic,760,1,0.63,0,6.10E-05,0,0.022,,,,,,,inferred,Stations_USGS
+KUZ,KUZ,175.72056,-36.74694,seismic,760,1,0.63,0,6.10E-05,0,0.022,,,,,,,inferred,Stations_USGS
+WCZ,WCZ,174.34472,-35.94056,seismic,760,1,0.63,0,4.10E-05,0,0.009,,,,,,,inferred,Stations_USGS
+OUZ,OUZ,173.59583,-35.22139,seismic,760,1,0.63,0,2.00E-05,0,0.006,,,,,,,inferred,Stations_USGS
+OBS_18,"""Nelson::Nelson::New Zealand"" 7 responses 265 km (Intensity II)",173.24,-41.29,macroseismic,600,2,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_29,"""Wanaka::Otago::New Zealand"" 3 responses 271 km (Intensity III)",169.15,-44.7,macroseismic,227.15,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_30,"""Wellington::Wellington::New Zealand"" 21 responses 332 km (Intensity II)",174.78,-41.28,macroseismic,397.86,2.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_7,"""Dunedin::Otago::New Zealand"" 88 responses 291 km (Intensity IV)",170.48,-45.88,macroseismic,589.41,3.7,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_26,"""Tapanui::Otago::New Zealand"" 3 responses 349 km (Intensity III)",169.27,-45.93,macroseismic,382.73,3.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_1,"""Alexandra::Otago::New Zealand"" 5 responses 290 km (Intensity III)",169.37,-45.25,macroseismic,394.37,3.2,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_15,"""Lower Hutt::Wellington::New Zealand"" 7 responses 347 km (Intensity III)",174.93,-41.2,macroseismic,272.78,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_23,"""Queenstown::Otago::New Zealand"" 5 responses 324 km (Intensity IV)",168.64,-45.04,macroseismic,900,3.8,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_20,"""Outram::Otago::New Zealand"" 5 responses 300 km (Intensity III)",170.23,-45.87,macroseismic,214.01,3.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_12,"""Kakanui::Otago::New Zealand"" 3 responses 207 km (Intensity IV)",170.9,-45.18,macroseismic,301.46,3.7,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_10,"""Invercargill::Southland::New Zealand"" 7 responses 435 km (Intensity II)",168.37,-46.41,macroseismic,233.78,2.1,0.3,,,,,,,,,,,inferred,Stations_USGS
+OBS_4,"""Balclutha::Otago::New Zealand"" 3 responses 352 km (Intensity IV)",169.75,-46.22,macroseismic,393.98,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 029 485 10000),,168.3318,-46.4274,macroseismic,600,3.1,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 036 491 10000),,169.2595,-45.9053,macroseismic,473.34,3,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 037 498 10000),,169.4062,-45.2774,macroseismic,602.1,3.4,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 040 488 10000),,169.769,-46.1819,macroseismic,474.08,3.9,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 068 542 10000),,173.2099,-41.3053,macroseismic,600,2.5,0.3,,,,,,,,,,,inferred,Stations_USGS
+UTM:(59G 081 542 10000),,174.7602,-41.265,macroseismic,451.86,2.8,0.3,,,,,,,,,,,inferred,Stations_USGS

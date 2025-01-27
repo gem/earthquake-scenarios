@@ -1,33 +1,42 @@
 # 🌎 1991 M7.6 Limon earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1991 M7.6 Limon earthquake in Costa_Rica.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance
-- The `1991 Costa Rica earthquake`, also known as the `Limon` earthquake or Bocas del Toro earthquake, occurred at 3:57 pm local time (21:56:51 UTC) on April 22. The epicenter of the 7.7 Mw earthquake was in Pandora, Valle La Estrella, in the Caribbean region of Limon, Costa Rica, 225 kilometres (140 mi) southeast of San José. The earthquake was the strongest recorded in Costa Rica's history, and was felt throughout the country as well as in western Panama. ([Wikipedia](https://en.wikipedia.org/wiki/1991_Limon_earthquake)). 
 
+The `1991 Costa Rica earthquake`, also known as the Limon earthquake, occurred on April 22, 1991, at 15:57 local time. It had a moment magnitude of 7.6 and an MMI of VIII, indicating strong to severe shaking. The epicenter was located near Cahuita, in the province of Limon, on the Caribbean coast of Costa Rica. The earthquake primarily affected the regions of Limon, San José, and parts of Puntarenas. The reported fatalities were over 47, with more than 100 people reported as injured. The earthquake caused significant economic losses, amounting to over 40 million USD. The event triggered various geotechnical phenomena, including landslides and liquefaction in some areas, particularly along the coastal regions. Fortunately, no significant tsunami was observed, though the earthquake caused extensive damage to infrastructure and homes. Following the main shock, multiple aftershocks were recorded, compounding the challenges faced by local communities during the recovery period.
 
-### Type of sequence
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1991 |
+| Country | Costa Rica |
+| Region | Caribbean Central America |
+| Event Name | Limon |
+| Local Date | 22/04/1991 |
+| Local Time | 15:57:00 |
+| Latitude (decimal degrees) | 9.685 |
+| Longitude (decimal degrees) | -83.073 |
+| Depth (km) | 10 |
+| Mw | 7.6 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Shallow crustal  |
+| USGS event ID | usp0004qpg |
 
+## Estimated and observed ground shaking
 
-
-### Occurrence of other phenomena:
-
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -38,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1991                                                                   |
-| Country              | Costa Rica                                                             |
-| Region               | Limon                                                                  |
-| Event_Name           | Limon                                                                  |
-| Local_Date           | 22/04/1991                                                             |
-| Local_Time           | 15:57:00                                                               |
-| Longitude            | -83.073                                                                |
-| Latitude             | 9.685                                                                  |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 7.6                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Shallow crustal                                                        |
-| Fatalities           | 47-127                                                                 |
-| Injured              | 109-895                                                                |
-| Displaced_Population | 7439-10900                                                             |
-| Affected_Population  | 6320                                                                   |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 7869 Buildings                                                         |
-| Collapsed_Units      | 4452 Buildings                                                         |
-| Economic_Losses      | 43-510 M USD                                                           |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Tsunami, landslides, liquefaction                                      |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0004qpg/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1991_Limon_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 47-127 |
+| Injured | 109-895 |
+| Displaced population | 7439-10900 |
+| Affected population | ~6320 |
+| Affected units | nan |
+| Damaged units | 7869 Buildings |
+| Collapsed units | 4452 Buildings |
+| Economic losses | 43-510 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Tsunami, landslides, liquefaction |

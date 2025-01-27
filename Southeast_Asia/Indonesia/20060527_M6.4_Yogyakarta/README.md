@@ -1,28 +1,42 @@
 # 🌎 2006 M6.4 Yogyakarta earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2006 M6.4 Yogyakarta earthquake in Indonesia.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The `2006 Yogyakarta earthquake` (also known as the Bantul earthquake) occurred at 05:54 local time on 27 May with a moment magnitude of 6.4 and a maximum MSK intensity of VIII (Damaging). Several factors led to a disproportionate amount of damage and number of casualties for the size of the shock, with more than 5,700 dead, tens of thousands injured, and financial losses of Rp 29.1 trillion ($3.1 billion). With limited effects to public infrastructure and lifelines, housing and private businesses bore the majority of damage (the 9th-century Prambanan Hindu temple compound was also affected), and the United States' National Geophysical Data Center classified the total damage from the event as extreme.
-[Wikipedia](https://en.wikipedia.org/wiki/2006_Yogyakarta_earthquake)
+The `2006 Yogyakarta earthquake` struck Indonesia on May 27, 2006, at 5:54 AM local time. With a magnitude of 6.4, the epicenter was located near the Indian Ocean, approximately 25 kilometers south of the city of Yogyakarta, in the Bantul District of Central Java. The earthquake caused widespread devastation in the region, with Yogyakarta and surrounding areas, such as Bantul, Klaten, and Sleman, being the most affected. The disaster resulted in over 5100 fatalities and more than 36000 injuries, with hundreds of thousands of homes damaged or destroyed. The economic losses were estimated at around $40 million USD (at the time of the event). Although there was no tsunami, the earthquake triggered landslides in the affected areas and caused significant ground shaking that led to liquefaction in some locations, further complicating the recovery efforts. However, there were no reports of fires resulting from the earthquake.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2006 |
+| Country | Indonesia |
+| Region | Southeast Asia |
+| Event Name | Yogyakarta |
+| Local Date | 27/05/2006 |
+| Local Time | 05:54:00 |
+| Latitude (decimal degrees) | -7.961 |
+| Longitude (decimal degrees) | 110.446 |
+| Depth (km) | 12.5 |
+| Mw | 6.4 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike slip |
+| Tectonic region type | Shallow crustal  |
+| USGS event ID | usp000ej1c |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,36 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2006                                                                   |
-| Country              | Indonesia                                                              |
-| Region               | Yogyakarta                                                             |
-| Event_Name           | Yogyakarta                                                             |
-| Local_Date           | 27/05/2006                                                             |
-| Local_Time           | 05:54:00                                                               |
-| Longitude            | 110.446                                                                |
-| Latitude             | -7.961                                                                 |
-| Depth_(km)           | 12.5                                                                   |
-| Mw                   | 6.4                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike slip                                                            |
-| Tectonic_region_type | Shallow crustal                                                        |
-| Fatalities           | 5176-5782                                                              |
-| Injured              | 36299-137883                                                           |
-| Displaced_Population | 600000-699295                                                          |
-| Homeless             | 699295                                                                 |
-| Affected_Population  | 2340745                                                                |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 127000-451000 Buildings                                                |
-| Collapsed_Units      | 127000-154000 Buildings                                                |
-| Economic_Losses      | 3100 M USD                                                             |
-| Insured_Losses       | 40 M USD                                                               |
-| Induced_Effects      | Ground movement                                                        |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000ej1c/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2006_Yogyakarta_earthquake               |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 5176-5782 |
+| Injured | 36299-137883 |
+| Displaced population | 600000-699295 |
+| Affected population | ~2340745 |
+| Affected units | nan |
+| Damaged units | 127000-451000 Buildings |
+| Collapsed units | 127000-154000 Buildings |
+| Economic losses | 3100 M USD |
+| Insured losses | 40 M USD |
+| Earthquake-triggered effects | Ground movement |

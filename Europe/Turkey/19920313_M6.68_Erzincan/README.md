@@ -1,26 +1,42 @@
 # 🌎 1992 M6.7 Erzincan earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1992 M6.7 Erzincan earthquake in Turkey.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-On 13 March, at 7:19 pm, the 1992 Erzincan earthquake struck eastern Turkey with a moment magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe) [Wikipedia](https://en.wikipedia.org/wiki/1992_Erzincan_earthquake). Originating on the North Anatolian Fault, the epicentre was located less than 8 kilometers away from Erzincan's central business district. Damage was extensive both in the Erzincan district and province. Four aftershocks ranging from 5.0 to 6.1 Mw were registered according to the Ministry of Public works and settlements. [U_Colorado_Report](http://cidbimena.desastres.hn/docum/crid/Abril2006/CD2/pdf/eng/doc8863/doc8863-contenido.pdf).
+The devastating `1992 Erzincan earthquake` struck eastern Turkey on March 13, 1992, at 20:18 local time. Measuring 6.7 on the moment magnitude scale and reaching a maximum intensity of VIII on the Mercalli scale, the temblor originated on the North Anatolian Fault mere kilometers from Erzincan's city center. This proximity resulted in widespread damage throughout the Erzincan district and province. This event resulted in over 540 fatalities and 2000 injuries. Economic losses exceeded 667 million USD. Four aftershocks, ranging from 5.0 to 6.1 Mw, were registered according to the Ministry of Public Works and Settlements.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1992 |
+| Country | Turkey |
+| Region | Europe |
+| Event Name | Erzincan |
+| Local Date | 13/03/1992 |
+| Local Time | 20:18:39 |
+| Latitude (decimal degrees) | 39.71 |
+| Longitude (decimal degrees) | 39.605 |
+| Depth (km) | 27.2 |
+| Mw | 6.7 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000547c |
 
-## Ground shaking
+## Estimated and observed ground shaking
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
@@ -31,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1992                                                                   |
-| Country              | Turkey                                                                 |
-| Region               | Erzincan                                                               |
-| Event_Name           | Erzincan                                                               |
-| Local_Date           | 13/03/1992                                                             |
-| Local_Time           | 17:18:39                                                               |
-| Latitude             | 39.71                                                                  |
-| Longitude            | 39.605                                                                 |
-| Depth_(km)           | 27.2                                                                   |
-| Mw                   | 6.7                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 541-653                                                                |
-| Injured              | 2000-3850                                                              |
-| Displaced_Population | 36000-95000                                                            |
-| Affected_Population  | 250000                                                                 |
-| Affected_Units       | 15042 Buildings                                                        |
-| Damaged_Units        | 9227 Buildings                                                         |
-| Collapsed_Units      | 5500-7007 Buildings                                                    |
-| Economic_Losses      | 667-750 M USD                                                          |
-| Insured_Losses       | 10.8 M USD                                                             |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000547c/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1992_Erzincan_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 541-653 |
+| Injured | 2000-3850 |
+| Displaced population | 36000-95000 |
+| Affected population | ~250000 |
+| Affected units | 15042 Buildings |
+| Damaged units | 9227 Buildings |
+| Collapsed units | 5500-7007 Buildings |
+| Economic losses | 667-750 M USD |
+| Insured losses | 10.8 M USD |
+| Earthquake-triggered effects | nan |

@@ -1,5 +1,0 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-JPN,Japan,,,28,,,,144,,Dwellings,,,,,TRUE,NOAA,
-JPN,Japan,,,28,,432,,,,,,,,,,EM-DAT,"Geo locations: Isikawa, Miyagi, Niigata, Yamagata (Adm1)."
-JPN,Japan,,,43,45,,,1608,,Buildings,,,,Tsunami,,Japan_Cabinet_Office_Emergency_Disaster_Management_2019,"This should be taken as the most reliable source as it is an official report from the Japanese government one day (for displaced only) and three months (for all other stats) following the event; DISPLACED_POPULATION refers to evacuees in shelters; building damage refers to housing damage where BUILDINGS_DAMAGED is the sum of those partially destroyed (14) and partially damaged (8,072). "
-JPN,Japan,,,,840,,,,,,,,,,,IDMC,

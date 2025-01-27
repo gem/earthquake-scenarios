@@ -1,28 +1,42 @@
 # 🌎 2011 M6.9 Sikkim earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
 This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 2011 Sikkim earthquake (also known as the 2011 Himalayan earthquake) occurred with a moment magnitude of 6.9 and was centered within the Kanchenjunga Conservation Area, near the border of Nepal and the Indian state of Sikkim, at 18:10 IST on Sunday, 18 September. The earthquake was felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.
-[Wikipedia](https://en.wikipedia.org/wiki/2011_Sikkim_earthquake)
+The `2011 Sikkim earthquake`, also referred to as the 2011 Himalayan earthquake, occurred on September 18, 2011, at 18:10 local time, registering a moment magnitude of 6.9. Its epicenter was located near the Kanchenjunga Conservation Area, situated along the border between India and Nepal, at a depth of 50 km. The event reached a Maximum Modified Mercalli Intensity (MMI) of VIII, signifying intense shaking across the affected regions. The earthquake predominantly impacted northeastern India, Nepal, Bhutan, and southern Tibet, with the most significant damage reported in Sikkim, Darjeeling, and portions of West Bengal. The disaster resulted in an estimated 111-112 fatalities and over 177 injuries, with economic losses approximated at 22.3 million USD. While no tsunamis or fires were reported, the event triggered widespread landslides and mudslides, particularly in the mountainous areas, causing severe disruptions to infrastructure. Multiple aftershocks followed the main earthquake, exacerbating damage in already affected regions, while no significant foreshocks were recorded prior to the primary seismic event.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2011 |
+| Country | India |
+| Region | South Asia |
+| Event Name | Sikkim 2011 |
+| Local Date | 18/09/2011 |
+| Local Time | 18:10:51 |
+| Latitude (decimal degrees) | 27.73 |
+| Longitude (decimal degrees) | 88.155 |
+| Depth (km) | 50 |
+| Mw | 6.9 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Subduction intraslab |
+| USGS event ID | usp000j88b |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2011                                                                   |
-| Country              | India, China, Nepal, Bhutan, Bangladesh                                |
-| Region               | Sikkim                                                                 |
-| Event_Name           | Sikkim_2011                                                            |
-| Local_Date           | 18/09/2011                                                             |
-| Local_Time           | 18:10:51                                                               |
-| Longitude            | 88.155                                                                 |
-| Latitude             | 27.73                                                                  |
-| Depth_(km)           | 50                                                                     |
-| Mw                   | 6.9                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Subduction intraslab                                                   |
-| Fatalities           | 111-112                                                                |
-| Injured              | 177-710                                                                |
-| Displaced_Population | 5000-7882                                                              |
-| Affected_Population  | 575200                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 34000-39000                                                            |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 22.3 M USD                                                             |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Landslides, mudslides                                                  |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000j88b/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2011_Sikkim_earthquake                   |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 111-112 |
+| Injured | 177-710 |
+| Displaced population | 5000-7882 |
+| Affected population | ~575200 |
+| Affected units | nan |
+| Damaged units | 34000-39000 |
+| Collapsed units | nan |
+| Economic losses | 22.3 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Landslides, mudslides |

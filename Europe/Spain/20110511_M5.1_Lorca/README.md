@@ -1,29 +1,42 @@
 # 🌎 2011 M5.1 Lorca earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2011 M5.1 Lorca earthquake in Spain.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-{WIKI_SUMMARY}
-[Wikipedia]({WIKI_URL})
+The `2011 Lorca earthquake`, a magnitude 5.1 event, struck southeastern Spain on May 11, 2011, at 18:47 local time. Its epicenter was located near the town of Lorca. The earthquake caused significant damage, particularly to older structures, resulting in around 9 fatalities and over 320 injuries. Economic losses were substantial, exceeding 700 million EUR. The earthquake's intensity reached a maximum of VI on the Modified Mercalli Intensity scale.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2011 |
+| Country | Spain |
+| Region | Europe |
+| Event Name | Lorca 2011 |
+| Local Date | 11/05/2011 |
+| Local Time | 18:47:25 |
+| Latitude (decimal degrees) | 37.699 |
+| Longitude (decimal degrees) | -1.672 |
+| Depth (km) | 1 |
+| Mw | 5.1 |
+| Max Intensity (MMI) | VI |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000j1en |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
@@ -33,35 +46,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2011                                                                   |
-| Country              | Spain                                                                  |
-| Region               | Murcia                                                                 |
-| Event_Name           | Lorca_2011                                                             |
-| Local_Date           | 11/05/2011                                                             |
-| Local_Time           | 18:47:25                                                               |
-| Longitude            | -1.672                                                                 |
-| Latitude             | 37.699                                                                 |
-| Depth_(km)           | 1                                                                      |
-| Mw                   | 5.1                                                                    |
-| Max_Intensity_(MMI)  | VI                                                                     |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 9                                                                      |
-| Injured              | 300                                                                    |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 889                                                                    |
-| Collapsed_Units      | 1                                                                      |
-| Economic_Losses      | 700 M EUR                                                              |
-| Insured_Losses       | 484.7 M EUR                                                            |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000j1en/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2011_Lorca_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~9 |
+| Injured | ~300 |
+| Displaced population | nan |
+| Affected population | nan |
+| Affected units | nan |
+| Damaged units | ~889 |
+| Collapsed units | ~1 |
+| Economic losses | 700 M EUR |
+| Insured losses | 484.7 M EUR |
+| Earthquake-triggered effects | nan |

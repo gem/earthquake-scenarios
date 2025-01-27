@@ -1,30 +1,42 @@
 # 🌎 1998 M6.3 AdanaCeyhan earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1998 M6.3 AdanaCeyhan earthquake in Turkey.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 1998 Adana–Ceyhan earthquake occurred at 16:55 local time on 27 June with a moment magnitude of 6.3 and a maximum intensity of IX (Destructive) on the European macroseismic scale. The total economic loss was estimated at about US$1 billion.
-The event occurred in Cilicia region in southern Turkey and killed at least 145 people and left 1,500 people wounded and many thousands homeless in Adana, and Ceyhan, the most populous town of the Adana Province, as well as many villages located between both cities along the Ceyhan River. The most casualties and damage occurred due to inadequately engineered buildings in the town of Ceyhan.
-[Wikipedia](https://en.wikipedia.org/wiki/1998_Adana%E2%80%93Ceyhan_earthquake)
+The `1998 Adana–Ceyhan earthquake` struck at 16:55 local time on June 27, 1998. This magnitude 6.3 event, centered near the cities of Adana and Ceyhan, caused widespread damage in southern Turkey. The earthquake resulted in significant casualties, with around 145 fatalities and over 1500 injuries reported. Substantial economic losses, estimated at over 550 million USD, were incurred. The ground shaking was intense, reaching a maximum intensity of VIII on the Modified Mercalli Intensity scale. While no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1998 |
+| Country | Turkey |
+| Region | Europe |
+| Event Name | AdanaCeyhan 1998 |
+| Local Date | 27/06/1998 |
+| Local Time | 16:55:52 |
+| Latitude (decimal degrees) | 36.878 |
+| Longitude (decimal degrees) | 35.307 |
+| Depth (km) | 33 |
+| Mw | 6.3 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0008qkc |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
 
@@ -34,35 +46,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1998                                                                   |
-| Country              | Turkey                                                                 |
-| Region               | AdanaCeyhan                                                            |
-| Event_Name           | AdanaCeyhan_1998                                                       |
-| Local_Date           | 27/06/1998                                                             |
-| Local_Time           | 16:55:52                                                               |
-| Latitude             | 36.878                                                                 |
-| Longitude            | 35.307                                                                 |
-| Depth_(km)           | 33                                                                     |
-| Mw                   | 6.3                                                                    |
-| Max_Intensity_(MMI)  | IV                                                                     |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 145                                                                    |
-| Injured              | 1500-1600                                                              |
-| Displaced_Population | 88000                                                                  |
-| Affected_Population  | 1500000                                                                |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | 1700 Buildings                                                         |
-| Economic_Losses      | 550-1300 M USD                                                         |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0008qkc/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1998_Adana%E2%80%93Ceyhan_earthquake     |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~145 |
+| Injured | 1500-1600 |
+| Displaced population | ~88000 |
+| Affected population | ~1500000 |
+| Affected units | nan |
+| Damaged units | nan |
+| Collapsed units | 1700 Buildings |
+| Economic losses | 550-1300 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

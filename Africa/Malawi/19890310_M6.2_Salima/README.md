@@ -1,28 +1,42 @@
-# 🌎 {DATE} M{MAGNITUDE} {NAME} earthquake
+# 🌎 1989-03-10 M6.2 Salima earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the {DATE} M{MAGNITUDE} {NAME} earthquake in {COUNTRY}.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-{WIKI_SUMMARY}
-[Wikipedia]({WIKI_URL})
+The `1989 Salima earthquake` struck Malawi at 23:49 local time on March 10, 1989, with its epicenter located near the town of Salima, situated on the shores of Lake Malawi. The earthquake primarily affected the central and northern regions of the country, including areas such as Salima, Kasungu, and Lilongwe, leading to significant damage to infrastructure and homes. The reported fatalities were around 9, with approximately 100 people injured and thousands displaced. Economic losses from the event were estimated at around $28 million USD (at the time of the event), primarily due to damage to buildings, roads, and public infrastructure. Although the earthquake caused widespread destruction, there were no reports of tsunamis, fires, or significant liquefaction. However, landslides were observed in some areas, especially in regions with hilly terrain, contributing to the overall destruction caused by the quake.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1989 |
+| Country | Malawi |
+| Region | Africa |
+| Event Name | Salima |
+| Local Date | 03/10/1989 |
+| Local Time | 23:49:47 |
+| Latitude (decimal degrees) | -13.66 |
+| Longitude (decimal degrees) | 34.496 |
+| Depth (km) | 28.2 |
+| Mw | 6.27 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Dip-slip |
+| Tectonic region type | Active Shallow Crust / Stable Continental Crust |
+| USGS event ID | N/A |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,9 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-{TABLE}
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~9 |
+| Injured | ~100 |
+| Displaced population | ~50000 |
+| Affected population | ~50100 |
+| Affected units | nan |
+| Damaged units | nan |
+| Collapsed units | nan |
+| Economic losses | 28 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

@@ -1,35 +1,42 @@
 # 🌎 2018 M5.5 Osaka earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2018 M5.5 Osaka earthquake in Japan.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `2018 Osaka earthquake` struck at 07:58 JST (22:58 UTC) on 18 June 2018 with an estimated magnitude of Mw5.5-5.6 [Wikipedia](https://en.wikipedia.org/wiki/2018_Osaka_earthquake).
 
-According to official Japanese statistics, the earthquake caused 5 deaths, 10 serious injuries, and 411 minor injuries. Additionally, 3 houses were completely destroyed, 14 partially destroyed, and 8,072 partially damaged.
+The `2018 Osaka earthquake` occurred at 07:58 local time on June 18, 2018, with a moment magnitude of Mw 5.5. The epicenter was located near Amagasaki, Osaka Prefecture, and the earthquake had a profound impact on the surrounding regions, including Osaka, Kyoto, and Kobe. The Modified Mercalli Intensity (MMI) in some areas reached VIII, resulting in significant damage to infrastructure and buildings. The event led to approximately 5 fatalities and more than 400 injuries. Economic losses were considerable, with estimates ranging from 3250 to 7000 million USD, primarily due to damage to buildings, roads, and utilities. While no tsunamis were generated, the earthquake triggered 1 landslide and caused 8 fire incidents. Following the mainshock, a series of aftershocks were recorded. The earthquake also activated Japan's national earthquake warning system, providing a brief 3.2-second warning to cities such as Kyoto and Osaka.
 
-The earthquake triggered the national earthquake warning system, granting about 3.2 seconds of warning for Kyoto and Osaka.
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2018 |
+| Country | Japan |
+| Region | East Asia |
+| Event Name | Osaka 2018 |
+| Local Date | 18/06/2018 |
+| Local Time | 07:58:35 |
+| Latitude (decimal degrees) | 34.825 |
+| Longitude (decimal degrees) | 135.639 |
+| Depth (km) | 10.3 |
+| Mw | 5.5 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Complex (strike-slip, reverse) |
+| Tectonic region type | Active Shallow Crustal |
+| USGS event ID | us1000eu1c |
 
-### Type of sequence
-The mainshock was followed by a series of weaker aftershocks.
+## Estimated and observed ground shaking
 
-
-### Occurrence of other phenomena: 
-The Japanese government reports 8 fire indicidents and 1 landslide.
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -40,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2018                                                                   |
-| Country              | Japan                                                                  |
-| Region               | Osaka                                                                  |
-| Event_Name           | Osaka_2018                                                             |
-| Local_Date           | 18/06/2018                                                             |
-| Local_Time           | 07:58:35                                                               |
-| Latitude             | 34.825                                                                 |
-| Longitude            | 135.639                                                                |
-| Depth_(km)           | 10.3                                                                   |
-| Mw                   | 5.5                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Complex (strike-slip, reverse)                                         |
-| Tectonic_region_type | Active Shallow Crustal                                                 |
-| Fatalities           | 5                                                                      |
-| Injured              | 417-421                                                                |
-| Displaced_Population | 267-2700                                                               |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 6766-8086 Units                                                        |
-| Collapsed_Units      | 3 Units                                                                |
-| Economic_Losses      | 3250-7000 M USD                                                        |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Landslide, Fire                                                        |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us1000eu1c/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2018_Osaka_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~5 |
+| Injured | 417-421 |
+| Displaced population | 267-2700 |
+| Affected population | nan |
+| Affected units | nan |
+| Damaged units | 6766-8086  |
+| Collapsed units | ~3  |
+| Economic losses | 3250-7000 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Landslide, Fire |

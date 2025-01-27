@@ -1,6 +1,0 @@
-ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,ECONOMIC_LOSSES_2022,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-,Erzincan,630,,3400,,,,2813,,Buildings,,,,,,,JICA,https://openjicareport.jica.go.jp/pdf/11707833_09.pdf
-,Uzumlu,47,,,,,,429,,Buildings,,,,,,,JICA,https://openjicareport.jica.go.jp/pdf/11707833_09.pdf
-,Erzincan,394,,,,,4131,3290,2168,Buildings,,,,,,,EEFIT,Damages are taken for each damage state (affected does not contain the other two). 
-,Erzincan,,,,,,3981,2800,1997,Buildings,,,,,,,U Colorado,http://cidbimena.desastres.hn/docum/crid/Abril2006/CD2/pdf/eng/doc8863/doc8863-contenido.pdf
-,,,,,,,,,,,,,,,,,,Total buildings in the city 8778 U Colorado. Buildings affected taken as buildings with minor damage.

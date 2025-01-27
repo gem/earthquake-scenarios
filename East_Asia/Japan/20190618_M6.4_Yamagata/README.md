@@ -1,33 +1,42 @@
 # 🌎 2019 M6.4 Yamagata earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2019 M6.4 Yamagata earthquake in Japan.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `2019 Yamagata earthquake` struck at 22:22 JST (13:22 UTC) on 18 June 2019 with an estimated magnitude of Mw6.4 [Wikipedia](https://en.wikipedia.org/wiki/2019_Yamagata_earthquake).
 
-According to official Japanese statistics, the earthquake caused 9 serious injuries and 34 minor injuries. Additionally, 28 houses were partially destroyed and 1,580 partially damaged.
+The `2019 Yamagata earthquake` occurred on 18 June 2019 at 22:22 local time, with a moment magnitude of Mw 6.4. The earthquake's epicenter was located near Yamagata Prefecture, Japan. The seismic event resulted in widespread shaking, with the maximum intensity reaching MMI VII in several regions, particularly affecting Yamagata City and surrounding areas. The earthquake led to significant damage, including over 28 injuries. While liquefaction, landslides, and fires were not observed, the event did produce a small tsunami, with recorded waves of up to 10 cm. The economic impact was substantial, though specific loss figures remain unavailable. Notably, there were no damaging aftershocks, and no significant foreshocks were reported prior to the earthquake.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2019 |
+| Country | Japan |
+| Region | East Asia |
+| Event Name | Yamagata 2019 |
+| Local Date | 18/06/2019 |
+| Local Time | 22:22:20 |
+| Latitude (decimal degrees) | 38.639 |
+| Longitude (decimal degrees) | 139.477 |
+| Depth (km) | 12 |
+| Mw | 6.4 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Active Shallow Crustal |
+| USGS event ID | us600042fx |
 
-### Type of sequence
-No notes of damaging aftershocks were discovered.
+## Estimated and observed ground shaking
 
-### Occurrence of other phenomena: 
-Tsunami (up to 10cm)
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -38,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2019                                                                   |
-| Country              | Japan                                                                  |
-| Region               | Yamagata                                                               |
-| Event_Name           | Yamagata_2019                                                          |
-| Local_Date           | 18/06/2019                                                             |
-| Local_Time           | 22:22:20                                                               |
-| Latitude             | 38.639                                                                 |
-| Longitude            | 139.477                                                                |
-| Depth_(km)           | 12                                                                     |
-| Mw                   | 6.4                                                                    |
-| Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Active Shallow Crustal                                                 |
-| Fatalities           | 0                                                                      |
-| Injured              | 28-43                                                                  |
-| Displaced_Population | 45-840                                                                 |
-| Affected_Population  | 432                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 144-1608 Buildings                                                     |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Tsunami                                                                |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us600042fx/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2019_Yamagata_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~0 |
+| Injured | 28-43 |
+| Displaced population | 45-840 |
+| Affected population | ~432 |
+| Affected units | nan |
+| Damaged units | 144-1608 Buildings |
+| Collapsed units | nan |
+| Economic losses | nan |
+| Insured losses | nan |
+| Earthquake-triggered effects | Tsunami |

@@ -1,0 +1,33 @@
+STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA,REFERENCES
+KTP,KTP,85.27259,27.68216,seismic,0.25972,0,CESMD
+TVU,TVU,85.28825,27.68179,seismic,0.23318,0,CESMD
+PTN,PTN,85.31896,27.6815,seismic,0.1536,0,CESMD
+THM,THM,85.37705,27.6813,seismic,0.15342,0,CESMD
+DMG,DMG,85.3166,27.7193,seismic,0.17707,0,Bhattarai_et_al_2015
+KATNP,"Kanti Path, Kathmandu, Nepal",85.31561,27.71235,seismic,0.164,0,Stations_USGS
+MTR,"Motihari, India",84.899,26.63,seismic,0.0788,0,Stations_USGS
+MAH,"Maharajganj, India",83.539,27.141,seismic,0.0621,0,Stations_USGS
+PTN,"Patna, India",85.149,25.622,seismic,0.047,0,Stations_USGS
+GDA,"Gonda, India",82.237,27.116,seismic,0.0433,0,Stations_USGS
+UTR,"Utrala, India",82.415,27.31,seismic,0.0417,0,Stations_USGS
+KSN,"Kishanganj, India",87.947,26.095,seismic,0.0406,0,Stations_USGS
+BRP,"Balarampur, India",82.055,27.504,seismic,0.0329,0,Stations_USGS
+FZB,"Faizabad, India",82.146,26.73,seismic,0.0328,0,Stations_USGS
+JAU,"Jaunpur, India",82.693,25.733,seismic,0.0215,0,Stations_USGS
+VNS,"Varanasi, India",82.854,25.553,seismic,0.0206,0,Stations_USGS
+AMT,"Amethi, India",81.678,26.187,seismic,0.0156,0,Stations_USGS
+LEH,"Laharpur, India",80.89,27.709,seismic,0.0147,0,Stations_USGS
+LAK,"Lakhimpur, India",80.79,27.949,seismic,0.0143,0,Stations_USGS
+PHN,"Pihani, India",80.16,27.65,seismic,0.0106,0,Stations_USGS
+KHA,"Khatima, India",79.961,28.925,seismic,0.00987,0,Stations_USGS
+BSR,"Bisalpur, India",79.805,28.209,seismic,0.009,0,Stations_USGS
+HAR,"Hardoi, India",80.133,27.396,seismic,0.00877,0,Stations_USGS
+NAR,"Narora, India",78.425,28.226,seismic,0.00803,0,Stations_USGS
+BRE,"Bareilly, India",79.418,28.343,seismic,0.00687,0,Stations_USGS
+TDR,"Takurdwar, India",78.855,29.148,seismic,0.00534,0,Stations_USGS
+TAN,"Tanakpur, India",80.112,29.074,seismic,0.00519,0,Stations_USGS
+MRT,"Eerut, India",77.617,29.154,seismic,0.00466,0,Stations_USGS
+HDR,"Haridwar, India",78.052,29.975,seismic,0.00413,0,Stations_USGS
+CGD,"Chandigarh, India",76.767,30.76,seismic,0.00274,0,Stations_USGS
+HSR,"Hissar, India",75.6,29.446,seismic,0.00251,0,Stations_USGS
+LSA,"Tibet, China",91.127,29.7031,seismic,0.00168,0,Stations_USGS

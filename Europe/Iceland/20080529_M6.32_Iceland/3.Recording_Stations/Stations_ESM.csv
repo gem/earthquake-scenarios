@@ -1,0 +1,8 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30_TYPE
+105,Hella,63.84,-20.39,seismic,ESM,B (inferred from geology),0.04686084,0,0.210902575,0,0.039230972,0,0.02988661,0,B (inferred from geology)
+112,Selfoss-City Hall,63.937,-21.002,seismic,ESM,A (inferred from geology),0.53058954,0,0.758300381,0,0.974676593,0,0.529047426,0,A (inferred from geology)
+113,Hveragerdi-Retirement House,64.002,-21.187,seismic,ESM,A (inferred from geology),0.656431915,0,0.603608697,0,0.792482074,0,0.628454373,0,A (inferred from geology)
+306,Ljosafoss-Hydroelectric Power Station,64.094,-21.011,seismic,ESM,A (inferred from geology),0.129727654,0,0.219082755,0,0.241404105,0,0.154117642,0,A (inferred from geology)
+402,Reykjavik-Foldaskoli,64.133,-21.79,seismic,ESM,A (inferred from geology),0.015196008,0,0.039609071,0,0.02253793,0,0.021860003,0,A (inferred from geology)
+403,Reykjavik-Heidmork (Jadar),64.075,-21.764,seismic,ESM,A (inferred from geology),0.037198761,0,0.059514493,0,0.077074425,0,0.087084473,0,A (inferred from geology)
+502,Thjorsarbru,63.931,-20.649,seismic,ESM,A (inferred from geology),0.09617942,0,0.204064584,0,0.111574247,0,0.032336608,0,A (inferred from geology)

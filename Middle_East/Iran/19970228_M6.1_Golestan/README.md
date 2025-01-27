@@ -1,33 +1,42 @@
 # 🌎 1997 M6.1 Golestan earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1997 M6.1 Golestan earthquake in Iran.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The `1997 Ardabil earthquake`occurred on 28 February with a moment magnitude of 6.1 and a maximum Mercalli intensity of VIII (Severe). The strike-slip earthquake occurred in northern Iran, near the city of Ardabil. At least 1100 people were killed, 2600 injured, 36000 homeless, 12000 houses damaged or destroyed and 160000 livestock killed in the Ardabil area of northwestern Iran. Severe damage was observed to roads, electrical power lines, communications and water distribution systems around Ardabil. Hospitals and other medical buildings were overflowing with patients as a result of the earthquake. More than 83 villages experienced some form of damage ([Wikipedia](https://en.wikipedia.org/wiki/1997_Ardabil_earthquake)).
+The `1997 Ardabil earthquake` struck Iran on February 28 at 12:57 local time, with its epicenter located near the town of Ardabil in the Ardabil Province. The earthquake, with a magnitude of 6.1, and a maximum Modified Mercalli Intensity (MMI) of VIII, caused significant damage to the region, particularly affecting rural areas and villages surrounding the city of Ardabil. Over 950 fatalities were reported, along with approximately 2000 injuries. The earthquake caused widespread destruction to infrastructure and homes, resulting in estimated economic losses of about $76 million USD. Roughly 350 aftershocks followed the main Ardabil earthquake. The largest one had a magnitude of 5.2 on the Richter scale. While liquefaction and landslides were observed in the affected areas, there were no reports of tsunamis or fires associated with this earthquake. The disaster highlighted the vulnerability of rural communities to seismic events in the region.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1997 |
+| Country | Iran |
+| Region | Middle East |
+| Event Name | Golestan |
+| Local Date | 28/02/1997 |
+| Local Time | 12:57:28 |
+| Latitude (decimal degrees) | 38.075 |
+| Longitude (decimal degrees) | 48.06 |
+| Depth (km) | 10 |
+| Mw | 6.1 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike Slip |
+| Tectonic region type | Active Crustal |
+| USGS event ID | usp0007y0b |
 
-### Type of sequence:
-- Roughly 350 aftershocks followed the main Ardabil earthquake. The largest one had a magnitude of 5.2 on the Richter scale. Aid workers and rescuers approximate death toll as high as 3000 ([Wikipedia](https://en.wikipedia.org/wiki/1997_Ardabil_earthquake)). 
+## Estimated and observed ground shaking
 
-
-### Occurrence of other phenomena: 
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -38,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1997                                                                   |
-| Country              | Iran                                                                   |
-| Region               | Ardebil                                                                |
-| Event_Name           | Golestan                                                               |
-| Local_Date           | 28/02/1997                                                             |
-| Local_Time           | 12:57:28                                                               |
-| Longitude            | 48.06                                                                  |
-| Latitude             | 38.075                                                                 |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 6.1                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike Slip                                                            |
-| Tectonic_region_type | Active Crustal                                                         |
-| Fatalities           | 954-1100                                                               |
-| Injured              | 2000-2600                                                              |
-| Displaced_Population | 0                                                                      |
-| Affected_Population  | 38600-453756                                                           |
-| Affected_Units       | 0 Units                                                                |
-| Damaged_Units        | 12000 Buildings                                                        |
-| Collapsed_Units      | 12000-13500 Buildings                                                  |
-| Economic_Losses      | 76 M USD                                                               |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0007y0b/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1997_Ardabil_earthquake                  |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 954-1100 |
+| Injured | 2000-2600 |
+| Displaced population | ~0 |
+| Affected population | 38600-453756 |
+| Affected units | ~0  |
+| Damaged units | 12000 Buildings |
+| Collapsed units | 12000-13500 Buildings |
+| Economic losses | 76 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

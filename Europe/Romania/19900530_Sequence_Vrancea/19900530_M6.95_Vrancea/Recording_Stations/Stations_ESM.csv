@@ -1,5 +1,0 @@
-STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30_TYPE
-A1855,Birlad,46.266,27.626,seismic,ESM,B (inferred from topography),0.027001526,0,0.072777654,0,0.043808846,0,0.033386921,0,B (inferred from topography)
-A1856,Istrita,45.138,26.545,seismic,ESM,A (inferred from topography),0.018819488,0,0.047291563,0,0.053155735,0,0.024592912,0,A (inferred from topography)
-A39,Bucharest-Building Research Institute,44.441,26.161,seismic,ESM,D (inferred from geology),0.052206383,0,0.093482989,0,0.084491482,0,0.062906339,0,D (inferred from geology)
-VRI,Vrancioaia,45.8657,26.7277,seismic,ESM,B (inferred from topography),0.029883932,0,0.131237999,0,0.05030633,0,0.019340217,0,B (inferred from topography)

@@ -1,27 +1,42 @@
 # 🌎 2008 M6.3 Iceland earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2008 M6.3 Iceland earthquake in Iceland.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-South Iceland is an active seismic zone. In May 2008 a Mw6.3 earthquake struck the Ölfus region in South Iceland. The recorded maximum PGA was 0.88g. A great deal of damage occurred but fortunately there was no loss of life
-[Bessason et al. 2012](https://www.iitk.ac.in/nicee/wcee/article/WCEE2012_2384.pdf)
+The `2008 Iceland earthquake`, a magnitude 6.3 event, struck southwestern Iceland on May 29, 2008, at 15:46 local time. The epicenter was located between the towns of Hveragerði and Selfoss. The earthquake was widely felt across Iceland, causing significant damage to infrastructure, including roads, bridges, and buildings, particularly in the affected areas. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquake triggered numerous landslides and some localized liquefaction.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2008 |
+| Country | Iceland |
+| Region | Europe |
+| Event Name | Iceland 2008 |
+| Local Date | 29/05/2008 |
+| Local Time | 15:46:00 |
+| Latitude (decimal degrees) | 64.005 |
+| Longitude (decimal degrees) | -21.013 |
+| Depth (km) | 9 |
+| Mw | 6.3 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000g826 |
 
-## Ground shaking
+## Estimated and observed ground shaking
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was 0.88g, observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -32,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2008                                                                   |
-| Country              | Iceland                                                                |
-| Region               | Iceland                                                                |
-| Event_Name           | Iceland_2008                                                           |
-| Local_Date           | 29/05/2008                                                             |
-| Local_Time           | 15:46:00                                                               |
-| Latitude             | 64.005                                                                 |
-| Longitude            | -21.013                                                                |
-| Depth_(km)           | 9                                                                      |
-| Mw                   | 6.3                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | nan                                                                    |
-| Injured              | 0-30                                                                   |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 30 Buildings                                                           |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000g826/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2000_Iceland_earthquakes                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | nan |
+| Injured | 0-30 |
+| Displaced population | nan |
+| Affected population | nan |
+| Affected units | nan |
+| Damaged units | 30 Buildings |
+| Collapsed units | nan |
+| Economic losses | nan |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

@@ -1,28 +1,42 @@
 # 🌎 2019 M6.4 Durres earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2019 M6.4 Durres earthquake in Albania.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-Northwestern Albania was struck by a magnitude 6.4 earthquake with an epicentre 16 kilometres (9.9 mi) west-southwest of Mamurras, at 03:54 CET (UTC+1) on 26 November 2019. The earthquake lasted at least 50 seconds and was felt in Albania's capital Tirana, and in places as far away as Bari, Taranto and Belgrade, 370 kilometres (230 mi) northeast of the epicentre. The maximum felt intensity was VIII (Severe) on the Modified Mercalli intensity scale. A total of 51 people were killed in the earthquake, with about 3,000 injured. It was the second earthquake to strike the region in the space of three months. It was the strongest earthquake to hit Albania in more than 40 years, its deadliest earthquake in 99 years and the world's deadliest earthquake in 2019.
-[Wikipedia](https://en.wikipedia.org/wiki/2019_Albania_earthquake)
+A powerful earthquake with a magnitude of 6.4 struck northwestern Albania at 02:54 local time on November 26, 2019. The epicentre was located 16 kilometres west-southwest of Mamurras. The earthquake reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale, causing severe damage in the cities of Durrës, Thumanë, and nearby areas. Tragically, the disaster claimed 51 lives and left over 913 people injured, while inflicting significant economic losses estimated at approximately $700 million USD. Instances of liquefaction were observed in several locations, although no landslides, tsunamis, or fires were reported. The event was preceded by foreshocks, including a magnitude 5.6 earthquake two months earlier, and was followed by numerous aftershocks, exacerbating the devastation and challenges faced by the affected communities.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2019 |
+| Country | Albania |
+| Region | Europe |
+| Event Name | Durres |
+| Local Date | 26/11/2019 |
+| Local Time | 02:54:12 |
+| Latitude (decimal degrees) | 41.5138 |
+| Longitude (decimal degrees) | 19.5256 |
+| Depth (km) | 22 |
+| Mw | 6.4 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | us70006d0m |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2019                                                                   |
-| Country              | Albania                                                                |
-| Region               | Durres                                                                 |
-| Event_Name           | Durres                                                                 |
-| Local_Date           | 26/11/2019                                                             |
-| Local_Time           | 02:54:12                                                               |
-| Latitude             | 41.5138                                                                |
-| Longitude            | 19.5256                                                                |
-| Depth_(km)           | 22                                                                     |
-| Mw                   | 6.4                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 51                                                                     |
-| Injured              | 913-2000                                                               |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | 202913                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 83000 Buildings                                                        |
-| Collapsed_Units      | 11000 Buildings                                                        |
-| Economic_Losses      | 700-1081 M USD                                                         |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us70006d0m/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2019_Albania_earthquake                  |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~51 |
+| Injured | 913-2000 |
+| Displaced population | nan |
+| Affected population | ~202913 |
+| Affected units | nan |
+| Damaged units | 83000 Buildings |
+| Collapsed units | 11000 Buildings |
+| Economic losses | 700-1081 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

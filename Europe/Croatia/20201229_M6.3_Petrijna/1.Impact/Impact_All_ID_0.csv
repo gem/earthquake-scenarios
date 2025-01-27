@@ -1,0 +1,23 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,MINOR_INJURIES,INJURIES_LIGHT,INJURIES_SEVERE,HOSPITALIZED,DISPLACED_POPULATION,AFFECTED_POPULATION,SHELTERED,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,LOSSES,RECOVERY_AND_RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+HRV,Croatia,7,7,26,,,,,,,,,,,,5000000000-5500000000,,,,,USD,,,Wikipedia English,
+HRV,Croatia,8,8,36,,,,,,,,,46000,1500,Buildings,4187000000,,,,,USD,,,NOAA,
+HRV,Croatia,8,8,36,,,,,,149407,,,,,,6223400000,,,,,USD,,,EMDAT,"1) The number of affected population does not include injuries nor deaths, but the number of Total_affected DOES include them and the values is different"
+HRV,Croatia,,,,,,,,,,,,34056,3062,Buildings,,,,,,,,,Markusicetal,
+HRV,Croatia,7,,>39,>24,>24,15,,15000,,,,43000,,Buildings,4800000000,4120000000,714000000,8400000000,,EUR,"liquefaction, sinkholes and landslides",,Government of Croatia: https://documents1.worldbank.org/curated/en/311901608097332728/pdf/Croatia-Earthquake-Rapid-Damage-and-Needs-Assessment-2020.pdf,"1) 15 people were reported as severely injured and dozens with minor injuries (converted to INJURIES_LIGHT). These ""dozens"" were referred as at least 24.
+2) There are buildings that had accumulated damage from Zagreb 2020 earthquake on march of the same year. 
+3) EUR 4.12 billion come from damaged physical assets and EUR 714 million refers to losses. 
+4) Losses include production of goods and services that will not be obtained, higher costs of operation and production, and the cost of the humanitarian assistance activities. 
+See more under assessment methodology."
+HRV,Croatia,8,,36,,,10,,25000,,1400,,,,,,,,,,,,,International Federation of Red Cross And Red Crescent Societies: https://adore.ifrc.org/Download.aspx?FileId=394712,"1)  out of 36 injured people, 10 had severe injuries
+2) Since the beginning of operation, a total of 12,300 people have received some shelter assistance provided by
+CRC:
+a) 1400 were registered by the Red Cross as ""sheltered""
+b) 3,000 people in housing containers in front of their houses, some
+c) 5,000 in alternative accommodation with their families or in leased undamaged property, as well as
+d)  2,900 people accommodated outside the area affected by earthquake."
+HRV,Croatia,8,8,36,,,36,36,,70000,,,,,,,,,,,,,,UNICEF: https://www.unicef.org/media/91436/file/Croatia-Earthquake-SitRep-20-January-2021.pdf,"1) 30 people saved from the rubbles
+2) 36 injured people were hospitalized
+3) one death was a child 
+4) out of 70000 people affected, 13750 were children
+5) 1500 families near Sisak, Petrijna and Glina have been confirmed to lost their homes  "
+HRV,Croatia,7,7,,,,,,,,,,46634,685,Buildings,4800000000,4120000000,714000000,8400000000,,EUR,"liquefaction, sinkholes and landslides",,"Josip Atali_, Marija Dem_i_, Maja Bani_ek et al. The December 2020 Magnitude (Mw) 6.4 Petrinja earthquake, Croatia: Seismological aspects, emergency response and impacts, 09 November 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2136108/v1]","1) Losses include production of goods and services that will not be obtained, higher costs of operation and production, and the cost of the humanitarian assistance activities."
