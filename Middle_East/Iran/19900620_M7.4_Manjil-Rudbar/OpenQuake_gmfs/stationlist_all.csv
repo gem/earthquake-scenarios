@@ -1,26 +1,26 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
 1362/01,Ab-bar,48.954,36.925,seismic,0.63531,0.0
-1406,Tafresh,50.0,34.68,seismic,0.21611,0.0
-1354,Abhar,49.22,36.09,seismic,0.2153,0.0
 1353/01,Qazvin,50.0,36.26,seismic,0.2046,0.0
-1357/01,Lahijan,50.03,37.21,seismic,0.18794,0.0
+1406,Tafresh,50.0,34.68,seismic,0.17378,0.0
 1359,Tonekabon,50.884,36.808,seismic,0.13257,0.0
 1364,Zanjan,48.5,36.66,seismic,0.13249,0.0
-1361,Gachsar,51.32,36.112,seismic,0.10165,0.0
+1354,Abhar,49.22,36.09,seismic,0.12962,0.0
+1357/01,Lahijan,50.03,37.21,seismic,0.11209,0.0
 1355,Roodsar,50.3,37.13,seismic,0.0939,0.0
-1372,Eshtehard,50.37,35.72,seismic,0.07692,0.0
-1407,TEHRAN 42,51.39,35.71,seismic,0.06041,0.0
+1361,Gachsar,51.32,36.112,seismic,0.07212,0.0
+1372,Eshtehard,50.37,35.72,seismic,0.07059,0.0
+1408,TEHRAN 46,51.39,35.71,seismic,0.0539,0.0
 1363/02,Kahrizak,51.35,35.52,seismic,0.04768,0.0
-1369,Roodshour,50.901,35.444,seismic,0.04486,0.0
 1371/02,Karaj,51.0,35.85,seismic,0.04067,0.0
-1352,TEHRAN 51,51.37,35.73,seismic,0.03516,0.0
+1369,Roodshour,50.901,35.444,seismic,0.03895,0.0
 1358/02,Miyaneh,47.71,37.42,seismic,0.03456,0.0
 1365/02,Ardebil,48.28,38.26,seismic,0.03015,0.0
 1351,TEHRAN 41,51.48,35.7,seismic,0.02924,0.0
-1409/02,Koosk-e-Nosrat,50.88,35.16,seismic,0.02798,0.0
+1352,TEHRAN 51,51.37,35.73,seismic,0.02665,0.0
+1409/02,Koosk-e-Nosrat,50.88,35.16,seismic,0.02594,0.0
 1370/01,Robat Karim,51.08,35.47,seismic,0.0228,0.0
 1366,TEHRAN 39,51.42,35.77,seismic,0.02145,0.0
-1356/02,TEHRAN 47,51.32,35.69,seismic,0.01334,0.0
+1356/02,TEHRAN 47,51.32,35.69,seismic,0.01249,0.0
 Abbar,Abbar,48.97,36.92,seismic,0.41,0.0
 Abhar,Abhar,49.22,36.14,seismic,0.188,0.0
 Ghazvin,Ghazvin,50.01,36.27,seismic,0.182,0.0

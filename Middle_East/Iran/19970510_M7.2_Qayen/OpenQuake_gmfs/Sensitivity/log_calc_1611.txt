@@ -1,0 +1,47 @@
+job_id: 1611
+job_description: 19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km
+
+The parameter 'max_distance_stations' is unknown, ignoring
+zkari@Zarin running d:\GEM_Git_Repos\GitHub\ESD\earthquake-scenarios\Middle_East\Iran\19970510_M7.2_Qayen\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.22.0-gitd209b036e1
+Using 8 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3066737102 (total size 286.08 KB)
+Extracting the hazard sites from the site model
+Read N=5197 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repos\GitHub\ESD\earthquake-scenarios\Middle_East\Iran\19970510_M7.2_Qayen\OpenQuake_gmfs\stationlist_seismic.csv
+Extended complete site collection from 5197 to 5197 sites
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites ~5197 per rupture, max=5197
+Discarded 17/51 stations more distant than 150 km
+maxw = 3
+Requiring 1.61 GB for tau, phi [G=4 * M=1 * 206.06 MB * 2]
+Sent 4 get_mu_tau_phi tasks, 4.36 MB
+get_mu_tau_phi  25% [4 submitted, 0 queued]
+get_mu_tau_phi  50% [4 submitted, 0 queued]
+get_mu_tau_phi  75% [4 submitted, 0 queued]
+get_mu_tau_phi 100% [4 submitted, 0 queued]
+Mean time per core=13s, std=0.1s, min=13s, max=13s
+Received 4 * 410.42 MB in 20 seconds [unpik=0.22s] from get_mu_tau_phi
+{(2, 0): '410.42 MB', (0, 0): '410.42 MB', (3, 0): '410.42 MB'}
+GSIM: [BooreEtAl2014], IMT: PGA, Nominal bias mean: -0.499, Nominal bias stddev: 0.122
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: -0.299, Nominal bias stddev: 0.117
+GSIM: [CampbellBozorgnia2014], IMT: PGA, Nominal bias mean: -0.238, Nominal bias stddev: 0.118
+GSIM: [AbrahamsonEtAl2014], IMT: PGA, Nominal bias mean: -0.232, Nominal bias stddev: 0.128
+Sent 1 event_based tasks, 783.88 KB
+event_based 100% [1 submitted, 0 queued]
+Received 1 * 325.08 KB in 3 seconds [unpik=0.00s] from event_based
+{'gmfdata': '324.42 KB', 'sig_eps': '365 B', 'times': '313 B'}
+Stored 243.21 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+  id | name
+3416 | Events
+3417 | Full Report
+3418 | Ground Motion Fields
+3419 | Realizations
+3420 | site_model
+Stored 984.31 KB on C:\Users\zkari\oqdata/calc_1611.hdf5 in 27 seconds

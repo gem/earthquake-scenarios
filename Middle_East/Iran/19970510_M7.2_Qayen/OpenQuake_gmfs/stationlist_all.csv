@@ -1,31 +1,31 @@
 STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
-1754/01,Qasem Abad,59.862,34.353,seismic,0.19502,0.0
-1753,Sangan,60.252,34.404,seismic,0.13043,0.0
+1754/01,Qasem Abad,59.862,34.353,seismic,0.12901,0.0
+1753,Sangan,60.252,34.404,seismic,0.12062,0.0
 1759,Khaf,60.136,34.571,seismic,0.11165,0.0
 1750/02,Marak,59.427,32.921,seismic,0.05666,0.0
-1758,Torbate Heiydaryeh,59.221,35.274,seismic,0.05255,0.0
-1737,Birjand,59.208,32.876,seismic,0.04967,0.0
-1771,Shahid Yaqoobi Dam1,59.406,35.16,seismic,0.04732,0.0
 1763,Roshtkhar,59.62,34.97,seismic,0.04631,0.0
 1751,Mood,59.521,32.706,seismic,0.04085,0.0
+1737,Birjand,59.208,32.876,seismic,0.0388,0.0
+1758,Torbate Heiydaryeh,59.221,35.274,seismic,0.03727,0.0
 1752/03,Rivash,58.465,35.478,seismic,0.03657,0.0
-1742,Gonabad,58.679,34.365,seismic,0.03516,0.0
 1761,Bajestan,58.182,34.521,seismic,0.03463,0.0
-1739,Bosk Abad,58.722,34.028,seismic,0.02748,0.0
+1771,Shahid Yaqoobi Dam1,59.406,35.16,seismic,0.03408,0.0
+1742,Gonabad,58.679,34.365,seismic,0.03111,0.0
 1741,Feyz Abad,58.781,35.013,seismic,0.02705,0.0
-1770,Moosaviyeh,58.906,33.294,seismic,0.02532,0.0
-1740,Khezri,58.811,34.022,seismic,0.02197,0.0
-1748,Sarayan,58.525,33.859,seismic,0.01998,0.0
-1897,Zabol,61.497,31.032,seismic,0.01737,0.0
+1770,Moosaviyeh,58.906,33.294,seismic,0.02138,0.0
+1740,Khezri,58.811,34.022,seismic,0.01958,0.0
+1739,Bosk Abad,58.722,34.028,seismic,0.01919,0.0
 1747,Neyshaboor,58.78,36.2,seismic,0.01681,0.0
-1744,Mohammad Abad,61.45,30.88,seismic,0.01608,0.0
+1897,Zabol,61.497,31.032,seismic,0.01646,0.0
+1748,Sarayan,58.525,33.859,seismic,0.01575,0.0
 1855/02,Fath Abad,58.388,34.116,seismic,0.01562,0.0
+1744,Mohammad Abad,61.45,30.88,seismic,0.01543,0.0
 1736,Baghestan,58.281,34.091,seismic,0.01338,0.0
 1746,Mashhad2,59.594,36.284,seismic,0.01312,0.0
-1738,Bardeskan,57.966,35.271,seismic,0.012,0.0
 1743,Khosf,58.886,32.779,seismic,0.01149,0.0
-1745,Mashhad1,59.561,36.315,seismic,0.01093,0.0
+1745,Mashhad1,59.561,36.315,seismic,0.01092,0.0
 1757,Kerman 2,57.072,30.288,seismic,0.01037,0.0
+1738,Bardeskan,57.966,35.271,seismic,0.01035,0.0
 MZOBS_1,Ardekul (Intensity X),60.05,33.48,macroseismic,2.06066,0.8059
 MZOBS_6,Hajiabad (Intensity X),60.0,33.6,macroseismic,2.06066,0.8059
 MWOBS_1,Ardekul (Intensity IX),60.0865,33.3711,macroseismic,1.50963,0.8059

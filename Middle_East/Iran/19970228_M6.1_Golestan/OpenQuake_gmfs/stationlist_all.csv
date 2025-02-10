@@ -2,30 +2,30 @@ STATION_ID,STATION_NAME,LONGITUDE,LATITUDE,STATION_TYPE,PGA_VALUE,PGA_LN_SIGMA
 1833/02,Kariq,48.062,37.918,seismic,0.6155,0.0
 1701/01,Ardebil 2,48.258,38.222,seismic,0.16843,0.0
 1693/01,Ardebil 1,48.276,38.226,seismic,0.11447,0.0
-1724,Namin,48.477,38.423,seismic,0.11034,0.0
-1733,Helabad,48.42,37.92,seismic,0.07968,0.0
-1725,Sarab,47.541,37.935,seismic,0.06198,0.0
+1724,Namin,48.477,38.423,seismic,0.07385,0.0
 1716,Hoorand,47.369,38.858,seismic,0.06157,0.0
-1691,Razi,48.094,38.63,seismic,0.04607,0.0
+1733,Helabad,48.42,37.92,seismic,0.06009,0.0
 1702,Germi,48.057,39.05,seismic,0.04539,0.0
 1695,Astara,48.869,38.422,seismic,0.04444,0.0
+1725,Sarab,47.541,37.935,seismic,0.04397,0.0
+1691,Razi,48.094,38.63,seismic,0.03698,0.0
 1700,Meshkin Shahr,47.667,38.394,seismic,0.0261,0.0
-1731,Meshkin Shahr,47.67,38.39,seismic,0.0257,0.0
-1690,Niyaraq,48.627,38.265,seismic,0.0252,0.0
 1938/01,Kaleibar,47.043,38.863,seismic,0.02517,0.0
-1730,Tazeh Kandi,47.73,39.03,seismic,0.02511,0.0
+1690,Niyaraq,48.627,38.265,seismic,0.02509,0.0
+1730,Tazeh Kandi,47.73,39.03,seismic,0.02182,0.0
+1731,Meshkin Shahr,47.67,38.39,seismic,0.02067,0.0
 1735,Khalkhal,48.537,37.608,seismic,0.01923,0.0
-1687,Haris,47.119,38.247,seismic,0.01773,0.0
 1732,Givi,48.343,37.683,seismic,0.01671,0.0
-1722,Miyaneh,47.705,37.431,seismic,0.01667,0.0
+1687,Haris,47.119,38.247,seismic,0.0151,0.0
 1970,Masal,49.127,37.37,seismic,0.01319,0.0
-1836,Khajeh,46.589,38.154,seismic,0.01209,0.0
+1722,Miyaneh,47.705,37.431,seismic,0.01259,0.0
 1696,Bile-Savar,48.319,39.364,seismic,0.01143,0.0
-1940,Liqvan,46.432,37.833,seismic,0.01095,0.0
+1940,Liqvan,46.432,37.833,seismic,0.00906,0.0
+1836,Khajeh,46.589,38.154,seismic,0.00834,0.0
 MZOBS_1,Golestan (Intensity IX),48.0361,38.0924,macroseismic,0.9741,0.8059
+OBS_2,Golestan (Intensity VIII),48.02,38.09,macroseismic,0.71362,0.8059
 OBS_1,Jurab (Intensity VIII),48.07,38.09,macroseismic,0.71362,0.8059
 OBS_3,Shiran (Intensity VIII),48.1,38.08,macroseismic,0.71362,0.8059
-OBS_2,Golestan (Intensity VIII),48.02,38.09,macroseismic,0.71362,0.8059
 12,Kariq,48.06,37.92,seismic,0.58568,0.0
 HIST_9,Kariq,48.05,37.87,seismic,0.5602,0.0
 MZOBS_9,Sarein (Intensity VII),48.0667,38.15,macroseismic,0.383,0.8059
@@ -39,7 +39,6 @@ HIST_2,Ardebil 2,48.3,38.25,seismic,0.16633,0.0
 HIST_1,Ardebil,48.28,38.26,seismic,0.11633,0.0
 1,Ardebil 1,48.28,38.23,seismic,0.11555,0.0
 21,Namin,48.48,38.42,seismic,0.10944,0.0
-3,Ashkhaneh,56.92,37.56,seismic,0.09954,0.0
 MZOBS_4,Sarab (Intensity V),47.5481,37.9264,macroseismic,0.07055,0.8059
 25,Sarab,47.54,37.94,seismic,0.06269,0.0
 10,Hoorand,47.37,38.86,seismic,0.06129,0.0

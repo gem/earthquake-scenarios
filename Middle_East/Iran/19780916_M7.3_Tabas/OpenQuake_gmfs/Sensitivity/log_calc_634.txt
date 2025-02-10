@@ -1,0 +1,38 @@
+job_id: 634
+job_description: 19780916_M7.3_Tabas median gmf, Stations:Seismic, gmlt:USGS, Rupture:Hartzell_And_Mendoza_1991, Max_dist:50km
+
+zkarimzadeh@horn.gem.lan running /home/zkarimzadeh/oq-job/OpenQuake_gmfs/Trial_Tabas/Middle_East/Iran/19780916_M7.3_Tabas/OpenQuake_gmfs/job_stations_seismic.ini [--hc=None]
+Using engine version 3.22.0-git863f077624
+Using 20 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 40
+Checksum of the inputs: 1147097001 (total size 455.93 KB)
+Extracting the hazard sites from the site model
+Read N=8358 hazard sites and L=1 hazard levels
+Reading station data from /home/zkarimzadeh/oq-job/OpenQuake_gmfs/Trial_Tabas/Middle_East/Iran/19780916_M7.3_Tabas/OpenQuake_gmfs/stationlist_seismic.csv
+Extended complete site collection from 8358 to 8358 sites
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Building 3 realizations
+Reading 1 ruptures
+Affected sites ~8358 per rupture, max=8358
+Discarded 15/22 stations more distant than 50 km
+maxw = 2
+Requiring 3.12 GB for tau, phi [G=3 * M=1 * 532.96 MB * 2]
+GSIM: [AbrahamsonEtAl2014], IMT: PGA, Nominal bias mean: -0.147, Nominal bias stddev: 0.187
+GSIM: [CampbellBozorgnia2014], IMT: PGA, Nominal bias mean: -0.067, Nominal bias stddev: 0.168
+GSIM: [ChiouYoungs2014], IMT: PGA, Nominal bias mean: -0.152, Nominal bias stddev: 0.166
+Sent 1 event_based tasks, 572.29 KB
+event_based 100% [1 submitted, 0 queued]
+Received 1 * 391.32 KB in 2 seconds [unpik=0.00s] from event_based
+{'gmfdata': '390.67 KB', 'sig_eps': '351 B', 'times': '313 B'}
+Stored 292.9 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+  id | name
+3142 | Events
+3143 | Full Report
+3144 | Ground Motion Fields
+3145 | Realizations
+3146 | site_model
+Stored 1.38 MB on /home/zkarimzadeh/oqdata/calc_634.hdf5 in 171 seconds

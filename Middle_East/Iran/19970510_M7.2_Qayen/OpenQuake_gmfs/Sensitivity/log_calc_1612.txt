@@ -1,0 +1,34 @@
+job_id: 1612
+job_description: 19970510_M7.2_Qayen median gmf, Stations:Seismic, gmlt:USGS, Rupture:Sudhaus_And_Jonsson_et_al_2010, Max_dist:25km
+
+The parameter 'max_distance_stations' is unknown, ignoring
+zkari@Zarin running d:\GEM_Git_Repos\GitHub\ESD\earthquake-scenarios\Middle_East\Iran\19970510_M7.2_Qayen\OpenQuake_gmfs\job_stations_seismic.ini [--hc=None]
+Using engine version 3.22.0-gitd209b036e1
+Using 8 processpool workers
+Running EventBasedCalculator with concurrent_tasks = 16
+Checksum of the inputs: 3122023971 (total size 285.5 KB)
+Extracting the hazard sites from the site model
+Read N=5197 hazard sites and L=1 hazard levels
+Reading station data from d:\GEM_Git_Repos\GitHub\ESD\earthquake-scenarios\Middle_East\Iran\19970510_M7.2_Qayen\OpenQuake_gmfs\stationlist_seismic.csv
+Extended complete site collection from 5197 to 5197 sites
+min_iml=[1.e-10]
+Reordering the ruptures and storing the events
+Reading 1 ruptures
+Affected sites ~5197 per rupture, max=5197
+Discarded 51/51 stations more distant than 25 km, switching to the unconditioned GMF computer
+maxw = 3
+Sent 1 event_based tasks, 472.69 KB
+event_based 100% [1 submitted, 0 queued]
+Received 1 * 325.02 KB in 4 seconds [unpik=0.00s] from event_based
+{'gmfdata': '324.36 KB', 'sig_eps': '365 B', 'times': '313 B'}
+Stored 243.17 KB of GMFs
+Checking stored GMFs
+No PGAs over 5 g found
+Exposing the outputs to the database
+  id | name
+3421 | Events
+3422 | Full Report
+3423 | Ground Motion Fields
+3424 | Realizations
+3425 | site_model
+Stored 985.1 KB on C:\Users\zkari\oqdata/calc_1612.hdf5 in 5 seconds

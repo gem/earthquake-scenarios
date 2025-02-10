@@ -1,129 +1,129 @@
-calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
-18,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",45, Seismic, USGS, GCMT,ChiouYoungs2014,PGA,0.75659573,0.152,0.103,0.152
-13,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",48, Seismic, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.86921847,0.279,0.127,0.279
-18,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",45, Seismic, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.8237904,0.29,0.112,0.29
-14,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",46, Seismic, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.8173849,0.332,0.127,0.332
-17,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",46, Seismic, USGS, USGS,CampbellBozorgnia2014,PGA,0.987626,0.334,0.103,0.334
-13,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",48, Seismic, GEM, USGS,CampbellBozorgnia2014,PGA,0.987626,0.334,0.103,0.334
-19,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992
-",45, Seismic, USGS, Berberian_et_al_1992,ChiouYoungs2014,PGA,0.8359185,0.412,0.104,0.412
-17,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",46, Seismic, USGS, USGS,ChiouYoungs2014,PGA,0.8185118,0.422,0.104,0.422
-18,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",45, Seismic, USGS, GCMT,CampbellBozorgnia2014,PGA,0.9131729,0.459,0.104,0.459
-14,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",46, Seismic, GEM, GCMT,CampbellBozorgnia2014,PGA,0.9131729,0.459,0.104,0.459
-19,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992
-",45, Seismic, USGS, Berberian_et_al_1992,AbrahamsonEtAl2014,PGA,0.8770125,0.473,0.112,0.473
-13,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",48, Seismic, GEM, USGS,BooreEtAl2014,PGA,0.801096,0.474,0.111,0.474
-17,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",46, Seismic, USGS, USGS,BooreEtAl2014,PGA,0.801096,0.474,0.111,0.474
-15,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992
-",46, Seismic, GEM, Berberian_et_al_1992,ZhaoEtAl2006Asc,PGA,0.9259387,0.475,0.127,0.475
-14,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",46, Seismic, GEM, GCMT,BooreEtAl2014,PGA,0.966494,0.507,0.111,0.507
-18,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT
-",45, Seismic, USGS, GCMT,BooreEtAl2014,PGA,0.966494,0.507,0.111,0.507
-20,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",46, Seismic, USGS, Gao_And_Wallace_1994,ChiouYoungs2014,PGA,0.87203217,0.509,0.104,0.509
-20,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",46, Seismic, USGS, Gao_And_Wallace_1994,AbrahamsonEtAl2014,PGA,0.9303353,0.575,0.112,0.575
-17,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS
-",46, Seismic, USGS, USGS,AbrahamsonEtAl2014,PGA,0.83676827,0.584,0.112,0.584
-13,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS
-",48, Seismic, GEM, USGS,AkkarEtAlRjb2014,PGA,0.8773574,0.595,0.133,0.595
-16,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",46, Seismic, GEM, Gao_And_Wallace_1994,ZhaoEtAl2006Asc,PGA,0.97405523,0.599,0.127,0.599
-15,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992
-",46, Seismic, GEM, Berberian_et_al_1992,CampbellBozorgnia2014,PGA,0.9503485,0.611,0.104,0.611
-19,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992
-",45, Seismic, USGS, Berberian_et_al_1992,CampbellBozorgnia2014,PGA,0.9503485,0.611,0.104,0.611
-15,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992
-",46, Seismic, GEM, Berberian_et_al_1992,BooreEtAl2014,PGA,1.0426965,0.614,0.112,0.614
-19,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992
-",45, Seismic, USGS, Berberian_et_al_1992,BooreEtAl2014,PGA,1.0426965,0.614,0.112,0.614
-14,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT
-",46, Seismic, GEM, GCMT,AkkarEtAlRjb2014,PGA,1.1122937,0.635,0.133,0.635
-16,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",46, Seismic, GEM, Gao_And_Wallace_1994,CampbellBozorgnia2014,PGA,0.982636,0.715,0.105,0.715
-20,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",46, Seismic, USGS, Gao_And_Wallace_1994,CampbellBozorgnia2014,PGA,0.982636,0.715,0.105,0.715
-16,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",46, Seismic, GEM, Gao_And_Wallace_1994,BooreEtAl2014,PGA,1.1448929,0.718,0.112,0.718
-20,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",46, Seismic, USGS, Gao_And_Wallace_1994,BooreEtAl2014,PGA,1.1448929,0.718,0.112,0.718
-15,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992
-",46, Seismic, GEM, Berberian_et_al_1992,AkkarEtAlRjb2014,PGA,1.1809692,0.737,0.133,0.737
-16,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",46, Seismic, GEM, Gao_And_Wallace_1994,AkkarEtAlRjb2014,PGA,1.2592114,0.819,0.133,0.819
-10,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",2, None, USGS, GCMT,AbrahamsonEtAl2014,PGA,0.5626413,,,
-10,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",2, None, USGS, GCMT,BooreEtAl2014,PGA,0.5419502,,,
-10,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",2, None, USGS, GCMT,CampbellBozorgnia2014,PGA,0.5401223,,,
-10,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT
-",2, None, USGS, GCMT,ChiouYoungs2014,PGA,0.59519446,,,
-11,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992
-",2, None, USGS, Berberian_et_al_1992,AbrahamsonEtAl2014,PGA,0.5374856,,,
-11,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992
-",2, None, USGS, Berberian_et_al_1992,BooreEtAl2014,PGA,0.55231804,,,
-11,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992
-",2, None, USGS, Berberian_et_al_1992,CampbellBozorgnia2014,PGA,0.49769142,,,
-11,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992
-",2, None, USGS, Berberian_et_al_1992,ChiouYoungs2014,PGA,0.53207576,,,
-12,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",2, None, USGS, Gao_And_Wallace_1994,AbrahamsonEtAl2014,PGA,0.5080088,,,
-12,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",2, None, USGS, Gao_And_Wallace_1994,BooreEtAl2014,PGA,0.5222316,,,
-12,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",2, None, USGS, Gao_And_Wallace_1994,CampbellBozorgnia2014,PGA,0.47691908,,,
-12,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994
-",2, None, USGS, Gao_And_Wallace_1994,ChiouYoungs2014,PGA,0.5075409,,,
-5,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,AkkarEtAlRjb2014,PGA,0.53266245,,,
-5,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,BooreEtAl2014,PGA,0.52721757,,,
-5,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,CampbellBozorgnia2014,PGA,0.7428559,,,
-5,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS
-",2, None, GEM, USGS,ZhaoEtAl2006Asc,PGA,0.6747947,,,
-6,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",2, None, GEM, GCMT,AkkarEtAlRjb2014,PGA,0.543603,,,
-6,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",2, None, GEM, GCMT,BooreEtAl2014,PGA,0.5419502,,,
-6,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",2, None, GEM, GCMT,CampbellBozorgnia2014,PGA,0.5401223,,,
-6,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT
-",2, None, GEM, GCMT,ZhaoEtAl2006Asc,PGA,0.56081086,,,
-7,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992
-",2, None, GEM, Berberian_et_al_1992,AkkarEtAlRjb2014,PGA,0.5403068,,,
-7,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992
-",2, None, GEM, Berberian_et_al_1992,BooreEtAl2014,PGA,0.55231804,,,
-7,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992
-",2, None, GEM, Berberian_et_al_1992,CampbellBozorgnia2014,PGA,0.49769142,,,
-7,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992
-",2, None, GEM, Berberian_et_al_1992,ZhaoEtAl2006Asc,PGA,0.57102036,,,
-8,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",2, None, GEM, Gao_And_Wallace_1994,AkkarEtAlRjb2014,PGA,0.52774674,,,
-8,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",2, None, GEM, Gao_And_Wallace_1994,BooreEtAl2014,PGA,0.5222316,,,
-8,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",2, None, GEM, Gao_And_Wallace_1994,CampbellBozorgnia2014,PGA,0.47691908,,,
-8,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994
-",2, None, GEM, Gao_And_Wallace_1994,ZhaoEtAl2006Asc,PGA,0.53314406,,,
-9,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,AbrahamsonEtAl2014,PGA,0.54285073,,,
-9,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,BooreEtAl2014,PGA,0.52721757,,,
-9,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,CampbellBozorgnia2014,PGA,0.7428559,,,
-9,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS
-",2, None, USGS, USGS,ChiouYoungs2014,PGA,0.63416946,,,
+calc_id,description,cal_time,recording_stations,gmlt,rupture,gmpe,max_distance,imt,max_gmv,nominal_bias_mean,nominal_bias_stdev,abs_bias
+1518,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",29,Seismic,GEM,USGS,ZhaoEtAl2006Asc,25km,PGA,0.69083184,-0.002,0.248,0.002
+1518,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",29,Seismic,GEM,USGS,CampbellBozorgnia2014,25km,PGA,0.73661214,0.006,0.212,0.006
+1530,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",25,Seismic,USGS,USGS,CampbellBozorgnia2014,25km,PGA,0.73661214,0.006,0.212,0.006
+1519,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",27,Seismic,GEM,USGS,ZhaoEtAl2006Asc,50km,PGA,0.69709176,0.012,0.229,0.012
+1526,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",27,Seismic,USGS,GCMT,ChiouYoungs2014,150km,PGA,0.7227887,0.05,0.116,0.05
+1531,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",25,Seismic,USGS,USGS,CampbellBozorgnia2014,50km,PGA,0.7671833,0.051,0.191,0.051
+1519,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",27,Seismic,GEM,USGS,CampbellBozorgnia2014,50km,PGA,0.7671833,0.051,0.191,0.051
+1520,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",26,Seismic,GEM,USGS,ZhaoEtAl2006Asc,150km,PGA,0.7465397,0.111,0.149,0.111
+1530,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",25,Seismic,USGS,USGS,ChiouYoungs2014,25km,PGA,0.69228965,0.112,0.204,0.112
+1512,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",25,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,25km,PGA,0.6818078,0.123,0.271,0.123
+1518,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",29,Seismic,GEM,USGS,AkkarEtAlRjb2014,25km,PGA,0.648,0.124,0.274,0.124
+1510,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:50km",26,Seismic,GEM,Berberian_et_al_1992,ZhaoEtAl2006Asc,50km,PGA,0.689547,0.136,0.229,0.136
+1516,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:50km",25,Seismic,GEM,Gao_And_Wallace_1994,ZhaoEtAl2006Asc,50km,PGA,0.6753606,0.139,0.229,0.139
+1526,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",27,Seismic,USGS,GCMT,AbrahamsonEtAl2014,150km,PGA,0.7249479,0.144,0.127,0.144
+1524,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",25,Seismic,USGS,GCMT,ChiouYoungs2014,25km,PGA,0.7681826,0.145,0.231,0.145
+1531,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",25,Seismic,USGS,USGS,ChiouYoungs2014,50km,PGA,0.70976245,0.152,0.187,0.152
+1520,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",26,Seismic,GEM,USGS,CampbellBozorgnia2014,150km,PGA,0.84673285,0.168,0.12,0.168
+1532,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",27,Seismic,USGS,USGS,CampbellBozorgnia2014,150km,PGA,0.84673285,0.168,0.12,0.168
+1514,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",25,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,150km,PGA,0.7024324,0.171,0.145,0.171
+1518,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:25km",29,Seismic,GEM,USGS,BooreEtAl2014,25km,PGA,0.6622814,0.191,0.247,0.191
+1530,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",25,Seismic,USGS,USGS,BooreEtAl2014,25km,PGA,0.6622814,0.191,0.247,0.191
+1515,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:25km",25,Seismic,GEM,Gao_And_Wallace_1994,ZhaoEtAl2006Asc,25km,PGA,0.70662856,0.197,0.248,0.197
+1528,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:50km",27,Seismic,USGS,Gao_And_Wallace_1994,ChiouYoungs2014,50km,PGA,0.7252736,0.199,0.188,0.199
+1509,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:25km",33,Seismic,GEM,Berberian_et_al_1992,ZhaoEtAl2006Asc,25km,PGA,0.72973967,0.208,0.248,0.208
+1522,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:50km",25,Seismic,USGS,Berberian_et_al_1992,ChiouYoungs2014,50km,PGA,0.7362459,0.214,0.189,0.214
+1513,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",25,Seismic,GEM,GCMT,ZhaoEtAl2006Asc,50km,PGA,0.7313866,0.218,0.228,0.218
+1531,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",25,Seismic,USGS,USGS,BooreEtAl2014,50km,PGA,0.668924,0.219,0.219,0.219
+1519,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",27,Seismic,GEM,USGS,AkkarEtAlRjb2014,50km,PGA,0.66883594,0.219,0.251,0.219
+1519,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:50km",27,Seismic,GEM,USGS,BooreEtAl2014,50km,PGA,0.668924,0.219,0.219,0.219
+1525,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",25,Seismic,USGS,GCMT,ChiouYoungs2014,50km,PGA,0.8175116,0.224,0.184,0.224
+1530,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:25km",25,Seismic,USGS,USGS,AbrahamsonEtAl2014,25km,PGA,0.684725,0.228,0.245,0.228
+1512,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",25,Seismic,GEM,GCMT,CampbellBozorgnia2014,25km,PGA,0.720044,0.232,0.269,0.232
+1524,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",25,Seismic,USGS,GCMT,CampbellBozorgnia2014,25km,PGA,0.720044,0.232,0.269,0.232
+1528,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:50km",27,Seismic,USGS,Gao_And_Wallace_1994,AbrahamsonEtAl2014,50km,PGA,0.68769157,0.24,0.222,0.24
+1524,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",25,Seismic,USGS,GCMT,AbrahamsonEtAl2014,25km,PGA,0.7811851,0.241,0.296,0.241
+1527,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:25km",26,Seismic,USGS,Gao_And_Wallace_1994,ChiouYoungs2014,25km,PGA,0.7528746,0.251,0.204,0.251
+1522,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:50km",25,Seismic,USGS,Berberian_et_al_1992,AbrahamsonEtAl2014,50km,PGA,0.7155507,0.263,0.223,0.263
+1531,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:50km",25,Seismic,USGS,USGS,AbrahamsonEtAl2014,50km,PGA,0.6948263,0.263,0.22,0.263
+1528,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:50km",27,Seismic,USGS,Gao_And_Wallace_1994,CampbellBozorgnia2014,50km,PGA,0.70252985,0.267,0.199,0.267
+1516,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:50km",25,Seismic,GEM,Gao_And_Wallace_1994,CampbellBozorgnia2014,50km,PGA,0.70252985,0.267,0.199,0.267
+1523,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:150km",25,Seismic,USGS,Berberian_et_al_1992,ChiouYoungs2014,150km,PGA,0.765479,0.27,0.117,0.27
+1529,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,USGS,Gao_And_Wallace_1994,ChiouYoungs2014,150km,PGA,0.7630518,0.271,0.124,0.271
+1512,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",25,Seismic,GEM,GCMT,AkkarEtAlRjb2014,25km,PGA,0.8117585,0.273,0.305,0.273
+1521,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:25km",25,Seismic,USGS,Berberian_et_al_1992,ChiouYoungs2014,25km,PGA,0.77117276,0.279,0.205,0.279
+1529,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,USGS,Gao_And_Wallace_1994,AbrahamsonEtAl2014,150km,PGA,0.713788,0.283,0.136,0.283
+1511,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:150km",26,Seismic,GEM,Berberian_et_al_1992,ZhaoEtAl2006Asc,150km,PGA,0.7645775,0.284,0.145,0.284
+1510,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:50km",26,Seismic,GEM,Berberian_et_al_1992,CampbellBozorgnia2014,50km,PGA,0.74508256,0.291,0.201,0.291
+1522,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:50km",25,Seismic,USGS,Berberian_et_al_1992,CampbellBozorgnia2014,50km,PGA,0.74508256,0.291,0.201,0.291
+1523,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:150km",25,Seismic,USGS,Berberian_et_al_1992,AbrahamsonEtAl2014,150km,PGA,0.7328874,0.291,0.128,0.291
+1526,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",27,Seismic,USGS,GCMT,CampbellBozorgnia2014,150km,PGA,0.80969477,0.294,0.118,0.294
+1514,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",25,Seismic,GEM,GCMT,CampbellBozorgnia2014,150km,PGA,0.80969477,0.294,0.118,0.294
+1532,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",27,Seismic,USGS,USGS,ChiouYoungs2014,150km,PGA,0.77642703,0.3,0.121,0.3
+1517,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,GEM,Gao_And_Wallace_1994,ZhaoEtAl2006Asc,150km,PGA,0.7587909,0.305,0.153,0.305
+1527,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:25km",26,Seismic,USGS,Gao_And_Wallace_1994,CampbellBozorgnia2014,25km,PGA,0.73546433,0.326,0.22,0.326
+1515,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:25km",25,Seismic,GEM,Gao_And_Wallace_1994,CampbellBozorgnia2014,25km,PGA,0.73546433,0.326,0.22,0.326
+1532,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",27,Seismic,USGS,USGS,BooreEtAl2014,150km,PGA,0.7042768,0.335,0.129,0.335
+1520,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",26,Seismic,GEM,USGS,BooreEtAl2014,150km,PGA,0.7042768,0.335,0.129,0.335
+1525,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",25,Seismic,USGS,GCMT,AbrahamsonEtAl2014,50km,PGA,0.86653394,0.339,0.219,0.339
+1527,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:25km",26,Seismic,USGS,Gao_And_Wallace_1994,AbrahamsonEtAl2014,25km,PGA,0.7580189,0.343,0.247,0.343
+1516,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:50km",25,Seismic,GEM,Gao_And_Wallace_1994,AkkarEtAlRjb2014,50km,PGA,0.846308,0.357,0.251,0.357
+1516,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:50km",25,Seismic,GEM,Gao_And_Wallace_1994,BooreEtAl2014,50km,PGA,0.88226944,0.362,0.222,0.362
+1528,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:50km",27,Seismic,USGS,Gao_And_Wallace_1994,BooreEtAl2014,50km,PGA,0.88226944,0.362,0.222,0.362
+1526,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:150km",27,Seismic,USGS,GCMT,BooreEtAl2014,150km,PGA,0.84079045,0.365,0.124,0.365
+1514,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",25,Seismic,GEM,GCMT,BooreEtAl2014,150km,PGA,0.84079045,0.365,0.124,0.365
+1515,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:25km",25,Seismic,GEM,Gao_And_Wallace_1994,AkkarEtAlRjb2014,25km,PGA,0.8522185,0.366,0.274,0.366
+1509,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:25km",33,Seismic,GEM,Berberian_et_al_1992,CampbellBozorgnia2014,25km,PGA,0.79394096,0.367,0.222,0.367
+1521,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:25km",25,Seismic,USGS,Berberian_et_al_1992,CampbellBozorgnia2014,25km,PGA,0.79394096,0.367,0.222,0.367
+1512,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:25km",25,Seismic,GEM,GCMT,BooreEtAl2014,25km,PGA,0.8505348,0.369,0.285,0.369
+1524,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:25km",25,Seismic,USGS,GCMT,BooreEtAl2014,25km,PGA,0.8505348,0.369,0.285,0.369
+1522,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:50km",25,Seismic,USGS,Berberian_et_al_1992,BooreEtAl2014,50km,PGA,0.8528213,0.382,0.222,0.382
+1521,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:25km",25,Seismic,USGS,Berberian_et_al_1992,AbrahamsonEtAl2014,25km,PGA,0.7999487,0.382,0.248,0.382
+1510,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:50km",26,Seismic,GEM,Berberian_et_al_1992,BooreEtAl2014,50km,PGA,0.8528213,0.382,0.222,0.382
+1510,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:50km",26,Seismic,GEM,Berberian_et_al_1992,AkkarEtAlRjb2014,50km,PGA,0.8674566,0.388,0.251,0.388
+1525,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",25,Seismic,USGS,GCMT,CampbellBozorgnia2014,50km,PGA,0.8952887,0.396,0.197,0.396
+1513,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",25,Seismic,GEM,GCMT,CampbellBozorgnia2014,50km,PGA,0.8952887,0.396,0.197,0.396
+1517,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,GEM,Gao_And_Wallace_1994,CampbellBozorgnia2014,150km,PGA,0.7784648,0.408,0.125,0.408
+1529,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,USGS,Gao_And_Wallace_1994,CampbellBozorgnia2014,150km,PGA,0.7784648,0.408,0.125,0.408
+1511,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:150km",26,Seismic,GEM,Berberian_et_al_1992,CampbellBozorgnia2014,150km,PGA,0.81711644,0.412,0.118,0.412
+1523,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:150km",25,Seismic,USGS,Berberian_et_al_1992,CampbellBozorgnia2014,150km,PGA,0.81711644,0.412,0.118,0.412
+1509,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:25km",33,Seismic,GEM,Berberian_et_al_1992,AkkarEtAlRjb2014,25km,PGA,0.8858342,0.414,0.274,0.414
+1532,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:USGS, Max_dist:150km",27,Seismic,USGS,USGS,AbrahamsonEtAl2014,150km,PGA,0.7621418,0.419,0.132,0.419
+1529,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,USGS,Gao_And_Wallace_1994,BooreEtAl2014,150km,PGA,0.9346654,0.444,0.133,0.444
+1517,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,GEM,Gao_And_Wallace_1994,BooreEtAl2014,150km,PGA,0.9346654,0.444,0.133,0.444
+1523,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:150km",25,Seismic,USGS,Berberian_et_al_1992,BooreEtAl2014,150km,PGA,0.8926777,0.448,0.125,0.448
+1511,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:150km",26,Seismic,GEM,Berberian_et_al_1992,BooreEtAl2014,150km,PGA,0.8926777,0.448,0.125,0.448
+1527,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Gao_And_Wallace_1994, Max_dist:25km",26,Seismic,USGS,Gao_And_Wallace_1994,BooreEtAl2014,25km,PGA,0.9461796,0.454,0.247,0.454
+1515,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:25km",25,Seismic,GEM,Gao_And_Wallace_1994,BooreEtAl2014,25km,PGA,0.9461796,0.454,0.247,0.454
+1509,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:25km",33,Seismic,GEM,Berberian_et_al_1992,BooreEtAl2014,25km,PGA,0.928195,0.493,0.247,0.493
+1521,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:Berberian_et_al_1992, Max_dist:25km",25,Seismic,USGS,Berberian_et_al_1992,BooreEtAl2014,25km,PGA,0.928195,0.493,0.247,0.493
+1520,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:USGS, Max_dist:150km",26,Seismic,GEM,USGS,AkkarEtAlRjb2014,150km,PGA,0.79809535,0.502,0.157,0.502
+1513,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",25,Seismic,GEM,GCMT,AkkarEtAlRjb2014,50km,PGA,0.9933883,0.507,0.25,0.507
+1525,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:USGS, Rupture:GCMT, Max_dist:50km",25,Seismic,USGS,GCMT,BooreEtAl2014,50km,PGA,0.9663531,0.508,0.218,0.508
+1513,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:50km",25,Seismic,GEM,GCMT,BooreEtAl2014,50km,PGA,0.9663531,0.508,0.218,0.508
+1514,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:GCMT, Max_dist:150km",25,Seismic,GEM,GCMT,AkkarEtAlRjb2014,150km,PGA,1.0103177,0.537,0.152,0.537
+1517,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Gao_And_Wallace_1994, Max_dist:150km",25,Seismic,GEM,Gao_And_Wallace_1994,AkkarEtAlRjb2014,150km,PGA,1.0268859,0.617,0.162,0.617
+1511,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:Seismic, gmlt:GEM, Rupture:Berberian_et_al_1992, Max_dist:150km",26,Seismic,GEM,Berberian_et_al_1992,AkkarEtAlRjb2014,150km,PGA,1.0348532,0.625,0.152,0.625
+1533,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992",6,None,GEM,Berberian_et_al_1992,AkkarEtAlRjb2014,,PGA,0.53558284,,,
+1533,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992",6,None,GEM,Berberian_et_al_1992,BooreEtAl2014,,PGA,0.53678215,,,
+1533,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992",6,None,GEM,Berberian_et_al_1992,CampbellBozorgnia2014,,PGA,0.49846894,,,
+1533,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Berberian_et_al_1992",6,None,GEM,Berberian_et_al_1992,ZhaoEtAl2006Asc,,PGA,0.571466,,,
+1534,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,AkkarEtAlRjb2014,,PGA,0.5459833,,,
+1534,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,BooreEtAl2014,,PGA,0.55805105,,,
+1534,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,CampbellBozorgnia2014,,PGA,0.5445405,,,
+1534,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:GCMT",6,None,GEM,GCMT,ZhaoEtAl2006Asc,,PGA,0.5604258,,,
+1535,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994",6,None,GEM,Gao_And_Wallace_1994,AkkarEtAlRjb2014,,PGA,0.511891,,,
+1535,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994",6,None,GEM,Gao_And_Wallace_1994,BooreEtAl2014,,PGA,0.5048417,,,
+1535,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994",6,None,GEM,Gao_And_Wallace_1994,CampbellBozorgnia2014,,PGA,0.47875008,,,
+1535,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:Gao_And_Wallace_1994",6,None,GEM,Gao_And_Wallace_1994,ZhaoEtAl2006Asc,,PGA,0.5093365,,,
+1536,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,AkkarEtAlRjb2014,,PGA,0.53398836,,,
+1536,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,BooreEtAl2014,,PGA,0.5309012,,,
+1536,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,CampbellBozorgnia2014,,PGA,0.74516445,,,
+1536,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:GEM, Rupture:USGS",6,None,GEM,USGS,ZhaoEtAl2006Asc,,PGA,0.68222547,,,
+1537,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992",6,None,USGS,Berberian_et_al_1992,AbrahamsonEtAl2014,,PGA,0.53486073,,,
+1537,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992",6,None,USGS,Berberian_et_al_1992,BooreEtAl2014,,PGA,0.53678215,,,
+1537,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992",6,None,USGS,Berberian_et_al_1992,CampbellBozorgnia2014,,PGA,0.49846894,,,
+1537,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Berberian_et_al_1992",6,None,USGS,Berberian_et_al_1992,ChiouYoungs2014,,PGA,0.5218134,,,
+1538,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",6,None,USGS,GCMT,AbrahamsonEtAl2014,,PGA,0.5761636,,,
+1538,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",6,None,USGS,GCMT,BooreEtAl2014,,PGA,0.55805105,,,
+1538,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",6,None,USGS,GCMT,CampbellBozorgnia2014,,PGA,0.5445405,,,
+1538,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:GCMT",6,None,USGS,GCMT,ChiouYoungs2014,,PGA,0.6215022,,,
+1539,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994",5,None,USGS,Gao_And_Wallace_1994,AbrahamsonEtAl2014,,PGA,0.49071687,,,
+1539,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994",5,None,USGS,Gao_And_Wallace_1994,BooreEtAl2014,,PGA,0.5048417,,,
+1539,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994",5,None,USGS,Gao_And_Wallace_1994,CampbellBozorgnia2014,,PGA,0.47875008,,,
+1539,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:Gao_And_Wallace_1994",5,None,USGS,Gao_And_Wallace_1994,ChiouYoungs2014,,PGA,0.5080629,,,
+1540,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS",6,None,USGS,USGS,AbrahamsonEtAl2014,,PGA,0.54234535,,,
+1540,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS",6,None,USGS,USGS,BooreEtAl2014,,PGA,0.5309012,,,
+1540,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS",6,None,USGS,USGS,CampbellBozorgnia2014,,PGA,0.74516445,,,
+1540,"19900620_M7.4_Manjil-Rudbar median gmf, Stations:None, gmlt:USGS, Rupture:USGS",6,None,USGS,USGS,ChiouYoungs2014,,PGA,0.63073623,,,
