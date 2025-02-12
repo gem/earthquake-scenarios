@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2016
-Region,South_America
 Country,Ecuador
-Event_Name,Pedernales_2016
-Local_Date,16/04/2016
-Local_Time,06:58:34
-Latitude,0.31
-Longitude,-80.12
-Depth_(km),17
+Region,South America
+Event Name,Pedernales 2016
+Local Date,16/04/2016
+Local Time,06:58:34
+Latitude (decimal degrees),0.31
+Longitude (decimal degrees),-80.12
+Depth (km),17
 Mw,7.8
-Max_Intensity_(MMI),IX
-Fault_mechanism,Reverse
-Tectonic_region_type,Shallow upper crustal
+Max Intensity (MMI),IX
+Fault mechanism,Reverse
+Tectonic region type,Shallow upper crustal
 Fatalities,650-700 
 Injured,6274-230000
-Displaced_Population,28678-386985
-Affected_Population,383090-1000000000
-Affected_Units,
-Damaged_Units,9180-26672 Units
-Collapsed_Units,6998-36149 Units
-Economic_Losses,1300-3300 M USD
-Insured_Losses,560 M USD
-Induced_Effects,"Tsunami, Landslides"
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us20005j32/executive
-Wikipedia page,https://es.wikipedia.org/wiki/Terremoto_de_Ecuador_de_2016
+Displaced population,28678-386985
+Affected population,383090-1000000000
+Affected units,
+Damaged units,9180-26672 
+Collapsed units,6998-36149 
+Economic losses,1300-3300 M USD
+Insured losses,560 M USD
+Earthquake-triggered effects,"Tsunami, Landslides"
+USGS event ID,us20005j32
+Wikipedia page,https://es.wikipedia.org/wiki/Terremoto de Ecuador de 2016

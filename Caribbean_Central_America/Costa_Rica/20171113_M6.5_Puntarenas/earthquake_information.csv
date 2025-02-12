@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2017
-Region,Caribbean_Central_America
-Country,Costa_Rica
-Event_Name,Puntarenas_2017
-Local_Date,12/11/2017
-Local_Time,08:28:23
-Latitude,9.448
-Longitude,-84.544
-Depth_(km),22
+Country,Costa Rica
+Region,Caribbean Central America
+Event Name,Puntarenas 2017
+Local Date,12/11/2017
+Local Time,08:28:23
+Latitude (decimal degrees),9.448
+Longitude (decimal degrees),-84.544
+Depth (km),22
 Mw,6.5
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Reverse Fault
-Tectonic_region_type,Subduction Interface
+Max Intensity (MMI),VIII
+Fault mechanism,Reverse Fault
+Tectonic region type,Subduction Interface
 Fatalities,2-3
 Injured,
-Displaced_Population,
-Affected_Population,
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,
-Economic_Losses,
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us2000bmhe/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2017_Costa_Rica_earthquake
+Displaced population,
+Affected population,
+Affected units,
+Damaged units,
+Collapsed units,
+Economic losses,
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,us2000bmhe
+Wikipedia page,https://en.wikipedia.org/wiki/2017 Costa Rica earthquake

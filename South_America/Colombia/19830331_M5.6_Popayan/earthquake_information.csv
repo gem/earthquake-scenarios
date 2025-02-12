@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1983
-Region,South_America
 Country,Colombia
-Event_Name,Popayán_1983 
-Local_Date,31/03/1983
-Local_Time,08:12:00
-Latitude,2.364
-Longitude,-76.696
-Depth_(km),15
+Region,South America
+Event Name,Popayán 1983 
+Local Date,31/03/1983
+Local Time,08:12:00
+Latitude (decimal degrees),2.364
+Longitude (decimal degrees),-76.696
+Depth (km),15
 Mw,5.6
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Strike-Slip
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),VIII
+Fault mechanism,Strike-Slip
+Tectonic region type,Active Shallow Crust
 Fatalities,200-350 
 Injured,1200-7500
-Displaced_Population,10000-30000
-Affected_Population,10000-36200 
-Affected_Units,
-Damaged_Units,13650-14000 Units
-Collapsed_Units,2470-4964 Units
-Economic_Losses,38-50 M USD
-Insured_Losses,4 M USD
-Induced_Effects,Landslides
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0001u34/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1983_Popay%C3%A1n_earthquake
+Displaced population,10000-30000
+Affected population,10000-36200 
+Affected units,
+Damaged units,13650-14000 
+Collapsed units,2470-4964 
+Economic losses,38-50 M USD
+Insured losses,4 M USD
+Earthquake-triggered effects,Landslides
+USGS event ID,usp0001u34
+Wikipedia page,https://en.wikipedia.org/wiki/1983 Popay%C3%A1n earthquake

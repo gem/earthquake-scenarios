@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1991
-Region,Caribbean_Central_America
-Country,Costa_Rica
-Event_Name,Limon
-Local_Date,22/04/1991
-Local_Time,15:57:00
-Longitude,-83.073
-Latitude,9.685
-Depth_(km),10
+Country,Costa Rica
+Region,Caribbean Central America
+Event Name,Limon
+Local Date,22/04/1991
+Local Time,15:57:00
+Longitude (decimal degrees),-83.073
+Latitude (decimal degrees),9.685
+Depth (km),10
 Mw,7.6
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Reverse
-Tectonic_region_type,Shallow crustal 
+Max Intensity (MMI),VIII
+Fault mechanism,Reverse
+Tectonic region type,Shallow crustal 
 Fatalities,47-127
 Injured,109-895
-Displaced_Population,7439-10900
-Affected_Population,6320
-Affected_Units,
-Damaged_Units,7869 Buildings
-Collapsed_Units,4452 Buildings
-Economic_Losses,43-510 M USD
-Insured_Losses,
-Induced_Effects,"Tsunami, landslides, liquefaction"
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0004qpg/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1991_Limon_earthquake
+Displaced population,7439-10900
+Affected population,~6320
+Affected units,
+Damaged units,7869 Buildings
+Collapsed units,4452 Buildings
+Economic losses,43-510 M USD
+Insured losses,
+Earthquake-triggered effects,"Tsunami, landslides, liquefaction"
+USGS event ID,usp0004qpg
+Wikipedia page,https://en.wikipedia.org/wiki/1991 Limon earthquake

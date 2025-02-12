@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2004
-Region,South_America
 Country,Colombia
-Event_Name,Pizarro_2004
-Local_Date,15/11/2004
-Local_Time,04:06:00
-Latitude,4.69
-Longitude,-77.47
-Depth_(km),15
+Region,South America
+Event Name,Pizarro 2004
+Local Date,15/11/2004
+Local Time,04:06:00
+Latitude (decimal degrees),4.69
+Longitude (decimal degrees),-77.47
+Depth (km),15
 Mw,7.2
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Reverse
-Tectonic_region_type,Subduction Interface
+Max Intensity (MMI),VIII
+Fault mechanism,Reverse
+Tectonic region type,Subduction Interface
 Fatalities,
 Injured,6-20
-Displaced_Population,
-Affected_Population,8016
-Affected_Units,1000 Units
-Damaged_Units,611-1978 Units
-Collapsed_Units,154-296 Units
-Economic_Losses,
-Insured_Losses,
-Induced_Effects,Liquefaction
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000d8gx/executive
-Wikipedia page,https://second.wiki/wiki/terremoto_de_pizarro_de_2004
+Displaced population,
+Affected population,~8016
+Affected units,~1000 
+Damaged units,611-1978 
+Collapsed units,154-296 
+Economic losses,
+Insured losses,
+Earthquake-triggered effects,Liquefaction
+USGS event ID,usp000d8gx
+Wikipedia page,https://second.wiki/wiki/terremoto de pizarro de 2004

@@ -1,16 +1,16 @@
 FIELD,DESCRIPTION
 Year,1981
-Region,Europe
 Country,Greece
-Event_Name,GulfofCorinth_1981
-Local_Date,25/02/1981
-Local_Time,02:35:53
-Latitude,38.125
-Longitude,23.141
-Depth_(km),33
+Region,Europe
+Event Name,GulfofCorinth 1981
+Local Date,25/02/1981
+Local Time,02:35:53
+Latitude (decimal degrees),38.125
+Longitude (decimal degrees),23.141
+Depth (km),33
 Mw,6.4
-Max_Intensity_(MMI),IX
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ccv/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1981_Gulf_of_Corinth_earthquakes
+Max Intensity (MMI),IX
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
+USGS event ID,usp0001ccv
+Wikipedia page,https://en.wikipedia.org/wiki/1981 Gulf of Corinth earthquakes

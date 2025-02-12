@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,1995
-Region,Europe
 Country,Greece
-Event_Name,KozaniGrevena_1995
-Local_Date,13/05/1995
-Local_Time,08:47:12
-Latitude,40.149
-Longitude,21.695
-Depth_(km),14
+Region,Europe
+Event Name,KozaniGrevena 1995
+Local Date,13/05/1995
+Local Time,08:47:12
+Latitude (decimal degrees),40.149
+Longitude (decimal degrees),21.695
+Depth (km),14
 Mw,6.6
-Max_Intensity_(MMI),VIII
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),VIII
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
 Fatalities,0-26
 Injured,25-60
-Displaced_Population,
-Affected_Population,15000
-Affected_Units,
-Damaged_Units,
-Collapsed_Units,12000 Buildings
-Economic_Losses,450 M USD
-Insured_Losses,
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp0006x90/executive
-Wikipedia page,https://en.wikipedia.org/wiki/1986_Kalamata_earthquake
+Displaced population,
+Affected population,~15000
+Affected units,
+Damaged units,
+Collapsed units,12000 Buildings
+Economic losses,450 M USD
+Insured losses,
+Earthquake-triggered effects,
+USGS event ID,usp0006x90
+Wikipedia page,https://en.wikipedia.org/wiki/1986 Kalamata earthquake

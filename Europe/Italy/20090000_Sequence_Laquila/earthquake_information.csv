@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2009
-Region,Europe
 Country,Italy
-Event_Name,Laquila_2009
-Local_Date,06/04/2009
-Local_Time,01:32:39
-Latitude,42.334
-Longitude,13.334
-Depth_(km),8.8
+Region,Europe
+Event Name,Laquila 2009
+Local Date,06/04/2009
+Local Time,01:32:39
+Latitude (decimal degrees),42.334
+Longitude (decimal degrees),13.334
+Depth (km),8.8
 Mw,6.3
-Max_Intensity_(MMI),X
-Fault_mechanism,Normal
-Tectonic_region_type,Active Shallow Crust
+Max Intensity (MMI),X
+Fault mechanism,Normal
+Tectonic region type,Active Shallow Crust
 Fatalities,295-309
 Injured,1000-1500
-Displaced_Population,55000-80000
-Affected_Population,56000
-Affected_Units,35379 Buildings
-Damaged_Units,23403 Buildings
-Collapsed_Units,15000 Buildings
-Economic_Losses,2500 M USD
-Insured_Losses,260 M USD
-Induced_Effects,
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2009_L%27Aquila_earthquake
+Displaced population,55000-80000
+Affected population,~56000
+Affected units,35379 Buildings
+Damaged units,23403 Buildings
+Collapsed units,15000 Buildings
+Economic losses,2500 M USD
+Insured losses,260 M USD
+Earthquake-triggered effects,
+USGS event ID,usp000gvtu
+Wikipedia page,https://en.wikipedia.org/wiki/2009 L%27Aquila earthquake

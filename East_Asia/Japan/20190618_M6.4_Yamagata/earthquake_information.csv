@@ -1,26 +1,26 @@
 FIELD,DESCRIPTION
 Year,2019
-Region,East_Asia
 Country,Japan
-Event_Name,Yamagata_2019
-Local_Date,18/06/2019
-Local_Time,22:22:20
-Latitude,38.639
-Longitude,139.477
-Depth_(km),12
+Region,East Asia
+Event Name,Yamagata 2019
+Local Date,18/06/2019
+Local Time,22:22:20
+Latitude (decimal degrees),38.639
+Longitude (decimal degrees),139.477
+Depth (km),12
 Mw,6.4
-Max_Intensity_(MMI),VII
-Fault_mechanism,Reverse
-Tectonic_region_type,Active Shallow Crustal
-Fatalities,0
+Max Intensity (MMI),VII
+Fault mechanism,Reverse
+Tectonic region type,Active Shallow Crustal
+Fatalities,~0
 Injured,28-43
-Displaced_Population,45-840
-Affected_Population,432
-Affected_Units,
-Damaged_Units,144-1608 Buildings
-Collapsed_Units,
-Economic_Losses,
-Insured_Losses,
-Induced_Effects,Tsunami
-USGS page,https://earthquake.usgs.gov/earthquakes/eventpage/us600042fx/executive
-Wikipedia page,https://en.wikipedia.org/wiki/2019_Yamagata_earthquake
+Displaced population,45-840
+Affected population,~432
+Affected units,
+Damaged units,144-1608 Buildings
+Collapsed units,
+Economic losses,
+Insured losses,
+Earthquake-triggered effects,Tsunami
+USGS event ID,us600042fx
+Wikipedia page,https://en.wikipedia.org/wiki/2019 Yamagata earthquake
