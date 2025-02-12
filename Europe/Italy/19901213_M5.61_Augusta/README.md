@@ -1,32 +1,45 @@
 # 🌎 1990 M5.6 Augusta earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1990 M5.6 Augusta earthquake in Italy.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 1990 Carlentini earthquake (Italian: Terremoto di Carlentini del 1990) occurred off the Sicilian coast, 20 km east northeast from the town of Augusta, Sicily on 13 December at 01:24 local time. The moderately-sized earthquake measuring 5.6 on the moment magnitude scale (Mw ) resulted in the deaths of 19 people and caused at least 200 injuries. It also inflicted significant damage in the region, leaving 2,500 homeless.
-Lasting 45 seconds, the shock was assigned a maximum Modified Mercalli intensity of VII–VIII (Very strong–Severe). The earthquake was followed-up by four aftershocks that were felt by people.
-[Wikipedia](https://en.wikipedia.org/wiki/1990_Carlentini_earthquake)
+The `1990 Carlentini earthquake` struck on December 13, 1990, at 01:24 local time, shaking southeastern Sicily with a magnitude of 5.6. The event reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale, causing widespread destruction. The epicenter was located approximately 20 kilometers east-northeast of Augusta, near the town of Carlentini, which, along with Augusta, bore the brunt of the disaster. The earthquake claimed the lives of 17 people, left over 200 injured. The economic losses exceeded $115 million USD, highlighting the scale of the destruction. Despite the severity, there were no reported cases of liquefaction, tsunamis, or landslides.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1990 |
+| Country | Italy |
+| Region | Europe |
+| Event Name | Augusta 1990 |
+| Local Date | 13/12/1990 |
+| Local Time | 01:24:25 |
+| Latitude (decimal degrees) | 37.3 |
+| Longitude (decimal degrees) | 15.438 |
+| Depth (km) | 11.1 |
+| Mw | 5.6 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0004j1w |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
 
 ## ☄️ Consequences
 
@@ -34,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1990                                                                   |
-| Country              | Italy                                                                  |
-| Region               | Augusta                                                                |
-| Event_Name           | Augusta_1990                                                           |
-| Local_Date           | 13/12/1990                                                             |
-| Local_Time           | 00:24:25                                                               |
-| Latitude             | 37.3                                                                   |
-| Longitude            | 15.438                                                                 |
-| Depth_(km)           | 11.1                                                                   |
-| Mw                   | 5.6                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 17-19                                                                  |
-| Injured              | 200-300                                                                |
-| Displaced_Population | 2500-15000                                                             |
-| Affected_Population  | 2700-15152                                                             |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 6103-7104 Buildings                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 115-500 M USD                                                          |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0004j1w/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1990_Carlentini_earthquake               |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 17-19 |
+| Injured | 200-300 |
+| Displaced population | 2500-15000 |
+| Affected population | 2700-15152 |
+| Affected units | nan |
+| Damaged units | 6103-7104 Buildings |
+| Collapsed units | nan |
+| Economic losses | 115-500 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

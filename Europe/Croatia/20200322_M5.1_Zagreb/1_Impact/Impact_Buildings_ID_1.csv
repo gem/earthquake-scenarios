@@ -1,0 +1,21 @@
+ID_1,NAME_1,OCCUPANCY,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODERATE,LIGHTLY_DAMAGED,DS3_EXTENSIVE,SEVERE_TO_MODERATE_STRUCTURAL_DAMAGE,DS4_COMPLETE,HEAVILY_DAMAGED_OR_DESTROYED,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS
+21,City of Zagreb,Housing,,,,22811,,17166,17166,4472,4472,1173,1173,,Buildings,,Government of Croatia: https://www.oporavak-i-pripravnost.hr/UserDocsImages//dokumenti/RDNA_2021_07_01_web_ENG.pdf,"1) LIGHTLY_DAMAGED = Slight structural damage
+2) SEVERE_TO_MODERATE_DAMAGE = Moderate structural damage
+3) HEAVILY_DAMAGED_OR_DESTROYED = Heavy structural damage
+(in the reference taxonomy)
+4) Damage (EUR) is estimated in terms of the replacement value of both public- and private-domain physical assets damaged or destroyed."
+1,Zagreb County,Housing,,,,445,,388,388,26,26,31,31,,Buildings,,Government of Croatia: https://www.oporavak-i-pripravnost.hr/UserDocsImages//dokumenti/RDNA_2021_07_01_web_ENG.pdf,
+2,Krapina-Zagorje County,Housing,,,,744,,603,603,102,102,39,39,,Buildings,,Government of Croatia: https://www.oporavak-i-pripravnost.hr/UserDocsImages//dokumenti/RDNA_2021_07_01_web_ENG.pdf,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,,,,

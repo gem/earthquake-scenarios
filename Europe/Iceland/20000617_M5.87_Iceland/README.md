@@ -1,31 +1,45 @@
 # 🌎 2000 M6.5 Iceland earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2000 M6.5 Iceland earthquake in Iceland.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 2000 Iceland earthquakes struck southern Iceland on June 17 and 21. There were no fatalities but three people suffered minor injuries and there was considerable damage to infrastructure. The two earthquakes were the first major seismic activity in Iceland for 88 years. The recorded magnitude of both of the main quakes was 6.5 Mwc.
-[Wikipedia](https://en.wikipedia.org/wiki/2000_Iceland_earthquakes)
+The `2000 Iceland earthquakes`, a pair of magnitude 6.5 events, struck southern Iceland on June 17 and 21. The epicenters were located near the town of Selfoss. These powerful earthquakes caused significant damage to infrastructure, including roads, bridges, and buildings, particularly in the towns of Selfoss and Hveragerði. While there were no fatalities, numerous minor injuries were reported. Economic losses were substantial due to widespread property damage and disruptions to essential services. Although no tsunamis were generated, the earthquakes triggered numerous landslides and some localized liquefaction.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2000 |
+| Country | Iceland |
+| Region | Europe |
+| Event Name | Iceland |
+| Local Date | 17/06/2000 |
+| Local Time | 15:40:41 |
+| Latitude (decimal degrees) | 63.966 |
+| Longitude (decimal degrees) | -20.487 |
+| Depth (km) | 10 |
+| Mw | 6.5 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0009urh |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2000                                                                   |
-| Country              | Iceland                                                                |
-| Region               | Iceland                                                                |
-| Event_Name           | Iceland                                                                |
-| Local_Date           | 17/06/2000                                                             |
-| Local_Time           | 15:40:41                                                               |
-| Latitude             | 63.966                                                                 |
-| Longitude            | -20.487                                                                |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 6.5                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | nan                                                                    |
-| Injured              | nan                                                                    |
-| Displaced_Population | 36                                                                     |
-| Affected_Population  | 108                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 11.0 Buildings                                                         |
-| Collapsed_Units      | 11.0 Buildings                                                         |
-| Economic_Losses      | 12-20 M USD                                                            |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0009urh/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2000_Iceland_earthquakes                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | nan |
+| Injured | nan |
+| Displaced population | ~36 |
+| Affected population | ~108 |
+| Affected units | nan |
+| Damaged units | 11.0 Buildings |
+| Collapsed units | 11.0 Buildings |
+| Economic losses | 12-20 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

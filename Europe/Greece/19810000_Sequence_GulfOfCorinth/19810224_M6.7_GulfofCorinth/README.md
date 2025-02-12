@@ -1,28 +1,42 @@
 # 🌎 1981 M6.7 GulfofCorinth earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1981 M6.7 GulfofCorinth earthquake in Greece.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-In early 1981 the eastern Gulf of Corinth, Greece was struck by three earthquakes with a magnitude greater than 6 Ms over a period of 11 days. The earthquake sequence caused widespread damage in the Corinth–Athens area, destroying nearly 8,000 houses and causing 20–22 deaths.
-[Wikipedia](https://en.wikipedia.org/wiki/1981_Gulf_of_Corinth_earthquakes)
+On February 24, 1981, at 20:53:38 local time, the Gulf of Corinth region in Greece was struck by a powerful earthquake with a magnitude of 6.7 Mw. The epicenter was located at a depth of 33 km. The event reached a maximum intensity of IX on the Mercalli Intensity (MMI) scale, indicating severe damage in the affected areas. This earthquake was part of a sequence that caused widespread destruction in the Corinth–Athens region, resulting in the collapse of nearly 8000 buildings and leading to 20–22 reported fatalities. 
 
+| FIELD | DESCRIPTION |
+|:------|:------------|
+| Year | 1981 |
+| Country | Greece |
+| Region | Europe |
+| Event Name | GulfofCorinth 1981 |
+| Local Date | 24/02/1981 |
+| Local Time | 20:53:38 |
+| Latitude (decimal degrees) | 38.222 |
+| Longitude (decimal degrees) | 22.934 |
+| Depth (km) | 33 |
+| Mw | 6.7 |
+| Max Intensity (MMI) | IX |
+| Fault mechanism | Normal |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0001ccb |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
 <img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
 <img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
@@ -31,27 +45,4 @@ The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake
 
 The information collected for the consequences of the event and the corresponding references is available in the [Impact](./Impact) folder. When available, information at different geographical levels is provided considering the building damage, economic losses and human impact.
 
-A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
-
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1981                                                                   |
-| Country              | Greece                                                                 |
-| Region               | GulfofCorinth                                                          |
-| Event_Name           | GulfofCorinth_1981                                                     |
-| Local_Date           | 24/02/1981                                                             |
-| Local_Time           | 20:53:38                                                               |
-| Latitude             | 38.222                                                                 |
-| Longitude            | 22.934                                                                 |
-| Depth_(km)           | 33                                                                     |
-| Mw                   | 6.7                                                                    |
-| Max_Intensity_(MMI)  | IX                                                                     |
-| Fault_mechanism      | Normal                                                                 |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ccb/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1981_Gulf_of_Corinth_earthquakes         |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file.

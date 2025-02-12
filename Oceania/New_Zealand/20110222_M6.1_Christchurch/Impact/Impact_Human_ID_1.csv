@@ -1,8 +1,0 @@
-﻿ID_1,NAME_1,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DISPLACED_POPULATION,AFFECTED_POPULATION,CAUSE_OF_INJURY/DEATH,REFERENCE,COMMENTS,FATALITIES_FROM_FACADES_OR_WALLS_COLLAPSE,FATALITIES_INSIDE_BUILDINGS,FATALITIES_FOR_CHIMNEY_BREAST_COLLAPSE,OTHER
-3,Canterbury Region,182,182,6659,,,,,,,,,University of Otago + Cambridge Earthquake Impact Database,,,,,
-3,Canterbury Region,115,115,,,,,,,,,Collapse of the Canterbury Television (CTV) building,New_Zealand_Police,,,,,
-3,Canterbury Region,18,18,,,,,,,,,Collapse of the Pyne Gould Corporation (PGC) building,New_Zealand_Police,,,,,
-3,Canterbury Region,8,8,,,,,,,,,Died on buses in the central city,New_Zealand_Police,,,,,
-3,Canterbury Region,28,28,,,,,,,,,Died in other areas of the central city,New_Zealand_Police,,,,,
-3,Canterbury Region,12,12,,,,,,,,,Died in suburban locations,New_Zealand_Police,,,,,
-3,Canterbury Region,182,182,7171,,,,,,,,,Johnston_et_al_2014,"The total injury burden was analyzed for demography, context of injury, causes of injury, and injury type. Injury context was classified as direct (shaking of the primary earthquake or aftershocks causing unavoidable injuries), action (movement of person during the primary earthquake or aftershocks causing potentially avoidable injuries), and secondary (cause of injury after shaking ceased). Nine categories of injury cause were identified (i.e. trip/fall, cleanup, projectile, helping others, children, ground damage, glass, masonry, animals).",,,,

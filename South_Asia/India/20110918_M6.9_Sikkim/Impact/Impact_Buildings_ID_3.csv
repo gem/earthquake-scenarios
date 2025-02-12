@@ -1,3 +1,0 @@
-ID_1,NAME_1,ID_2,NAME_2,ID_3,NAME_3,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,100%_DAMAGE,SEVERE_DAMAGE,MAJOR_DAMAGE,MINOR_DAMAGE
-Z1100000000,Sikkim,Z1124400000,East District,Z1124401553,Gangtok,Concrete(Pucca),,,,,,,,,Buildings,Ground_shaking,Malladi_Teja_2012,India: Damage Report at Ward level according to building type (Source: Municipal Corporation Gangtok).,11,50,625,1118
-Z1100000000,Sikkim,Z1124400000,East District,Z1124401553,Gangtok,Wooden(Kutcha),,,,,,,,,Buildings,Ground_shaking,Malladi_Teja_2012,India: Damage Report at Ward level according to building type (Source: Municipal Corporation Gangtok).,2,69,487,471

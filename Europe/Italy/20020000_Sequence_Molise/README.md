@@ -1,31 +1,45 @@
 # 🌎 2002 M5.9 Molise earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2002 M5.9 Molise earthquake in Italy.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-Two earthquakes hit the Italian regions of Molise and Apulia on 31 October at 10:32:58 (UTC) and 1 November at 15:09:00 (UTC). The shocks had magnitudes of 5.9 and 5.8 Mw respectively. Most of the victims were killed and injured when a school collapsed in the town of San Giuliano di Puglia:  26 of the 51 schoolchildren died, together with one of their teachers. In particular, none of the nine children in the school's 4th Year (mostly born in 1996) survived.
-[Wikipedia](https://en.wikipedia.org/wiki/2002_Molise_earthquakes)
+On 31 October 2002, at 11:32 local time, the first of two earthquakes struck the Molise and Apulia regions of Italy, registering a magnitude of 5.9 Mw. This was followed by a second earthquake on 1 November 2002, at 16:09 local time, with a magnitude of 5.8 Mw. Both seismic events reached a maximum intensity of VII on the Modified Mercalli Intensity (MMI) scale. The epicenter of the first earthquake was near San Giuliano di Puglia, a small town that suffered the most severe impact. The tragedy was compounded by the collapse of the town’s primary school, resulting in devastating casualties. Among the victims were 26 schoolchildren and one teacher, with the majority of fatalities occurring in a single 4th Year classroom. In total, the event caused approximately 30 fatalities and left over 30 individuals injured. The economic losses from the earthquake were substantial, estimated at around 796 million USD, with widespread destruction of buildings and infrastructure throughout the affected regions. While no occurrences of liquefaction, tsunamis, or landslides were reported, the disaster underscored the vulnerability of older buildings, particularly schools, to seismic activity. This tragic event emphasized the urgent need for stricter earthquake-resistant construction standards, especially for public structures critical to the safety of communities.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2002 |
+| Country | Italy |
+| Region | Europe |
+| Event Name | Molise 2002 |
+| Local Date | 31/10/2002 |
+| Local Time | 11:32:58 |
+| Latitude (decimal degrees) | 41.789 |
+| Longitude (decimal degrees) | 14.872 |
+| Depth (km) | 10 |
+| Mw | 5.9 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000bfqg |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./20021031_M5.74_Molise/4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./20021031_M5.74_Molise/4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2002                                                                   |
-| Country              | Italy                                                                  |
-| Region               | Molise                                                                 |
-| Event_Name           | Molise_2002                                                            |
-| Local_Date           | 31/10/2002                                                             |
-| Local_Time           | 10:32:58                                                               |
-| Latitude             | 41.789                                                                 |
-| Longitude            | 14.872                                                                 |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 5.9                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 29-30                                                                  |
-| Injured              | 33-135                                                                 |
-| Displaced_Population | 2295-3000                                                              |
-| Affected_Population  | 8533                                                                   |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 796 M USD                                                              |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000bfqg/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2002_Molise_earthquakes                  |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 29-30 |
+| Injured | 33-135 |
+| Displaced population | 2295-3000 |
+| Affected population | ~8533 |
+| Affected units | nan |
+| Damaged units | nan |
+| Collapsed units | nan |
+| Economic losses | 796 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

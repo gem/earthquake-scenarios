@@ -1,32 +1,45 @@
 # 🌎 2011 M7.1 Van earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2011 M7.1 Van earthquake in Turkey.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 2011 Van earthquakes occurred in eastern Turkey near the city of Van. The first earthquake happened on 23 October at 13:41 local time. The shock had a Mw magnitude of 7.1 and a maximum Mercalli intensity of VIII (Severe). It occurred at a shallow depth, causing heavy shaking across much of eastern Turkey and lighter tremors across neighboring parts of the South Caucasus and Levant. A separate earthquake within the same earthquake system happened on 9 November at 21:23 local time (19:23 UTC). The event had multiple aftershoks, over 7 of these have been greater than magnitude 5, including a M5.6 and M5.9 soon after the quake, a M6.0, 10 hours after the earthquake, and a M5.7 which caused much additional damage including collapsed houses
-[Wikipedia](https://en.wikipedia.org/wiki/2011_Van_earthquakes) and
-[Daniell et al 2011](https://www.researchgate.net/publication/258434207_Comparing_the_current_impact_of_the_Van_Earthquake_to_past_earthquakes_in_Eastern_Turkey?enrichId=rgreq-0eec0badb52a05532b28aa728c172c94-XXX&enrichSource=Y292ZXJQYWdlOzI1ODQzNDIwNztBUzo5NzI4MjEyMDc0OTA2OEAxNDAwMjA1MjczODc0&el=1_x_3&_esc=publicationCoverPdf)
+The `2011 Van earthquake`, a magnitude 7.1 event, struck eastern Turkey on October 23, 2011, at 13:41 local time. The maximum Mercalli intensity reached VIII. The epicenter was located near the city of Van. This powerful earthquake caused widespread devastation, particularly in the cities of Van and Erciş. The death toll was tragically high, with over 600 fatalities and 2600 injuries reported. Economic losses were nearly 1500 million USD, and the earthquake triggered numerous landslides and some localized liquefaction. 
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2011 |
+| Country | Turkey |
+| Region | Europe |
+| Event Name | Van 2011 |
+| Local Date | 23/10/2011 |
+| Local Time | 13:41:23 |
+| Latitude (decimal degrees) | 38.721 |
+| Longitude (decimal degrees) | 43.508 |
+| Depth (km) | 18 |
+| Mw | 7.1 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Reverse |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000j9rr |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -34,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2011                                                                   |
-| Country              | Turkey                                                                 |
-| Region               | Van                                                                    |
-| Event_Name           | Van_2011                                                               |
-| Local_Date           | 23/10/2011                                                             |
-| Local_Time           | 10:41:23                                                               |
-| Latitude             | 38.721                                                                 |
-| Longitude            | 43.508                                                                 |
-| Depth_(km)           | 18                                                                     |
-| Mw                   | 7.1                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 604                                                                    |
-| Injured              | 2608-4152                                                              |
-| Displaced_Population | 22000-150000                                                           |
-| Affected_Population  | 32938-700000                                                           |
-| Affected_Units       | 4882-40300 Buildings                                                   |
-| Damaged_Units        | 5739-33016 Buildings                                                   |
-| Collapsed_Units      | 2262-2309 Buildings                                                    |
-| Economic_Losses      | 1500 M USD                                                             |
-| Insured_Losses       | 90 M USD                                                               |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000j9rr/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2011_Van_earthquakes                     |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~604 |
+| Injured | 2608-4152 |
+| Displaced population | 22000-150000 |
+| Affected population | 32938-700000 |
+| Affected units | 4882-40300 Buildings |
+| Damaged units | 5739-33016 Buildings |
+| Collapsed units | 2262-2309 Buildings |
+| Economic losses | 1500 M USD |
+| Insured losses | 90 M USD |
+| Earthquake-triggered effects | nan |

@@ -1,0 +1,13 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
+SLV ,El Salvador ,315,315,3399,,275013,,17084,44750,Buildings,,,,,,ProteccionCivil,
+SLV ,El Salvador ,315,315,3399,,256021,,,,,348500000,,USD,,,EM_DAT ,"Geo Locations: Cuscatlan, La Libertad, La Paz, Morazan, San Salvador, San Vicente (Adm1)."
+SLV ,El Salvador ,315,315,3399,,,,,41302,Buildings,348500000,,USD,Landslides,,NOAA ,BUILDINGS_DAMAGED and BUILDINGS_COLLAPSED refer to homes.
+SLV ,El Salvador ,315,315,3399,,,,,,,,,,Landslides,,USGS ,
+SLV ,El Salvador ,315,315,3399,,252622-275013,,17084,57242,Buildings,,,,Landslides,,Wikipedia ,
+SLV ,El Salvador ,315,315,3399,,252622,,15706,41302,Buildings,,,,,,Reliefweb ,BUILDINGS_DAMAGED and BUILDINGS_COLLAPSED refer to homes.
+SLV ,El Salvador ,286,286,2969,,279753,,14339,35196,Buildings,,,,,,Desinventar,AFFECTED_POPULATION consists of directly and indirectly affected populations. BUILDINGS_DAMAGED and BUILDINGS_COLLAPSED refer to homes.
+SLV ,El Salvador ,315,315,3399,,>250000,,,57234,Buildings,,,,,,Notimerica,
+SLV ,El Salvador ,315,315,,,,,,41302,Dwellings,,,,,,MARN,"The damage includes: 82 public buildings damaged, 41,302 homes destroyed, 5 hospitals damaged, 73 churches damaged, 71 landslides"
+SLV ,El Salvador ,>300,>300,,,,,,,,,,,,,Learning_from_Earthquakes,
+SLV ,El Salvador ,315,315,3399,,256622,57008,15706,41302,Buildings,,,,Landslides,,PAHO_WHO_2001,
+SLV ,El Salvador ,315,315,3399,,252622,,,,,348500000,,USD,,,Guevara_et_al_2005,

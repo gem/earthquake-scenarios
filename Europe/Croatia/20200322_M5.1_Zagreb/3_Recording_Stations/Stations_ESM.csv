@@ -1,0 +1,13 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30_TYPE
+BLY,Banja Luka  Bosnia and Herzegovina,44.7488,17.1839,seismic,ESM,A (inferred from topography),0.000884647,0,0.00306702,0,0.002739411,0,0.001198124,0,A (inferred from topography)
+ACOM,Acomizza  Italy,46.548,13.5137,seismic,ESM,A (inferred from geology),0.000871405,0,0.002524688,0,0.001876298,0,0.00142344,0,A (inferred from geology)
+BAD,Bernadia  Italy,46.234,13.2438,seismic,ESM,B (inferred from geology),0.000577565,0,0.001719529,0,0.001027168,0,0.00078347,0,B (inferred from geology)
+BOO,Bordano  Italy,46.3195,13.0984,seismic,ESM,D (inferred from geology),0.000510223,0,0.001345456,0,0.001219998,0,0.000775001,0,D (inferred from geology)
+DRE,Drenchia  Italy,46.1733,13.645,seismic,ESM,B (inferred from geology),0.001800644,0,0.004667219,0,0.003281915,0,0.001664276,0,B (inferred from geology)
+PLRO,Paularo  Italy,46.5491,13.1481,seismic,ESM,B (inferred from geology),0.001438983,0,0.00478648,0,0.004186211,0,0.001218361,0,B (inferred from geology)
+PRED,Cave del Predil  Italy,46.4428,13.565,seismic,ESM,A (inferred from geology),0.000272354,0,0.000542514,0,0.000536204,0,0.000822694,0,A (inferred from geology)
+SABO,Monte Sabotino  Italy,45.9875,13.6336,seismic,ESM,B (inferred from geology),0.005792712,0,0.019029377,0,0.01700933,0,0.008587367,0,B (inferred from geology)
+BOJS,Bojanci  SL,45.5043,15.2518,seismic,ESM,B (inferred from topography),0.003423957,0,0.00669815,0,0.005517263,0,0.002214818,0,B (inferred from topography)
+CRES,Cresnjevec  SL,45.826,15.4569,seismic,ESM,A (inferred from topography),0.010728837,0,0.023274904,0,0.008171966,0,0.004018361,0,A (inferred from topography)
+KOGS,Kog  SL,46.4481,16.2504,seismic,ESM,B (inferred from topography),0.027596874,0,0.080348908,0,0.008882218,0,0.004547238,0,B (inferred from topography)
+VISS,Visnje  SL,45.8033,14.8393,seismic,ESM,B (inferred from topography),0.00445621,0,0.010722691,0,0.010027198,0,0.004696467,0,B (inferred from topography)

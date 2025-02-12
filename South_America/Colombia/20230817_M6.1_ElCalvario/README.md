@@ -1,30 +1,45 @@
 # 🌎 2023-08-17 M6.1 El Calvario earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2023-08-17 M6.1 El Calvario earthquake in Colombia.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-On August 17, 2023, at 12:04 local time, an earthquake of magnitude 6.1 and superficial depth (less than 30 kilometers) occurred in El Calvario, Meta. The event was felt mainly in the departments of Cundinamarca, Meta, Caquetá, Risaralda, Caldas, Cauca, Nariño and Santander. The Colombian Geological Service (SGC) confirmed that, since the occurrence of the main earthquake and until 2:00 p.m. on the same day, more than 20 aftershocks were registered (all located in Meta) with magnitudes ranging from 2.0 to 5.6, and with shallow depths.
-[SGC](https://www2.sgc.gov.co/Noticias/tpaginas/Comunicado-sismo-17-de-agosto-de-2023.docx.pdf)
+The `2023 El Calvario earthquake` struck near El Calvario, Meta, on August 17, 2023, at 12:04 local time, with a magnitude 6.1 earthquake and a superficial depth of less than 30 kilometers. The earthquake was strongly felt in nearby regions, significantly impacting El Calvario and its surrounding areas. The Modified Mercalli Intensity (MMI) in the epicentral zone reached VII, reflecting very strong shaking. Notably, no instances of liquefaction, landslides, tsunamis, or fires were observed during this event. The earthquake was preceded by minor foreshocks and followed by multiple aftershocks, with the strongest measuring 4.7 in magnitude, intensifying concerns among the affected communities.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2023 |
+| Country | Colombia |
+| Region | South America |
+| Event Name | El Calvario |
+| Local Date | 17/08/2023 |
+| Local Time | 12:04:57 |
+| Latitude (decimal degrees) | 4.4177 |
+| Longitude (decimal degrees) | -73.5111 |
+| Depth (km) | 10 |
+| Mw | 6.1 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Active shallow |
+| USGS event ID | us7000kp2i |
 
-## Ground shaking
+## Estimated and observed ground shaking
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -32,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2023                                                                   |
-| Country              | Colombia                                                               |
-| Region               | Meta                                                                   |
-| Event_Name           | El Calvario                                                            |
-| Local_Date           | 2023-08-17                                                             |
-| Local_Time           | 12:04:57                                                               |
-| Longitude            | -73.5111                                                               |
-| Latitude             | 4.4177                                                                 |
-| Depth_(km)           | 15                                                                     |
-| Mw                   | 6.1                                                                    |
-| Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Active Shallow                                                         |
-| Fatalities           | 0                                                                      |
-| Injured              | 0                                                                      |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 252                                                                    |
-| Collapsed_Units      | 20                                                                     |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us7000kp2i/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2023_central_Colombia_earthquakes        |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~0 |
+| Injured | ~0 |
+| Displaced population | nan |
+| Affected population | ~0 |
+| Affected units | nan |
+| Damaged units | ~82 |
+| Collapsed units | N/A |
+| Economic losses | nan |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

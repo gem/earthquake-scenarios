@@ -1,0 +1,10 @@
+ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,DESTROYED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,HOMELESS
+NPL,Nepal,9094,9094,22303,649815,886456,,288856,604930,,Buildings,7.00E+09,,USD,,,Government_of_Nepal_2015,Displaced and affected families. Houses damaged partially and fully. Economic losses estimated to be NPR 706 billion.,>1000000
+NPL,Nepal,8702,8702,22303,,27723,,,,,,3.51E+11,,NPR,,,World_Bank_2015,"The total effects (damages and losses) are valued at NPR 350,379 million, with the total damages amounting to NPR 303,631 million and the total losses estimated at NPR 46,748 million.",
+NPL,Nepal,8957,8957,24000,,,8000000,256697,498852,,Buildings,6.00E+09,,USD,Landslides occurred and roads and power lines damaged in Nepal.,,NOAA,At least 18 of the dead were killed at Mount Everest as the quake unleashed an avalanche that buried part of the base camp packed with foreign climbers preparing for summit attempts.,
+IND,India,78,78,560,,,,,,,,,,,,,NOAA,,
+CHN,China,29,29,383,,,,24700,2500,,Buildings,,,,,,NOAA,,
+BGD,Bangladesh,4,4,200,,,,17,,,Buildings,,,,,,NOAA,,
+NPL,Nepal,8831,8831,17932,,5639722,,,,,,5.17E+09,100000000,USD,,,EM_DAT,"Insured Damages and Total Damages, unadjusted ('000 US$).",
+NPL,Nepal,8659,8659,>100000,95100,,,269000,>500000,,Buildings,,,,,,UNOCHA_2015,,
+NPL,Nepal,,,,,,,,,,,,,,,,Nepal_agency_incident_report_2015,,3500000

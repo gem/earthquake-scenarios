@@ -1,36 +1,45 @@
 # 🌎 2009 M6.2 Cinchona earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2009 M6.2 Cinchona earthquake in Costa_Rica.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance
-- The `2009 Cinchona earthquake` occurred at 1:21:35 pm local time on January 8 with an Mwc magnitude of 6.1 and a maximum Mercalli intensity of VII (Very strong). The shock took place in northern Costa Rica, 30 kilometres (19 mi) north-northwest of San José and was felt throughout Costa Rica and in southern central Nicaragua. ([Wikipedia](https://en.wikipedia.org/wiki/2009_Cinchona_earthquake)). 
 
+The `2009 Cinchona earthquake` in Costa Rica occurred on January 8, with a moment magnitude of 6.2 and a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The earthquake struck at 13:21 local time, with its epicenter located near Cinchona, approximately 50 kilometers north of the capital, San José. The most affected areas included the central and northwestern regions of the country, particularly the provinces of Alajuela and Heredia, with significant damage in towns like Vara Blanca and Sarchí. The earthquake caused widespread infrastructure damage, resulting in reported economic losses exceeding 100 million USD. Tragically, more than 23 people lost their lives, and over 90 others were injured. Although no tsunamis were reported, landslides were extensive, particularly in the mountainous regions, severely disrupting transportation and impacting local communities. Liquefaction was not observed, and fires were minimal. Aftershocks followed the main event, with several occurring in the days that followed.
 
-### Type of sequence
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2009 |
+| Country | Costa Rica |
+| Region | Caribbean Central America |
+| Event Name | Cinchona |
+| Local Date | 08/01/2009 |
+| Local Time | 13:21:00 |
+| Latitude (decimal degrees) | 10.116 |
+| Longitude (decimal degrees) | -84.106 |
+| Depth (km) | 4.6 |
+| Mw | 6.2 |
+| Max Intensity (MMI) | IX in Cinchona e Isla Bonita  |
+| Fault mechanism | Strike slip |
+| Tectonic region type | Active shallow crustal  |
+| USGS event ID | usp000gscg |
 
+## Estimated and observed ground shaking
 
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-### Occurrence of other phenomena:
-
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -38,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2009                                                                   |
-| Country              | Costa Rica                                                             |
-| Region               | Alajuela                                                               |
-| Event_Name           | Cinchona                                                               |
-| Local_Date           | 08/01/2009                                                             |
-| Local_Time           | 13:21:00                                                               |
-| Longitude            | -84.106                                                                |
-| Latitude             | 10.116                                                                 |
-| Depth_(km)           | 4.6                                                                    |
-| Mw                   | 6.2                                                                    |
-| Max_Intensity_(MMI)  | IX in Cinchona e Isla Bonita                                           |
-| Fault_mechanism      | Strike slip                                                            |
-| Tectonic_region_type | Active shallow crustal                                                 |
-| Fatalities           | 23-98                                                                  |
-| Injured              | 91-100                                                                 |
-| Displaced_Population | 1244-2326                                                              |
-| Affected_Population  | 128527                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 518 Buildings                                                          |
-| Collapsed_Units      | 518 Buildings                                                          |
-| Economic_Losses      | 100-200 M USD                                                          |
-| Insured_Losses       | 100 M USD                                                              |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000gscg/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2009_Cinchona_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 23-98 |
+| Injured | 91-100 |
+| Displaced population | 1244-2326 |
+| Affected population | ~128527 |
+| Affected units | nan |
+| Damaged units | 518 Buildings |
+| Collapsed units | 518 Buildings |
+| Economic losses | 100-200 M USD |
+| Insured losses | 100 M USD |
+| Earthquake-triggered effects | nan |

@@ -1,27 +1,45 @@
 # 🌎 2016 M5.9 Bukoba earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2016 M5.9 Bukoba earthquake in Tanzania.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `2016 Bukoba earthquake` struck at 15:27 local time on 10 September 2016 with an estimated magnitude of Mw5.9 and very strong (VII) shaking on the border between Tanzania and Uganda. Tens of people died and hundreds were injured. Hundreds to thousands of homes were destroyed. Damage estimates range widely between different sources.
 
-## Ground shaking
+The `2016 Bukoba earthquake` in Tanzania occurred on September 10, 2016, at 15:27 local time, with a magnitude of 5.9 and very strong (VII) shaking along the border between Tanzania and Uganda. The earthquake's epicenter was located near Bukoba, in the Kagera Region of northwestern Tanzania, close to the borders with Uganda and Rwanda. The most affected regions included Bukoba Town, the Kagera Region, and surrounding areas, extending into parts of Uganda. The earthquake caused significant damage to infrastructure, homes, and businesses, resulting in economic losses estimated at approximately 458 million USD (at the time of the event). Tragically, the event led to at least 21 fatalities and around 440 injuries. In addition to the structural damage, there were reports of landslides in the affected areas, although no liquefaction, tsunamis, or fires were observed as a result of the earthquake.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2016 |
+| Country | Tanzania |
+| Region | Africa |
+| Event Name | Bukoba 2016 |
+| Local Date | 10/09/2016 |
+| Local Time | 15:27:33 |
+| Latitude (decimal degrees) | -1.0355 |
+| Longitude (decimal degrees) | 31.6181 |
+| Depth (km) | 40 |
+| Mw | 5.9 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Strike-slip |
+| Tectonic region type | Cratonic |
+| USGS event ID | us10006nkx |
 
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
+## Estimated and observed ground shaking
+
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_all.png" height="250">
 
 ## ☄️ Consequences
 
@@ -29,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2016                                                                   |
-| Country              | Tanzania, Uganda                                                       |
-| Region               | Kagera                                                                 |
-| Event_Name           | Bukoba_2016                                                            |
-| Local_Date           | 10/09/2016                                                             |
-| Local_Time           | 15:27:33                                                               |
-| Latitude             | -1.0355                                                                |
-| Longitude            | 31.6181                                                                |
-| Depth_(km)           | 40                                                                     |
-| Mw                   | 5.9                                                                    |
-| Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | Strike-slip                                                            |
-| Tectonic_region_type | Cratonic                                                               |
-| Fatalities           | 21-23                                                                  |
-| Injured              | 440                                                                    |
-| Displaced_Population | 590-10000                                                              |
-| Affected_Population  | 139161                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 1125-6281 Units                                                        |
-| Collapsed_Units      | 118-7500 Units                                                         |
-| Economic_Losses      | 458000 M USD                                                           |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us10006nkx/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2016_Tanzania_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 21-23 |
+| Injured | ~440 |
+| Displaced population | 590-10000 |
+| Affected population | ~139161 |
+| Affected units | nan |
+| Damaged units | 1125-6281  |
+| Collapsed units | 118-7500  |
+| Economic losses | 458 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

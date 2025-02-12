@@ -1,0 +1,11 @@
+﻿ID_1,NAME_1,TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNKNOWN,MINOR,MIDDLE,SEVERE,COLLAPSE,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,FATAL,DAMAGED,SAFE,X
+,"Hyogo, Osaka, Kyoto",CR/LFINF,,,,433,1317,161,63,33,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",Precast CR,,,,3,15,2,1,0,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",SRC (Steel and RC),,,,62,250,72,26,19,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",S (Steel),,,,201,401,93,48,9,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",Wood,,,,28,26,7,6,3,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",Combined,,,,60,82,29,9,3,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+,"Hyogo, Osaka, Kyoto",Unknown,,,,48,71,13,8,0,Buildings,,Building_Research_Institute_1996 - Buildings Contractor Society,,,,,
+28,Hyogo,CR/LFINF,,,,,,,,,Buildings,,Building_Research_Institute_1996 - Emergency Risk Assessment,"Buildings are classified in safe, damaged and fatal based on investigation sheets. Some sheets were incompleted, and judgement was impossible for such buildings. Among them, if there were no special description in the margin of the sheet, the building was assumed to be safe, and the rest were labeled as X.",355,340,11828,64
+28,Hyogo,S (Steel),,,,,,,,,Buildings,,Building_Research_Institute_1996 - Emergency Risk Assessment,"Buildings are classified in safe, damaged and fatal based on investigation sheets. Some sheets were incompleted, and judgement was impossible for such buildings. Among them, if there were no special description in the margin of the sheet, the building was assumed to be safe, and the rest were labeled as X.",643,979,4234,21
+28,Hyogo,Wood,,,,,,,,,Buildings,,Building_Research_Institute_1996 - Emergency Risk Assessment,"Buildings are classified in safe, damaged and fatal based on investigation sheets. Some sheets were incompleted, and judgement was impossible for such buildings. Among them, if there were no special description in the margin of the sheet, the building was assumed to be safe, and the rest were labeled as X.",5222,7033,5195,32

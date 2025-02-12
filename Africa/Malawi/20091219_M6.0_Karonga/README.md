@@ -1,31 +1,45 @@
 # 🌎 2009-12-19 M6.0 Karonga earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2009-12-19 M6.0 Karonga earthquake in Malawi.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-The 2009 Karonga earthquakes occurred near Karonga, Malawi in December 2009 near the northern tip of Lake Malawi in southeast Africa. The earthquakes were one of the biggest in the history of Malawi.
-[Wikipedia](https://en.wikipedia.org/wiki/2009_Karonga_earthquakes)
+The `2009 Karonga earthquakes` in Malawi struck on December 19, 2009, at 15:02 local time. The epicenter was located near the town of Karonga, in the northern part of the country, close to the border with Tanzania. The earthquake, which had a magnitude of 6.0, was most strongly felt in the northern regions of Malawi, particularly in the cities of Karonga, Mzuzu, and surrounding areas. The quake caused significant damage to buildings and infrastructure, resulting in the tragic loss of at least 3 lives and more than 250 injuries. While no tsunamis or major fires were reported, the earthquake triggered landslides in the affected regions. Liquefaction was also observed in some areas, which contributed to further damage.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2009 |
+| Country | Malawi |
+| Region | Africa |
+| Event Name | Karonga |
+| Local Date | 19/12/2009 |
+| Local Time | 15:02:00 |
+| Latitude (decimal degrees) | -10.108 |
+| Longitude (decimal degrees) | 33.818 |
+| Depth (km) | 6 |
+| Mw | 6 |
+| Max Intensity (MMI) | VII |
+| Fault mechanism | Dip Slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000h56x |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2009                                                                   |
-| Country              | Malawi                                                                 |
-| Region               | nan                                                                    |
-| Event_Name           | Karonga                                                                |
-| Local_Date           | 2009-12-19                                                             |
-| Local_Time           | 1261264755550                                                          |
-| Longitude            | 33.818                                                                 |
-| Latitude             | -10.108                                                                |
-| Depth_(km)           | 6                                                                      |
-| Mw                   | 6.0                                                                    |
-| Max_Intensity_(MMI)  | VII                                                                    |
-| Fault_mechanism      | nan                                                                    |
-| Tectonic_region_type | nan                                                                    |
-| Fatalities           | nan                                                                    |
-| Injured              | nan                                                                    |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | nan                                                                    |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | nan                                                                    |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000h56x/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2009_Karonga_earthquakes                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~3 |
+| Injured | ~250 |
+| Displaced population | nan |
+| Affected population | nan |
+| Affected units | nan |
+| Damaged units | ~3565 |
+| Collapsed units | ~1111 |
+| Economic losses | nan |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

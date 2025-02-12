@@ -1,32 +1,45 @@
 # 🌎 2020 M6.4 Petrijna earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2020 M6.4 Petrijna earthquake in Croatia.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-At approximately 12:20 PM CET (11:20 UTC) on 29 December 2020, an earthquake of magnitude 6.4 Mw (6.2 ML) hit central Croatia, with an epicenter located roughly 3 km (1.9 mi) west-southwest of Petrinja. The maximum felt intensity was estimated at VIII (Heavily damaging) to IX (Destructive) on the European macroseismic scale. Before this event there were three foreshocks, the strongest of which had a magnitude of 5.2 Mw on the day before. The earthquake was followed by numerous aftershocks, the strongest of which had a magnitude of 4.9 Mw. The adversely affected areas were mostly in the Sisak-Moslavina County and other nearby Croatian counties, as well as some of the nearby areas of Bosnia and Slovenia.
-Seven people were confirmed dead, while 26 others were injured, with six having serious injuries. Initial reports show many buildings destroyed in Petrinja. The mayor of Petrinja, Darinko Dumbović, said that half of the town has been destroyed.The first multidisciplinary scientific paper on Petrinja 2020 earthquake was published in Remote Sensing journal in March 2021.
-[Wikipedia](https://en.wikipedia.org/wiki/2020_Petrinja_earthquake)
+The `2020 Petrinja earthquake`, with a magnitude of M6.4, struck central Croatia on December 29, 2020, at 12:19 local time. This powerful event reached a maximum intensity of IX on the Modified Mercalli Intensity (MMI) scale. The epicenter was near the town of Petrinja, approximately 47 kilometers southeast of Zagreb. The earthquake caused extensive destruction in Petrinja and the surrounding areas, including the cities of Sisak and Glina, where numerous buildings sustained severe damage or were completely destroyed. The economic losses were estimated at over 4187 million USD. Tragically, the earthquake claimed at least 8 lives and left over 36 people injured. Liquefaction was observed in the affected region, compounding the structural damage; however, no landslides, tsunamis, or fires were reported. The mainshock was preceded by foreshocks, notably a M5.2 event on December 28, and followed by a series of aftershocks, the largest being a M4.9 tremor later on the same day.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2020 |
+| Country | Croatia |
+| Region | Europe |
+| Event Name | Petrijna 2020 |
+| Local Date | 29/12/2020 |
+| Local Time | 12:19 |
+| Latitude (decimal degrees) | 45.4244 |
+| Longitude (decimal degrees) | 16.2573 |
+| Depth (km) | 10 |
+| Mw | 6.4 |
+| Max Intensity (MMI) | IX |
+| Fault mechanism | Reverse |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | us6000d3zh |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -34,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2020                                                                   |
-| Country              | Croatia                                                                |
-| Region               | Petrijna                                                               |
-| Event_Name           | Petrijna_2020                                                          |
-| Local_Date           | 29/12/2020                                                             |
-| Local_Time           | 18:19:54                                                               |
-| Latitude             | 45.4244                                                                |
-| Longitude            | 16.2573                                                                |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 6.4                                                                    |
-| Max_Intensity_(MMI)  | IX                                                                     |
-| Fault_mechanism      | Reverse                                                                |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 8                                                                      |
-| Injured              | 36                                                                     |
-| Displaced_Population | nan                                                                    |
-| Affected_Population  | 149407                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 34056-46000 Buildings                                                  |
-| Collapsed_Units      | 1500-3062 Buildings                                                    |
-| Economic_Losses      | 4187-6223 M USD                                                        |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us6000d3zh/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2020_Petrinja_earthquake                 |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | ~8 |
+| Injured | ~36 |
+| Displaced population | nan |
+| Affected population | ~149407 |
+| Affected units | nan |
+| Damaged units | 34056-46000 Buildings |
+| Collapsed units | 1500-3062 Buildings |
+| Economic losses | 4187-6223 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | nan |

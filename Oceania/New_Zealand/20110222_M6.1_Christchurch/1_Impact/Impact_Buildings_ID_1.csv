@@ -1,0 +1,10 @@
+﻿ID_1,NAME_1,TAXONOMY,GEM_TAXONOMY,AFFECTED_UNITS,DAMAGED_UNITS,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,COLLAPSED_UNITS,UNIT_TYPES,CAUSE_OF_DAMAGE,REFERENCE,COMMENTS,SLIGHT/LIGHT,MODERATE,HEAVY/MAJOR
+3,Canterbury_Region,Timber/Bamboo ,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,83,233,192
+3,Canterbury_Region,Steel Frame ,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,74,38,20
+3,Canterbury_Region,Tilt-up Concrete,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,35,131,29
+3,Canterbury_Region,Concrete Frame,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,39,153,71
+3,Canterbury_Region,RC Frame with Masonry Infill,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,36,23,8
+3,Canterbury_Region,Concrete Shear Wall,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,72,67,17
+3,Canterbury_Region,Unreinforced Masonry ,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,24,183,338
+3,Canterbury_Region,Concrete Masonry Unit,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,87,129,27
+3,Canterbury_Region,Other,,,,,,,,,Buildings,Ground_shaking,Lin_et_al_2014 + Cambridge Earthquake Impact Database,Damage Scale: ATC-13. 2185 buildings investigated.,52,20,4

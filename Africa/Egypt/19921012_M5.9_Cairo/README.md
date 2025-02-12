@@ -1,37 +1,45 @@
 # 🌎 1992 M5.8 Cairo earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 1992 M5.8 Cairo earthquake in Egypt.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `1992 Cairo earthquake` struck at 13:08 local time on 12 October 1992 with an estimated magnitude of Mw5.8 and severe (VIII) shaking. The earthquake left 545-552 dead, 6,512-9,929 injured, and 25,020-50,000 displaced. There were an estimated 9,000 severely damaged buildings and 350 destroyed buildings. The direct economic loss was estimated to be about $1.2B-4.0B (EM-DAT, NOAA, [Wikipedia](https://en.wikipedia.org/wiki/1992_Cairo_earthquake)).
 
-Despite the moderate magnitude and depth of ~20 km, the event was still desctructive. In Cairo alone, there were 8,500 damaged buildings. Notably, a 14-storey reinforced concrete building collapsed in Heliopolis, cairo, killing 71 people. Damage statistics for Cairo have been investigated, such as by Sadek 1999. 
+The `1992 Cairo earthquake` struck Egypt on October 12, 1992, at at 13:08 local time, with an estimated magnitude of Mw 5.8 and severe shaking measured at intensity VIII. The earthquake's epicenter was located near Dahshur, approximately 35 kilometers south of Cairo. The quake caused significant damage in Cairo and the surrounding areas, particularly in neighborhoods such as Helwan and rural villages near the epicenter. It resulted in at least 545 fatalities, injured over 6500 people, and left many homeless. Economic losses were estimated at more than $1200 million USD (at the time of the event). The earthquake was followed by several aftershocks, as summarized in studies by Badawy and Mónus (1995). The event caused widespread building collapses and structural damage. Liquefaction was reported in areas near the epicenter. However, there were no reports of landslides, tsunamis, or fires associated with the earthquake.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 1992 |
+| Country | Egypt |
+| Region | Africa |
+| Event Name | Cairo 1992 |
+| Local Date | 12/10/1992 |
+| Local Time | 13:09:55 |
+| Latitude (decimal degrees) | 29.778 |
+| Longitude (decimal degrees) | 31.144 |
+| Depth (km) | 21.5 |
+| Mw | 5.8 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Dip-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp0005f89 |
 
-### Type of sequence
-The Cairo 1992 event at 13:08 local time is considered a main shock, which was followed by several aftershocks. Aftershocks are summarized in Badawy and Mónus 1995.
+## Estimated and observed ground shaking
 
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-### Occurrence of other phenomena: 
-Liquqefaction was reported in areas near the epicenter.
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -39,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 1992                                                                   |
-| Country              | Egypt                                                                  |
-| Region               | Cairo                                                                  |
-| Event_Name           | Cairo_1992                                                             |
-| Local_Date           | 12/10/1992                                                             |
-| Local_Time           | 13:09:55                                                               |
-| Latitude             | 29.778                                                                 |
-| Longitude            | 31.144                                                                 |
-| Depth_(km)           | 21.5                                                                   |
-| Mw                   | 5.8                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Dip-slip                                                               |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 545-561                                                                |
-| Injured              | 6512-12199                                                             |
-| Displaced_Population | 25020-50000                                                            |
-| Affected_Population  | 57700-92649                                                            |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 8300-9350 Units                                                        |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 1200-4000 M USD                                                        |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Liquefaction                                                           |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp0005f89/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/1992_Cairo_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 545-561 |
+| Injured | 6512-12199 |
+| Displaced population | 25020-50000 |
+| Affected population | 57700-92649 |
+| Affected units | nan |
+| Damaged units | 8300-9350  |
+| Collapsed units | nan |
+| Economic losses | 1200-4000 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Liquefaction |

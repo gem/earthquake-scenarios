@@ -1,38 +1,44 @@
 # 🌎 2003 M6.8 Boumerdes earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2003 M6.8 Boumerdes earthquake in Algeria.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
-The `2003 Boumerdes earthquake` struck at 19:44 local time on 21 May 2003 with an estimated magnitude of Mw6.8 and violent (IX) to extreme (X) shaking. The earthquake left 2,266-2,287 dead, 10,261-11,000 injured, and 200,000 displaced. NOAA estimated 19,000 destroyed and 163,000 damaged houses. The direct economic loss was estimated to be about $5B (EM-DAT, NOAA, [Wikipedia](https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake)).
 
-The Boumerdès Province (Thénia, Zemmouri, Bourmerdès) experienced heavy damage. Many buildings built in the early twentieth century during the colonial rule suffered heavy damage in the Belcourt, Bab-El-Oued and El-Casbah areas in Algiers Province
+The `2003 Boumerdes earthquake` struck northern Algeria on May 21, 2003, at approximately 19:44 local time, with an estimated magnitude of Mw6.8 and violent (IX) to extreme (X) shaking. The earthquake had its epicenter near the town of Zemmouri, approximately 50 km east of Algiers. The Boumerdès Province (Thénia, Zemmouri, Bourmerdès) experienced heavy damage. Many buildings built in the early twentieth century during the colonial rule suffered heavy damage in the Belcourt, Bab-El-Oued and El-Casbah areas in Algiers Province. The earthquake caused devastating economic losses, estimated at around $5000 million USD (at the time of the event), and led to the tragic loss of at least 2266 lives, with over 10000 injuries reported. The Boumerdes 2003 event at 19:44 local time is considered a main shock, which was followed by several aftershocks. Refer to Kherroubi et. al. 2017 for more information on aftershocks. Liquefaction was widely observed, particularly along the coastal areas, contributing to infrastructure damage, while landslides exacerbated the destruction in hilly regions. A minor tsunami was also triggered, reaching the shores of the western Mediterranean, and damaged some boats but no significant fires were reported in the aftermath. This event remains one of the most impactful earthquakes in the region's recent history.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2003 |
+| Country | Algeria |
+| Region | Africa |
+| Event Name | Boumerdes 2003 |
+| Local Date | 21/05/2003 |
+| Local Time | 19:44:21 |
+| Latitude (decimal degrees) | 36.91 |
+| Longitude (decimal degrees) | 3.71 |
+| Depth (km) | 12 |
+| Mw | 6.8 |
+| Max Intensity (MMI) | IX-X |
+| Fault mechanism | Dip-slip |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | usp000bxpg |
 
+## Estimated and observed ground shaking
 
-### Type of sequence
-The Boumerdes 2003 event at 19:44 local time is considered a main shock, which was followed by several aftershocks. Refer to Kherroubi et. al. 2017 for more information on aftershocks.
-
-
-### Occurrence of other phenomena: 
-A localized tsunami (3m) formed and damaged some boats.
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -40,35 +46,16 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2003                                                                   |
-| Country              | Algeria                                                                |
-| Region               | Boumerdes                                                              |
-| Event_Name           | Boumerdes_2003                                                         |
-| Local_Date           | 21/05/2003                                                             |
-| Local_Time           | 19:44:21                                                               |
-| Latitude             | 36.91                                                                  |
-| Longitude            | 3.71                                                                   |
-| Depth_(km)           | 12                                                                     |
-| Mw                   | 6.8                                                                    |
-| Max_Intensity_(MMI)  | IX-X                                                                   |
-| Fault_mechanism      | Dip-slip                                                               |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 2266-2287                                                              |
-| Injured              | 10261-11000                                                            |
-| Displaced_Population | 200000                                                                 |
-| Affected_Population  | 210261                                                                 |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | nan                                                                    |
-| Collapsed_Units      | nan                                                                    |
-| Economic_Losses      | 5000 M USD                                                             |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | Tsunami                                                                |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000bxpg/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake           |
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 2266-2287 |
+| Injured | 10261-11000 |
+| Displaced population | ~200000 |
+| Affected population | ~210261 |
+| Affected units | nan |
+| Damaged units | nan |
+| Collapsed units | nan |
+| Economic losses | 5000 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Tsunami |
 
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.

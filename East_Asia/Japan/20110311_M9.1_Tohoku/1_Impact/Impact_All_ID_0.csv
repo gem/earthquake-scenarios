@@ -1,0 +1,8 @@
+﻿ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS,INJURIES_LIGHT,INJURIES_SEVERE,INJURIES_CRITICAL,HOMELESS,SHELTERED,DS1_SLIGHT,DS2_MODERATE,DS3_EXTENSIVE,DS4_COMPLETE,TAXONOMY,GEM_TAXONOMY,OCCUPANCY
+JPN,Japan,20350,,5314,130927,,>332395,,,Buildings,3.09E+11,,USD,Tsunami,,USGS,"332,395 buildings destroyed or damaged.",,,,,,,,,,,,
+JPN,Japan,18574,,,500000,,,1100000,400000,Buildings,1.69E+11,,USD,Tsunami,,Kohnson_Olshansky_2016,0.5M evacuated in the first week. 400k buildings completely destroyed or severely damaged.,,,,,,,,,,,,
+JPN,Japan,18428,1475,6167,,,,280920,123661,Buildings,2.20E+11,,USD,Tsunami,,NOAA,"Earthquake effects: 1,475 deaths, 6,157 injured, 4,401.709 M USD, 2,473 houses destroyed, 5,618 houses damaged.",,,,,,,,,,,,
+JPN,Japan,19846,,5933,,368820,,,,,2.10E+11,37500000000,USD,Tsunami,,EM-DAT,"Insured Damages and Total Damages, unadjusted ('000 US$).",,,,,,,,,,,,
+JPN,Japan,22312,,6242,,,,,,,,,,,,Press release no. 162 of the 2011 Tohuku earthquake,https://web.archive.org/web/20220827123449/https://www.fdma.go.jp/disaster/higashinihon/items/162.pdf,,,,,,,,,,,,
+JPN,Japan,,,,,,,144300,121778,,,,,,,National_Police_Agency_of_Japan_2021,,,,,,,,,,,,,
+JPN,Japan,13135,,,,,,,,,,,,,,EEFIT report + Cambridge Earthquake Impact Database,"Causes of death from the Mw9.0 T_hoku earthquake and tsunami (The Japan Times, 2011): 12,143 drowing, 148 burns, 578 crushed/died of injuries, 266 unknown.",,,,,,,,,,,,

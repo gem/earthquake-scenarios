@@ -1,0 +1,9 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,SA(0.3)_VALUE,SA(0.3)_LN_SIGMA,SA(0.6)_VALUE,SA(0.6)_LN_SIGMA,SA(1.0)_VALUE,SA(1.0)_LN_SIGMA,VS30_TYPE
+BANR,Banloc,45.3828,21.137,seismic,ESM,C (inferred from topography),0.001045345,0,0.002500392,0,0.002508812,0,0.001815744,0,C (inferred from topography)
+BLY,Banja Luka  Bosnia and Herzegovina,44.7488,17.1839,seismic,ESM,A (inferred from topography),0.000319892,0,0.000960847,0,0.000996427,0,0.001176497,0,A (inferred from topography)
+BZS,Buzias,45.6188,21.6401,seismic,ESM,A (inferred from topography),0.000483248,0,0.001599281,0,0.000773921,0,0.000422896,0,A (inferred from topography)
+CRAR,Craiova DJ,44.325,23.7999,seismic,ESM,B (inferred from topography),0.001149211,0,0.003411121,0,0.002420684,0,0.000856311,0,B (inferred from topography)
+DEV,Deva,45.887,22.898,seismic,ESM,A (inferred from topography),0.000589597,0,0.001707004,0,0.000984493,0,0.000858636,0,A (inferred from topography)
+GZR,Gura Zlata,45.3933,22.7767,seismic,ESM,A (inferred from topography),0.001129292,0,0.003926501,0,0.000791217,0,0.000301381,0,A (inferred from topography)
+LOT,Lotru,45.446,23.7698,seismic,ESM,A (inferred from topography),0.000432727,0,0.001498267,0,0.000732983,0,0.000214129,0,A (inferred from topography)
+PDG,Podgorica  Montenegro,42.4297,19.2608,seismic,ESM,A (inferred from geology),0.00031503,0,0.000974179,0,0.000731173,0,0.000590117,0,A (inferred from geology)

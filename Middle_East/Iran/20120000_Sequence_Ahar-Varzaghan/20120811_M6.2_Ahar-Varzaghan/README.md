@@ -1,66 +1,48 @@
 # 🌎 2012 M6.2 Ahar-Varzaghan earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2012 M6.2 Ahar-Varzaghan earthquake in Iran.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-- The `2012 East Azerbaijan earthquakes` – also known as the `Ahar earthquakes` – occurred on 11 August 2012, at 16:53 IR Time, near the cities of Ahar and Varzaqan in Iran's East Azerbaijan Province, approximately 60 km from Tabriz. They comprised a doublet separated by eleven minutes, with magnitudes of 6.4 and 6.2 Mw. At least 306 people died, and more than 3000-5000 others were injured, primarily in the rural and mountainous areas to the northeast of Tabriz (though 45 died in the city of Ahar). The shocks were felt in Armenia and the Republic of Azerbaijan, though no major damage was reported. In the area of these earthquakes, 18618 housing units were damaged, of which 5329 were completely destroyed. A total of 410 villages have been destroyed and 65 completely destroyed. To give you a balpark, the total amount of damage to East Azerbaijan provinces since the August 12 earthquake was more than 1079 billion Rials ([Wikipedia](https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)).
-- Following this twin earthquakes, more than 20 villages such as Zangabad, Gourdeh, Dino, Bajebaj, Sarand, and Shahsavar have completely destroyed and cities of Varzaghan, Ahar and Heriss suffered different levels of the damage ( See [Seyed_Razzaghi_And_Ghafory_Ashtiany_2012](Iran/DRAFT_20120811_M6.5_Varzaghan/References/Razzaghi_And_Ghafory_Ashtiany_2012.pdf) in the References folder).
+The `second earthquake in the 2012 East Azerbaijan sequence` occurred on August 11, 2012, with a moment magnitude of 6.2 and a maximum MMI of VIII. It struck shortly after the main shock, at 17:04 local time, with its epicenter near the same area of Ahar and Varzaghan. This aftershock further affected the already impacted regions, including Ahar and Varzaghan, exacerbating the damage and casualties. The event contributed to the overall toll, with additional fatalities and injuries reported. Like the first earthquake, landslides were observed, but there was no liquefaction, tsunamis, or fires. The aftershock continued to disrupt the region, with ongoing aftershocks felt in the following days.
 
+| FIELD | DESCRIPTION |
+|:------|:------------|
+| Year | 2012 |
+| Country | Iran |
+| Region | Middle East |
+| Event Name | Ahar-Varzaghan |
+| Local Date | 11/08/2012 |
+| Local Time | 17:04:00 |
+| Latitude (decimal degrees) | 38.45 |
+| Longitude (decimal degrees) | 46.75 |
+| Depth (km) | 12 |
+| Mw | 6.2 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Thrust |
+| Tectonic region type | Active Crustal |
+| USGS event ID | usp000jq5p |
 
-### Type of sequence
-- At least 80 aftershocks were felt. A 5.0 quake struck three hours later and a 5.1 aftershock struck 31 km southwest of Ahar on 12 August. On 14 August, three days after the initial quakes, another 5.1 aftershocks struck the same area at a depth of 10 km. An even stronger 5.3 tremor occurred on 15 August, approximately 34 km southwest of Ahar ([Wikipedia](https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)).
-- From August 12 to March 18, a total of 4322 aftershocks were recorded, of which the intensity was 3523 smaller than 2.5, 447 aftershocks between 2.5 and 3, 272 earthquakes between 3 and 4 and 45 cases between 4 and 5 ([Wikipedia](https://fa.wikipedia.org/wiki/%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1%D8%B2%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DB%B1%DB%B3%DB%B9%DB%B1_%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86_%D8%B4%D8%B1%D9%82%DB%8C)).
+## Estimated and observed ground shaking
 
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-### Occurrence of other phenomena:
-- Several landslides and rock falls occurred in the stricken area, as shown in Figures 7. Most of the observed landslides and rock falls were happened next to the Khajeh- Ahar and Khajeh-Varzaghan roads. The distances of the most observed rock falls to the epicenter were less than 20 Km. No evidence of liquefaction and/or sand boiling observed in the stricken area ( See [Seyed_Razzaghi_And_Ghafory_Ashtiany_2012](Iran/DRAFT_20120811_M6.5_Varzaghan/References/Razzaghi_And_Ghafory_Ashtiany_2012.pdf) in the References folder).
-
-
-
-## Ground shaking
-
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
 The information collected for the consequences of the event and the corresponding references is available in the [Impact](./Impact) folder. When available, information at different geographical levels is provided considering the building damage, economic losses and human impact.
 
-A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
-
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2012                                                                   |
-| Country              | Iran                                                                   |
-| Region               | East Azarbaijan                                                        |
-| Event_Name           | Ahar-Varzaghan                                                         |
-| Local_Date           | 11/08/2012                                                             |
-| Local_Time           | 17:04:00                                                               |
-| Longitude            | 46.75                                                                  |
-| Latitude             | 38.45                                                                  |
-| Depth_(km)           | 12                                                                     |
-| Mw                   | 6.2                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Thrust                                                                 |
-| Tectonic_region_type | Active Crustal                                                         |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/usp000jq5p/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes         |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file.

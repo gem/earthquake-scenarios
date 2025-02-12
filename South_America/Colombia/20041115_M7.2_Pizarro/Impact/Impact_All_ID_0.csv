@@ -1,9 +1,0 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-COL,Colombia,,,10,,,,,154,Buildings,,,,,,NOAA,
-COL,Colombia,,,20,,8016,,,,,,,,,,EM_DAT,Geo locations: 
-COL,Colombia,0,0,14,,,,,,,,,,,,UTSU,
-COL,Colombia,,,16,,,1000,800,,Buildings,,,,,,ELUNIVERSO,
-COL,Colombia,,,,,,,611,250,Buildings,,,,Liquefaction,,INGEOMINAS_INFORME_V2,
-COL,Colombia,,,,,8016,,1530,240,Buildings,,,,,,Reliefweb,
-COL,Colombia,,,6,,,,>1000,,Buildings,,,,,,Verisk,
-COL,Colombia,,,,,,,1978,296,Buildings,,,,,,Desinventar,

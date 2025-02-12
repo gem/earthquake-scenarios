@@ -1,0 +1,22 @@
+STATION_ID,STATION_NAME,LATITUDE,LONGITUDE,STATION_TYPE,REFERENCES,SOIL_TYPE,PGA_VALUE,PGA_LN_SIGMA,PGA_VALUE_1,PGA_VALUE_2,PGA_VALUE_V,VS30
+ANGO,ANGOL-Hospital,-37.79,-72.71,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,IX,0.928,0,0.928,0.681,0.281,315
+Aislado (Centro),Aislado (Centro),-33.46658333,-70.65205556,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,RM,0.309,0,0.218,0.309,0.182,
+CONC,CONCEPCIÓN-Colegio Inmaculada Concepción,-36.82827778,-73.04819444,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VII,0.402,0,0.402,0.284,0.398,230
+CONT,CONSTITUCIÓN-Hospital,-35.34,-72.4,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VII,0.64,0,0.552,0.64,0.352,220-343
+COPI,COPIAPÓ-Hospital,-27.37372222,-70.32158333,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,III,0.03,0,0.016,0.03,0.008,
+CRMA,MAIPÚ-Centro de Referencia de Salud,-33.50866667,-70.77141667,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,RM,0.561,0,0.561,0.478,0.24,375-450
+CURI,CURICÓ-Hospital,-34.9905,-71.23669444,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VII,0.47,0,0.47,0.409,0.198,540-673
+El Salto Etna,VIÑA EL SALTO,-33.04722222,-71.50986111,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.351,0,0.351,0.338,0.261,
+HSOR,PUENTE ALTO-Hospital Sótero del Río,-33.57802778,-70.58097222,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,RM,0.265,0,0.265,0.263,0.13,
+HTIS,PEÑALOLÉN-Hospital Luis Tisné,-33.50141667,-70.57922222,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,RM,0.295,0,0.295,0.293,0.28,
+HUAL,HUALAÑÉ-Hospital,-34.97627778,-71.80586111,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VII,0.461,0,0.389,0.461,0.39,527-560
+LLO,LLOLLEO,-33.62,-71.6,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.564,0,0.319,0.564,0.702,305
+MAT,MATANZAS-Escuela Carlos Ibáñez del Campo,-33.96,-71.87,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VI,0.342,0,0.342,0.308,0.234,380
+MET,LA FLORIDA-Metro Línea 5 Estación Mirador,-33.51386111,-70.60525,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,RM,0.236,0,0.236,0.165,0.13,685
+PAP,PAPUDO,-32.52,-71.45,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.421,0,0.295,0.421,0.155,517
+TAL,TALCA-Colegio Integrado San Pío X,-35.43,-71.63,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,VII,0.477,0,0.477,0.424,0.244,598-648
+VALD,VALDIVIA-Hospital,-39.83141944,-73.23913889,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,XV,0.138,0,0.092,0.138,0.051,
+VALD,VALPARAÍSO-Almendral,-33.03,-71.6,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.265,0,0.224,0.265,0.146,360
+VALU,VALPARAÍSO-UTFSM,-33.03,-71.62,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.304,0,0.137,0.304,0.079,1421
+VINA,VIÑA DEL MAR-Centro,-33.02491667,-71.55294444,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,V,0.334,0,0.219,0.334,0.186,273
+Vallenar,VALLENAR-Liceo Santa Marta,-28.57655556,-70.75519444,seismic,Informe_UCH_2010_And_Boroschek_et_al_2012,III,0.02,0,0.019,0.02,0.01,

@@ -1,5 +1,0 @@
-ID_0,NAME_0,FATALITIES,FATALITIES_GROUND_SHAKING,INJURIES,lightly_injured,INJURIES_LIGHT,seriously_injured,INJURIES_SEVERE,DISPLACED_POPULATION,AFFECTED_POPULATION,AFFECTED_UNITS,DAMAGED_UNITS,COLLAPSED_UNITS,UNIT_TYPES,ECONOMIC_LOSSES,RECONSTRUCTION_COST,INSURED_LOSSES,CURRENCY,INDUCED_EFFECTS,FLAG,REFERENCE,COMMENTS
-ROU,Romania,14,14,362,,,,,,,,,,,30000000,,,USD,,,Wikipedia English,
-ROU,Romania,14,14,700,,,,,,,,,,,23700000,,,USD,,,NOAA,
-ROU,Romania,9,9,700,,,,,,,,,,,,,23700000,USD,,,EM-DAT,1- The insured damages adjusted are 53084 ('000 US$). 2 - CPI 44.64588
-ROU,Romania,8,8,296,221,221,75,75,,,,,,,,,,,,,Pomonis et al. 1990: https://www.istructe.org/IStructE/media/Public/Resources/report-eefit-vrancea-romania-20190812.pdf,1- Injuries light and severe are reported in the document as lighltly and seriously injured. Respectively-

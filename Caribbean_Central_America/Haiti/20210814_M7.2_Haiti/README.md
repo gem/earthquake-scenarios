@@ -1,31 +1,45 @@
 # 🌎 2021 M7.2 Haiti earthquake
 [[_TOC_]]
 
-# 📂 The repository  
+# 📂 The repository
 
-This repository hosts detailed information about the 2021 M7.2 Haiti earthquake in Haiti.
+This repository hosts detailed information about the 2011 M6.9 Sikkim earthquake in India.
 
 Available information in the folders:
 
-- Impact
-- Recording stations
-- Ruptrues
-- OpenQuake_gmfs 
+1. Impact
+2. Ruptures
+3. Recording stations
+4. OpenQuake_gmfs
 
 
 # 🚀 The earthquake at a glance 
 
-At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula in the Caribbean nation of Haiti. It had a 10-kilometre-deep (6.2 mi) hypocenter near Petit-Trou-de-Nippes, approximately 150 kilometres (93 mi) west of the capital, Port-au-Prince. Tsunami warnings were briefly issued for the Haitian coast. At least 2,248 people were confirmed killed as of 1 September 2021 and more than 12,200 injured, mostly in the Sud Department. An estimated 650,000 people were in need of assistance. At least 137,500 buildings were damaged or destroyed.It is the deadliest earthquake and deadliest natural disaster of 2021. It is also the worst disaster to strike Haiti since the 2010 earthquake. UNICEF estimates more than half a million children were affected. The Haitian Civil Protection General Directorate (DGPC) warned of a possible large humanitarian crisis resulting from the earthquake. USAID provided US $32 million in foreign aid to Haiti for reconstruction efforts following the devastating earthquake. This earthquake had the most casualties of any disaster since the 2018 Sulawesi earthquake. The economic loss from this earthquake is estimated at over 1.5 billion US dollars, nearly 10% of the country's gross domestic product.
-[Wikipedia](https://en.wikipedia.org/wiki/2021_Haiti_earthquake)
+The `2021 Haiti earthquake` struck on 14 August 2021, at 08:29 local time, with a magnitude of 7.2 on the Tiburon Peninsula in the Caribbean nation of Haiti. This powerful seismic event had a moment magnitude of 7.2 and reached a maximum intensity of VIII on the Modified Mercalli Intensity (MMI) scale. The epicenter was located near Petit-Trou-de-Nippes, approximately 150 kilometers (93 miles) west of the capital, Port-au-Prince. The earthquake primarily devastated the southwestern regions of Haiti, including the cities of Les Cayes, Jérémie, and their surrounding areas. This catastrophe resulted in over 2500 fatalities and left more than 12500 injured. Economic losses were estimated at $1600 million USD, with extensive destruction to buildings, infrastructure, and homes. In the aftermath, widespread landslides and instances of liquefaction were reported in the affected zones. Although no significant tsunamis were recorded, aftershocks exacerbated the difficulties faced by the impacted communities. While some fires were reported, their impact was minor compared to the widespread landslides and severe ground shaking.
 
+| FIELD | DESCRIPTION |
+|:-------|:-------------|
+| Year | 2021 |
+| Country | Haiti |
+| Region | Caribbean Central America |
+| Event Name | Haiti |
+| Local Date | 14/08/2021 |
+| Local Time | 08:29:08 |
+| Latitude (decimal degrees) | 18.4335 |
+| Longitude (decimal degrees) | -73.4822 |
+| Depth (km) | 10 |
+| Mw | 7.2 |
+| Max Intensity (MMI) | VIII |
+| Fault mechanism | Oblique-reverse |
+| Tectonic region type | Active Shallow Crust |
+| USGS event ID | us6000f65h |
 
+## Estimated and observed ground shaking
 
-## Ground shaking
+The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-The estimation of the ground shaking has The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) stores the required input files to generate the ground motion fields considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, when available. The figures below present an example of the results, showing the median ground motion fields with and without conditioning the ground shaking for the rupture and ground motion model that indicates the lowest nominal bias.
-
-<img src="./OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
@@ -33,35 +47,15 @@ The information collected for the consequences of the event and the correspondin
 
 A summary of the main consequences of the event is available in the [earthquake_information.csv](./earthquake_information.csv) file:
 
-| FIELD                | DESCRIPTION                                                            |
-|:---------------------|:-----------------------------------------------------------------------|
-| Year                 | 2021                                                                   |
-| Country              | Haiti                                                                  |
-| Region               | Nippes                                                                 |
-| Event_Name           | Haiti                                                                  |
-| Local_Date           | 14/08/2021                                                             |
-| Local_Time           | 08:29:08                                                               |
-| Longitude            | -73.4822                                                               |
-| Latitude             | 18.4335                                                                |
-| Depth_(km)           | 10                                                                     |
-| Mw                   | 7.2                                                                    |
-| Max_Intensity_(MMI)  | VIII                                                                   |
-| Fault_mechanism      | Oblique-reverse                                                        |
-| Tectonic_region_type | Active Shallow Crust                                                   |
-| Fatalities           | 2529-2577                                                              |
-| Injured              | 12500-12763                                                            |
-| Displaced_Population | 220000                                                                 |
-| Affected_Population  | 702763-800000                                                          |
-| Affected_Units       | nan                                                                    |
-| Damaged_Units        | 137000-137585                                                          |
-| Collapsed_Units      | 53815-115000                                                           |
-| Economic_Losses      | 1.60 M USD                                                             |
-| Insured_Losses       | nan                                                                    |
-| Induced_Effects      | nan                                                                    |
-| USGS page            | https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h/executive |
-| Wikipedia page       | https://en.wikipedia.org/wiki/2021_Haiti_earthquake                    |
-
-
-# 🌟 Contributors 
-
-We would like to acknowledge the many contributors to the Earthquake Consequence Database.
+| Attribute | Value |
+|:-------|:-------------|
+| Fatalities | 2529-2577 |
+| Injured | 12500-12763 |
+| Displaced population | ~220000 |
+| Affected population | 702763-800000 |
+| Affected units | nan |
+| Damaged units | 137000-137585 |
+| Collapsed units | 53815-115000 |
+| Economic losses | 1600 M USD |
+| Insured losses | nan |
+| Earthquake-triggered effects | Landslides |
