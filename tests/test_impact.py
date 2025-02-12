@@ -34,7 +34,7 @@ db.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
 db.loc[sequence != '','Sequence'] = True
 
 # Find all individual files with recording stations
-files = glob.glob(os.path.join('**', '1.Impact', 'Impact_*.csv'),
+files = glob.glob(os.path.join('**', '1_Impact', 'Impact_*.csv'),
                      recursive=True)
 
 # Ignore folders marked as DRAFT
@@ -53,7 +53,7 @@ if  ignore:
     
 @pytest.mark.parametrize('event', db.Event_Path)
 def test_impact_exist(event):
-    eq_info = glob.glob(os.path.join(event, '1.Impact', 'Impact_All_ID_0.csv'))
+    eq_info = glob.glob(os.path.join(event, '1_Impact', 'Impact_All_ID_0.csv'))
     sequence = db.loc[db.Event_Path == event, 'Sequence'].item()
 
     error_msg = "The file `Impact_All_ID_0.csv` is required"

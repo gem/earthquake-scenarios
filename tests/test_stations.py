@@ -33,7 +33,7 @@ sequence = df.Event_Path.str.split(os.sep, expand=True)[3]
 df.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
 
 # Find all individual files with recording stations
-files = glob.glob(os.path.join('**', '3.Recording_Stations', 'Stations_*.csv'),
+files = glob.glob(os.path.join('**', '3_Recording_Stations', 'Stations_*.csv'),
                      recursive=True)
 
 # Ignore folders marked as DRAFT
@@ -52,7 +52,7 @@ if  ignore:
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_stations_files_exist(event):
-    station_path = os.path.join(event, "3.Recording_Stations")
+    station_path = os.path.join(event, "3_Recording_Stations")
     
     if event.find('_Sequence_') == -1:
         # Check USGS files exist
@@ -191,7 +191,7 @@ def test_stations_contents(file_path):
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_readme_content(event):
     if event.find('_Sequence_') == -1:
-        file_path = glob.glob(os.path.join(event, '3.Recording_Stations', 'README.md'))
+        file_path = glob.glob(os.path.join(event, '3_Recording_Stations', 'README.md'))
         
         error_msg = "Required `README.md` file does not exist"
         assert len(file_path) > 0, error_msg

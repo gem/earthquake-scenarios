@@ -87,10 +87,10 @@ def test_readme_file_exists(event):
     
 # Check for required folders
 required_subfolders = [
-    os.path.join("1.Impact"),
-    os.path.join("2.Rupture"),
-    os.path.join("3.Recording_Stations"),
-    os.path.join("4.OpenQuake_gmfs"),
+    os.path.join("1_Impact"),
+    os.path.join("2_Rupture"),
+    os.path.join("3_Recording_Stations"),
+    os.path.join("4_OpenQuake_gmfs"),
 ]
 @pytest.mark.parametrize('subfolder', required_subfolders)
 @pytest.mark.parametrize('event', df.Event_Path)

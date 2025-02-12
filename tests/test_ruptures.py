@@ -51,7 +51,7 @@ if ignore:
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_rupture_files_exist(event):        
-    ruptures = glob.glob(os.path.join(event, "2.Rupture", 
+    ruptures = glob.glob(os.path.join(event, "2_Rupture", 
                                       'earthquake_rupture_model_*.xml'))
     error_msg = "At least one `earthquake_rupture_model_*.xml` required"
     if event.find('_Sequence_') == -1:
@@ -82,7 +82,7 @@ def get_rupture(filename):
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_rupture_info(event):
-    ruptures = glob.glob(os.path.join(event, "2.Rupture", 
+    ruptures = glob.glob(os.path.join(event, "2_Rupture", 
                                       'earthquake_rupture_model_*.xml'))
     
     if len(ruptures) > 0:
@@ -211,7 +211,7 @@ def test_rupture_info(event):
 
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_readme_content(event):
-    file_path = glob.glob(os.path.join(event, '2.Rupture', 'README.md'))
+    file_path = glob.glob(os.path.join(event, '2_Rupture', 'README.md'))
     
     if event.find('_Sequence_') == -1:
         # Check that README exists
