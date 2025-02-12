@@ -71,10 +71,10 @@ def test_format(event):
     assert len(df.columns) == 1, 'earthquake_information.csv must have only 2 columns `FIELD` and `DESCRIPTION`'
 
     # Check no empty values in columns:
-    no_empty = ['Year', 'Country', 'Region', 'Event_Name', 'Local_Date',
-            'Local_Time', 'Latitude', 'Longitude', 'Depth_(km)', 'Mw',
-            'Max_Intensity_(MMI)', 'Fault_mechanism', 'Tectonic_region_type',
-            'USGS page', 'Wikipedia page']
+    no_empty = ['Year', 'Country', 'Region', 'Event Name', 'Local Date',
+            'Local Time', 'Latitude (decimal degrees)', 'Longitude (decimal degrees)', 'Depth (km)', 'Mw',
+            'Max Intensity (MMI)', 'Fault mechanism', 'Tectonic region type',
+            'USGS event ID', 'Wikipedia page']
     empty = df.loc[no_empty, 'DESCRIPTION'].isna()
     error_msg = "The earthquake summary mandatory columns have empty values"
     assert empty.any() == False, error_msg
@@ -85,14 +85,14 @@ def test_format(event):
     assert year > 1900 and year < 2024, error_msg
 
     # Check date format
-    date = df.loc['Local_Date', 'DESCRIPTION']
+    date = df.loc['Local Date', 'DESCRIPTION']
     day, month, year = date.split('/')
     error_msg = f"{date} substring does not satisfy date format: DD/MM/YYYY"
     assert (len(date) == 10 and int(day) <= 31 and int(month) <= 12 and 
             int(year) > 1900 and int(year) < 2024), error_msg
 
     # Check time format
-    time = df.loc['Local_Time', 'DESCRIPTION']
+    time = df.loc['Local Time', 'DESCRIPTION']
     hh, mm, ss = time.split(':')
     error_msg = f"{time} substring does not satisfy date format: HH:MM:SS"
     assert (len(time) == 8 and len(hh) == 2 
@@ -100,20 +100,23 @@ def test_format(event):
     assert (int(hh) <= 59 and int(mm) <= 59 and int(ss) <= 59), error_msg
 
     # Check coordinates
-    coords = df.loc[[ 'Longitude', 'Latitude'], 'DESCRIPTION']
-    lon = abs(float(coords.Longitude)) < 180
-    lat = abs(float(coords.Latitude)) < 90
-    error_msg = "Coordinates out of rages"
+    # Check coordinates
+    coords = df.loc[['Longitude (decimal degrees)', 'Latitude (decimal degrees)'], 'DESCRIPTION']
+    lon = abs(float(coords['Longitude (decimal degrees)'])) < 180
+    lat = abs(float(coords['Latitude (decimal degrees)'])) < 90
+    error_msg = "Coordinates out of range"
     assert (lon and lat), error_msg
+
+
 
     # CHECKS FOR IMPACT DATA
     # Ignore this check for events within a sequence (not the main event)
     if not sequence: 
 
        # Check no empty values in columns:
-        csq = ['Fatalities', 'Injured', 'Displaced_Population', 
-            'Affected_Population', 'Affected_Units', 'Damaged_Units', 
-            'Collapsed_Units', 'Economic_Losses', 'Insured_Losses']
+        csq = ['Fatalities', 'Injured', 'Displaced population', 
+            'Affected population', 'Affected units', 'Damaged units', 
+            'Collapsed units', 'Economic losses', 'Insured losses']
         empty = df.loc[csq, 'DESCRIPTION'].isna()
         error_msg = "At least one consequence value is required"
         assert empty.all() == False, f'sequence, {error_msg}'
@@ -126,7 +129,7 @@ def test_format(event):
         # assert units.any() == False, error_msg    
 
         # Check economic impact is reported in Million:
-        eco = df.loc[['Economic_Losses', 'Insured_Losses']]
+        eco = df.loc[['Economic losses', 'Insured losses']]
         eco.DESCRIPTION.fillna('', inplace=True)
         for value in eco.DESCRIPTION:
             if value != '':

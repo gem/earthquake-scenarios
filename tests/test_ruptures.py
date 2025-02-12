@@ -51,7 +51,7 @@ if ignore:
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_rupture_files_exist(event):        
-    ruptures = glob.glob(os.path.join(event, "Rupture", 
+    ruptures = glob.glob(os.path.join(event, "2.Rupture", 
                                       'earthquake_rupture_model_*.xml'))
     error_msg = "At least one `earthquake_rupture_model_*.xml` required"
     if event.find('_Sequence_') == -1:
@@ -82,7 +82,7 @@ def get_rupture(filename):
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_rupture_info(event):
-    ruptures = glob.glob(os.path.join(event, "Rupture", 
+    ruptures = glob.glob(os.path.join(event, "2.Rupture", 
                                       'earthquake_rupture_model_*.xml'))
     
     if len(ruptures) > 0:
@@ -211,19 +211,29 @@ def test_rupture_info(event):
 
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_readme_content(event):
-    file_path = glob.glob(os.path.join(event, 'Rupture', 'README.md'))
+    file_path = glob.glob(os.path.join(event, '2.Rupture', 'README.md'))
     
     if event.find('_Sequence_') == -1:
-        # Check that README exist
+        # Check that README exists
         error_msg = "Missing README file"
         assert len(file_path) == 1, error_msg
         
-        # Read readme content
-        readme = open(file_path[0], 'r')
-        content = readme.read()
-        readme.close    
-        
-        # Check that image with ruptures exist
+        # Attempt to open the README file with UTF-8 encoding first
+        try:
+            with open(file_path[0], 'r', encoding='utf-8') as readme:
+                content = readme.read()
+        except UnicodeDecodeError:
+            # If UTF-8 fails, try reading with 'latin-1' encoding
+            with open(file_path[0], 'r', encoding='latin-1') as readme:
+                content = readme.read()
+        except FileNotFoundError:
+            # Handle file not found error
+            raise Exception(f"README file {file_path[0]} not found.")
+        except Exception as e:
+            # Handle any other unforeseen errors
+            raise Exception(f"An error occurred while reading {file_path[0]}: {str(e)}")
+
+        # Check that image with ruptures exists
         txt = '[](earthquake_ruptures.png)'
         error_msg = "`earthquake_ruptures.png` not included in README"
         assert content.find(txt) != -1, error_msg
@@ -233,7 +243,7 @@ def test_readme_content(event):
         error_msg = "References not included in README"
         assert content.find(txt) != -1, error_msg
         
-        # Check that table with rupture details exist
+        # Check that table with rupture details exists
         txt = '## Rupture details\n' 
         error_msg = 'Missing `Rupture details` in README'
         assert content.find(txt) != -1, error_msg

@@ -33,7 +33,7 @@ sequence = df.Event_Path.str.split(os.sep, expand=True)[3]
 df.loc[sequence != '', 'Event_Folder'] = sequence[sequence != '']
 
 # Find all individual files with recording stations
-files = glob.glob(os.path.join('**', 'Recording_Stations', 'Stations_*.csv'),
+files = glob.glob(os.path.join('**', '3.Recording_Stations', 'Stations_*.csv'),
                      recursive=True)
 
 # Ignore folders marked as DRAFT
@@ -52,7 +52,7 @@ if  ignore:
     
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_stations_files_exist(event):
-    station_path = os.path.join(event, "Recording_Stations")
+    station_path = os.path.join(event, "3.Recording_Stations")
     
     if event.find('_Sequence_') == -1:
         # Check USGS files exist
@@ -191,15 +191,19 @@ def test_stations_contents(file_path):
 @pytest.mark.parametrize('event', df.Event_Path)
 def test_readme_content(event):
     if event.find('_Sequence_') == -1:
-        file_path = glob.glob(os.path.join(event, 'Recording_Stations', 
-                                       'README.md'))
+        file_path = glob.glob(os.path.join(event, '3.Recording_Stations', 'README.md'))
         
         error_msg = "Required `README.md` file does not exist"
         assert len(file_path) > 0, error_msg
         
-        readme = open(file_path[0], 'r')
-        content = readme.read()
-        readme.close    
+        # Open the README with a specified encoding to handle non-ASCII characters
+        try:
+            with open(file_path[0], 'r', encoding='utf-8') as readme:
+                content = readme.read()
+        except UnicodeDecodeError:
+            # Fallback to another encoding if utf-8 fails
+            with open(file_path[0], 'r', encoding='latin-1') as readme:
+                content = readme.read()
         
         txt = '[](recording_stations.png)' 
         error_msg = "`recording_stations.png` not included in README"
@@ -208,3 +212,4 @@ def test_readme_content(event):
         txt = '## Reference datasets' 
         error_msg = "References not included in README"
         assert content.find(txt) != -1, error_msg
+
