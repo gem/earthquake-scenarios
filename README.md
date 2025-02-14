@@ -99,20 +99,20 @@ The following events are available, with a global summary of impact data availab
 |   5 | Africa                    | Morocco     |   2004 | [AlHoceima 2004](./Africa/Morocco/20040224_M6.3_AlHoceima)                           | 6.3  |        12.2  | IX                           |
 |   6 | Africa                    | Morocco     |   2023 | [MarrakeshSafi 2023](./Africa/Morocco/20230908_M6.8_MarrakeshSafi)                   | 6.8  |        19    | VIII                         |
 |   7 | Africa                    | Tanzania    |   2016 | [Bukoba 2016](./Africa/Tanzania/20160910_M5.9_Bukoba)                                | 5.9  |        40    | VII                          |
-|   8 | Caribbean Central America | Costa Rica  |   1991 | [Limon](./Caribbean Central America/Costa Rica/19910422_M7.6_Limon)                  | 7.6  |        10    | VIII                         |
-|   9 | Caribbean Central America | Costa Rica  |   2009 | [Cinchona](./Caribbean Central America/Costa Rica/20090108_M6.1_Cinchona)            | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
-|  10 | Caribbean Central America | Costa Rica  |   2012 | [Nicoya](./Caribbean Central America/Costa Rica/20120905_M7.6_Nicoya)                | 7.6  |        15.4  | VII                          |
-|  11 | Caribbean Central America | Costa Rica  |   2017 | [Puntarenas 2017](./Caribbean Central America/Costa Rica/20171113_M6.5_Puntarenas)   | 6.5  |        22    | VIII                         |
-|  12 | Caribbean Central America | El Salvador |   2001 | [Subduction 2001](./Caribbean Central America/El Salvador/20010113_M7.7_Subduction)  | 7.7  |        39    | VIII                         |
-|  13 | Caribbean Central America | El Salvador |   2001 | [San Vicente 2001](./Caribbean Central America/El Salvador/20010213_M6.6_SanVicente) | 6.6  |        13    | VIII                         |
-|  14 | Caribbean Central America | Haiti       |   2010 | [Haiti](./Caribbean Central America/Haiti/20100112_M7.0_Haiti)                       | 7    |        13    | IX                           |
-|  15 | Caribbean Central America | Haiti       |   2021 | [Haiti](./Caribbean Central America/Haiti/20210814_M7.2_Haiti)                       | 7.2  |        10    | VIII                         |
-|  16 | East Asia                 | Japan       |   1995 | [Kobe 1995](./East Asia/Japan/19950117_M6.9_Kobe)                                    | 6.9  |        21.9  | IX                           |
-|  17 | East Asia                 | Japan       |   2011 | [Tōhoku 2011](./East Asia/Japan/20110311_M9.1_Tohoku)                                | 9.1  |        29    | VIII                         |
-|  18 | East Asia                 | Japan       |   2016 | [Kumamoto 2016](./East Asia/Japan/20160416_M7.0_Kumamoto)                            | 7    |        10    | IX                           |
-|  19 | East Asia                 | Japan       |   2018 | [Osaka 2018](./East Asia/Japan/20180618_M5.5_Osaka)                                  | 5.5  |        10.3  | VIII                         |
-|  20 | East Asia                 | Japan       |   2018 | [HokkaidoEasternIburi 2018](./East Asia/Japan/20180906_M6.6_HokkaidoEasternIburi)    | 6.6  |        35    | X                            |
-|  21 | East Asia                 | Japan       |   2019 | [Yamagata 2019](./East Asia/Japan/20190618_M6.4_Yamagata)                            | 6.4  |        12    | VII                          |
+|   8 | Caribbean Central America | Costa Rica  |   1991 | [Limon](./Caribbean_Central_America/Costa_Rica/19910422_M7.6_Limon)                  | 7.6  |        10    | VIII                         |
+|   9 | Caribbean Central America | Costa Rica  |   2009 | [Cinchona](./Caribbean_Central_America/Costa_Rica/20090108_M6.1_Cinchona)            | 6.2  |         4.6  | IX in Cinchona e Isla Bonita |
+|  10 | Caribbean Central America | Costa Rica  |   2012 | [Nicoya](./Caribbean_Central_America/Costa_Rica/20120905_M7.6_Nicoya)                | 7.6  |        15.4  | VII                          |
+|  11 | Caribbean Central America | Costa Rica  |   2017 | [Puntarenas 2017](./Caribbean_Central_America/Costa_Rica/20171113_M6.5_Puntarenas)   | 6.5  |        22    | VIII                         |
+|  12 | Caribbean Central America | El Salvador |   2001 | [Subduction 2001](./Caribbean_Central_America/El_Salvador/20010113_M7.7_Subduction)  | 7.7  |        39    | VIII                         |
+|  13 | Caribbean Central America | El Salvador |   2001 | [San Vicente 2001](./Caribbean_Central_America/El_Salvador/20010213_M6.6_SanVicente) | 6.6  |        13    | VIII                         |
+|  14 | Caribbean Central America | Haiti       |   2010 | [Haiti](./Caribbean_Central_America/Haiti/20100112_M7.0_Haiti)                       | 7    |        13    | IX                           |
+|  15 | Caribbean Central America | Haiti       |   2021 | [Haiti](./Caribbean_Central_America/Haiti/20210814_M7.2_Haiti)                       | 7.2  |        10    | VIII                         |
+|  16 | East Asia                 | Japan       |   1995 | [Kobe 1995](./East_Asia/Japan/19950117_M6.9_Kobe)                                    | 6.9  |        21.9  | IX                           |
+|  17 | East Asia                 | Japan       |   2011 | [Tōhoku 2011](./East_Asia/Japan/20110311_M9.1_Tohoku)                                | 9.1  |        29    | VIII                         |
+|  18 | East Asia                 | Japan       |   2016 | [Kumamoto 2016](./East_Asia/Japan/20160416_M7.0_Kumamoto)                            | 7    |        10    | IX                           |
+|  19 | East Asia                 | Japan       |   2018 | [Osaka 2018](./East_Asia/Japan/20180618_M5.5_Osaka)                                  | 5.5  |        10.3  | VIII                         |
+|  20 | East Asia                 | Japan       |   2018 | [HokkaidoEasternIburi 2018](./East_Asia/Japan/20180906_M6.6_HokkaidoEasternIburi)    | 6.6  |        35    | X                            |
+|  21 | East Asia                 | Japan       |   2019 | [Yamagata 2019](./East_Asia/Japan/20190618_M6.4_Yamagata)                            | 6.4  |        12    | VII                          |
 |  22 | Europe                    | Albania     |   2019 | [Durres](./Europe/Albania/20191126_M6.4_Albania)                                     | 6.4  |        22    | VIII                         |
 |  23 | Europe                    | Croatia     |   2020 | [Zagreb 2020](./Europe/Croatia/20200322_M5.1_Zagreb)                                 | 5.3  |        10    | VIII                         |
 |  24 | Europe                    | Croatia     |   2020 | [Petrijna 2020](./Europe/Croatia/20201229_M6.3_Petrijna)                             | 6.4  |        10    | IX                           |
@@ -168,42 +168,42 @@ The following events are available, with a global summary of impact data availab
 |  74 | Europe                    | Turkey      |   2011 | [Van 2011](./Europe/Turkey/20111023_M7.1_Van)                                        | 7.1  |        18    | VIII                         |
 |  75 | Europe                    | Turkey      |   2020 | [AegeanSea 2020](./Europe/Turkey/20201030_M7_AegeanSea)                              | 7    |        21    | VIII                         |
 |  76 | Europe                    | Turkey      |   2023 | [CentralTurkey 2023](./Europe/Turkey/20230206_M7.8_KahramanmarasGaziantep)           | 7.8  |        10    | XII                          |
-|  77 | Middle East               | Iran        |   1978 | [Tabas](./Middle East/Iran/19780916_M7.3_Tabas)                                      | 7.3  |        33    | IX                           |
-|  78 | Middle East               | Iran        |   1990 | [Manjil-Rudbar](./Middle East/Iran/19900620_M7.4_Manjil-Rudbar)                      | 7.4  |        18.5  | IX                           |
-|  79 | Middle East               | Iran        |   1997 | [Golestan](./Middle East/Iran/19970228_M6.1_Golestan)                                | 6.1  |        10    | VIII                         |
-|  80 | Middle East               | Iran        |   1997 | [Qayen](./Middle East/Iran/19970510_M7.2_Qayen)                                      | 7.2  |        10    | IX                           |
-|  81 | Middle East               | Iran        |   2003 | [Bam](./Middle East/Iran/20031226_M6.6_Bam)                                          | 6.6  |        10    | IX                           |
-|  82 | Middle East               | Iran        |   2005 | [Zarand](./Middle East/Iran/20050222_M6.5_Zarand)                                    | 6.5  |        14    | VIII                         |
-|  83 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle East/Iran/20120811_M6.2_Ahar-Varzaghan)                    | 6.2  |        12    | VIII                         |
-|  84 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle East/Iran/20120811_M6.4_Ahar-Varzaghan)                    | 6.4  |        11    | VII                          |
-|  85 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle East/Iran/20120000_Sequence_Ahar-Varzaghan)                | 6.4  |        11    | VII                          |
-|  86 | Middle East               | Iran        |   2017 | [Sarpole-Zahab](./Middle East/Iran/20171112_M7.3_SarpoleZahab)                       | 7.3  |        18.1  | IX                           |
-|  87 | North America             | Mexico      |   1985 | [Mexico Michoacan ](./North America/Mexico/19850919_M8.1_Michoacan)                  | 8.1  |        15    | VII                          |
-|  88 | North America             | Mexico      |   1999 | [Oaxaca 1999](./North America/Mexico/19990930_M7.4_Oaxaca)                           | 7.4  |        39    | VIII                         |
-|  89 | North America             | Mexico      |   2017 | [Puebla 2017](./North America/Mexico/20170919_M7.1_Puebla)                           | 7.1  |        51.2  | VIII                         |
-|  90 | North America             | Mexico      |   2017 | [Chiapas 2017](./North America/Mexico/20170908_M8.2_Chiapas)                         | 8.2  |        45.9  | VII                          |
-|  91 | North America             | Mexico      |   2020 | [Oaxaca 2020](./North America/Mexico/20200623_M7.4_Oaxaca)                           | 7.4  |        22.6  | VIII                         |
-|  92 | North America             | Mexico      |   2021 | [Guerrero 2021](./North America/Mexico/20210907_M7.1_Guerrero)                       | 7.1  |        10    | VIII                         |
+|  77 | Middle East               | Iran        |   1978 | [Tabas](./Middle_East/Iran/19780916_M7.3_Tabas)                                      | 7.3  |        33    | IX                           |
+|  78 | Middle East               | Iran        |   1990 | [Manjil-Rudbar](./Middle_East/Iran/19900620_M7.4_Manjil-Rudbar)                      | 7.4  |        18.5  | IX                           |
+|  79 | Middle East               | Iran        |   1997 | [Golestan](./Middle_East/Iran/19970228_M6.1_Golestan)                                | 6.1  |        10    | VIII                         |
+|  80 | Middle East               | Iran        |   1997 | [Qayen](./Middle_East/Iran/19970510_M7.2_Qayen)                                      | 7.2  |        10    | IX                           |
+|  81 | Middle East               | Iran        |   2003 | [Bam](./Middle_East/Iran/20031226_M6.6_Bam)                                          | 6.6  |        10    | IX                           |
+|  82 | Middle East               | Iran        |   2005 | [Zarand](./Middle_East/Iran/20050222_M6.5_Zarand)                                    | 6.5  |        14    | VIII                         |
+|  83 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle_East/Iran/20120811_M6.2_Ahar-Varzaghan)                    | 6.2  |        12    | VIII                         |
+|  84 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle_East/Iran/20120811_M6.4_Ahar-Varzaghan)                    | 6.4  |        11    | VII                          |
+|  85 | Middle East               | Iran        |   2012 | [Ahar-Varzaghan](./Middle_East/Iran/20120000_Sequence_Ahar-Varzaghan)                | 6.4  |        11    | VII                          |
+|  86 | Middle East               | Iran        |   2017 | [Sarpole-Zahab](./Middle_East/Iran/20171112_M7.3_SarpoleZahab)                       | 7.3  |        18.1  | IX                           |
+|  87 | North America             | Mexico      |   1985 | [Mexico Michoacan ](./North_America/Mexico/19850919_M8.1_Michoacan)                  | 8.1  |        15    | VII                          |
+|  88 | North America             | Mexico      |   1999 | [Oaxaca 1999](./North_America/Mexico/19990930_M7.4_Oaxaca)                           | 7.4  |        39    | VIII                         |
+|  89 | North America             | Mexico      |   2017 | [Puebla 2017](./North_America/Mexico/20170919_M7.1_Puebla)                           | 7.1  |        51.2  | VIII                         |
+|  90 | North America             | Mexico      |   2017 | [Chiapas 2017](./North_America/Mexico/20170908_M8.2_Chiapas)                         | 8.2  |        45.9  | VII                          |
+|  91 | North America             | Mexico      |   2020 | [Oaxaca 2020](./North_America/Mexico/20200623_M7.4_Oaxaca)                           | 7.4  |        22.6  | VIII                         |
+|  92 | North America             | Mexico      |   2021 | [Guerrero 2021](./North_America/Mexico/20210907_M7.1_Guerrero)                       | 7.1  |        10    | VIII                         |
 |  93 | Oceania                   | Australia   |   1989 | [Newcastle](./Oceania/Australia/19891227_M5.4_Newcastle)                             | 5.4  |        10    | VIII                         |
-|  94 | Oceania                   | New Zealand |   2010 | [Canterbury 2010](./Oceania/New Zealand/20100904_M7.0_Canterbury)                    | 7    |        12    | VIII                         |
-|  95 | Oceania                   | New Zealand |   2011 | [Christchurch 2011](./Oceania/New Zealand/20110222_M6.1_Christchurch)                | 6.1  |         5.9  | IX                           |
-|  96 | South America             | Chile       |   1960 | [Valdivia 1960](./South America/Chile/19600522_M9.5_Valdivia)                        | 9.5  |        25    | IX                           |
-|  97 | South America             | Chile       |   2010 | [Maule 2010](./South America/Chile/20100227_M8.8_Maule)                              | 8.8  |        30    | VIII                         |
-|  98 | South America             | Chile       |   2014 | [Iquique 2014](./South America/Chile/20140401_M8.2_Iquique)                          | 8.2  |        38.9  | VIII                         |
-|  99 | South America             | Chile       |   2015 | [Illapel 2015](./South America/Chile/20150916_M8.3_Illapel)                          | 8.3  |        22.44 | VIII                         |
-| 100 | South America             | Colombia    |   1983 | [Popayán 1983 ](./South America/Colombia/19830331_M5.6_Popayan)                      | 5.6  |        15    | VIII                         |
-| 101 | South America             | Colombia    |   1994 | [Cacua 1994](./South America/Colombia/19940606_M6.8_Cauca)                           | 6.8  |        10    | IX                           |
-| 102 | South America             | Colombia    |   1999 | [Armenia 1999](./South America/Colombia/19990125_M6.1_Armenia)                       | 6.1  |        15    | IX                           |
-| 103 | South America             | Colombia    |   2004 | [Pizarro 2004](./South America/Colombia/20041115_M7.2_Pizarro)                       | 7.2  |        15    | VIII                         |
-| 104 | South America             | Colombia    |   2008 | [Quetame 2008](./South America/Colombia/20080524_M5.9_Quetame)                       | 5.9  |        10    | VII                          |
-| 105 | South America             | Colombia    |   2023 | [El Calvario](./South America/Colombia/20230817_M6.1_ElCalvario)                     | 6.1  |        10    | VII                          |
-| 106 | South America             | Ecuador     |   2016 | [Pedernales 2016](./South America/Ecuador/20160416_M7.8_Pedernales)                  | 7.8  |        17    | IX                           |
-| 107 | South America             | Peru        |   2007 | [Pisco 2007](./South America/Peru/20070815_M7.9_Pisco)                               | 7.9  |        40    | VIII                         |
-| 108 | South Asia                | India       |   2011 | [Sikkim 2011](./South Asia/India/20110918_M6.9_Sikkim)                               | 6.9  |        50    | VIII                         |
-| 109 | South Asia                | Nepal       |   2015 | [Gorkha 2015](./South Asia/Nepal/20150425_M7.8_Gorkha)                               | 7.8  |         8.22 | IX                           |
-| 110 | South Asia                | Pakistan    |   2005 | [Kashmir](./South Asia/Pakistan/20051008_M7.6_Kashmir)                               | 7.6  |        26    | IX                           |
-| 111 | Southeast Asia            | Indonesia   |   2006 | [Yogyakarta](./Southeast Asia/Indonesia/20060527_M6.4_Yogyakarta)                    | 6.4  |        12.5  | VIII                         |
-| 112 | Southeast Asia            | Indonesia   |   2009 | [Padang ](./Southeast Asia/Indonesia/20090930_M7.6_Padang)                           | 7.6  |        81    | VIII                         |
+|  94 | Oceania                   | New Zealand |   2010 | [Canterbury 2010](./Oceania/New_Zealand/20100904_M7.0_Canterbury)                    | 7    |        12    | VIII                         |
+|  95 | Oceania                   | New Zealand |   2011 | [Christchurch 2011](./Oceania/New_Zealand/20110222_M6.1_Christchurch)                | 6.1  |         5.9  | IX                           |
+|  96 | South America             | Chile       |   1960 | [Valdivia 1960](./South_America/Chile/19600522_M9.5_Valdivia)                        | 9.5  |        25    | IX                           |
+|  97 | South America             | Chile       |   2010 | [Maule 2010](./South_America/Chile/20100227_M8.8_Maule)                              | 8.8  |        30    | VIII                         |
+|  98 | South America             | Chile       |   2014 | [Iquique 2014](./South_America/Chile/20140401_M8.2_Iquique)                          | 8.2  |        38.9  | VIII                         |
+|  99 | South America             | Chile       |   2015 | [Illapel 2015](./South_America/Chile/20150916_M8.3_Illapel)                          | 8.3  |        22.44 | VIII                         |
+| 100 | South America             | Colombia    |   1983 | [Popayán 1983 ](./South_America/Colombia/19830331_M5.6_Popayan)                      | 5.6  |        15    | VIII                         |
+| 101 | South America             | Colombia    |   1994 | [Cacua 1994](./South_America/Colombia/19940606_M6.8_Cauca)                           | 6.8  |        10    | IX                           |
+| 102 | South America             | Colombia    |   1999 | [Armenia 1999](./South_America/Colombia/19990125_M6.1_Armenia)                       | 6.1  |        15    | IX                           |
+| 103 | South America             | Colombia    |   2004 | [Pizarro 2004](./South_America/Colombia/20041115_M7.2_Pizarro)                       | 7.2  |        15    | VIII                         |
+| 104 | South America             | Colombia    |   2008 | [Quetame 2008](./South_America/Colombia/20080524_M5.9_Quetame)                       | 5.9  |        10    | VII                          |
+| 105 | South America             | Colombia    |   2023 | [El Calvario](./South_America/Colombia/20230817_M6.1_ElCalvario)                     | 6.1  |        10    | VII                          |
+| 106 | South America             | Ecuador     |   2016 | [Pedernales 2016](./South_America/Ecuador/20160416_M7.8_Pedernales)                  | 7.8  |        17    | IX                           |
+| 107 | South America             | Peru        |   2007 | [Pisco 2007](./South_America/Peru/20070815_M7.9_Pisco)                               | 7.9  |        40    | VIII                         |
+| 108 | South Asia                | India       |   2011 | [Sikkim 2011](./South_Asia/India/20110918_M6.9_Sikkim)                               | 6.9  |        50    | VIII                         |
+| 109 | South Asia                | Nepal       |   2015 | [Gorkha 2015](./South_Asia/Nepal/20150425_M7.8_Gorkha)                               | 7.8  |         8.22 | IX                           |
+| 110 | South Asia                | Pakistan    |   2005 | [Kashmir](./South_Asia/Pakistan/20051008_M7.6_Kashmir)                               | 7.6  |        26    | IX                           |
+| 111 | Southeast Asia            | Indonesia   |   2006 | [Yogyakarta](./Southeast_Asia/Indonesia/20060527_M6.4_Yogyakarta)                    | 6.4  |        12.5  | VIII                         |
+| 112 | Southeast Asia            | Indonesia   |   2009 | [Padang ](./Southeast_Asia/Indonesia/20090930_M7.6_Padang)                           | 7.6  |        81    | VIII                         |
 
 </details>
 
@@ -219,6 +219,15 @@ The `main` branch could contain the work-in-progress of the next version of the 
 # 🌟 Contributors
 
 The authors are grateful for the input from dozens of collaborators. 
+
+
+# Citation
+
+Please cite the work as follows:
+Yepes-Estrada, C., Karim Zadeh, Z., Rao, A., Caruso, M., Calderon, A., Silva, V., Paul, N., Hoyos, M.C., Martins, L. (2023). Global Earthquake Impact Database doi:[10.5281/zenodo.8425466](https://doi.org/10.5281/zenodo.8425466)
+
+Repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8425466.svg)](https://doi.org/10.5281/zenodo.8425466)
+
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
