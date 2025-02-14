@@ -17,7 +17,7 @@
 </a>
 </div>
 
-# 🔎 GEM Earthquake Scenario Database
+# 🔎 GEM Earthquake Impact Database (GEID)
 
 The development of probabilistic seismic risk assessment (PSRA) models requires stress-testing 
 the various components of the models, often through the assessment of damage and losses 
