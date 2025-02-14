@@ -220,15 +220,6 @@ The `main` branch could contain the work-in-progress of the next version of the 
 
 The authors are grateful for the input from dozens of collaborators. 
 
-
-# Citation
-
-Please cite the work as follows:
-Yepes-Estrada, C., Karim Zadeh, Z., Rao, A., Caruso, M., Calderon, A., Silva, V., Paul, N., Hoyos, M.C., Martins, L. (2023). Global Earthquake Impact Database doi:[10.5281/zenodo.8425466](https://doi.org/10.5281/zenodo.8425466)
-
-Repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8425466.svg)](https://doi.org/10.5281/zenodo.8425466)
-
-
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
