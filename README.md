@@ -39,18 +39,18 @@ and verification purposes. This database serves as a complement to the
 The former resource has ShakeMaps for a comprehensive catalogue of nearly all 
 near-damaging and damaging events worldwide for the past 120 years and can be used directly 
 for impact assessment within the OpenQuake engine [^4]. The latter provides aggregate losses 
-for each event separated by cause. The ESD builds upon these sources of data by collecting additional 
+for each event separated by cause. The GEID builds upon these sources of data by collecting additional 
 earthquake and impact information, often documented spatially and with greater detail.
 
-> The v2023.0.0 release for the GEM's Earthquake Scenario Database is available! 🥳 🚀
+> The v2023.0.0 release for the Global Earthquake Impact Database (GEID) is available! 🥳 🚀
 
 <div align='left'>
-    <img src="./World/eq_events.png" alt="GEM's ECD events" width="700"/>
+    <img src="./World/eq_events.png" alt="GEM's GEID events" width="700"/>
 </div>
 
 This database is open and aims at being a community effort, that enables users to add new events 
 (see [contributing guidelines](./contribute_guidelines.md)) or to provide additional data to 
-existing entries. We aim to continue expanding the ESD by leveraging on data often collected within 
+existing entries. We aim to continue expanding the GEID by leveraging on data often collected within 
 the scope of GEM projects, as well as data previously collected as part of the 
 [GEM Earthquake Consequences Database](https://www.globalquakemodel.org/gempublications/Introduction-to-the-GEM-Earthquake-Consequences-Database-(GEMECD)).
 
