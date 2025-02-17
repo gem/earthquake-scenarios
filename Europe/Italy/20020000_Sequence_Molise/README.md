@@ -38,8 +38,8 @@ On 31 October 2002, at 11:32 local time, the first of two earthquakes struck the
 
 The folder [OpenQuake_gmfs](./OpenQuake_gmfs/) contains the input files required to generate ground motion fields, considering different rupture solutions and conditioning the ground shaking to the recording stations for the event, where available. The figures below present an example of the results, illustrating the median ground motion fields with and without conditioning. These results are based on the rupture and ground motion model that demonstrates the lowest nominal bias. The maximum recorded Peak Ground Acceleration (PGA) was [insert value here], observed at [insert location here]. If no seismic station data were available for the event, the generated ground motion fields are shown without conditioning to recording stations, as illustrated in the figures.
 
-<img src="./20021031_M5.74_Molise/4.OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
-<img src="./20021031_M5.74_Molise/4.OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
+<img src="./20021031_M5.74_Molise/4_OpenQuake_gmfs/median_gmf_stations_none.png" height="250">
+<img src="./20021031_M5.74_Molise/4_OpenQuake_gmfs/median_gmf_stations_seismic.png" height="250">
 
 ## ☄️ Consequences
 
