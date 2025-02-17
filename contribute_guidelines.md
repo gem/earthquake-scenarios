@@ -1,4 +1,4 @@
-# 🤓 CONTRIBUTE TO THE EARTHQUAKE SCENARIOS DATABASE
+# 🤓 CONTRIBUTE TO THE Global Earthquake Impact Database 
 
 You can contribute by improving the information available for a given event(s), or you can include a new one.
 
@@ -274,6 +274,6 @@ This value is only reported when the source of reference explicitly indicates "d
 - If there is information regarding the source of the loss, e.g. direct loss, indirect, etc, report it in different columns.
 
 ## 5. Final details
-- Update ECD database, figure and home README using the notebook `6_ecd_readme.ipynb`
+- Update this database, figure and home README using the notebook `6_ecd_readme.ipynb`
 - Verify the integrity of all files by running in the terminal ```pytest tests/``` from the home folder
 - Create a `pull request` to include the new event in the `main` branch.

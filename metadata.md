@@ -19,27 +19,27 @@ They include:
 
 - **Region:** Name of the region or areas most affected by the event (it can include multiple countries).
 
-- **Event_Name:**  The name of the event. \*
+- **Event Name:**  The name of the event. \*
 
-- **Local_Date:** Date of occurrence at the location of the even. Format: `DD/MM/YYYY`.
+- **Local Date:** Date of occurrence at the location of the even. Format: `DD/MM/YYYY`.
 
-- **Local_Time:** Local time of occurrence. \* Format: `HH/MM/SS`.
+- **Local Time:** Local time of occurrence. \* Format: `HH/MM/SS`.
 
-- **Latitude:** Latitude of the epicenter. \*
+- **Latitude (decimal degrees):** Latitude of the epicenter. \*
 
-- **Longitude:** Longitude of the epicenter. \*
+- **Longitude (decimal degrees):** Longitude of the epicenter. \*
 
-- **Depth_(km):** Hypocentral depth. \*
+- **Depth (km):** Hypocentral depth. \*
 
 - **Mw:** Moment magnitude. \*
 
-- **Max_Intensity_(MMI):** Modified Mercalli Intensity (MMI). \*
+- **Max Intensity (MMI):** Modified Mercalli Intensity (MMI). \*
 
 - **Fault mechanisim:** Faulting motion that produced the earthquake: strike-slip fault, normal fault, thrust fault (reverse fault).
 
 - **Tectonic region type:** Tectonic features associated to the event. For example, active shallow crust, subduction interface, subduction intraslab, stable continental.
 
-- **USGS page:** Link to the USGS event page.
+- **USGS event ID:** Link to the USGS event page.
 
 - **Wikipedia page:** Link to the Wikipedia event page.
 
@@ -104,7 +104,7 @@ For **injury levels**, report the injury levels as indicated in the source of re
 - **INJURIES_SEVERE:** Number of injured people needing medical aid from physicians to a greater extent as well as requiring medical technology such as x-rays or surgery, such as facial wounds, fractures, burns (third-degree or second-degree), dehydration, or exposure.
 - **INJURIES_CRITICAL:** Number of injured people needing adequate and instantaneous medical aid from physicians to save them and avoid losing their life, such as internal head trauma, brain damage, spinal column injuries, uncontrolled bleeding, punctured organ, and internal organ failures due to crushing.
 
-For **displaced population**, report the details as indicated in the source of reference. In addition, consider the following levels:
+For **DISPLACED_POPULATION**, report the details as indicated in the source of reference. In addition, consider the following levels:
 
 - **HOMELESS:** Number of people who are reported as having been homeless due to heavy damage or destruction of their houses as well. Some of these people may be accommodated in shelters, in hotels/rentals, or with family/friends.
 - **SHELTERED:** Number of people who are reported as having been accommodated by national authorities or other organizations.
